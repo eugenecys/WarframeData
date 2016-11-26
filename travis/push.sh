@@ -9,13 +9,12 @@ setup_git() {
 commit_website_files() {
   git add YAML/*.yaml
   git add JSON/*.json
-  git commit --message "$(git log -1 --pretty=%B)"
+  git commit YAML/*.yaml JSON/*.json --message "$(git log -1 --pretty=%B)"
 }
 
 upload_files() {
-  git remote remove origin
-  git remote add origin https://${GH_TOKEN}@github.com/VoiDGlitch/WarframeData.git > /dev/null 2>&1
-  git push origin HEAD:master
+  git remote set-url origin https://${GH_TOKEN}@github.com/VoiDGlitch/WarframeData.git > /dev/null 2>&1
+  git push
 }
 
 setup_git
