@@ -1,0 +1,341 @@
+{
+  "ArchwingCacheCoordsReward": {
+    "Locations": null
+  },
+  "ArchwingExterminateRewards": {
+    "Locations": [
+      "Mercury, Caduceus, MT_EXTERMINATION, FC_GRINEER, NT_EVENT",
+      "Venus, Montes, MT_EXTERMINATION, FC_CORPUS, NT_MISSION",
+      "Mars, Syrtis, MT_EXTERMINATION, FC_GRINEER, NT_MISSION"
+    ]
+  },
+  "ArchwingMobileDRewards": {
+    "Locations": [
+      "Earth, Erpo, MT_MOBILE_DEFENSE, FC_GRINEER, NT_MISSION",
+      "Neptune, Salacia, MT_MOBILE_DEFENSE, FC_CORPUS, NT_MISSION",
+      "Europa, Gamygyn, MT_MOBILE_DEFENSE, FC_GRINEER, NT_EVENT"
+    ]
+  },
+  "ArchwingSabotageRewards": {
+    "Locations": [
+      "Jupiter, Galilea, MT_SABOTAGE, FC_CORPUS, NT_MISSION"
+    ]
+  },
+  "BossMissionRewards/AtlasRewards": {
+    "Locations": null
+  },
+  "BossMissionRewards/BerserkerRewards": {
+    "Locations": [
+      "Jupiter, Themisto, MT_ASSASSINATION, FC_CORPUS, NT_MISSION"
+    ]
+  },
+  "BossMissionRewards/CowgirlRewards": {
+    "Locations": null
+  },
+  "BossMissionRewards/EmberRewards": {
+    "Locations": [
+      "Saturn, Tethys, MT_ASSASSINATION, FC_GRINEER, NT_MISSION"
+    ]
+  },
+  "BossMissionRewards/ExcaliburRewards": {
+    "Locations": [
+      "Pluto, Hades, MT_ASSASSINATION, FC_CORPUS, NT_MISSION"
+    ]
+  },
+  "BossMissionRewards/FrostRewards": {
+    "Locations": [
+      "Mars, War, MT_ASSASSINATION, FC_GRINEER, NT_MISSION"
+    ]
+  },
+  "BossMissionRewards/HydroidRewards": {
+    "Locations": [
+      "Earth, Oro, MT_ASSASSINATION, FC_GRINEER, NT_MISSION"
+    ]
+  },
+  "BossMissionRewards/LokiRewards": {
+    "Locations": [
+      "Neptune, Psamathe, MT_ASSASSINATION, FC_CORPUS, NT_MISSION"
+    ]
+  },
+  "BossMissionRewards/MagRewards": {
+    "Locations": [
+      "Phobos, Iliad, MT_ASSASSINATION, FC_CORPUS, NT_MISSION"
+    ]
+  },
+  "BossMissionRewards/MiterGremlinsRewards": {
+    "Locations": [
+      "Ceres, Exta, MT_ASSASSINATION, FC_GRINEER, NT_MISSION"
+    ]
+  },
+  "BossMissionRewards/NovaRewards": {
+    "Locations": [
+      "Europa, Naamah, MT_ASSASSINATION, FC_CORPUS, NT_MISSION"
+    ]
+  },
+  "BossMissionRewards/NyxRewards": {
+    "Locations": null
+  },
+  "BossMissionRewards/RhinoRewards": {
+    "Locations": [
+      "Venus, Fossa, MT_ASSASSINATION, FC_CORPUS, NT_MISSION"
+    ]
+  },
+  "BossMissionRewards/SarynRewards": {
+    "Locations": [
+      "Sedna, Merrow, MT_ASSASSINATION, FC_GRINEER, NT_MISSION"
+    ]
+  },
+  "BossMissionRewards/SeerPistolRewards": {
+    "Locations": [
+      "Mercury, Tolstoj, MT_ASSASSINATION, FC_GRINEER, NT_MISSION"
+    ]
+  },
+  "BossMissionRewards/TrinityRewards": {
+    "Locations": [
+      "Ceres, Exta, MT_ASSASSINATION, FC_GRINEER, NT_MISSION"
+    ]
+  },
+  "BossMissionRewards/YinYangRewards": {
+    "Locations": [
+      "Uranus, Titania, MT_ASSASSINATION, FC_GRINEER, NT_MISSION"
+    ]
+  },
+  "CacheRewardsEasy": {
+    "Locations": [
+      "Mercury, Terminus, MT_SABOTAGE, FC_INFESTATION, NT_MISSION",
+      "Mercury, Neruda, MT_SABOTAGE, FC_GRINEER, NT_EVENT",
+      "Venus, Ishtar, MT_SABOTAGE, FC_CORPUS, NT_MISSION",
+      "Mars, Gradivus, MT_SABOTAGE, FC_CORPUS, NT_MISSION"
+    ]
+  },
+  "CacheRewardsHard": {
+    "Locations": [
+      "Uranus, Portia, MT_SABOTAGE, FC_GRINEER, NT_EVENT",
+      "Neptune, Thalassa, MT_SABOTAGE, FC_CORPUS, NT_EVENT",
+      "Neptune, Halimede, MT_SABOTAGE, FC_CORPUS, NT_EVENT",
+      "Pluto, Charon, MT_SABOTAGE, FC_CORPUS, NT_EVENT",
+      "Pluto, Cypress, MT_SABOTAGE, FC_CORPUS, NT_MISSION",
+      "Sedna, Phithale, MT_SABOTAGE, FC_GRINEER, NT_EVENT",
+      "Sedna, Kelpie, MT_SABOTAGE, FC_GRINEER, NT_MISSION",
+      "Kuva Fortress, Dakata, MT_EXTERMINATION, FC_GRINEER, NT_MISSION"
+    ]
+  },
+  "CacheRewardsMedium": {
+    "Locations": [
+      "Jupiter, Adrastea, MT_SABOTAGE, FC_CORPUS, NT_MISSION",
+      "Saturn, Pallene, MT_SABOTAGE, FC_GRINEER, NT_EVENT",
+      "Saturn, Calypso, MT_SABOTAGE, FC_GRINEER, NT_MISSION",
+      "Ceres, Thon, MT_SABOTAGE, FC_GRINEER, NT_MISSION"
+    ]
+  },
+  "CacheRewardsVoid": {
+    "Locations": [
+      "Void, Stribog, MT_SABOTAGE, FC_OROKIN, NT_MISSION",
+      "Void, Marduk, MT_SABOTAGE, FC_OROKIN, NT_MISSION"
+    ]
+  },
+  "CorpusInfestedSabotageRewards": {
+    "Locations": [
+      "Eris, Candiru, MT_HIVE, FC_INFESTATION, NT_EVENT",
+      "Eris, Lepis, MT_HIVE, FC_INFESTATION, NT_EVENT",
+      "Eris, Psoro, MT_HIVE, FC_INFESTATION, NT_EVENT",
+      "Eris, Viver, MT_HIVE, FC_INFESTATION, NT_EVENT",
+      "Eris, Naeglar, MT_HIVE, FC_INFESTATION, NT_MISSION"
+    ]
+  },
+  "ForestSabotageRewards": {
+    "Locations": [
+      "Earth, Cervantes, MT_SABOTAGE, FC_GRINEER, NT_MISSION"
+    ]
+  },
+  "FusionCoreRewards": {
+    "Locations": null
+  },
+  "GolemMissionRewards": {
+    "Locations": null
+  },
+  "HalloweenExtermEventRewards": {
+    "Locations": null
+  },
+  "InfestedIncursionsSurvivalRewards": {
+    "Locations": null
+  },
+  "KelaEventRewardsEasy": {
+    "Locations": [
+      "Sedna, Undine, MT_ARENA, FC_GRINEER, NT_EVENT"
+    ]
+  },
+  "KelaEventRewardsHard": {
+    "Locations": [
+      "Sedna, Vodyanoi, MT_ARENA, FC_GRINEER, NT_MISSION",
+      "Sedna, Yam, MT_ARENA, FC_GRINEER, NT_MISSION"
+    ]
+  },
+  "KelaEventRewardsMedium": {
+    "Locations": [
+      "Sedna, Nakki, MT_ARENA, FC_GRINEER, NT_MISSION"
+    ]
+  },
+  "MirageRewards": {
+    "Locations": null
+  },
+  "NightmareModeRewards": {
+    "Locations": null
+  },
+  "OceanSabotageRewards": {
+    "Locations": [
+      "Uranus, Desdemona, MT_SABOTAGE, FC_GRINEER, NT_MISSION",
+      "Uranus, Prospero, MT_SABOTAGE, FC_GRINEER, NT_EVENT",
+      "Uranus, Setebos, MT_SABOTAGE, FC_GRINEER, NT_EVENT"
+    ]
+  },
+  "OrokinDerelictSabotageRewards": {
+    "Locations": null
+  },
+  "OrokinSabotageEventRewards": {
+    "Locations": [
+      "Ceres, Gate Crash, MT_SABOTAGE, FC_GRINEER, NT_EVENT",
+      "Phobos, Shifting Sands, MT_SABOTAGE, FC_GRINEER, NT_EVENT",
+      "Phobos, Gate Crash, MT_SABOTAGE, FC_GRINEER, NT_EVENT"
+    ]
+  },
+  "PVPMissionRewards/CTFRewards": {
+    "Locations": [
+      "Saturn, Cephalon Capture, MT_PVP, FC_GRINEER, NT_PVP",
+      "Saturn, Cephalon Capture, MT_PVP, FC_GRINEER, NT_PVP",
+      "Saturn, (VARIANT) Cephalon Capture, MT_PVP, FC_GRINEER, NT_PVP",
+      "Saturn, (VARIANT) Cephalon Capture, MT_PVP, FC_GRINEER, NT_PVP",
+      "Neptune, Cephalon Capture, MT_PVP, FC_CORPUS, NT_PVP"
+    ]
+  },
+  "PVPMissionRewards/DMRewards": {
+    "Locations": [
+      "Saturn, Annihilation, MT_PVP, FC_GRINEER, NT_PVP",
+      "Saturn, Annihilation, MT_PVP, FC_GRINEER, NT_PVP",
+      "Saturn, LUNARO ARENA, MT_PVP, FC_GRINEER, NT_PVP",
+      "Saturn, LUNARO ARENA, MT_PVP, FC_GRINEER, NT_PVP",
+      "Saturn, (VARIANT) Annihilation, MT_PVP, FC_GRINEER, NT_PVP",
+      "Saturn, (VARIANT) Annihilation, MT_PVP, FC_GRINEER, NT_PVP"
+    ]
+  },
+  "PVPMissionRewards/TDMRewards": {
+    "Locations": [
+      "Saturn, Team Annihilation, MT_PVP, FC_GRINEER, NT_PVP",
+      "Saturn, Team Annihilation, MT_PVP, FC_GRINEER, NT_PVP",
+      "Saturn, (VARIANT) Team Annihilation, MT_PVP, FC_GRINEER, NT_PVP",
+      "Saturn, (VARIANT) Team Annihilation, MT_PVP, FC_GRINEER, NT_PVP"
+    ]
+  },
+  "ProjectFriendlyFireRewardsBasic": {
+    "Locations": null
+  },
+  "ProjectFriendlyFireRewardsBonus": {
+    "Locations": null
+  },
+  "ProjectNightwatchBonusRewards": {
+    "Locations": null
+  },
+  "ProjectSinisterRewardsBasic": {
+    "Locations": null
+  },
+  "ProjectUndermineBonusRewards": {
+    "Locations": null
+  },
+  "ProjectUndermineRewards": {
+    "Locations": null
+  },
+  "RaidRewards/GolemRaid": {
+    "Locations": null
+  },
+  "RaidRewards/HekRaid": {
+    "Locations": null
+  },
+  "RaidRewards/NightmareHekRaid": {
+    "Locations": null
+  },
+  "RaidRewards/NightmareResourceHekRaid": {
+    "Locations": null
+  },
+  "RescueMissionRewards/RescueMissionRewardsEasy": {
+    "Locations": [
+      "Mercury, Caloris, MT_RESCUE, FC_GRINEER, NT_MISSION",
+      "Venus, Linea, MT_RESCUE, FC_CORPUS, NT_MISSION",
+      "Earth, Pacific, MT_RESCUE, FC_GRINEER, NT_MISSION",
+      "Mars, Martialis, MT_RESCUE, FC_GRINEER, NT_MISSION",
+      "Ceres, Olla, MT_RESCUE, FC_GRINEER, NT_EVENT",
+      "Ceres, Nuovo, MT_RESCUE, FC_GRINEER, NT_MISSION",
+      "Sedna, Jengu, MT_RESCUE, FC_GRINEER, NT_EVENT",
+      "Phobos, Monolith, MT_RESCUE, FC_CORPUS, NT_MISSION"
+    ]
+  },
+  "RescueMissionRewards/RescueMissionRewardsHard": {
+    "Locations": [
+      "Saturn, Anthe, MT_RESCUE, FC_GRINEER, NT_MISSION",
+      "Uranus, Mab, MT_RESCUE, FC_GRINEER, NT_EVENT",
+      "Uranus, Caliban, MT_RESCUE, FC_GRINEER, NT_MISSION",
+      "Neptune, Triton, MT_RESCUE, FC_CORPUS, NT_MISSION",
+      "Pluto, Regna, MT_RESCUE, FC_CORPUS, NT_MISSION",
+      "Eris, Brugia, MT_RESCUE, FC_INFESTATION, NT_MISSION",
+      "Eris, Ranova, MT_RESCUE, FC_INFESTATION, NT_EVENT",
+      "Eris, Sparga, MT_RESCUE, FC_INFESTATION, NT_EVENT",
+      "Sedna, Naga, MT_RESCUE, FC_GRINEER, NT_MISSION",
+      "Lua, Zeipel, MT_RESCUE, FC_CORPUS, NT_MISSION",
+      "Kuva Fortress, Garus, MT_RESCUE, FC_GRINEER, NT_MISSION"
+    ]
+  },
+  "RescueMissionRewards/RescueMissionRewardsMedium": {
+    "Locations": [
+      "Jupiter, Metis, MT_RESCUE, FC_CORPUS, NT_MISSION",
+      "Saturn, Mimas, MT_RESCUE, FC_GRINEER, NT_EVENT",
+      "Saturn, Numa, MT_RESCUE, FC_GRINEER, NT_MISSION",
+      "Sedna, Veles, MT_RESCUE, FC_GRINEER, NT_EVENT",
+      "Europa, Eligor, MT_RESCUE, FC_CORPUS, NT_EVENT",
+      "Europa, Shax, MT_RESCUE, FC_CORPUS, NT_EVENT",
+      "Europa, Orias, MT_RESCUE, FC_CORPUS, NT_MISSION"
+    ]
+  },
+  "RescueMissionRewards/RescueMissionRewardsNightmare": {
+    "Locations": null
+  },
+  "SpyMissionRewards/SpyHighMissionRewards": {
+    "Locations": [
+      "Uranus, Rosalind, MT_INTEL, FC_GRINEER, NT_MISSION",
+      "Neptune, Laomedeia, MT_INTEL, FC_CORPUS, NT_MISSION",
+      "Pluto, Oceanum, MT_INTEL, FC_CORPUS, NT_MISSION",
+      "Eris, Cyath, MT_INTEL, FC_INFESTATION, NT_EVENT",
+      "Eris, Gnathos, MT_INTEL, FC_CORPUS, NT_EVENT",
+      "Sedna, Kappa, MT_INTEL, FC_GRINEER, NT_MISSION",
+      "Sedna, Tikoloshe, MT_INTEL, FC_GRINEER, NT_EVENT",
+      "Kuva Fortress, Pago, MT_INTEL, FC_GRINEER, NT_MISSION"
+    ]
+  },
+  "SpyMissionRewards/SpyLowMissionRewards": {
+    "Locations": [
+      "Mercury, Suisei, MT_INTEL, FC_GRINEER, NT_MISSION",
+      "Venus, Vesper, MT_INTEL, FC_CORPUS, NT_EVENT",
+      "Venus, Unda, MT_INTEL, FC_CORPUS, NT_MISSION",
+      "Earth, Cambria, MT_INTEL, FC_GRINEER, NT_MISSION",
+      "Mars, Arval, MT_INTEL, FC_GRINEER, NT_MISSION",
+      "Ceres, Hapke, MT_INTEL, FC_GRINEER, NT_EVENT",
+      "Phobos, Grildrig, MT_INTEL, FC_GRINEER, NT_EVENT",
+      "Phobos, Shklovsky, MT_INTEL, FC_CORPUS, NT_MISSION"
+    ]
+  },
+  "SpyMissionRewards/SpyMediumMissionRewards": {
+    "Locations": [
+      "Jupiter, Amalthea, MT_INTEL, FC_CORPUS, NT_MISSION",
+      "Saturn, Dione, MT_INTEL, FC_GRINEER, NT_MISSION",
+      "Saturn, Aegaeon, MT_INTEL, FC_GRINEER, NT_EVENT",
+      "Ceres, Bode, MT_INTEL, FC_GRINEER, NT_MISSION",
+      "Europa, Valac, MT_INTEL, FC_CORPUS, NT_MISSION"
+    ]
+  },
+  "SpyMissionRewards/SpyMoonMissionRewards": {
+    "Locations": [
+      "Lua, Pavlov, MT_INTEL, FC_CORPUS, NT_MISSION"
+    ]
+  },
+  "VaultRewards": {
+    "Locations": null
+  }
+}
