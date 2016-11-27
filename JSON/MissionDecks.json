@@ -1570,7 +1570,7 @@
   "SortieRewards": {
     "Locations": null,
     "Rotation A": [
-      "FixedWeigths=True",
+      "FixedWeights=True",
       "1 Rifle Riven Mod, 20%",
       "25 80 ENDO, 25%",
       "50 80 ENDO, 10%",
