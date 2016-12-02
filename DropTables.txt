@@ -878,14 +878,14 @@ DROP_MISC_ITEM (Drop Chance: 7%)
 	Uncommon Resource, COMMON, 100%
 
 DROP_MOD (Drop Chance: 3%)
-	Pistol Gambit, COMMON, 25.29%
-	Metal Fiber, COMMON, 25.29%
+	Pistol Gambit, COMMON, 37.94%
+	Metal Fiber, COMMON, 37.94%
 	Chilling Grasp, UNCOMMON, 11.06%
 	Shotgun Savvy, UNCOMMON, 11.06%
-	Vital Sense, RARE, 0.67%
-	15 ENDO, COMMON, 25.29%
-	Rapid Resilience, RARE, 0.67%
-	80 ENDO, RARE, 0.67%
+	Vital Sense, RARE, 0.5%
+	Guardian Derision, RARE, 0.5%
+	Rapid Resilience, RARE, 0.5%
+	80 ENDO, RARE, 0.5%
 
 DROP_POWERUP (Drop Chance: 25%)
 	25 ENERGY, COMMON, 37.94%
@@ -1722,7 +1722,6 @@ DROP_SIGIL (Drop Chance: 100%)
 
 [GrineerCaptainVorBossAgentDropTable]
  - CAPTAIN VOR (CaptainVorBossAvatar)
- - CAPTAIN VOR (VorTutorialAvatar)
 
 DROP_AMMO (Drop Chance: 70%)
 	20 RIFLE AMMO, COMMON, 25%
@@ -2281,15 +2280,15 @@ DROP_MISC_ITEM (Drop Chance: 7%)
 	Uncommon Resource, COMMON, 100%
 
 DROP_MOD (Drop Chance: 3%)
-	Smite Grineer, UNCOMMON, 4.42%
-	15 ENDO, COMMON, 18.97%
-	Point Strike, COMMON, 18.97%
-	Fast Hands, COMMON, 18.97%
-	Reflex Coil, UNCOMMON, 4.42%
-	North Wind, UNCOMMON, 4.42%
-	Pressure Point, COMMON, 18.97%
-	Atlantis Vulcan, UNCOMMON, 4.42%
-	50 ENDO, UNCOMMON, 4.42%
+	Smite Grineer, UNCOMMON, 3.69%
+	Enduring Affliction, UNCOMMON, 3.69%
+	Point Strike, COMMON, 25.29%
+	Fast Hands, COMMON, 25.29%
+	Reflex Coil, UNCOMMON, 3.69%
+	North Wind, UNCOMMON, 3.69%
+	Pressure Point, COMMON, 25.29%
+	Atlantis Vulcan, UNCOMMON, 3.69%
+	50 ENDO, UNCOMMON, 3.69%
 	80 ENDO, RARE, 2.01%
 
 DROP_POWERUP (Drop Chance: 25%)
@@ -2534,14 +2533,14 @@ DROP_MISC_ITEM (Drop Chance: 7%)
 
 DROP_MOD (Drop Chance: 3%)
 	Smite Grineer, UNCOMMON, 11.06%
-	15 ENDO, COMMON, 15.18%
-	Point Strike, COMMON, 15.18%
-	Fast Hands, COMMON, 15.18%
+	Condition Overload, RARE, 0.67%
+	Point Strike, COMMON, 18.97%
+	Fast Hands, COMMON, 18.97%
 	Reflex Coil, UNCOMMON, 11.06%
-	Ice Spring, RARE, 1.01%
-	Pressure Point, COMMON, 15.18%
-	Shattering Impact, COMMON, 15.18%
-	80 ENDO, RARE, 1.01%
+	Ice Spring, RARE, 0.67%
+	Pressure Point, COMMON, 18.97%
+	Shattering Impact, COMMON, 18.97%
+	80 ENDO, RARE, 0.67%
 
 DROP_POWERUP (Drop Chance: 25%)
 	25 ENERGY, COMMON, 37.94%
@@ -2846,10 +2845,10 @@ DROP_SIGIL (Drop Chance: 100%)
 
 
 [HyenaAgentDropTable]
- - Hyena PB (HyenaGunAvatar)
  - Hyena TH (HyenaElecAvatar)
  - Hyena NG (HyenaFireAvatar)
  - Hyena LN2 (HyenaIceAvatar)
+ - Hyena PB (HyenaGunAvatar)
  - HYENA PACK (MiniRobotAvatar)
 
 DROP_AMMO (Drop Chance: 70%)
@@ -3083,11 +3082,11 @@ DROP_MISC_ITEM (Drop Chance: 7%)
 DROP_MOD (Drop Chance: 3%)
 	Flechette, COMMON, 25.29%
 	Redirection, COMMON, 25.29%
-	Expel Infested, UNCOMMON, 22.11%
+	Expel Infested, UNCOMMON, 11.06%
 	Lasting Sting, COMMON, 25.29%
-	Cleaving Whirlwind, RARE, 0.67%
-	80 ENDO, RARE, 0.67%
-	Adhesive Blast, RARE, 0.67%
+	Cleaving Whirlwind, RARE, 1.01%
+	Relentless Combination, UNCOMMON, 11.06%
+	Adhesive Blast, RARE, 1.01%
 
 DROP_POWERUP (Drop Chance: 25%)
 	25 ENERGY, COMMON, 37.94%
@@ -3109,13 +3108,13 @@ DROP_MISC_ITEM (Drop Chance: 7%)
 	Uncommon Resource, COMMON, 100%
 
 DROP_MOD (Drop Chance: 3%)
-	Quickdraw, COMMON, 25.29%
-	Steel Fiber, COMMON, 25.29%
+	Quickdraw, COMMON, 37.94%
+	Steel Fiber, COMMON, 37.94%
 	Bane of Corpus, UNCOMMON, 7.37%
 	Eagle Eye, UNCOMMON, 7.37%
-	15 ENDO, COMMON, 25.29%
+	Healing Return, RARE, 1.01%
 	50 ENDO, UNCOMMON, 7.37%
-	80 ENDO, RARE, 2.01%
+	80 ENDO, RARE, 1.01%
 
 DROP_POWERUP (Drop Chance: 25%)
 	25 ENERGY, COMMON, 37.94%
@@ -3832,7 +3831,7 @@ DROP_MOD (Drop Chance: 3%)
 	Power Throw, RARE, 2.01%
 	Finishing Touch, UNCOMMON, 5.53%
 	Burning Wasp, UNCOMMON, 5.53%
-	50 ENDO, UNCOMMON, 5.53%
+	Dispatch Overdrive, UNCOMMON, 5.53%
 	Infected Clip, UNCOMMON, 5.53%
 
 DROP_POWERUP (Drop Chance: 25%)

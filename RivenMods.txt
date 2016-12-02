@@ -132,7 +132,7 @@ Available challenges:
    Complications:
       without dying or becoming downed (Weight: 1, Multiplier 1)
 
- - Find [3-4] Rare Syndicate medallions
+ - Find [3-4] Syndicate medallions
    Complication Chance: 25%
    Complications:
       with an active pet present (Weight: 1, Multiplier 1)
@@ -173,7 +173,7 @@ Available challenges:
       without using energy consumables (Weight: 0.15, Multiplier 1)
       in one day (Weight: 1, Multiplier 1)
 
- - Get [3-3] headshots in a single aim glide
+ - Get [3-3] headshot kills in a single aim glide
    Complication Chance: 20%
    Complications:
       with an Extinguished Dragon Key equipped (Weight: 0.25, Multiplier 1)
@@ -646,7 +646,7 @@ Available challenges:
       with an active pet present (Weight: 1, Multiplier 1)
       with an active sentinel present (Weight: 1, Multiplier 1)
 
- - Find [2-5] Rare Syndicate medallions
+ - Find [2-5] Syndicate medallions
    Complication Chance: 50%
    Complications:
       with an active pet present (Weight: 1, Multiplier 1)
@@ -696,7 +696,7 @@ Available challenges:
       without using energy consumables (Weight: 0.15, Multiplier 1)
       in one day (Weight: 1, Multiplier 1)
 
- - Get [3-6] headshots in a single aim glide
+ - Get [3-6] headshot kills in a single aim glide
    Complication Chance: 35%
    Complications:
       with an active pet present (Weight: 1, Multiplier 1)
@@ -1201,7 +1201,7 @@ Available challenges:
       with an active pet present (Weight: 1, Multiplier 1)
       with an active sentinel present (Weight: 1, Multiplier 1)
 
- - Find [2-5] Rare Syndicate medallions
+ - Find [2-5] Syndicate medallions
    Complication Chance: 50%
    Complications:
       with an active pet present (Weight: 1, Multiplier 1)
@@ -1237,7 +1237,7 @@ Available challenges:
       with a Decaying Dragon Key equipped (Weight: 0.25, Multiplier 1)
       with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
 
- - Get [3-6] headshots in a single aim glide
+ - Get [3-6] headshot kills in a single aim glide
    Complication Chance: 35%
    Complications:
       with an active pet present (Weight: 1, Multiplier 1)
@@ -1666,7 +1666,7 @@ Available challenges:
       with an active sentinel present (Weight: 1, Multiplier 1)
       without any primary or secondary weapons equipped (Weight: 1, Multiplier 1)
 
- - Find [2-5] Rare Syndicate medallions
+ - Find [2-5] Syndicate medallions
    Complication Chance: 50%
    Complications:
       with an active pet present (Weight: 1, Multiplier 1)
@@ -1704,7 +1704,7 @@ Available challenges:
       with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
       without any primary or secondary weapons equipped (Weight: 1, Multiplier 1)
 
- - Get [3-6] headshots in a single aim glide
+ - Get [3-6] headshot kills in a single aim glide
    Complication Chance: 35%
    Complications:
       with an active pet present (Weight: 1, Multiplier 1)
@@ -2231,7 +2231,7 @@ Available challenges:
       with an active sentinel present (Weight: 1, Multiplier 1)
       without any primary or secondary weapons equipped (Weight: 1, Multiplier 1)
 
- - Find [2-5] Rare Syndicate medallions
+ - Find [2-5] Syndicate medallions
    Complication Chance: 50%
    Complications:
       with an active pet present (Weight: 1, Multiplier 1)
@@ -2269,7 +2269,7 @@ Available challenges:
       with a Hobbled Dragon Key equipped (Weight: 0.25, Multiplier 1)
       without any primary or secondary weapons equipped (Weight: 1, Multiplier 1)
 
- - Get [3-6] headshots in a single aim glide
+ - Get [3-6] headshot kills in a single aim glide
    Complication Chance: 35%
    Complications:
       with an active pet present (Weight: 1, Multiplier 1)
