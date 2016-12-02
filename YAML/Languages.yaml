@@ -2658,7 +2658,7 @@
   "LEGENDARY"
 
 [/Game/LevelUp]:
-  "RANK UP!"
+  "LEVEL UP!"
 
 [/Game/MagDoor]:
   "<CONTEXT_POWER> OPEN DOOR"
@@ -2934,7 +2934,7 @@
   "SHOTGUN DAMAGE"
 
 [/Game/WEAPON_DAMAGE_IF_VICTIM_PROC_ACTIVE]:
-  "[PH] DAMAGE IF VICTIM HAS PROC"
+  "Melee Damage for each status type affecting the target"
 
 [/Game/WEAPON_ELECTRICITY_DAMAGE]:
   "ELECTRICAL DAMAGE"
@@ -2976,7 +2976,7 @@
   "HEADSHOT MULTIPLIER"
 
 [/Game/WEAPON_HEALTH_ON_HIT_ENEMY_WITH_PROC]:
-  "[PH] HEALED ON HIT PROC'D ENEMY"
+  "Healed when hitting a target affected by status"
 
 [/Game/WEAPON_HEALTH_ON_KILL_CHANCE]:
   "HEALTH RESTORE CHANCE"
@@ -3078,7 +3078,7 @@
   "STATUS DURATION"
 
 [/Game/WEAPON_PROC_TIME_EXTEND_ON_HIT]:
-  "[PH] STATUS DURATION ON HIT"
+  "Status duration on hit"
 
 [/Game/WEAPON_PROJECTILE_BOUNCES]:
   "[PH] MAX BOUNCES"
@@ -6871,7 +6871,7 @@
   "Find |COUNT| caches"
 
 [/Lotus/Language/Challenges/Challenge_RandomizedFindRareMedallions_Description]:
-  "Find |COUNT| Rare Syndicate medallions"
+  "Find |COUNT| Syndicate medallions"
 
 [/Lotus/Language/Challenges/Challenge_RandomizedFinisherKill_Description]:
   "Kill |COUNT| enemies with finishers"
@@ -6880,7 +6880,7 @@
   "Kill |COUNT| enemies with headshots"
 
 [/Lotus/Language/Challenges/Challenge_RandomizedHeadshotGlide_Description]:
-  "Get |COUNT| headshots in a single aim glide"
+  "Get |COUNT| headshot kills in a single aim glide"
 
 [/Lotus/Language/Challenges/Challenge_RandomizedKill_Description]:
   "Kill |COUNT| enemies"
@@ -7304,6 +7304,12 @@
 
 [/Lotus/Language/Challenges/Challenge_TheSwordAlone_Name]:
   "The Sword Alone "
+
+[/Lotus/Language/Challenges/Challenge_TheWarWithin_Description]:
+  "Complete The War Within Quest"
+
+[/Lotus/Language/Challenges/Challenge_TheWarWithin_Name]:
+  "The War Within"
 
 [/Lotus/Language/Challenges/Challenge_ThisIsWhatYouAre_Description]:
   "Fully unlock a focus skill tree"
@@ -18156,7 +18162,7 @@
   "Destroy"
 
 [/Lotus/Language/G1Quests/WarWithinFinalInboxBody]:
-  "On an icy mountaintop a child, cold and scared met an old man, the prisoner of a poison oath. For the child, a frozen death would have been a peaceful end. Instead, they fought on and found a fire within themselves, a way light the path ahead.
+  "On an icy mountaintop a child, cold and scared met an old man, the prisoner of a poison oath. For the child, a frozen death would have been a peaceful end. Instead, they fought on and found a fire within themselves, a way to light the path ahead.
   
   The old man was a traitor. He deserved death, but the child was wise and merciful, and freed him from his burden. With that, the child left the cradle behind and they became more than a Tenno, they became themselves.
   
@@ -18178,6 +18184,9 @@
 
 [/Lotus/Language/G1Quests/WarWithinGiveInboxSubject]:
   "Urgent Situation on Lua"
+
+[/Lotus/Language/G1Quests/WarWithinOverridingSecurity]:
+  "Overriding Security!"
 
 [/Lotus/Language/G1Quests/WarWithinQuestDesc]:
   "A disturbance in the Somatic Link prompts the Lotus to send operatives back to the Tenno Reservoir."
@@ -20421,6 +20430,9 @@
 [/Lotus/Language/Game/GrineerPistol]:
   "SEEKER"
 
+[/Lotus/Language/Game/GrineerQueenBraid]:
+  "BRAID"
+
 [/Lotus/Language/Game/GrineerRegulatorDesc]:
   "Grants nearby Grineer units extra speed and damage"
 
@@ -21783,6 +21795,9 @@
 [/Lotus/Language/Game/OperatorTransferenceTutorialPowerMenu]:
   "TARGET THE STUNNED MAW AND PRESS <POWER_MENU> WITH <ACTIVATE_ABILITY_MENU_4> TO ACTIVATE TRANSFERENCE"
 
+[/Lotus/Language/Game/OperatorTransferenceTutorialPowerModifier]:
+  "TARGET THE STUNNED MAW WITH <POWER_MODIFIER> TO ACTIVATE TRANSFERENCE"
+
 [/Lotus/Language/Game/OperatorWraithTutorial]:
   "HOLD <HOLD_CROUCH> FOR VOID MODE"
 
@@ -22142,6 +22157,9 @@
 
 [/Lotus/Language/Game/PveGreedPlayerTeamName]:
   "TENNO"
+
+[/Lotus/Language/Game/PveTimeLeft]:
+  "TIME LEFT"
 
 [/Lotus/Language/Game/PVP_ClaimedOro]:
   "ORO Annihilated "
@@ -28608,28 +28626,28 @@
   "GLAXION POLAR SKIN"
 
 [/Lotus/Language/Items/CrpIndexTwoArmArmourDesc]:
-  "[PH] Decorative shoulder plates for your Warframe."
+  "This mechanized decorative armor is emblematic of the Corpus design aesthetic."
 
 [/Lotus/Language/Items/CrpIndexTwoArmArmourName]:
-  "[PH] CORPUS INDEX TWO ARM ARMOUR"
+  "QUARO SHOULDER ARMOR "
 
 [/Lotus/Language/Items/CrpIndexTwoArmourBundleDesc]:
-  "[PH] CORPUS INDEX TWO BUNDLE DESCRIPTION"
+  "This set of mechanized decorative armor is emblematic of the Corpus design aesthetic. "
 
 [/Lotus/Language/Items/CrpIndexTwoArmourBundleName]:
-  "[PH] CORPUS INDEX TWO ARMOR BUNDLE"
+  "QUARO ARMOR COLLECTION "
 
 [/Lotus/Language/Items/CrpIndexTwoChestArmourDesc]:
-  "[PH] A decorative breastplate for your Warframe."
+  "This mechanized decorative armor is emblematic of the Corpus design aesthetic."
 
 [/Lotus/Language/Items/CrpIndexTwoChestArmourName]:
-  "[PH] CORPUS INDEX TWO CHEST ARMOUR"
+  "QUARO CHEST ARMOR "
 
 [/Lotus/Language/Items/CrpIndexTwoLegArmourDesc]:
-  "[PH] Decorative leg plates for your Warframe."
+  "This mechanized decorative armor is emblematic of the Corpus design aesthetic."
 
 [/Lotus/Language/Items/CrpIndexTwoLegArmourName]:
-  "[PH] CORPUS INDEX TWO LEG ARMOUR"
+  "QUARO LEG ARMOR "
 
 [/Lotus/Language/Items/CrpShockRifleDesc]:
   "This weapon was designed to assist with the excavation of mineral deposits from large asteroids, but has been adapted for military purposes."
@@ -28695,7 +28713,7 @@
   "Decorative leg plates for your Warframe."
 
 [/Lotus/Language/Items/DaedalusKneePlatesName]:
-  "DAEDALUS KNEE PLATES"
+  "DAEDALUS SPURS"
 
 [/Lotus/Language/Items/DaedalusShoulderPlatesDesc]:
   "Decorative shoulder plates for your Warframe."
@@ -29405,7 +29423,7 @@
   "Decorative spurs for your Warframe."
 
 [/Lotus/Language/Items/EosKneePlatesName]:
-  "EOS KNEE PLATES"
+  "EOS SPURS"
 
 [/Lotus/Language/Items/EosShoulderPlatesDesc]:
   "Decorative shoulder plates for your Warframe."
@@ -30789,7 +30807,7 @@
   "A decorative breastplate for your Warframe."
 
 [/Lotus/Language/Items/GrineerTurbineChestArmorName]:
-  "HARKONAR CHESTGUARD"
+  "HARKONAR CHEST GUARD"
 
 [/Lotus/Language/Items/GrineerTurbineLegArmorDesc]:
   "Decorative leg armor for your Warframe."
@@ -31060,7 +31078,7 @@
   "Decorative leg armor for your Warframe."
 
 [/Lotus/Language/Items/GusokuKneePlatesName]:
-  "EDO KNEE PLATES"
+  "EDO SHIN PLATES"
 
 [/Lotus/Language/Items/GusokuShoulderPlatesDesc]:
   "Decorative shoulder plates for your Warframe."
@@ -31913,7 +31931,7 @@
   "DUAL TOXOCYST"
 
 [/Lotus/Language/Items/InfestedMaskName]:
-  "MANDIBLE MASK"
+  "MANDIBLE SENTINEL MASK"
 
 [/Lotus/Language/Items/InfestedPistolDesc]:
   "A living weapon, the infested Embolist pistol kills its victims with an acidic venomous gas."
@@ -31934,7 +31952,7 @@
   "PHAGE"
 
 [/Lotus/Language/Items/InfestedTailName]:
-  "THORAX TAIL"
+  "THORAX SENTINEL TAIL"
 
 [/Lotus/Language/Items/InfestedTipedoDesc]:
   "An instrument of unrelenting harm."
@@ -31949,7 +31967,7 @@
   "SCOLIAC"
 
 [/Lotus/Language/Items/InfestedWingsName]:
-  "CHRYSALIS WINGS"
+  "CHRYSALIS SENTINEL WINGS"
 
 [/Lotus/Language/Items/InfProximityStarsDesc]:
   "These festering sacs of pus and gas burst violently on impact."
@@ -32093,7 +32111,7 @@
   "JADE"
 
 [/Lotus/Language/Items/JadeDaedalusChestPlateDesc]:
-  "A next generation breastplate for your Warframe."
+  "A next-generation breastplate for your Warframe."
 
 [/Lotus/Language/Items/JadeDaedalusChestPlateName]:
   "JADE DAEDALUS CHEST PLATE"
@@ -32117,19 +32135,19 @@
   "The standard issue helmet for the Nyx Warframe."
 
 [/Lotus/Language/Items/JadeDualHeatSwordsDesc]:
-  "A next generation skin for the Dual Heat Swords."
+  "A next-generation skin for the Dual Heat Swords."
 
 [/Lotus/Language/Items/JadeDualHeatSwordsName]:
   "DUAL HEAT SWORDS JADE SKIN"
 
 [/Lotus/Language/Items/JadeHeatDaggerDesc]:
-  "A next generation skin for the Heat Dagger."
+  "A next-generation skin for the Heat Dagger."
 
 [/Lotus/Language/Items/JadeHeatDaggerName]:
   "HEAT DAGGER JADE SKIN"
 
 [/Lotus/Language/Items/JadeHeatSwordDesc]:
-  "A next generation skin for the Heat Sword."
+  "A next-generation skin for the Heat Sword."
 
 [/Lotus/Language/Items/JadeHeatSwordName]:
   "HEAT SWORD JADE SKIN"
@@ -32208,6 +32226,9 @@
 
 [/Lotus/Language/Items/KatanaName]:
   "NIKANA"
+
+[/Lotus/Language/Items/KatanaNameVariant]:
+  "NIKANA VARIANT"
 
 [/Lotus/Language/Items/KatanasCategoryName]:
   "NIKANAS"
@@ -34080,7 +34101,7 @@
   "Decorative shoulder plates for your Warframe."
 
 [/Lotus/Language/Items/NextPromoArmArmorName]:
-  "TARGIS PRIME ARM SHOULDER PLATES"
+  "TARGIS PRIME SHOULDER PLATES"
 
 [/Lotus/Language/Items/NextPromoArmorSetDesc]:
   "This highly decorated armor was once worn by the personal guards of an Orokin Emperor."
@@ -34220,7 +34241,7 @@
   "Emerge from the dark smoke of battle as a new vision of the master spy."
 
 [/Lotus/Language/Items/NinjaDeluxeSuitName]:
-  "ASH KOGA SKIN "
+  "ASH KOGA SKIN"
 
 [/Lotus/Language/Items/NinjaNobleAnims]:
   "ASH NOBLE ANIMATION SET"
@@ -34393,13 +34414,13 @@
   "ATTICA OBSIDIAN SKIN"
 
 [/Lotus/Language/Items/ObsidianAzureScarfDesc]:
-  "A next-generation syandana"
+  "A next-generation syandana."
 
 [/Lotus/Language/Items/ObsidianAzureScarfName]:
   "OBSIDIAN AZURA SYANDANA"
 
 [/Lotus/Language/Items/ObsidianExcaliburHelmetBDesc]:
-  "A next-generation helmet for the Excalibur Warframe"
+  "A next-generation helmet for the Excalibur Warframe."
 
 [/Lotus/Language/Items/ObsidianExcaliburHelmetBName]:
   "EXCALIBUR OBSIDIAN AZURA HELMET"
@@ -36170,13 +36191,13 @@
   "SECURA PENTA"
 
 [/Lotus/Language/Items/PSPlusExcalburHelmetDesc]:
-  "A next-generation helmet for Excalibur."
+  "A next-generation helmet for the Excalibur Warframe."
 
 [/Lotus/Language/Items/PSPlusExcalburHelmetName]:
   "EXCALIBUR OBSIDIAN HELMET"
 
 [/Lotus/Language/Items/PSPlusExcaliburDesc]:
-  "A next-generation skin for Excalibur."
+  "A next-generation skin for the Excalibur Warframe."
 
 [/Lotus/Language/Items/PSPlusExcaliburName]:
   "EXCALIBUR OBSIDIAN"
@@ -37201,7 +37222,7 @@
   "STINGER"
 
 [/Lotus/Language/Items/SentinelFishTailName]:
-  "KOI TAIL"
+  "KOI SENTINEL TAIL"
 
 [/Lotus/Language/Items/SentinelGlaiveWeaponDesc]:
   "[PH] Standard weapon for Helios Sentinel, throws glaives"
@@ -37219,7 +37240,7 @@
   "Sentinel will occasionally heal its owner"
 
 [/Lotus/Language/Items/SentinelJetWingsName]:
-  "JET WINGS"
+  "JET SENTINEL WINGS"
 
 [/Lotus/Language/Items/SentinelMaskDesc]:
   "A mask attachment for your sentinel pet."
@@ -37701,24 +37722,6 @@
 
 [/Lotus/Language/Items/SoloAntitoxinName]:
   "VERMILLION ANTITOXIN"
-
-[/Lotus/Language/Items/SolsticeDaedalusChestPlateDesc]:
-  "A festive breastplate for your Warframe."
-
-[/Lotus/Language/Items/SolsticeDaedalusChestPlateName]:
-  "SOLSTICE DAEDALUS CHEST PLATE"
-
-[/Lotus/Language/Items/SolsticeDaedalusKneePlatesDesc]:
-  "Festive leg plates for your Warframe."
-
-[/Lotus/Language/Items/SolsticeDaedalusKneePlatesName]:
-  "SOLSTICE DAEDALUS KNEE PLATES"
-
-[/Lotus/Language/Items/SolsticeDaedalusShoulderPlatesDesc]:
-  "Festive shoulder plates for your Warframe."
-
-[/Lotus/Language/Items/SolsticeDaedalusShoulderPlatesName]:
-  "SOLSTICE DAEDALUS SHOULDER PLATES"
 
 [/Lotus/Language/Items/SomaDualKamasDesc]:
   "Razor sharp battle-hatchets, designed to compliment the Soma."
@@ -38716,7 +38719,7 @@
   "AXI C1 RELIC"
 
 [/Lotus/Language/Items/t4voidprojectionp]:
-  "AXI V5 RELIC"
+  "AXI A2 RELIC"
 
 [/Lotus/Language/Items/t4voidprojectionq]:
   "AXI E1 RELIC"
@@ -38946,6 +38949,9 @@
 
 [/Lotus/Language/Items/TennoShurikenName]:
   "HIKOU"
+
+[/Lotus/Language/Items/TennoShurikenNameVariant]:
+  "HIKOU VARIANT"
 
 [/Lotus/Language/Items/TennoSilentCrossbowDesc]:
   "Quickly fire off a volley of deadly bolts with the Attica repeating crossbow."
@@ -39614,10 +39620,10 @@
   "This item lets you use RHINO's noble animation set with any warframe of your choosing."
 
 [/Lotus/Language/Items/UnlockSandmanAgileDesc]:
-  "This item lets you use Inaros' agile animation set with any warframe of your choosing."
+  "This item lets you use INAROS' agile animation set with any warframe of your choosing."
 
 [/Lotus/Language/Items/UnlockSandmanNobleDesc]:
-  "This item lets you use Inaros' noble animation set with any warframe of your choosing."
+  "This item lets you use INAROS' noble animation set with any warframe of your choosing."
 
 [/Lotus/Language/Items/UnlockTenguAgile]:
   "ZEPHYR's Agile Animations"
@@ -39951,13 +39957,13 @@
   "LEFT PRISMA DAEDALUS KNEE PLATES"
 
 [/Lotus/Language/Items/VTDaedalusLeftShoulderPlatesName]:
-  "LEFT PRISMA DAEDALUS SHOULDERGUARD"
+  "LEFT PRISMA DAEDALUS SHOULDER GUARD"
 
 [/Lotus/Language/Items/VTDaedalusRightKneePlatesName]:
   "RIGHT PRISMA DAEDALUS KNEE PLATES"
 
 [/Lotus/Language/Items/VTDaedalusRightShoulderPlatesName]:
-  "RIGHT PRISMA DAEDALUS SHOULDERGUARD"
+  "RIGHT PRISMA DAEDALUS SHOULDER GUARD"
 
 [/Lotus/Language/Items/VTDaedalusShoulderPlatesDesc]:
   "Decorative shoulder plates for your Warframe."
@@ -40056,7 +40062,7 @@
   "Gild the Redeemer with this intricate bronze skin."
 
 [/Lotus/Language/Items/VTRedeemerSkinName]:
-  "ELIXIS REDEEMER SKIN"
+  "REDEEMER ELIXIS SKIN"
 
 [/Lotus/Language/Items/VulkarPackDesc]:
   "One shot, one kill. Add in credit and affinity boosters to maximize your weekend hunting. This weekend only."
@@ -40559,12 +40565,6 @@
 
 [/Lotus/Language/Items/WyrmPrimeName]:
   "WYRM PRIME"
-
-[/Lotus/Language/Items/XmasCatbrowSkinDesc]:
-  "A festive fur pattern for a Kavat"
-
-[/Lotus/Language/Items/XmasCatbrowSkinName]:
-  "SOLSTICE KAVAT FUR PATTERN"
 
 [/Lotus/Language/Items/XmasGlaxionSkinDesc]:
   "A festive skin for the Glaxion."
@@ -43729,13 +43729,13 @@
 
 [/Lotus/Language/Menu/ArenaGamblingGenericConditions]:
   "Win Victory
-  Collect |NUM| Index Points"
+  Team deposits |NUM| Index Points"
 
 [/Lotus/Language/Menu/ArenaGamblingHint]:
   "<WARNING> MATCH LOSS FORFEITS INVESTMENT AND PROFIT. FAILURE TO COLLECT REQUIRED INDEX POINTS FORFEITS PROFIT ONLY <WARNING>"
 
 [/Lotus/Language/Menu/ArenaGamblingNegModifiers]:
-  "|NUM| Negative Modifiers"
+  "Afflicted with Financial Stress (|NUM|)"
 
 [/Lotus/Language/Menu/ArenaGamblingPayout]:
   "<CREDITS>|PAYOUT| POTENTIAL PROFIT"
@@ -45520,6 +45520,9 @@
 
 [/Lotus/Language/Menu/CraftingComponent_AkbroncoPrimeLink]:
   "AKBRONCO PRIME LINK"
+
+[/Lotus/Language/Menu/CraftingComponent_AklexPrimeLink]:
+  "AKLEX PRIME LINK"
 
 [/Lotus/Language/Menu/CraftingComponent_AkstilettoPrimeBarrel]:
   "AKSTILETTO PRIME BARREL"
@@ -48135,11 +48138,17 @@
 [/Lotus/Language/Menu/GetGeneticSignaturesHowTo]:
   "Kavat Genetic Codes can be collected by scanning wild kavats or by purchasing them from the Market."
 
+[/Lotus/Language/Menu/GhostTowerHardMissionName]:
+  "KUVA FLOOD"
+
+[/Lotus/Language/Menu/GhostTowerKuvaProgress]:
+  "CAPTURED GHOSTS"
+
 [/Lotus/Language/Menu/GhostTowerMissionName]:
   "KUVA SIPHON"
 
 [/Lotus/Language/Menu/GhostTowerProgress]:
-  "KUVA HARVESTED"
+  "BRAIDS DESTROYED"
 
 [/Lotus/Language/Menu/GiftChooseRecipientPartOne]:
   "Who would you like to send this gift to?"
@@ -48499,22 +48508,22 @@
   "HOLD TO CLEAR"
 
 [/Lotus/Language/Menu/HolsterCustomization_HPT_LEFT_FOREARM]:
-  "[PH] LEFT FOREARM"
+  "LEFT FOREARM"
 
 [/Lotus/Language/Menu/HolsterCustomization_HPT_LEFT_THIGH]:
-  "[PH] LEFT THIGH"
+  "LEFT THIGH"
 
 [/Lotus/Language/Menu/HolsterCustomization_HPT_LOWER_TORSO]:
-  "[PH] LOWER TORSO"
+  "LOWER TORSO"
 
 [/Lotus/Language/Menu/HolsterCustomization_HPT_RIGHT_FOREARM]:
-  "[PH] RIGHT FOREARM"
+  "RIGHT FOREARM"
 
 [/Lotus/Language/Menu/HolsterCustomization_HPT_RIGHT_THIGH]:
-  "[PH] RIGHT THIGH"
+  "RIGHT THIGH"
 
 [/Lotus/Language/Menu/HolsterCustomization_HPT_UPPER_TORSO]:
-  "[PH] UPPER TORSO"
+  "UPPER TORSO"
 
 [/Lotus/Language/Menu/HonorOfTheLotus]:
   "HONOR OF THE LOTUS: 50% off your next purchase of Platinum"
@@ -50693,7 +50702,7 @@
   "LEAVE TO FIGHT ANOTHER DAY"
 
 [/Lotus/Language/Menu/MenuRankUp]:
-  "RANK UP!"
+  "RANK UP"
 
 [/Lotus/Language/Menu/MenuRankUpDescription]:
   "TEST YOUR SKILLS TO REACH THE NEXT RANK"
@@ -51461,7 +51470,7 @@
   "Occupying"
 
 [/Lotus/Language/Menu/Omega_MasteryLimitError]:
-  "Your Mastery Rank is not high enough to install |MOD| (rank |RANK| needed)."
+  "Your Mastery Rank is not high enough to install |MOD| (Rank |RANK| Needed)."
 
 [/Lotus/Language/Menu/Omega_NoneOwned]:
   "You don't own any riven mods"
@@ -51737,7 +51746,7 @@
   "SMAA+Temporal (Preview)"
 
 [/Lotus/Language/Menu/Options_Display_Antialiasing_TEMPORAL]:
-  "Temporal (Preview)"
+  "TAA 8X (HIGH)"
 
 [/Lotus/Language/Menu/Options_Display_Apex]:
   "Nvidia PhysX Effects"
@@ -53143,7 +53152,7 @@
   "Spawning in |SECONDS|"
 
 [/Lotus/Language/Menu/PVPTDMAlternativeModeDesc]:
-  "Equipped only with a modified Opticor, face your fellow Tenno in a lethal one hit to kill battle! Mobility normalized and Passives/Abilities disabled."
+  "Battle it out using a loadout with variants of the Hikou and Nikana! Mobility normalized and Passives/Abilities disabled."
 
 [/Lotus/Language/Menu/PVPTDMAlternativeModeName]:
   "VARIANT"
@@ -53848,9 +53857,6 @@
 
 [/Lotus/Language/Menu/ShipDecoEditContents]:
   "<DOJO_SELECTION_EDIT> Edit decoration contents"
-
-[/Lotus/Language/Menu/ShipDecoEditMode]:
-  "Aim at a decoration and press <DOJO_SELECTION_PLACE> to remove, <DOJO_SELECTION_EXIT> to quit"
 
 [/Lotus/Language/Menu/ShipDecoFocused]:
   "<DOJO_SELECTION_PLACE> Move decoration
@@ -55454,7 +55460,7 @@
   "Unable to sync your Warframe<REGISTERED_TM_SMALL> content. Warframe<REGISTERED_TM_SMALL> requires an update on the PlayStation<REGISTERED_TM_SMALL>4 before you can access this account."
 
 [/Lotus/Language/Menu/UnidentifiedModFusion]:
-  "[PH] |CARD_NAME| cannot be fused because it has not yet been identified."
+  "|CARD_NAME| cannot be fused because it has not yet been unveiled."
 
 [/Lotus/Language/Menu/UninstallMod]:
   "UNINSTALL MOD"
@@ -55659,6 +55665,9 @@
 
 [/Lotus/Language/Menu/VoidRewardSelect_RetrievingRewards]:
   "Retrieving rewards from the server..."
+
+[/Lotus/Language/Menu/VoidRewardSelect_RetrievingRewardsConnectionFailed]:
+  "Could not connect to server, retrying..."
 
 [/Lotus/Language/Menu/VoidRewardSelect_Title]:
   "VOID MISSION COMPLETE!"
@@ -56476,7 +56485,7 @@
   "|val|% Accuracy when Aiming"
 
 [/Lotus/Language/Mods/MoreBulletJumpLessEnergy]:
-  "Low Current Leap"
+  "No Current Leap"
 
 [/Lotus/Language/Mods/MoreBulletJumpLessHealthMod]:
   "Adept Surge"
@@ -56506,7 +56515,7 @@
   "Tempered Bound"
 
 [/Lotus/Language/Mods/MoveSpeedOnChannelKill]:
-  "[PH] Move Speed On Channel Kill"
+  "Dispatch Overdrive"
 
 [/Lotus/Language/Mods/NextShotCritChance]:
   "+ CRIT CHANCE"
@@ -56597,6 +56606,9 @@
 
 [/Lotus/Language/Mods/RagdollImmunityModDesc]:
   "Immune to Knockdown for |val|s after being Knocked Down."
+
+[/Lotus/Language/Mods/ReducedImpairDuration]:
+  "Poise"
 
 [/Lotus/Language/Mods/ReduceShieldRechargeDelayWarframe]:
   "Quick Charge"
@@ -56722,16 +56734,16 @@
   "Pain Threshold"
 
 [/Lotus/Language/Mods/WeaponBlockingTauntMod]:
-  "[PH] Blocking Taunt"
+  "Guardian Derision"
 
 [/Lotus/Language/Mods/WeaponBlockingTauntModDescription]:
-  "[PH] When you block enemies around you will attack you instead of our allies"
+  "Blocking taunts enemies within |RANGE| meters to target you instead of allies."
 
 [/Lotus/Language/Mods/WeaponDamageIfVictimProcActive]:
-  "[PH] Damage If Victim Proc Active"
+  "Condition Overload"
 
 [/Lotus/Language/Mods/WeaponHealOnHitEnemyWithProc]:
-  "[PH] Heal On Hit Enemy With Proc"
+  "Healing Return"
 
 [/Lotus/Language/Mods/WeaponMeleeArmorShatterMod]:
   "Shattering Impact"
@@ -56740,10 +56752,10 @@
   "<DT_IMPACT>Impact from melee attacks reduces enemy armor by |val|"
 
 [/Lotus/Language/Mods/WeaponMeleeComboChanceFromDot]:
-  "[PH] Combo Chance From Dot"
+  "Relentless Combination"
 
 [/Lotus/Language/Mods/WeaponProcTimeExtendOnHitMod]:
-  "[PH] Proc Time Extend On Hit"
+  "Enduring Affliction"
 
 [/Lotus/Language/News/Available_Now_Banner]:
   "Now Available for a Limited Time"
@@ -58114,7 +58126,7 @@
   "Cast a shadow of pure menace."
 
 [/Lotus/Language/Primes/PrimeSetThreeChestArmourName]:
-  "ACANTHUS PRIME CHESTPLATE"
+  "ACANTHUS PRIME CHEST PLATE"
 
 [/Lotus/Language/Primes/PrimeSetThreeLegArmourName]:
   "ACANTHUS PRIME LEG GUARD"
@@ -77311,7 +77323,7 @@
   "Roar"
 
 [/Lotus/Language/Suits/RhinoStompAbilityAugment1Desc]:
-  "Rhino Stomp Augment - Iron Skin is replenished by |PERCENT|% for each enemy affected."
+  "Rhino Stomp Augment - Iron Skin health is replenished by |AMOUNT| for each enemy affected."
 
 [/Lotus/Language/Suits/RhinoStompAbilityAugment1Name]:
   "Reinforcing Stomp"
@@ -79572,6 +79584,9 @@
 [/Lotus/Language/Upgrades/MoreEnergy]:
   "Increase Energy by |val|%"
 
+[/Lotus/Language/Upgrades/MoveSpeedOnChannelKillMod]:
+  "|val|% Movement speed"
+
 [/Lotus/Language/Upgrades/NoiseReduction]:
   "Reduce the chance an enemy will hear gunfire by |val|%"
 
@@ -79979,6 +79994,9 @@
 
 [/Lotus/Language/Upgrades/WeaponMeleeChargeRate]:
   "|val|% Heavy Charge Speed"
+
+[/Lotus/Language/Upgrades/WeaponMeleeComboChanceFromSlashDot]:
+  "|val|% combo chance when <DT_SLASH>Slash status deals damage"
 
 [/Lotus/Language/Upgrades/WeaponMeleeCritFireRateBonusDuration]:
   "For |val| Seconds on Critical Hit"
