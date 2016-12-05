@@ -3078,7 +3078,7 @@
   "STATUS DURATION"
 
 [/Game/WEAPON_PROC_TIME_EXTEND_ON_HIT]:
-  "Status duration on hit"
+  "Status Duration on hit"
 
 [/Game/WEAPON_PROJECTILE_BOUNCES]:
   "[PH] MAX BOUNCES"
@@ -48142,7 +48142,7 @@
   "KUVA FLOOD"
 
 [/Lotus/Language/Menu/GhostTowerKuvaProgress]:
-  "CAPTURED GHOSTS"
+  "CAPTURED KUVA"
 
 [/Lotus/Language/Menu/GhostTowerMissionName]:
   "KUVA SIPHON"
@@ -75168,6 +75168,54 @@
 [/Lotus/Language/Subtitles/TheWarWithin/DQueensLairC0410Ordis]:
   "What's this? An Old War beacon? How exciting, Operator. You will want to investigate this… Oh. I'm sorry… did I interrupt?"
 
+[/Lotus/Language/Subtitles/TheWarWithin/DQueensLairC0420Teshin]:
+  "Tenno, this is one fight your Warframe cannot win."
+
+[/Lotus/Language/Subtitles/TheWarWithin/DQueensLairC0430Teshin]:
+  "Remember the mountain. Remember your new strength."
+
+[/Lotus/Language/Subtitles/TheWarWithin/DQueensLairC0440Teshin]:
+  "It's time to show the Queens' what they have awoken within you."
+
+[/Lotus/Language/Subtitles/TheWarWithin/DQueensLairC0450Teshin]:
+  "Their weapons contain Kuva, it protects them from your Warframe but not from your Tenno powers."
+
+[/Lotus/Language/Subtitles/TheWarWithin/DQueensLairC0460Teshin]:
+  "They are protected by the Kuva in their weapons. Find a way to disarm them."
+
+[/Lotus/Language/Subtitles/TheWarWithin/DQueensLairC0470Teshin]:
+  "Tenno, remember the Golden Maw and how you brought it to heel."
+
+[/Lotus/Language/Subtitles/TheWarWithin/DQueensLairC0480Teshin]:
+  "Let the Guardians feel your Pulse from the Void."
+
+[/Lotus/Language/Subtitles/TheWarWithin/DQueensLairC0490Teshin]:
+  "You stunned the Guardian. Dash to strike from within the Void."
+
+[/Lotus/Language/Subtitles/TheWarWithin/DQueensLairC0500Teshin]:
+  "They're vulnerable. Attack."
+
+[/Lotus/Language/Subtitles/TheWarWithin/DQueensLairC0510Teshin]:
+  "The Guardians protect the braids, the braids protect the Queen."
+
+[/Lotus/Language/Subtitles/TheWarWithin/DQueensLairC0520Teshin]:
+  "I can show you no mercy, show me none in return."
+
+[/Lotus/Language/Subtitles/TheWarWithin/DQueensLairC0530Teshin]:
+  "Yes! From the moment I began training you, I have anticipated this moment."
+
+[/Lotus/Language/Subtitles/TheWarWithin/DQueensLairC0540Teshin]:
+  "You must not stop, defeat me."
+
+[/Lotus/Language/Subtitles/TheWarWithin/DQueensLairC0580Teshin]:
+  "You are a child no longer."
+
+[/Lotus/Language/Subtitles/TheWarWithin/DQueensLairC0590Teshin]:
+  "I am beaten."
+
+[/Lotus/Language/Subtitles/TheWarWithin/DQueensLairC0600Teshin]:
+  "I… Cannot go… On…"
+
 [/Lotus/Language/Subtitles/TheWarWithin/DSpecterChase0010Lotus]:
   "Teshin is trying to mask his location from us, but I have pinpointed a suspicious signal for you to investigate. Find him, we need answers."
 
@@ -79268,6 +79316,9 @@
 
 [/Lotus/Language/Upgrades/AvatarPowerRateModDesc]:
   "|val| Power Rate"
+
+[/Lotus/Language/Upgrades/AvatarPowerRatePercentModDesc]:
+  "|val|% Power Rate"
 
 [/Lotus/Language/Upgrades/AvatarProcTimeModDesc]:
   "|val|% Status Duration on Self"
