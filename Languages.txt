@@ -20704,7 +20704,7 @@ Your Battle Cards are ready now... Go!"
 "IDENTIFIED: |ITEM_NAME|"
 
 [/Lotus/Language/Game/ImpairedInjuryName]
-"STAGGERED"
+"IMPAIRED"
 
 [/Lotus/Language/Game/IMPALE_DAMAGE]
 "IMPALE DAMAGE"
@@ -47829,6 +47829,12 @@ Scales with Mastery Rank"
 [/Lotus/Language/Menu/FounderMessageWithNode]
 "FOUNDER OF |REGION|:|NODE|"
 
+[/Lotus/Language/Menu/FounderShort]
+"FOUNDER"
+
+[/Lotus/Language/Menu/FounderWithNodeShort]
+"|REGION|: |NODE|"
+
 [/Lotus/Language/Menu/Foundry_GetRecipesError]
 "Failed to retrieve recipes from the server. You will be returned to the main menu."
 
@@ -52323,6 +52329,21 @@ If your system supports DirectX 11 you can enable it in the launcher."
 
 [/Lotus/Language/Menu/PrimeBucksWithIcon]
 "<PRIME_BUCKS>|PRICE|"
+
+[/Lotus/Language/Menu/Profile_Accolade_DEStaff]
+"DIGITAL EXTREMES"
+
+[/Lotus/Language/Menu/Profile_Accolade_JuniorGOTL]
+"JUNIOR GUIDE OF THE LOTUS"
+
+[/Lotus/Language/Menu/Profile_Accolade_SeniorGOTL]
+"SENIOR GUIDE OF THE LOTUS"
+
+[/Lotus/Language/Menu/Profile_Accolade_Staff]
+"STAFF"
+
+[/Lotus/Language/Menu/Profile_Accolades]
+"ACCOLADES"
 
 [/Lotus/Language/Menu/Profile_AccountRename]
 "CHANGE ALIAS"
@@ -60088,6 +60109,168 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 
 [/Lotus/Language/Seasonal/HalloweenTwinGrakataName]
 "TWIN GRAKATAS DAY OF THE DEAD SKIN"
+
+[/Lotus/Language/Seasonal/KavatColorAccentsSolsticeName]
+"LYNX BLUE"
+
+[/Lotus/Language/Seasonal/KavatColorAccentsXmasName]
+"CLEAVER GREEN"
+
+[/Lotus/Language/Seasonal/KavatColorBaseSolsticeName]
+"BOMBARD WHITE"
+
+[/Lotus/Language/Seasonal/KavatColorBaseXmasName]
+"SANDSTORM BROWN"
+
+[/Lotus/Language/Seasonal/KavatColorPackSolsticeDesc]
+"Customize a Kavat’s fur color with these isolated DNA sequences."
+
+[/Lotus/Language/Seasonal/KavatColorPackSolsticeName]
+"WINTER GENE-MASKING KIT"
+
+[/Lotus/Language/Seasonal/KavatColorPackXmasDesc]
+"Customize a Kavat’s fur color with these isolated DNA sequences."
+
+[/Lotus/Language/Seasonal/KavatColorPackXmasName]
+"ARGYL GENE-MASKING KIT"
+
+[/Lotus/Language/Seasonal/KavatColorSecondarySolsticeName]
+"WUKONG BLUE"
+
+[/Lotus/Language/Seasonal/KavatColorSecondaryXmasName]
+"ATLAS RED"
+
+[/Lotus/Language/Seasonal/KavatColorTertiarySolsticeName]
+"MANIC BLACK"
+
+[/Lotus/Language/Seasonal/KavatColorTertiaryXmasName]
+"ASTEROID BROWN"
+
+[/Lotus/Language/Seasonal/KubrowColorSolsticeMidName]
+"WUKONG BLUE"
+
+[/Lotus/Language/Seasonal/KubrowColorSolsticeMundaneName]
+"BOMBARD WHITE"
+
+[/Lotus/Language/Seasonal/KubrowColorSolsticeVibrantName]
+"MANIC BLACK"
+
+[/Lotus/Language/Seasonal/KubrowPetSolsticeDesc]
+"This tool provides all of the genetic information to mask a Kubrow's innate DNA structure and allows a Tenno to customize its fur coloration."
+
+[/Lotus/Language/Seasonal/KubrowPetSolsticeName]
+"SOLSTICE GENE-MASKING KIT"
+
+[/Lotus/Language/Seasonal/SolsticeBaroCapeDesc]
+"A Ki'Teer Syandana that has been adorned with a festive design."
+
+[/Lotus/Language/Seasonal/SolsticeBaroCapeName]
+"SOLSTICE KI'TEER SYANDANA"
+
+[/Lotus/Language/Seasonal/SolsticeBurstonDesc]
+"A festive skin for the Burston."
+
+[/Lotus/Language/Seasonal/SolsticeBurstonName]
+"BURSTON SOLSTICE SKIN"
+
+[/Lotus/Language/Seasonal/SolsticeCatbrowSkinDesc]
+"A festive fur pattern for a Kavat"
+
+[/Lotus/Language/Seasonal/SolsticeCatbrowSkinName]
+"SOLSTICE KAVAT FUR PATTERN"
+
+[/Lotus/Language/Seasonal/SolsticeDaedalusBundleDesc]
+"A full set of festive Daedalus armor."
+
+[/Lotus/Language/Seasonal/SolsticeDaedalusBundleName]
+"SOLSTICE DAEDALUS ARMOR BUNDLE"
+
+[/Lotus/Language/Seasonal/SolsticeDaedalusChestPlateDesc]
+"A festive breastplate for your Warframe."
+
+[/Lotus/Language/Seasonal/SolsticeDaedalusChestPlateName]
+"SOLSTICE DAEDALUS CHEST PLATE"
+
+[/Lotus/Language/Seasonal/SolsticeDaedalusKneePlatesDesc]
+"Festive leg plates for your Warframe."
+
+[/Lotus/Language/Seasonal/SolsticeDaedalusKneePlatesName]
+"SOLSTICE DAEDALUS KNEE PLATES"
+
+[/Lotus/Language/Seasonal/SolsticeDaedalusShoulderPlatesDesc]
+"Festive shoulder plates for your Warframe."
+
+[/Lotus/Language/Seasonal/SolsticeDaedalusShoulderPlatesName]
+"SOLSTICE DAEDALUS SHOULDER PLATES"
+
+[/Lotus/Language/Seasonal/SolsticeFairySkinDesc]
+"A festive skin for the Titania Warframe."
+
+[/Lotus/Language/Seasonal/SolsticeFairySkinName]
+"TITANIA SOLSTICE SKIN"
+
+[/Lotus/Language/Seasonal/SolsticeGrnBannerCapeDesc]
+"A Vanquished Banner that has been adorned with a festive design."
+
+[/Lotus/Language/Seasonal/SolsticeGrnBannerCapeName]
+"SOLSTICE VANQUISHED BANNER"
+
+[/Lotus/Language/Seasonal/SolsticeHeliocorDesc]
+"A festive skin for the Heliocor."
+
+[/Lotus/Language/Seasonal/SolsticeHeliocorName]
+"HELIOCOR SOLSTICE SKIN"
+
+[/Lotus/Language/Seasonal/SolsticeKubrowSkinDesc]
+"A festive fur pattern for a Kubrow"
+
+[/Lotus/Language/Seasonal/SolsticeKubrowSkinName]
+"SOLSTICE KUBROW FUR PATTERN"
+
+[/Lotus/Language/Seasonal/SolsticeScindoDesc]
+"A festive skin for the Scindo."
+
+[/Lotus/Language/Seasonal/SolsticeScindoName]
+"SCINDO SOLSTICE SKIN"
+
+[/Lotus/Language/Seasonal/Winter2016BundleDesc]
+"A festive collection of Solstice skins for the Titania Warframe, Heliocor, Daedalus Armor, Salix Syandana, a Kavat Gene-Masking Kit and a Kubrow Gene-Masking Kit. Includes a 3-day Affinity and Credit booster."
+
+[/Lotus/Language/Seasonal/Winter2016BundleName]
+"WINTER SOLSTICE SKIN BUNDLE"
+
+[/Lotus/Language/Seasonal/Winter2016GlyphAName]
+"SOLSTICE GLYPH I"
+
+[/Lotus/Language/Seasonal/Winter2016GlyphBName]
+"SOLSTICE GLYPH II"
+
+[/Lotus/Language/Seasonal/Winter2016GlyphCName]
+"SOLSTICE GLYPH III"
+
+[/Lotus/Language/Seasonal/Winter2016GlyphDName]
+"SOLSTICE GLYPH IV"
+
+[/Lotus/Language/Seasonal/WinterGlyphBundleDesc]
+"A collection of festive glyphs."
+
+[/Lotus/Language/Seasonal/WinterGlyphBundleName]
+"SOLSTICE GLYPH PACK"
+
+[/Lotus/Language/Seasonal/WinterGlyphDesc]
+"A festive glyph."
+
+[/Lotus/Language/Seasonal/WinterSolsticeSalixDesc]
+"A Salix Syandana adorned with a festive design."
+
+[/Lotus/Language/Seasonal/WinterSolsticeSalixName]
+"SOLSTICE SALIX"
+
+[/Lotus/Language/Seasonal/XmasCatbrowSkinDesc]
+"A festive fur pattern for a Kavat"
+
+[/Lotus/Language/Seasonal/XmasCatbrowSkinName]
+"ARGYL KAVAT FUR PATTERN"
 
 [/Lotus/Language/SectorWars/ArmTarget]
 "Arm Target"

@@ -1264,55 +1264,55 @@
 
   Name: OROKIN DERELICT CAPTURE
   Id: SolNode706
-  Faction: FC_GRINEER
-  MissionType: MT_ASSASSINATION
+  Faction: FC_INFESTATION
+  MissionType: MT_CAPTURE
   NodeType: NT_MISSION
   ArchwingRequired: No
   IsSharkwing: No
 
   Name: OROKIN DERELICT DEFENSE
   Id: SolNode707
-  Faction: FC_GRINEER
-  MissionType: MT_ASSASSINATION
+  Faction: FC_INFESTATION
+  MissionType: MT_DEFENSE
   NodeType: NT_MISSION
   ArchwingRequired: No
   IsSharkwing: No
 
   Name: OROKIN DERELICT EXTERMINATE
   Id: SolNode708
-  Faction: FC_GRINEER
-  MissionType: MT_ASSASSINATION
+  Faction: FC_INFESTATION
+  MissionType: MT_EXTERMINATION
   NodeType: NT_MISSION
   ArchwingRequired: No
   IsSharkwing: No
 
   Name: OROKIN DERELICT MOBILE DEFENSE
   Id: SolNode709
-  Faction: FC_GRINEER
-  MissionType: MT_ASSASSINATION
+  Faction: FC_INFESTATION
+  MissionType: MT_MOBILE_DEFENSE
   NodeType: NT_MISSION
   ArchwingRequired: No
   IsSharkwing: No
 
   Name: OROKIN DERELICT SABOTAGE
   Id: SolNode710
-  Faction: FC_GRINEER
-  MissionType: MT_ASSASSINATION
+  Faction: FC_INFESTATION
+  MissionType: MT_SABOTAGE
   NodeType: NT_MISSION
   ArchwingRequired: No
   IsSharkwing: No
 
   Name: OROKIN DERELICT SURVIVAL
   Id: SolNode711
-  Faction: FC_GRINEER
-  MissionType: MT_ASSASSINATION
+  Faction: FC_INFESTATION
+  MissionType: MT_SURVIVAL
   NodeType: NT_MISSION
   ArchwingRequired: No
   IsSharkwing: No
 
   Name: OROKIN DERELICT ASSASSINATE
   Id: SolNode712
-  Faction: FC_GRINEER
+  Faction: FC_INFESTATION
   MissionType: MT_ASSASSINATION
   NodeType: NT_MISSION
   ArchwingRequired: No
