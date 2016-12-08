@@ -187,22 +187,20 @@
    - Kuva Fortress, Nabuk, MT_CAPTURE, FC_GRINEER, NT_MISSION
 
   Rotation A:
-   -  1 Vitality, COMMON, 9.48%
-   -  1 Fast Deflection, COMMON, 9.48%
-   -  1 Fast Deflection, COMMON, 9.48%
+   -  1 Vitality, COMMON, 10.84%
+   -  1 Fast Deflection, COMMON, 10.84%
    -  1 Rush, UNCOMMON, 11.06%
-   -  1 Magazine Warp, COMMON, 9.48%
-   -  1 Trick Mag, COMMON, 9.48%
+   -  1 Magazine Warp, COMMON, 10.84%
+   -  1 Trick Mag, COMMON, 10.84%
    -  1 Pressure Point, RARE, 0.13%
    -  1 Ammo Drum, UNCOMMON, 11.06%
-   -  1 Fast Hands, COMMON, 9.48%
-   -  1 Quickdraw, COMMON, 9.48%
-   -  1 HEALTH RESTORE, COMMON, 9.48%
+   -  1 Fast Hands, COMMON, 10.84%
+   -  1 Quickdraw, COMMON, 10.84%
+   -  1 HEALTH RESTORE, COMMON, 10.84%
    -  1 OMNI AMMO BOX, RARE, 0.13%
    -  1 North Wind, RARE, 0.13%
    -  1 Shocking Touch, RARE, 0.13%
    -  1 Molten Impact, RARE, 0.13%
-   -  1 Vitality, RARE, 0.13%
    -  1 Stretch, RARE, 0.13%
    -  1 LITH S4 RELIC, RARE, 0.13%
    -  1 LITH V1 RELIC, RARE, 0.13%
@@ -426,46 +424,50 @@
    - Phobos, Gulliver, MT_DEFENSE, FC_CORPUS, NT_MISSION
 
   Rotation A:
-   -  1 Vitality, COMMON, 10%
-   -  1 Magazine Warp, COMMON, 10%
-   -  1 Trick Mag, COMMON, 10%
-   -  1 Pressure Point, COMMON, 10%
-   -  1 Ammo Drum, COMMON, 10%
-   -  1 LITH K1 RELIC, COMMON, 10%
-   -  1 LITH S4 RELIC, COMMON, 10%
-   -  1 LITH V2 RELIC, COMMON, 10%
-   -  1 LITH V1 RELIC, COMMON, 10%
-   -  1 LITH S4 RELIC, COMMON, 10%
+   -  1 Vitality, COMMON, 8.33%
+   -  1 Magazine Warp, COMMON, 8.33%
+   -  1 Trick Mag, COMMON, 8.33%
+   -  1 Pressure Point, COMMON, 8.33%
+   -  1 Ammo Drum, COMMON, 8.33%
+   -  1 LITH K1 RELIC, COMMON, 8.33%
+   -  1 LITH S4 RELIC, COMMON, 8.33%
+   -  1 LITH V2 RELIC, COMMON, 8.33%
+   -  1 LITH V1 RELIC, COMMON, 8.33%
+   -  1 LITH S4 RELIC, COMMON, 8.33%
+   -  1 LITH G1 RELIC, COMMON, 8.33%
+   -  1 MESO S2 RELIC, COMMON, 8.33%
 
 
   Rotation B:
-   -  1 MESO D1 RELIC, COMMON, 8.33%
-   -  1 MESO F1 RELIC, COMMON, 8.33%
-   -  1 MESO S2 RELIC, COMMON, 8.33%
-   -  1 MESO C2 RELIC, COMMON, 8.33%
-   -  1 MESO V3 RELIC, COMMON, 8.33%
-   -  1 MESO V1 RELIC, COMMON, 8.33%
-   -  1 Reflex Coil, COMMON, 8.33%
-   -  1 Cryo Rounds, COMMON, 8.33%
-   -  1 Hell's Chamber, COMMON, 8.33%
-   -  1 Shocking Touch, COMMON, 8.33%
-   -  1 50 ENDO, COMMON, 8.33%
-   -  1 MESO S3 RELIC, COMMON, 8.33%
+   -  1 MESO D1 RELIC, COMMON, 7.69%
+   -  1 MESO F1 RELIC, COMMON, 7.69%
+   -  1 MESO S2 RELIC, COMMON, 7.69%
+   -  1 MESO C2 RELIC, COMMON, 7.69%
+   -  1 MESO V3 RELIC, COMMON, 7.69%
+   -  1 MESO V1 RELIC, COMMON, 7.69%
+   -  1 MESO F2 RELIC, COMMON, 7.69%
+   -  1 Reflex Coil, COMMON, 7.69%
+   -  1 Cryo Rounds, COMMON, 7.69%
+   -  1 Hell's Chamber, COMMON, 7.69%
+   -  1 Shocking Touch, COMMON, 7.69%
+   -  1 50 ENDO, COMMON, 7.69%
+   -  1 MESO S3 RELIC, COMMON, 7.69%
 
 
   Rotation C:
-   -  1 Metal Auger, UNCOMMON, 8.33%
-   -  1 Ravage, UNCOMMON, 8.33%
-   -  1 MESO C2 RELIC, UNCOMMON, 8.33%
-   -  1 MESO S2 RELIC, UNCOMMON, 8.33%
-   -  1 MESO F1 RELIC, UNCOMMON, 8.33%
-   -  1 MESO D1 RELIC, UNCOMMON, 8.33%
-   -  1 Continuity, UNCOMMON, 8.33%
-   -  1 Master Thief, UNCOMMON, 8.33%
-   -  1 80 ENDO, UNCOMMON, 8.33%
-   -  1 MESO V3 RELIC, UNCOMMON, 8.33%
-   -  1 MESO V1 RELIC, UNCOMMON, 8.33%
-   -  1 MESO S3 RELIC, UNCOMMON, 8.33%
+   -  1 Metal Auger, UNCOMMON, 7.69%
+   -  1 Ravage, UNCOMMON, 7.69%
+   -  1 MESO C2 RELIC, UNCOMMON, 7.69%
+   -  1 MESO S2 RELIC, UNCOMMON, 7.69%
+   -  1 MESO F1 RELIC, UNCOMMON, 7.69%
+   -  1 MESO D1 RELIC, UNCOMMON, 7.69%
+   -  1 Continuity, UNCOMMON, 7.69%
+   -  1 Master Thief, UNCOMMON, 7.69%
+   -  1 80 ENDO, UNCOMMON, 7.69%
+   -  1 MESO V3 RELIC, UNCOMMON, 7.69%
+   -  1 MESO V1 RELIC, UNCOMMON, 7.69%
+   -  1 MESO S3 RELIC, UNCOMMON, 7.69%
+   -  1 MESO F2 RELIC, UNCOMMON, 7.69%
 
 
 [DefenseMissionRewards/DefenseMissionRewardsHard]:
@@ -482,36 +484,38 @@
    - Kuva Fortress, Tamu, MT_DEFENSE, FC_GRINEER, NT_MISSION
 
   Rotation A:
-   -  1 Vitality, COMMON, 11.11%
-   -  1 Magazine Warp, COMMON, 11.11%
-   -  1 Trick Mag, COMMON, 11.11%
-   -  1 NEO V4 RELIC, COMMON, 11.11%
-   -  1 NEO V2 RELIC, COMMON, 11.11%
-   -  1 NEO N4 RELIC, COMMON, 11.11%
-   -  1 NEO N3 RELIC, COMMON, 11.11%
-   -  1 NEO V3 RELIC, COMMON, 11.11%
-   -  1 NEO A1 RELIC, COMMON, 11.11%
+   -  1 Vitality, COMMON, 10%
+   -  1 Magazine Warp, COMMON, 10%
+   -  1 Trick Mag, COMMON, 10%
+   -  1 NEO V4 RELIC, COMMON, 10%
+   -  1 NEO V2 RELIC, COMMON, 10%
+   -  1 NEO N4 RELIC, COMMON, 10%
+   -  1 NEO N3 RELIC, COMMON, 10%
+   -  1 NEO V3 RELIC, COMMON, 10%
+   -  1 NEO A1 RELIC, COMMON, 10%
+   -  1 NEO S5 RELIC, COMMON, 10%
 
 
   Rotation B:
-   -  1 AXI G1 RELIC, COMMON, 5.56%
-   -  1 AXI T1 RELIC, COMMON, 5.56%
-   -  1 AXI V1 RELIC, COMMON, 5.56%
-   -  1 AXI N3 RELIC, COMMON, 5.56%
-   -  1 AXI N1 RELIC, COMMON, 5.56%
-   -  1 AXI N2 RELIC, COMMON, 5.56%
-   -  1 AXI A1 RELIC, COMMON, 5.56%
-   -  1 AXI V4 RELIC, COMMON, 5.56%
-   -  1 Hornet Strike, COMMON, 5.56%
-   -  1 Reflex Coil, COMMON, 5.56%
-   -  1 Deep Freeze, COMMON, 5.56%
-   -  1 North Wind, COMMON, 5.56%
-   -  1 Hell's Chamber, COMMON, 5.56%
-   -  1 Streamline, COMMON, 5.56%
-   -  1 Shocking Touch, COMMON, 5.56%
-   -  1 50 ENDO, COMMON, 5.56%
-   -  1 AXI V5 RELIC, COMMON, 5.56%
-   -  1 AXI C1 RELIC, COMMON, 5.56%
+   -  1 AXI G1 RELIC, COMMON, 5.26%
+   -  1 AXI T1 RELIC, COMMON, 5.26%
+   -  1 AXI V1 RELIC, COMMON, 5.26%
+   -  1 AXI N3 RELIC, COMMON, 5.26%
+   -  1 AXI N1 RELIC, COMMON, 5.26%
+   -  1 AXI N2 RELIC, COMMON, 5.26%
+   -  1 AXI A1 RELIC, COMMON, 5.26%
+   -  1 AXI V4 RELIC, COMMON, 5.26%
+   -  1 AXI E1 RELIC, COMMON, 5.26%
+   -  1 Hornet Strike, COMMON, 5.26%
+   -  1 Reflex Coil, COMMON, 5.26%
+   -  1 Deep Freeze, COMMON, 5.26%
+   -  1 North Wind, COMMON, 5.26%
+   -  1 Hell's Chamber, COMMON, 5.26%
+   -  1 Streamline, COMMON, 5.26%
+   -  1 Shocking Touch, COMMON, 5.26%
+   -  1 50 ENDO, COMMON, 5.26%
+   -  1 AXI V5 RELIC, COMMON, 5.26%
+   -  1 AXI C1 RELIC, COMMON, 5.26%
 
 
   Rotation C:
@@ -525,16 +529,17 @@
    -  1 Continuity, UNCOMMON, 2.26%
    -  1 Master Thief, UNCOMMON, 2.26%
    -  1 80 ENDO, UNCOMMON, 2.26%
-   -  1 AXI G1 RELIC, COMMON, 7.74%
-   -  1 AXI T1 RELIC, COMMON, 7.74%
-   -  1 AXI V1 RELIC, COMMON, 7.74%
-   -  1 AXI N3 RELIC, COMMON, 7.74%
-   -  1 AXI N1 RELIC, COMMON, 7.74%
-   -  1 AXI N2 RELIC, COMMON, 7.74%
-   -  1 AXI A1 RELIC, COMMON, 7.74%
-   -  1 AXI V4 RELIC, COMMON, 7.74%
-   -  1 AXI V5 RELIC, COMMON, 7.74%
-   -  1 AXI C1 RELIC, COMMON, 7.74%
+   -  1 AXI G1 RELIC, COMMON, 7.04%
+   -  1 AXI T1 RELIC, COMMON, 7.04%
+   -  1 AXI V1 RELIC, COMMON, 7.04%
+   -  1 AXI N3 RELIC, COMMON, 7.04%
+   -  1 AXI N1 RELIC, COMMON, 7.04%
+   -  1 AXI N2 RELIC, COMMON, 7.04%
+   -  1 AXI A1 RELIC, COMMON, 7.04%
+   -  1 AXI V4 RELIC, COMMON, 7.04%
+   -  1 AXI V5 RELIC, COMMON, 7.04%
+   -  1 AXI E1 RELIC, COMMON, 7.04%
+   -  1 AXI C1 RELIC, COMMON, 7.04%
 
 
 [DefenseMissionRewards/DefenseMissionRewardsMedium]:
@@ -947,44 +952,47 @@
    - Ceres, Cinxia, MT_TERRITORY, FC_GRINEER, NT_MISSION
 
   Rotation A:
-   -  1 Vitality, COMMON, 11.11%
-   -  1 Magazine Warp, COMMON, 11.11%
-   -  1 Trick Mag, COMMON, 11.11%
-   -  1 Pressure Point, COMMON, 11.11%
-   -  1 LITH S4 RELIC, COMMON, 11.11%
-   -  1 LITH V1 RELIC, COMMON, 11.11%
-   -  1 LITH S5 RELIC, COMMON, 11.11%
-   -  1 LITH V2 RELIC, COMMON, 11.11%
-   -  1 LITH K1 RELIC, COMMON, 11.11%
+   -  1 Vitality, COMMON, 10%
+   -  1 Magazine Warp, COMMON, 10%
+   -  1 Trick Mag, COMMON, 10%
+   -  1 Pressure Point, COMMON, 10%
+   -  1 LITH S4 RELIC, COMMON, 10%
+   -  1 LITH V1 RELIC, COMMON, 10%
+   -  1 LITH S5 RELIC, COMMON, 10%
+   -  1 LITH V2 RELIC, COMMON, 10%
+   -  1 LITH K1 RELIC, COMMON, 10%
+   -  1 LITH G1 RELIC, COMMON, 10%
 
 
   Rotation B:
-   -  1 Speed Trigger, COMMON, 5.88%
-   -  1 Fast Deflection, COMMON, 5.88%
-   -  1 Rush, COMMON, 5.88%
-   -  1 Target Cracker, COMMON, 5.88%
-   -  1 No Return, COMMON, 5.88%
-   -  1 Serration, COMMON, 5.88%
-   -  1 Hornet Strike, COMMON, 5.88%
-   -  1 Reflex Coil, COMMON, 5.88%
-   -  1 Deep Freeze, COMMON, 5.88%
-   -  1 North Wind, COMMON, 5.88%
-   -  1 MESO V1 RELIC, COMMON, 5.88%
-   -  1 MESO D1 RELIC, COMMON, 5.88%
-   -  1 MESO C2 RELIC, COMMON, 5.88%
-   -  1 MESO S2 RELIC, COMMON, 5.88%
-   -  1 MESO F1 RELIC, COMMON, 5.88%
-   -  1 MESO C2 RELIC, COMMON, 5.88%
-   -  1 MESO S3 RELIC, COMMON, 5.88%
+   -  1 Speed Trigger, COMMON, 5.56%
+   -  1 Fast Deflection, COMMON, 5.56%
+   -  1 Rush, COMMON, 5.56%
+   -  1 Target Cracker, COMMON, 5.56%
+   -  1 No Return, COMMON, 5.56%
+   -  1 Serration, COMMON, 5.56%
+   -  1 Hornet Strike, COMMON, 5.56%
+   -  1 Reflex Coil, COMMON, 5.56%
+   -  1 Deep Freeze, COMMON, 5.56%
+   -  1 North Wind, COMMON, 5.56%
+   -  1 MESO V1 RELIC, COMMON, 5.56%
+   -  1 MESO D1 RELIC, COMMON, 5.56%
+   -  1 MESO C2 RELIC, COMMON, 5.56%
+   -  1 MESO S2 RELIC, COMMON, 5.56%
+   -  1 MESO F1 RELIC, COMMON, 5.56%
+   -  1 MESO C2 RELIC, COMMON, 5.56%
+   -  1 MESO S3 RELIC, COMMON, 5.56%
+   -  1 MESO F2 RELIC, COMMON, 5.56%
 
 
   Rotation C:
-   -  1 MESO V1 RELIC, COMMON, 16.24%
-   -  1 MESO D1 RELIC, COMMON, 16.24%
-   -  1 MESO C2 RELIC, COMMON, 16.24%
-   -  1 MESO S2 RELIC, COMMON, 16.24%
-   -  1 MESO F1 RELIC, COMMON, 16.24%
-   -  1 MESO V3 RELIC, COMMON, 16.24%
+   -  1 MESO V1 RELIC, COMMON, 13.92%
+   -  1 MESO D1 RELIC, COMMON, 13.92%
+   -  1 MESO C2 RELIC, COMMON, 13.92%
+   -  1 MESO S2 RELIC, COMMON, 13.92%
+   -  1 MESO F1 RELIC, COMMON, 13.92%
+   -  1 MESO V3 RELIC, COMMON, 13.92%
+   -  1 MESO F2 RELIC, COMMON, 13.92%
    -  1 Natural Talent, RARE, 2.58%
 
 
@@ -2270,25 +2278,27 @@
 
 
   Rotation B:
-   -  1 NEO V4 RELIC, COMMON, 16.67%
-   -  1 NEO N4 RELIC, COMMON, 16.67%
-   -  1 NEO N3 RELIC, COMMON, 16.67%
-   -  1 NEO A1 RELIC, COMMON, 16.67%
-   -  1 NEO V2 RELIC, COMMON, 16.67%
-   -  1 NEO V3 RELIC, COMMON, 16.67%
+   -  1 NEO V4 RELIC, COMMON, 14.29%
+   -  1 NEO N4 RELIC, COMMON, 14.29%
+   -  1 NEO N3 RELIC, COMMON, 14.29%
+   -  1 NEO A1 RELIC, COMMON, 14.29%
+   -  1 NEO V2 RELIC, COMMON, 14.29%
+   -  1 NEO V3 RELIC, COMMON, 14.29%
+   -  1 NEO S5 RELIC, COMMON, 14.29%
 
 
   Rotation C:
-   -  1 AXI G1 RELIC, COMMON, 10%
-   -  1 AXI T1 RELIC, COMMON, 10%
-   -  1 AXI N2 RELIC, COMMON, 10%
-   -  1 AXI V4 RELIC, COMMON, 10%
-   -  1 AXI N3 RELIC, COMMON, 10%
-   -  1 AXI N1 RELIC, COMMON, 10%
-   -  1 AXI V1 RELIC, COMMON, 10%
-   -  1 AXI A1 RELIC, COMMON, 10%
-   -  1 AXI V5 RELIC, COMMON, 10%
-   -  1 AXI C1 RELIC, COMMON, 10%
+   -  1 AXI G1 RELIC, COMMON, 9.09%
+   -  1 AXI T1 RELIC, COMMON, 9.09%
+   -  1 AXI N2 RELIC, COMMON, 9.09%
+   -  1 AXI V4 RELIC, COMMON, 9.09%
+   -  1 AXI N3 RELIC, COMMON, 9.09%
+   -  1 AXI N1 RELIC, COMMON, 9.09%
+   -  1 AXI V1 RELIC, COMMON, 9.09%
+   -  1 AXI A1 RELIC, COMMON, 9.09%
+   -  1 AXI V5 RELIC, COMMON, 9.09%
+   -  1 AXI C1 RELIC, COMMON, 9.09%
+   -  1 AXI E1 RELIC, COMMON, 9.09%
 
 
 [VaultRewards]:
