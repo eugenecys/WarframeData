@@ -45017,6 +45017,9 @@ SPEAK TO CEPHALON SIMARIS"
 [/Lotus/Language/Menu/ConfigurationLabel]
 "POWER ACTIVATION"
 
+[/Lotus/Language/Menu/ConfirmDissolveFormattedPrice]
+"Are you sure you want to dissolve |ITEMS| for |FORMATTED_PRICE|?"
+
 [/Lotus/Language/Menu/ConfirmFusingInstalledMod]
 "|MOD| is currently installed. If you fuse it, it will be lost."
 
@@ -51481,6 +51484,15 @@ REWARD"
 [/Lotus/Language/Menu/Omega_NoneOwned]
 "You don't own any riven mods"
 
+[/Lotus/Language/Menu/OmegaLimit_Cancel]
+"ASK ME LATER"
+
+[/Lotus/Language/Menu/OmegaLimit_CancelConfirm]
+"You won't be able to play sorties while you are above the Riven mod capacity limit. Returning to the Liset from a mission or exiting the mod station will reopen this screen. Continue?"
+
+[/Lotus/Language/Menu/OmegaLimit_RestrictSortie]
+"You must be under the Riven mod capacity limit to play sorties."
+
 [/Lotus/Language/Menu/OmegaLimit_SellConfirm]
 "Dissolve the selected Riven Mods for <FUSION_POINTS> |PRICE|?"
 
@@ -51566,7 +51578,7 @@ REWARD"
 "Voice Transmit Volume"
 
 [/Lotus/Language/Menu/Options_Audio_Tutorial_Transmissions]
-"Enable Tutorial Transmissions"
+"Enable Hint Transmissions"
 
 [/Lotus/Language/Menu/Options_Audio_Voice]
 "Speech Volume"
@@ -77320,7 +77332,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "Spores"
 
 [/Lotus/Language/Suits/PoisonAbilityPvPDesc]
-"Inflicts opponent with <DT_VIRAL> Viral damage over time. "
+"Inflicts opponent with <DT_VIRAL> Viral damage over time."
 
 [/Lotus/Language/Suits/PullAbilityAugment1Desc]
 "Pull Augment - Adds |PULL_CHANCE|% chance to pull pickups towards Mag."
@@ -80139,6 +80151,9 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 [/Lotus/Language/Upgrades/WeaponDamage]
 "|val|% Damage"
 
+[/Lotus/Language/Upgrades/WeaponDamageIfVictimProcActiveModDesc]
+"|val| Melee Damage for each status type affecting the target"
+
 [/Lotus/Language/Upgrades/WeaponDamageModDesc]
 "|val|% Damage"
 
@@ -80192,6 +80207,9 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 
 [/Lotus/Language/Upgrades/WeaponGasDamageNoPercent]
 "|val| <DT_GAS>Gas"
+
+[/Lotus/Language/Upgrades/WeaponHealthOnHitEnemyWithProcModDesc]
+"Healed for |val| when hitting a target affected by status"
 
 [/Lotus/Language/Upgrades/WeaponHealthOnKillChance]
 "|val|% Chance to Restore Health on Kill"
