@@ -8785,10 +8785,10 @@ Baro Ki’Teer"
 "KI'TEER KAVAT ARMOR"
 
 [/Lotus/Language/Cosmetics/CorpusMeleeDangleDesc]
-"[PH] Description"
+"A token of Corpus ingenuity."
 
 [/Lotus/Language/Cosmetics/CorpusMeleeDangleName]
-"[PH] CORPUS MELEE DANGLE"
+"QUARO SUGATRA "
 
 [/Lotus/Language/Cosmetics/DjinnDeluxeArmArmourDesc]
 "Etched with lyrical designs, this decorative armor has been crafted with meticulous care. "
@@ -12086,6 +12086,9 @@ To research additional colors, visit the Tenno Lab."
 [/Lotus/Language/Dojo/TRADE_ERR_BUDDY_OFFERING_PLAT]
 "Failed to offer <PLATINUM_CREDITS> Platinum because your trade partner is already offering <PLATINUM_CREDITS> Platinum in this trade."
 
+[/Lotus/Language/Dojo/TRADE_ERR_BUDDY_OMEGA_CAPACITY]
+"Cannot add additional Riven mods to the trade, your trade partner has reached their Riven capacity."
+
 [/Lotus/Language/Dojo/TRADE_ERR_INSUFFICIENT_CREDITS_BUDDY]
 "The trade failed: Your trade partner does not have enough <CREDITS> Credits to pay the trade tax."
 
@@ -14122,6 +14125,10 @@ ERIS: Kuiper Relay"
 [/Lotus/Language/G1Quests/AWQDescription]
 "The Balor Fomorians are coming but we are ready. Through your efforts we finally have a working Archwing prototype and I am sending you the blueprint. However, your task is not yet complete. You still must discover the component parts. "
 
+[/Lotus/Language/G1Quests/AWQHelpText]
+"<MINI_ARROW> Mastery Rank 2
+<MINI_ARROW> Earth: Mars Junction"
+
 [/Lotus/Language/G1Quests/AWQIntroMessageBody]
 "Incoming Briefing from the Lotus."
 
@@ -14635,6 +14642,11 @@ A Grineer General, Vor, stands over you...
 [/Lotus/Language/G1Quests/DragonQuestDesc]
 "Work with Cephalon Simaris to find the source of a mysterious voice."
 
+[/Lotus/Language/G1Quests/DragonQuestHelpText]
+"<MINI_ARROW> Mastery Rank 5
+<MINI_ARROW> <QUEST> Stolen Dreams quest
+<MINI_ARROW> Jupiter: Europa junction"
+
 [/Lotus/Language/G1Quests/DragonQuestHubDesertSkateScans]
 "Synthesize 3 Elite Arid Lancers on Mars for Simaris"
 
@@ -14739,6 +14751,11 @@ I’ll stowaway with Earth-bound cargo. Just my Apothics and these slapdash Soma
 
 [/Lotus/Language/G1Quests/FairyQuestDesc]
 "New Loka seeks help protecting a sacred forest from Grineer incursions, but are they ready to face the forest’s true nature?"
+
+[/Lotus/Language/G1Quests/FairyQuestHelpText]
+"<MINI_ARROW> Mastery Rank 7
+<MINI_ARROW> <QUEST> Second Dream quest
+<MINI_ARROW> Talk to Amaryn in New Loka room in any Relay"
 
 [/Lotus/Language/G1Quests/FairyQuestInboxEndBody]
 "Tenno, 
@@ -15046,6 +15063,9 @@ Darvo"
 [/Lotus/Language/G1Quests/GetClemDesc]
 "Darvo needs your help again. Save one of his best contractors from Grineer execution."
 
+[/Lotus/Language/G1Quests/GetClemHelpText]
+"<MINI_ARROW> Talk to Darvo in any Relay"
+
 [/Lotus/Language/G1Quests/GetClemIntroInboxBody]
 "Friend,
 
@@ -15127,6 +15147,9 @@ Happy Gifting, Tenno!
 
 [/Lotus/Language/G1Quests/GolemQuestDesc]
 "Ordis is determined to help a fellow Cephalon overcome a ship wide infestation."
+
+[/Lotus/Language/G1Quests/GolemQuestHelpText]
+"<MINI_ARROW> Pluto: Eris junction"
 
 [/Lotus/Language/G1Quests/GolemQuestIntroBody]
 "CEPHALON STRANDED. SHIP IMMOBILIZED. POWER FAILING. EXTINCTION EVENT.
@@ -15351,6 +15374,10 @@ Lotus"
 [/Lotus/Language/G1Quests/IAVQDescription]
 "Find Alad V’s laboratory and put a stop to his madness"
 
+[/Lotus/Language/G1Quests/IAVQHelpText]
+"<MINI_ARROW> <QUEST> Once Awake quest
+<MINI_ARROW> Pluto: Eris junction"
+
 [/Lotus/Language/G1Quests/IAVQHiveSabotageObjective]
 "Sabotage Alad's Infested ships"
 
@@ -15482,6 +15509,9 @@ The Infested are vulnerable to fire. I have sent a fire damage mod for you to in
 [/Lotus/Language/G1Quests/IIQFoundCodex]
 "[PH] 
 Rough notes for this entry. They were dormant until he found them. He thinks they could make excellent shock troops. Only problem is that he hasn’t found a good way to control them. Testing has resulted in many of these creatures being destroyed, fire works best. The Grineer have stock piled fire modifications explicitly for this purpose. These creatures are truly a thing of beauty, I am anxious to see them unleashed on the Tenno.”"
+
+[/Lotus/Language/G1Quests/IIQHelpText]
+"<MINI_ARROW> Venus: Mercury Junction"
 
 [/Lotus/Language/G1Quests/IIQIntroMessageBody]
 "Tenno,
@@ -15802,6 +15832,9 @@ Together you have ended Kela's savage executions, and no matter which fate you d
 [/Lotus/Language/G1Quests/KubrowQuestCodexDesc]
 "You are Tenno, you deserve a Kubrow by your side."
 
+[/Lotus/Language/G1Quests/KubrowQuestHelpText]
+"<MINI_ARROW> Venus: Mercury Junction"
+
 [/Lotus/Language/G1Quests/KubrowQuestHint1]
 "Find the Incubator Segment"
 
@@ -15835,6 +15868,9 @@ Frohd Bek"
 "The Limbo Theorem quest cannot be completed without an Archwing
 
 Piece together the Limbo Theorem to uncover its source"
+
+[/Lotus/Language/G1Quests/LimboQHelpText]
+"<MINI_ARROW> Jupiter: Europa Junction"
 
 [/Lotus/Language/G1Quests/LimboQIntroMessageBody]
 "Transmission from Ordis."
@@ -15977,6 +16013,9 @@ Our operatives have uncovered a hidden cache containing weapon data of Grineer o
 
 [/Lotus/Language/G1Quests/MirageQuestDesc]
 "Seek out the Warframe Mirage"
+
+[/Lotus/Language/G1Quests/MirageQuestHelpText]
+"<MINI_ARROW> Pluto: Sedna Junction"
 
 [/Lotus/Language/G1Quests/MirageQuestHint1]
 "Solve the riddle from the Inbox message"
@@ -16134,6 +16173,10 @@ Baro Ki'Teer"
 
 [/Lotus/Language/G1Quests/MummyQuestDesc]
 "Help Baro Ki'Teer raid an ancient Phobian tomb for a mysterious treasure."
+
+[/Lotus/Language/G1Quests/MummyQuestHelpText]
+"<MINI_ARROW> Mastery Rank 5
+<MINI_ARROW> Purchase Sands Of Inaros Blueprint from Baro Ki'Teer"
 
 [/Lotus/Language/G1Quests/MummyQuestKeyName]
 "Desert Tomb"
@@ -17220,6 +17263,10 @@ Ordis"
 [/Lotus/Language/G1Quests/SecondDreamFinishInboxTitle]
 "YOU’RE ALIVE!"
 
+[/Lotus/Language/G1Quests/SecondDreamHelpText]
+"<MINI_ARROW> <QUEST> Natah quest
+<MINI_ARROW> Uranus: Neptune junction"
+
 [/Lotus/Language/G1Quests/SecondDreamKeychain]
 "THE SECOND DREAM"
 
@@ -17269,6 +17316,10 @@ I fear Regor has more of the old technologies now. You may want to seek him out 
 
 [/Lotus/Language/G1Quests/SentientQuestDesc]
 "Strange drones have appeared in the Origin System, help the Lotus find out what they are and who sent them."
+
+[/Lotus/Language/G1Quests/SentientQuestHelpText]
+"<MINI_ARROW> Mastery Rank 3
+<MINI_ARROW> Scan drones in Grineer Sealab"
 
 [/Lotus/Language/G1Quests/SentientQuestIntercept_Desc]
 "Sgt. Scur-
@@ -17432,6 +17483,10 @@ Good luck,
 
 [/Lotus/Language/G1Quests/SpyQuestDescription]
 "Once the severity of the Grineer capture order was made clear to her, Maroo was more than willing to accept our offer of protective custody. In exchange she will aid us in locating the Arcane Codices."
+
+[/Lotus/Language/G1Quests/SpyQuestHelpText]
+"<MINI_ARROW> Mastery Rank 3
+<MINI_ARROW> Mars: Phobos junction"
 
 [/Lotus/Language/G1Quests/SpyQuestMachineAction]
 "UPLOAD DATA FRAGMENTS"
@@ -17744,6 +17799,72 @@ In the meantime, take this reward which is active immediately and continue to ma
 
 [/Lotus/Language/G1Quests/TenguEventRewardTitle]
 "Operation Oxium Espionage: Completed"
+
+[/Lotus/Language/G1Quests/TennoBaumIntroInboxBody]
+"|PLAYER_NAME|,
+
+Endless war has brought destruction on the Solar System and its people. But none have been more affected than the System’s children. We must heal their wounds, but we can only do so by working together. Tenno, put down your blade—it’s time to lead by example. Show the people of this system your giving spirit so that they may do the same.
+
+Any generosity you show to your fellow Tenno will be recognized and matched as gift to the System’s children. You have already done so much to help, but any extra that you can give will go towards those in need.  
+
+- The Lotus"
+
+[/Lotus/Language/G1Quests/TennoBaumIntroInboxTitle]
+"TENNOBAUM: Leading by Example"
+
+[/Lotus/Language/G1Quests/TennobaumTier1InboxBody]
+"|PLAYER_NAME|, 
+
+I am elated with the Tenno’s willingness to give. In recognition of that generosity, please take this gift. 
+
+- The Lotus"
+
+[/Lotus/Language/G1Quests/TennoBaumTier1InboxTitle]
+"TENNOBAUM: A Thank You"
+
+[/Lotus/Language/G1Quests/TennobaumTier2InboxBody]
+"|PLAYER_NAME|, 
+
+Whispers of Tenno generosity have begun to echo through the Solar System. Others are rushing to thank you. They offer you this gift.
+
+- The Lotus"
+
+[/Lotus/Language/G1Quests/TennoBaumTier2InboxTitle]
+"TENNOBAUM: Honoring Generosity"
+
+[/Lotus/Language/G1Quests/TennobaumTier3InboxBody]
+"|PLAYER_NAME|, 
+
+You’re an inspiration to those who suffered under the Grineer heel. Your actions have helped the System’s children in ways you could not imagine—here is another token of appreciation.
+
+- The Lotus"
+
+[/Lotus/Language/G1Quests/TennoBaumTier3InboxTitle]
+"TENNOBAUM: Renewed Hope"
+
+[/Lotus/Language/G1Quests/TennobaumTier4InboxBody]
+"|PLAYER_NAME|, 
+
+If only you could hear the praises they are singing for you. The Tenno have brought such joy to the System’s children and their families. 
+
+They offer you this in thanks.
+
+- The Lotus"
+
+[/Lotus/Language/G1Quests/TennoBaumTier4InboxTitle]
+"TENNOBAUM: Restoring Joy"
+
+[/Lotus/Language/G1Quests/TennobaumTier5InboxBody]
+"|PLAYER_NAME|, 
+
+Can you feel that, Tenno? A moment of peace has fallen upon the Solar System. The Grineer will strike again, but this time of giving has provided the children with a moment of respite. I always had great expectations of you, Tenno, but this goes beyond what I could have dreamed. This token cannot stand up against the generosity you have displayed, but I hope it shows my appreciation nonetheless. 
+
+Your generosity will be honored for years to come.
+
+- The Lotus"
+
+[/Lotus/Language/G1Quests/TennoBaumTier5InboxTitle]
+"TENNOBAUM: A Thousand Thank Yous"
 
 [/Lotus/Language/G1Quests/TennoRecognitionInboxDesc]
 "Thanks for being a fan, using Facebook, appreciating Warframe and combining these virtues into successfully participating in our Tenno Recognition program! 
@@ -18190,6 +18311,10 @@ Something has happened on Lua and my Sentries have become unresponsive. I need y
 
 [/Lotus/Language/G1Quests/WarWithinQuestDesc]
 "A disturbance in the Somatic Link prompts the Lotus to send operatives back to the Tenno Reservoir."
+
+[/Lotus/Language/G1Quests/WarWithinQuestHelpText]
+"<MINI_ARROW> <QUEST> Second Dream quest
+<MINI_ARROW> Pluto: Sedna junction"
 
 [/Lotus/Language/G1Quests/WarWithinQuestName]
 "THE WAR WITHIN"
@@ -40931,8 +41056,7 @@ If you wish to help with translation please check the forums at https://forums.w
 "Your account access has been restricted due to a negative Platinum balance. Please contact support for further details. %s"
 
 [/Lotus/Language/Launcher/LoginFailedNewHardwareDetected]
-"Please verify your identity.
-To ensure the safety of your account, we have just sent you an email with a code to be entered below. This code will expire in 30 minutes."
+"Please verify your identity. To ensure the safety of your account, we have just sent you an email with a code to be entered below. This code will expire in 30 minutes."
 
 [/Lotus/Language/Launcher/LoginFailedNoConnection]
 "Login failed. Could not connect to server."
@@ -44248,6 +44372,9 @@ A Solar Rail is required in order to travel here."
 [/Lotus/Language/Menu/Buy_Revives]
 "BUY REVIVES"
 
+[/Lotus/Language/Menu/BuyItem_ExceedBinMaxCapacity]
+"Buying this slot expansion would exceed the limit for this slots capacity. Max capacity for this slot type is |MAX|."
+
 [/Lotus/Language/Menu/BuyItem_XPNeeded]
 "The '|ITEM_NAME|' item has a level requirement of |XP_REQUIRED| but you are level |XP_CURRENT|."
 
@@ -44436,6 +44563,9 @@ A Solar Rail is required in order to travel here."
 
 [/Lotus/Language/Menu/CephalonFragment_Hint]
 "Hold |DRAG| to move image. Use |SCALE| to scale."
+
+[/Lotus/Language/Menu/CephalonFragment_NoImagesUnlocked]
+"No images unlocked, gain higher mastery ranks to unlock Fan Art to use in picture frames."
 
 [/Lotus/Language/Menu/CephalonFragment_PictureXOffsetSlider]
 "Horizontal Offset"
@@ -44811,6 +44941,9 @@ A Solar Rail is required in order to travel here."
 
 [/Lotus/Language/Menu/Codex_QuestMissionTasksTitle]
 "MISSION TASKS"
+
+[/Lotus/Language/Menu/Codex_QuestPrereqs]
+"PREREQUISITES"
 
 [/Lotus/Language/Menu/Codex_QuestRewardTitle]
 "REWARDS:"
@@ -48196,6 +48329,9 @@ Scales with Mastery Rank"
 [/Lotus/Language/Menu/GiftFail_ArchwingNotEnabled]
 "|PLAYER_NAME| cannot receive Archwing items until they complete the Archwing Quest."
 
+[/Lotus/Language/Menu/GiftFail_ExceedBinCapacity]
+"Gifting the given slot expansion would cause |PLAYER_NAME| to exceed the limit for that slots capacity."
+
 [/Lotus/Language/Menu/GiftFail_GifterBanned]
 "Your gifting privileges have been revoked, you may not send gifts."
 
@@ -48316,6 +48452,9 @@ Just to let you know, the |TYPE_NAME| you sent to |RECIPIENT_NAME| has been open
 
 [/Lotus/Language/Menu/Global_DurabilityPermanent]
 "Permanent"
+
+[/Lotus/Language/Menu/Global_EnemyName]
+"NAME"
 
 [/Lotus/Language/Menu/Global_FormattedRankCaps]
 "RANK |RANK|"
@@ -49304,6 +49443,12 @@ Just to let you know, the |TYPE_NAME| you sent to |RECIPIENT_NAME| has been open
 
 [/Lotus/Language/Menu/ItemInventory_SlotsMisc]
 "ITEM SLOTS"
+
+[/Lotus/Language/Menu/ItemInventory_SlotsRandomMod]
+"RIVEN MOD SLOTS"
+
+[/Lotus/Language/Menu/ItemInventory_SlotsRandomModDescription]
+"Increases Riven Mod capacity by three."
 
 [/Lotus/Language/Menu/ItemInventory_SlotsSentinel]
 "SENTINEL SLOTS"
@@ -51488,7 +51633,10 @@ REWARD"
 "ASK ME LATER"
 
 [/Lotus/Language/Menu/OmegaLimit_CancelConfirm]
-"You won't be able to play sorties while you are above the Riven mod capacity limit. Returning to the Liset from a mission or exiting the mod station will reopen this screen. Continue?"
+"You won't be able to play sorties while you are above the Riven mod capacity limit. Returning to the Landing Craft from a mission or exiting the mod station will reopen this screen. Continue?"
+
+[/Lotus/Language/Menu/OmegaLimit_PurchaseSlots]
+"PURCHASE CAPACITY"
 
 [/Lotus/Language/Menu/OmegaLimit_RestrictSortie]
 "You must be under the Riven mod capacity limit to play sorties."
@@ -60263,6 +60411,15 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 [/Lotus/Language/Seasonal/Winter2016GlyphDName]
 "SOLSTICE GLYPH IV"
 
+[/Lotus/Language/Seasonal/Winter2016SigilName]
+"SOLSTICE SIGIL"
+
+[/Lotus/Language/Seasonal/Winter2016TDMVariantGlyphDesc]
+"A festive Conclave glyph."
+
+[/Lotus/Language/Seasonal/Winter2016TDMVariantGlyphName]
+"SOLSTICE CONCLAVE GLYPH"
+
 [/Lotus/Language/Seasonal/WinterGlyphBundleDesc]
 "A collection of festive glyphs."
 
@@ -60272,11 +60429,14 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 [/Lotus/Language/Seasonal/WinterGlyphDesc]
 "A festive glyph."
 
+[/Lotus/Language/Seasonal/WinterSigilDesc]
+"A festive sigil."
+
 [/Lotus/Language/Seasonal/WinterSolsticeSalixDesc]
 "A Salix Syandana adorned with a festive design."
 
 [/Lotus/Language/Seasonal/WinterSolsticeSalixName]
-"SOLSTICE SALIX"
+"SOLSTICE SALIX SYANDANA"
 
 [/Lotus/Language/Seasonal/XmasCatbrowSkinDesc]
 "A festive fur pattern for a Kavat"
@@ -80152,7 +80312,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "|val|% Damage"
 
 [/Lotus/Language/Upgrades/WeaponDamageIfVictimProcActiveModDesc]
-"|val| Melee Damage for each status type affecting the target"
+"|val|% Melee Damage for each status type affecting the target"
 
 [/Lotus/Language/Upgrades/WeaponDamageModDesc]
 "|val|% Damage"
