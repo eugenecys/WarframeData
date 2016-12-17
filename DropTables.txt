@@ -1638,6 +1638,7 @@ DROP_MISC_ITEM (Drop Chance: 100%)
  - NIGHTWATCH MANIC (NightwatchManicAvatar)
  - FRONTIER BAILIFF (GrineerChargerAvatar)
  - FRONTIER BAILIFF (GrineerChargerAvatarRare)
+ - DRAHK MASTER (BeastMasterXmasBossAvatar)
 
 DROP_AMMO (Drop Chance: 70%)
 	20 RIFLE AMMO, COMMON, 25%
@@ -3460,6 +3461,7 @@ DROP_POWERUP (Drop Chance: 80%, Exclusive)
  - KUVA DRAHK (FortressCombatKubrowAvatar)
  - DRAHK (CombatKubrowAvatar)
  - KUBROW (KubrowAvatar)
+ - DRAHK (CombatKubrowXmasAvatar)
 
 DROP_AMMO (Drop Chance: 70%)
 	20 RIFLE AMMO, COMMON, 25%
@@ -3573,11 +3575,11 @@ DROP_POWERUP (Drop Chance: 25%)
  - ELITE CREWMAN EXIMUS (EliteSpacemanAvatarLeader)
  - CHARGER EXIMUS (QuadrupedAvatarLeader)
  - LEAPER EXIMUS (LeapingRunnerAvatarLeader)
+ - CRAWLER EXIMUS (CrawlerAvatarLeader)
  - NAUSEOUS CRAWLER EXIMUS (GraspingCrawlerAvatarLeader)
  - LOBBER CRAWLER EXIMUS (GrenadeAvatarLeader)
  - ELECTRIC CRAWLER EXIMUS (LightningAvatarLeader)
  - TOXIC CRAWLER EXIMUS (NoxiousCrawlerAvatarLeader)
- - CRAWLER EXIMUS (CrawlerAvatarLeader)
  - SAPPING OSPREY EXIMUS (DiscDroneAvatarLeader)
  - LEECH OSPREY EXIMUS (LeechDroneAvatarLeader)
  - Mine Osprey EXIMUS (MineDroneAvatarLeader)
@@ -4124,7 +4126,6 @@ DROP_POWERUP (Drop Chance: 25%)
 
 
 [ProsecutorDeltaDropTable]
- - GUARDSMAN PROSECUTOR (DeltaProsecutorAvatarLeader)
 
 DROP_AMMO (Drop Chance: 70%)
 	20 RIFLE AMMO, COMMON, 25%
@@ -4161,8 +4162,8 @@ DROP_AMMO (Drop Chance: 70%)
 	10 SHOTGUN AMMO, COMMON, 25%, Bias 0.455
 	10 SNIPER AMMO, COMMON, 25%, Bias 0.555
 
-DROP_MISC_ITEM (Drop Chance: 4%)
-	Uncommon Resource, COMMON, 100%
+DROP_MISC_ITEM (Drop Chance: 100%)
+	JAVLOK CAPACITOR, RARE, 100%
 
 DROP_MOD (Drop Chance: 3%)
 	Trick Mag, COMMON, 25.29%
@@ -5090,8 +5091,8 @@ DROP_POWERUP (Drop Chance: 25%)
  - VOLT SPECTER (CorpusArenaAllyBaseAvatarA)
  - MAG SPECTER (CorpusArenaAllyBaseAvatarB)
  - FROST SPECTER (CorpusArenaAllyBaseAvatarC)
- - EMBER SPECTER (ArenaSpecterEmberAvatar)
  - FROST SPECTER (ArenaSpecterFrostAvatar)
+ - EMBER SPECTER (ArenaSpecterEmberAvatar)
  - IVARA SPECTER (ArenaSpecterIvaraAvatar)
  - MAG SPECTER (ArenaSpecterMagAvatar)
  - VOLT SPECTER (ArenaSpecterVoltAvatar)

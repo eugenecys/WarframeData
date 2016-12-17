@@ -2450,6 +2450,9 @@ You will receive an email from your 2K contact when the console has been approve
 [/Game/BlackMarketCounterEnter]
 "<MELEE_ACTION> ENTER BLACK MARKET"
 
+[/Game/BootPower]
+"Boot Power"
+
 [/Game/BurnTrailer]
 "<PICKUP> Pour Gas on Trailer Door"
 
@@ -5157,6 +5160,12 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 [/Lotus/Language/Bosses/Teshin]
 "Teshin"
 
+[/Lotus/Language/Bundles/KavatColorPackHyekkaDesc]
+"Degenerate a kavat into a furless Hyekka by altering its DNA structure."
+
+[/Lotus/Language/Bundles/KavatColorPackHyekkaName]
+"HYEKKA GENE-MASKING KIT"
+
 [/Lotus/Language/Bundles/KuvaArmorPackDesc]
 "A full set of Kuva Armor."
 
@@ -7188,6 +7197,12 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 [/Lotus/Language/Challenges/Challenge_ShurikenProficiency3_Name]
 "Shuriken Proficiency III"
 
+[/Lotus/Language/Challenges/Challenge_SnowBallHeadshot_Desc]
+"Snowball Headshot"
+
+[/Lotus/Language/Challenges/Challenge_SnowBallHeadshot_Name]
+"MAY CONTAIN ROCKS"
+
 [/Lotus/Language/Challenges/Challenge_Solve1000Ciphers_Description]
 "Solve 1000 Ciphers."
 
@@ -7418,6 +7433,12 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 
 [/Lotus/Language/Challenges/Challenge_WithoutAHitch_Name]
 "Without a Hitch "
+
+[/Lotus/Language/Challenges/Challenge_XmasScytheMeleeKill_Desc]
+"Melee kill with Solstice Scythe"
+
+[/Lotus/Language/Challenges/Challenge_XmasScytheMeleeKill_Name]
+"MINTED"
 
 [/Lotus/Language/Challenges/WEAPON_LONG_GUN]
 "[PH]"
@@ -7669,6 +7690,9 @@ I am counting on you Tenno.
 
 [/Lotus/Language/Changyou/Beginner_Growth_Inbox_Title]
 "Your New Mission"
+
+[/Lotus/Language/Changyou/BoosterUseCount]
+"|COUNT| USE"
 
 [/Lotus/Language/Changyou/CannotColourTimeLimitedEquipment]
 "Cannot apply colors to time-limited equipment"
@@ -8784,11 +8808,23 @@ Baro Ki’Teer"
 [/Lotus/Language/Cosmetics/CatbrowArmorVoidTraderAName]
 "KI'TEER KAVAT ARMOR"
 
+[/Lotus/Language/Cosmetics/CatbrowPetPatternHyekkaDesc]
+"A degenerated furless pattern for your Kavat."
+
+[/Lotus/Language/Cosmetics/CatbrowPetPatternHyekkaName]
+"HYEKKA FURLESS PATTERN"
+
 [/Lotus/Language/Cosmetics/CorpusMeleeDangleDesc]
 "A token of Corpus ingenuity."
 
 [/Lotus/Language/Cosmetics/CorpusMeleeDangleName]
 "QUARO SUGATRA "
+
+[/Lotus/Language/Cosmetics/CrpModularScarfDesc]
+"March through the battlefield with this Corpus cloak."
+
+[/Lotus/Language/Cosmetics/CrpModularScarfName]
+"VEXILLUS CLOAK"
 
 [/Lotus/Language/Cosmetics/DjinnDeluxeArmArmourDesc]
 "Etched with lyrical designs, this decorative armor has been crafted with meticulous care. "
@@ -8820,6 +8856,12 @@ Baro Ki’Teer"
 [/Lotus/Language/Cosmetics/EmbolistMeleeDangleName]
 "TENTACYST"
 
+[/Lotus/Language/Cosmetics/ESGrnSugatraDesc]
+"Fashioned by frontline grunts, this military-grade weapon embellishment was built to withstand the stresses of combat."
+
+[/Lotus/Language/Cosmetics/ESGrnSugatraName]
+"BOLOKET SUGATRA"
+
 [/Lotus/Language/Cosmetics/GrnHoodedCapeDesc]
 "Once worn by an elegant Elder Queen, before time and disease left her body mangled and disfigured."
 
@@ -8837,6 +8879,18 @@ Baro Ki’Teer"
 
 [/Lotus/Language/Cosmetics/GrnQueensMeleeDangleName]
 "KUVA CORD"
+
+[/Lotus/Language/Cosmetics/GrnStrapsScarfDesc]
+"Fashioned with spare field components this cloak is an example of rarely seen creativity within the Grineer ranks."
+
+[/Lotus/Language/Cosmetics/GrnStrapsScarfName]
+"LADDAK CLOAK"
+
+[/Lotus/Language/Cosmetics/IndexBadgeDesc]
+"[PH] Description"
+
+[/Lotus/Language/Cosmetics/IndexBadgeName]
+"[PH] INDEX BADGE"
 
 [/Lotus/Language/Cosmetics/IndexEventBadgeDesc]
 "A memento of The Index."
@@ -8861,6 +8915,18 @@ Baro Ki’Teer"
 
 [/Lotus/Language/Cosmetics/InfEmbolistArmorLName]
 "EMBOLIST LEG GROWTHS"
+
+[/Lotus/Language/Cosmetics/KavatColorAccentsHyekkaName]
+"CARGO YELLOW"
+
+[/Lotus/Language/Cosmetics/KavatColorBaseHyekkaName]
+"FLESH BROWN"
+
+[/Lotus/Language/Cosmetics/KavatColorSecondaryHyekkaName]
+"BLOOD RED"
+
+[/Lotus/Language/Cosmetics/KavatColorTertiaryHyekkaName]
+"SLUDGE BROWN"
 
 [/Lotus/Language/Cosmetics/KubrowArmorGrnQueenDesc]
 "Drahks are outfitted with this armor for the Queens’ royal prisoner hunts."
@@ -9269,7 +9335,7 @@ Warframe Support Team"
 "Weapons and Warframes have modified stats in the Conclave! Be sure to check them out in the Conclave Loadout menu before entering the battlefield."
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip132]
-"Mobility is key when battling it out in the Conclave. Equip your Warframe with Agile Aim, Blind Shot, Assault Rifle, or Hastened Steps to keep out of reach from your opponents!"
+"Mobility is key when battling it out in the Conclave. Equip your Warframe with the No Current Leap, Rising Skill, and Adept Surge Mods to keep out of reach from your opponents!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip133]
 "Killed enemies in Conclave Annihilation matches drop Oro. Be sure to pick it up to gain points!"
@@ -9344,7 +9410,7 @@ Warframe Support Team"
 "In the Conclave, explosive weapons deal less damage the further you are from detonation. Get up close and personal with your opponents, but be aware of <DT_EXPLOSION>Blast damage!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip155]
-"In the Conclave, some projectile weapons, like bows, have faster travel speed. Bring these to battle to hit fast moving targets!"
+"In the Conclave, projectile weapons, like bows, can take some time to reach their targets. Use weapons with bullets, which travel instantly, to hit fast moving Tenno!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip156]
 "In the Conclave, most channeled abilities prevent you from picking up energy. Time your abilities wisely so that you don't miss out on energy!"
@@ -12861,6 +12927,24 @@ and will receive from |PLAYER_NAME| the following:|GETTING|"
 
 [/Lotus/Language/Enemies/FairyQuestSarynMolt]
 "ORPHID HUSKS"
+
+[/Lotus/Language/Enemies/GrineerWorkerADesc]
+"Oversees the tasks performed by other drudges."
+
+[/Lotus/Language/Enemies/GrineerWorkerAName]
+"DRUDGE FOREMAN"
+
+[/Lotus/Language/Enemies/GrineerWorkerBDesc]
+"Proficient with tools used for smelting."
+
+[/Lotus/Language/Enemies/GrineerWorkerBName]
+"DRUDGE BRAZER"
+
+[/Lotus/Language/Enemies/GrineerWorkerCDesc]
+"Proficient with tools used for grinding."
+
+[/Lotus/Language/Enemies/GrineerWorkerCName]
+"DRUDGE SCRAPPER"
 
 [/Lotus/Language/Enemies/ReplicantChroma]
 "CHROMA SPECTER"
@@ -16996,6 +17080,12 @@ Infiltrate the ship carrying Izar to a political rally and eliminate her."
 [/Lotus/Language/G1Quests/Q9E1End]
 "Great work. With Izar gone, the program has dismantled. Our children will no longer suffer for the Grineer cause."
 
+[/Lotus/Language/G1Quests/QuestAnswerLater]
+"Not yet"
+
+[/Lotus/Language/G1Quests/QuestAnswerYes]
+"Yes"
+
 [/Lotus/Language/G1Quests/QuestMessage]
 "For completing this quest, you have been awarded <CREDITS> |CREDIT_REWARD|"
 
@@ -17769,6 +17859,26 @@ This sigil shows you faced your fear and conquered your nightmares.
 
 [/Lotus/Language/G1Quests/TacAlertHalloweenToolTip]
 "Hallowed Nightmare Mode"
+
+[/Lotus/Language/G1Quests/TacAlertSnowballFightRewardsBody]
+"Operator, alert! 
+
+Ordis awoke from deep-diagnostic scans to find this item had been placed beside the central-heating exhaust vent. Surrounding it was a pile of melting snowballs and note that reads; 
+
+“Merry Solstice to all, and to all a good fight.” 
+
+The notion that some shady individual is slinking through the exhaust system while we rest disturbs Ordis immensely. Shall I devise a way to vaporize this mysterious gifter should they return?
+
+-Ordis"
+
+[/Lotus/Language/G1Quests/TacAlertSnowballFightRewardsTitle]
+"There’s been an intruder! "
+
+[/Lotus/Language/G1Quests/TacAlertSnowballFightTitle]
+"Snowday Showdown"
+
+[/Lotus/Language/G1Quests/TacAlertSnowballFightToolTip]
+"A frosty skirmish of snowballs and minty melee mayhem."
 
 [/Lotus/Language/G1Quests/TenguEventInboxMessage]
 "Tenno,
@@ -27972,6 +28082,9 @@ One Fusion Core has a chance to be Rare."
 [/Lotus/Language/Items/ConclaveSkinNikana]
 "NIKANA CONCLAVE SKIN"
 
+[/Lotus/Language/Items/ConclaveSkinOpticor]
+"OPTICOR CONCLAVE SKIN"
+
 [/Lotus/Language/Items/ConclaveSkinSkana]
 "SKANA CONCLAVE SKIN"
 
@@ -30991,6 +31104,12 @@ Gallium-alloy gauntlets for close-range Archwing combat. Designed by the infamou
 
 [/Lotus/Language/Items/GrnDualFireAxeName]
 "TWIN BASOLK"
+
+[/Lotus/Language/Items/GrnFlameSpearPart]
+"JAVLOK CAPACITOR"
+
+[/Lotus/Language/Items/GrnFlameSpearPartDesc]
+"Used in the construction of Javloks"
 
 [/Lotus/Language/Items/GrnGorgSniperRifleDesc]
 "Mark your targets and then unleash a barrage of bullets, the Buzlok's homing rounds always find the enemy."
@@ -39883,6 +40002,15 @@ Also includes a fully crafted 'Hidden Messages' quest key, giving you instant ac
 [/Lotus/Language/Items/VaporizeStoreItemName]
 "Vaporize"
 
+[/Lotus/Language/Items/VariantSnowballs]
+"SOLSTICE SPHERES"
+
+[/Lotus/Language/Items/VariantSnowballsDesc]
+"May contain rocks."
+
+[/Lotus/Language/Items/VariantXmasScythe]
+"SOLSTICE SCYTHE"
+
 [/Lotus/Language/Items/VaubanAlternateHelmetDesc]
 "A uniquely-styled alternate helmet for Vauban."
 
@@ -43857,6 +43985,9 @@ Team deposits |NUM| Index Points"
 
 [/Lotus/Language/Menu/ArenaGamblingHint]
 "<WARNING> MATCH LOSS FORFEITS INVESTMENT AND PROFIT. FAILURE TO COLLECT REQUIRED INDEX POINTS FORFEITS PROFIT ONLY <WARNING>"
+
+[/Lotus/Language/Menu/ArenaGamblingHintQuest]
+"<WARNING> MATCH LOSS FORFEITS INVESTMENT AND PROFIT. <WARNING>"
 
 [/Lotus/Language/Menu/ArenaGamblingNegModifiers]
 "Afflicted with Financial Stress (|NUM|)"
@@ -53245,6 +53376,9 @@ Do you wish to enable Recruit Conditioning?"
 [/Lotus/Language/Menu/PvpLostRound]
 "You lost this round..."
 
+[/Lotus/Language/Menu/PVPLunaroAlternativeModeDesc]
+"Learn the basics of Lunaro."
+
 [/Lotus/Language/Menu/PvpMapVoteHint]
 "VOTE FOR NEXT MAP"
 
@@ -53460,6 +53594,9 @@ Do you wish to enable Recruit Conditioning?"
 
 [/Lotus/Language/Menu/RaidNeedsMorePlayers]
 "|PLAYERS| MORE PLAYERS NEEDED"
+
+[/Lotus/Language/Menu/RaidReadyLabel]
+"READY <CHECKMARK>"
 
 [/Lotus/Language/Menu/RaidSetNotReady]
 "NOT READY"
@@ -57821,13 +57958,13 @@ As proof of your deed"
 "MR |LEVEL|"
 
 [/Lotus/Language/Omega/OmegaMeleeMod]
-"[PH] Melee Omega Mod"
+"Melee Riven Mod"
 
 [/Lotus/Language/Omega/OmegaNumRerolls]
 "<RESET>|REROLLS|"
 
 [/Lotus/Language/Omega/OmegaPistolMod]
-"[PH] Pistol Omega Mod"
+"Pistol Riven Mod"
 
 [/Lotus/Language/Omega/OmegaPrefixSeparator]
 "-"
@@ -57845,7 +57982,7 @@ As proof of your deed"
 "[PH] Sentinel Omega Mod"
 
 [/Lotus/Language/Omega/OmegaShotgunMod]
-"[PH] Shotgun Omega Mod"
+"Shotgun Riven Mod"
 
 [/Lotus/Language/Omega/OmegaUnidentified]
 "VEILED"
@@ -60076,7 +60213,7 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 "|TARGET| SYNTHESIS"
 
 [/Lotus/Language/Scans/GftPlantRuksClawMatureDesc]
-"This plant was introduced to arid regions across the Origin system, for its ability to collect moisture in harsh environments."
+"This plant was introduced to arid regions across the Origin System, for its ability to collect moisture in harsh environments."
 
 [/Lotus/Language/Scans/GftPlantRuksClawMatureName]
 "RUK'S CLAW"
@@ -62854,6 +62991,14 @@ Using Archwing’s jets for thrust, this massive hammer crushes anything in its 
 [/Lotus/Language/SpaceSuits/StealthArchwingName]
 "ITZAL"
 
+[/Lotus/Language/SteamWorkshop/FrostEmperorArmArmorDesc]
+"A unique armor for the Frost Warframe, designed by Hitsu San
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/FrostEmperorArmArmorName]
+"FROST EMPEROR ARMOR"
+
 [/Lotus/Language/SteamWorkshop/FrostGrostArmArmorDesc]
 "A unique armor for the Frost Warframe, designed by Faven_PS
 
@@ -63391,6 +63536,118 @@ Comes with bonus helmet.
 
 [/Lotus/Language/SteamWorkshop/SWRFourZephyrMigisiHelmetName]
 "ZEPHYR MISIGI HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWRSixAshCarabidHelmetDesc]
+"A helmet for the Ash Warframe, designed by artarrwen
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRSixAshCarabidHelmetName]
+"ASH CARABID HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWRSixAtlasTelamonHelmetDesc]
+"A helmet for the Atlas Warframe, designed by artarrwen
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRSixAtlasTelamonHelmetName]
+"ATLAS TELAMON HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWRSixBansheeEchoHelmetDesc]
+"A helmet for the Banshee Warframe, designed by Rekkou
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRSixBansheeEchoHelmetName]
+"BANSHEE ECHO HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWRSixChromaVojnikSkinDesc]
+"A unique skin for the Chroma Warframe, designed by Volkovyi
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRSixChromaVojnikSkinName]
+"CHROMA VOJNIK SKIN"
+
+[/Lotus/Language/SteamWorkshop/SWRSixEmberGraxxHelmetDesc]
+"A helmet for the Ember Warframe, designed by Faven_PS
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRSixEmberGraxxHelmetName]
+"EMBER GRAXX HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWRSixEmberGraxxSkinDesc]
+"A unique skin for the Ember Warframe, designed by Faven_PS
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRSixEmberGraxxSkinName]
+"EMBER GRAXX SKIN"
+
+[/Lotus/Language/SteamWorkshop/SWRSixFrostEmperorHelmetDesc]
+"A helmet for the Frost Warframe, designed by Hitsu San
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRSixFrostEmperorHelmetName]
+"FROST EMPEROR HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWRSixFrostEmperorSkinDesc]
+"A unique skin for the Frost Warframe, designed by Hitsu San
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRSixFrostEmperorSkinName]
+"FROST EMPEROR SKIN"
+
+[/Lotus/Language/SteamWorkshop/SWRSixNyxGraxxHelmetDesc]
+"A helmet for the Nyx Warframe, designed by Faven_PS
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRSixNyxGraxxHelmetName]
+"NYX GRAXX HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWRSixNyxGraxxSkinDesc]
+"A unique skin for the Nyx Warframe, designed by Faven_PS
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRSixNyxGraxxSkinName]
+"NYX GRAXX SKIN"
+
+[/Lotus/Language/SteamWorkshop/SWRSixSariScarfDesc]
+"A syandana for your Warframe, designed by malayu
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRSixSariScarfName]
+"SARI SYANDANA"
+
+[/Lotus/Language/SteamWorkshop/SWRSixSarynGraxxHelmetDesc]
+"A helmet for the Saryn Warframe, designed by Faven_PS
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRSixSarynGraxxHelmetName]
+"SARYN GRAXX HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWRSixSarynGraxxSkinDesc]
+"A unique skin for the Saryn Warframe, designed by Faven_PS
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRSixSarynGraxxSkinName]
+"SARYN GRAXX SKIN"
+
+[/Lotus/Language/SteamWorkshop/SWRSixSpitefireScarfDesc]
+"A syandana for your Warframe, designed by Faven_PS
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRSixSpitefireScarfName]
+"SPITEFIRE GRAXX SYANDANA"
 
 [/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0010Ordis]
 "[1] I have hidden the truth of my existence… from the Operator… from myself. Take it from me, knowing is hell. Stop now. You will want to laugh, you will want to scream."
@@ -73187,7 +73444,7 @@ Fomorian Commander, take aim."
 "All my wares come from the Void, perhaps you'll get to visit sometime?"
 
 [/Lotus/Language/Subtitles/Relays/DGreetPoor0230Baro]
-"Some interesting gear you have Tenno, I guess minimilism is making a comeback."
+"Some interesting gear you have Tenno, I guess minimalism is making a comeback."
 
 [/Lotus/Language/Subtitles/Relays/DGreetPoor0240Baro]
 "Welcome."
@@ -80535,6 +80792,12 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 
 [/Lotus/Language/Weapons/GrnCannonName]
 "ZARR"
+
+[/Lotus/Language/Weapons/GrnFlameSpearDesc]
+"Launch super-heated slugs at individual foes, or hurl the entire weapon and ignite groups of enemies in a flash inferno."
+
+[/Lotus/Language/Weapons/GrnFlameSpearName]
+"JAVLOK"
 
 [/Lotus/Language/Weapons/GrnHalberdDesc]
 "Slice through mobs of unruly enemies with this fierce halberd; the signature weapon of the Kuva Guardians. "

@@ -455,7 +455,7 @@ Item Compatibility:
    VULKLOK, COMMON, Attenuation: 1.245
 
 
-[[PH] Pistol Omega Mod]
+[Pistol Riven Mod]
 
 Number of buffs: 2-3
 Number of curses: 0-1
@@ -1045,7 +1045,7 @@ Item Compatibility:
    DESPAIR, COMMON, Attenuation: 1
 
 
-[[PH] Shotgun Omega Mod]
+[Shotgun Riven Mod]
 
 Number of buffs: 2-3
 Number of curses: 0-1
@@ -1502,7 +1502,7 @@ Item Compatibility:
    STRUN, COMMON, Attenuation: 1
 
 
-[[PH] Melee Omega Mod]
+[Melee Riven Mod]
 
 Number of buffs: 2-3
 Number of curses: 0-1
