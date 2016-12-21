@@ -1671,23 +1671,31 @@
   IsSharkwing: No
 
   Name: THE INDEX
-  Id: EventNode761
+  Id: SolNode761
   Faction: FC_CORPUS
   MissionType: MT_ARENA
-  NodeType: NT_EVENT
+  NodeType: NT_MISSION
   ArchwingRequired: No
   IsSharkwing: No
 
-  Name: THE INDEX
-  Id: EventNode762
+  Name: THE INDEX: HIGH RISK
+  Id: SolNode762
   Faction: FC_CORPUS
   MissionType: MT_ARENA
-  NodeType: NT_EVENT
+  NodeType: NT_MISSION
   ArchwingRequired: No
   IsSharkwing: No
 
   Name: THE INDEX: ENDURANCE
-  Id: EventNode763
+  Id: SolNode763
+  Faction: FC_CORPUS
+  MissionType: MT_ARENA
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: THE INDEX
+  Id: SolNode764
   Faction: FC_CORPUS
   MissionType: MT_ARENA
   NodeType: NT_EVENT
