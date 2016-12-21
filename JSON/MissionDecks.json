@@ -243,46 +243,48 @@
   },
   "CorpusArenaWagerRewardsEasy": {
     "Locations": [
-      "Neptune, THE INDEX, MT_ARENA, FC_CORPUS, NT_EVENT"
+      "Neptune, THE INDEX, MT_ARENA, FC_CORPUS, NT_MISSION"
     ],
     "Rotation A": [
-      "1 1500 CREDITS, COMMON, 100%"
+      "1 4000 CREDITS, COMMON, 100%"
     ],
     "Rotation B": [
-      "1 3000 CREDITS, COMMON, 100%"
+      "1 8000 CREDITS, COMMON, 100%"
     ],
     "Rotation C": [
-      "1 6000 CREDITS, COMMON, 100%"
+      "1 15000 CREDITS, COMMON, 100%"
     ]
   },
   "CorpusArenaWagerRewardsHard": {
     "Locations": [
       {
-        "Neptune, THE INDEX": "ENDURANCE, MT_ARENA, FC_CORPUS, NT_EVENT"
+        "Neptune, THE INDEX": "ENDURANCE, MT_ARENA, FC_CORPUS, NT_MISSION"
       }
     ],
     "Rotation A": [
-      "1 45000 CREDITS, COMMON, 100%"
+      "1 75000 CREDITS, COMMON, 100%"
+    ],
+    "Rotation B": [
+      "1 135000 CREDITS, COMMON, 100%"
+    ],
+    "Rotation C": [
+      "1 200000 CREDITS, COMMON, 100%"
+    ]
+  },
+  "CorpusArenaWagerRewardsMedium": {
+    "Locations": [
+      {
+        "Neptune, THE INDEX": "HIGH RISK, MT_ARENA, FC_CORPUS, NT_MISSION"
+      }
+    ],
+    "Rotation A": [
+      "1 35000 CREDITS, COMMON, 100%"
     ],
     "Rotation B": [
       "1 60000 CREDITS, COMMON, 100%"
     ],
     "Rotation C": [
-      "1 75000 CREDITS, COMMON, 100%"
-    ]
-  },
-  "CorpusArenaWagerRewardsMedium": {
-    "Locations": [
-      "Neptune, THE INDEX, MT_ARENA, FC_CORPUS, NT_EVENT"
-    ],
-    "Rotation A": [
-      "1 15000 CREDITS, COMMON, 100%"
-    ],
-    "Rotation B": [
-      "1 25000 CREDITS, COMMON, 100%"
-    ],
-    "Rotation C": [
-      "1 35000 CREDITS, COMMON, 100%"
+      "1 85000 CREDITS, COMMON, 100%"
     ]
   },
   "CorpusInfestedSabotageRewards": {
@@ -872,6 +874,64 @@
   },
   "HalloweenExtermEventRewards": {
     "Locations": null
+  },
+  "IndexMissionRewardDifficult": {
+    "Locations": [
+      {
+        "Neptune, THE INDEX": "HIGH RISK, MT_ARENA, FC_CORPUS, NT_MISSION"
+      }
+    ],
+    "Rotation A": [
+      "FixedWeights=True",
+      "1 Pain Threshold, 22.5%",
+      "1 Kinetic Ricochet, 22.5%",
+      "1 Medi-Pet Kit, 22.5%",
+      "1 Thermagnetic Shells, 6.5%",
+      "1 Shield Charger, 6.5%",
+      "1 Static Discharge, 6.5%",
+      "1 \"\", 6.5%",
+      "1 \"\", 6.5%"
+    ]
+  },
+  "IndexMissionRewardEndless": {
+    "Locations": [
+      {
+        "Neptune, THE INDEX": "ENDURANCE, MT_ARENA, FC_CORPUS, NT_MISSION"
+      }
+    ],
+    "Rotation A": [
+      "FixedWeights=True",
+      "1 Pain Threshold, 20%",
+      "1 Kinetic Ricochet, 20%",
+      "1 Medi-Pet Kit, 20%",
+      "1 Thermagnetic Shells, 8%",
+      "1 Shield Charger, 8%",
+      "1 Static Discharge, 8%",
+      "1 \"\", 8%",
+      "1 \"\", 8%"
+    ]
+  },
+  "IndexMissionRewardStandard": {
+    "Locations": [
+      "Neptune, THE INDEX, MT_ARENA, FC_CORPUS, NT_MISSION"
+    ],
+    "Rotation A": [
+      "FixedWeights=True",
+      "1 Pain Threshold, 25%",
+      "1 Kinetic Ricochet, 25%",
+      "1 Medi-Pet Kit, 25%",
+      "1 Thermagnetic Shells, 5%",
+      "1 Shield Charger, 5%",
+      "1 Static Discharge, 5%",
+      "1 \"\", 5%",
+      "1 \"\", 5%"
+    ]
+  },
+  "IndexQuestMissionARewards": {
+    "Locations": null,
+    "Rotation A": [
+      "1 20000 CREDITS, COMMON, 100%"
+    ]
   },
   "InfestedIncursionsSurvivalRewards": {
     "Locations": null
@@ -1630,13 +1690,12 @@
     "Rotation A": [
       "FixedWeights=True",
       "1 Rifle Riven Mod, 20%",
-      "25 80 ENDO, 25%",
-      "50 80 ENDO, 10%",
+      "25 80 ENDO, 28%",
+      "50 80 ENDO, 12.1%",
       "1 MADURAI LENS, 3%",
-      "1 GREATER MADURAI LENS, 3%",
-      "3 NITAIN EXTRACT, 5%",
+      "1 GREATER MADURAI LENS, 1%",
       "1 FORMA, 2.5%",
-      "1 EXILUS ADAPTER BLUEPRINT, 2.5%",
+      "1 EXILUS ADAPTER, 2.5%",
       "1 OROKIN REACTOR BLUEPRINT, 2.5%",
       "1 OROKIN CATALYST BLUEPRINT, 2.5%",
       "1 Legendary Core, 0.18%",
@@ -1644,10 +1703,13 @@
       "1 ZENURIK LENS, 3%",
       "1 NARAMON LENS, 3%",
       "1 UNAIRU LENS, 3%",
-      "1 GREATER VAZARIN LENS, 3%",
-      "1 GREATER ZENURIK LENS, 3%",
-      "1 GREATER NARAMON LENS, 3%",
-      "1 GREATER UNAIRU LENS, 2.82%"
+      "1 GREATER VAZARIN LENS, 1%",
+      "1 GREATER ZENURIK LENS, 1%",
+      "1 GREATER NARAMON LENS, 1%",
+      "1 GREATER UNAIRU LENS, 1%",
+      "1 CREDIT BOOSTER, 3.27%",
+      "1 AFFINITY BOOSTER, 3.27%",
+      "1 RESOURCE DROP CHANCE BOOSTER, 3.17%"
     ]
   },
   "SortieRewardsB": {
