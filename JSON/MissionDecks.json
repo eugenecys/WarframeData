@@ -598,6 +598,53 @@
       "1 NEO S5 RELIC, COMMON, 11.06%"
     ]
   },
+  "DefenseMissionRewards/PurifierDefenseMissionRewards": {
+    "Locations": [
+      "Eris, Oestrus, MT_PURIFY, FC_INFESTATION, NT_MISSION"
+    ],
+    "Rotation A": [
+      "1 Vitality, COMMON, 10%",
+      "1 Magazine Warp, COMMON, 10%",
+      "1 Trick Mag, COMMON, 10%",
+      "1 NEO V4 RELIC, COMMON, 10%",
+      "1 NEO V2 RELIC, COMMON, 10%",
+      "1 NEO N4 RELIC, COMMON, 10%",
+      "1 NEO N3 RELIC, COMMON, 10%",
+      "1 NEO V3 RELIC, COMMON, 10%",
+      "1 NEO A1 RELIC, COMMON, 10%",
+      "1 NEO S5 RELIC, COMMON, 10%"
+    ],
+    "Rotation B": [
+      "1 AXI G1 RELIC, COMMON, 5.26%",
+      "1 AXI T1 RELIC, COMMON, 5.26%",
+      "1 AXI V1 RELIC, COMMON, 5.26%",
+      "1 AXI N3 RELIC, COMMON, 5.26%",
+      "1 AXI N1 RELIC, COMMON, 5.26%",
+      "1 AXI N2 RELIC, COMMON, 5.26%",
+      "1 AXI A1 RELIC, COMMON, 5.26%",
+      "1 AXI V4 RELIC, COMMON, 5.26%",
+      "1 AXI E1 RELIC, COMMON, 5.26%",
+      "1 Hornet Strike, COMMON, 5.26%",
+      "1 Reflex Coil, COMMON, 5.26%",
+      "1 Deep Freeze, COMMON, 5.26%",
+      "1 North Wind, COMMON, 5.26%",
+      "1 Hell's Chamber, COMMON, 5.26%",
+      "1 Streamline, COMMON, 5.26%",
+      "1 Shocking Touch, COMMON, 5.26%",
+      "1 50 ENDO, COMMON, 5.26%",
+      "1 AXI V5 RELIC, COMMON, 5.26%",
+      "1 AXI C1 RELIC, COMMON, 5.26%"
+    ],
+    "Rotation C": [
+      "1 NIDUS SYSTEMS BLUEPRINT, UNCOMMON, 14.29%",
+      "1 NIDUS NEUROPTICS BLUEPRINT, UNCOMMON, 14.29%",
+      "1 NIDUS CHASSIS BLUEPRINT, UNCOMMON, 14.29%",
+      "1 Vital Sense, UNCOMMON, 14.29%",
+      "1 Metal Auger, UNCOMMON, 14.29%",
+      "1 Stretch, UNCOMMON, 14.29%",
+      "1 80 ENDO, UNCOMMON, 14.29%"
+    ]
+  },
   "DerelictDefenseRewards": {
     "Locations": [
       "Derelict, OROKIN DERELICT DEFENSE, MT_DEFENSE, FC_INFESTATION, NT_MISSION"
@@ -889,8 +936,8 @@
       "1 Thermagnetic Shells, 6.5%",
       "1 Shield Charger, 6.5%",
       "1 Static Discharge, 6.5%",
-      "1 \"\", 6.5%",
-      "1 \"\", 6.5%"
+      "1 Flux Overdrive, 6.5%",
+      "1 Tether Grenades, 6.5%"
     ]
   },
   "IndexMissionRewardEndless": {
@@ -907,8 +954,8 @@
       "1 Thermagnetic Shells, 8%",
       "1 Shield Charger, 8%",
       "1 Static Discharge, 8%",
-      "1 \"\", 8%",
-      "1 \"\", 8%"
+      "1 Flux Overdrive, 8%",
+      "1 Tether Grenades, 8%"
     ]
   },
   "IndexMissionRewardStandard": {
@@ -923,8 +970,14 @@
       "1 Thermagnetic Shells, 5%",
       "1 Shield Charger, 5%",
       "1 Static Discharge, 5%",
-      "1 \"\", 5%",
-      "1 \"\", 5%"
+      "1 Flux Overdrive, 5%",
+      "1 Tether Grenades, 5%"
+    ]
+  },
+  "IndexQuestFinalMissionRewards": {
+    "Locations": null,
+    "Rotation A": [
+      "1 150000 CREDITS, COMMON, 100%"
     ]
   },
   "IndexQuestMissionARewards": {
@@ -1689,7 +1742,7 @@
     "Locations": null,
     "Rotation A": [
       "FixedWeights=True",
-      "1 Rifle Riven Mod, 20%",
+      "1 Rifle Riven Mod, 8.62%",
       "25 80 ENDO, 28%",
       "50 80 ENDO, 12.1%",
       "1 MADURAI LENS, 3%",
@@ -1709,7 +1762,9 @@
       "1 GREATER UNAIRU LENS, 1%",
       "1 CREDIT BOOSTER, 3.27%",
       "1 AFFINITY BOOSTER, 3.27%",
-      "1 RESOURCE DROP CHANCE BOOSTER, 3.17%"
+      "1 RESOURCE DROP CHANCE BOOSTER, 3.27%",
+      "1 Pistol Riven Mod, 9.66%",
+      "1 Shotgun Riven Mod, 1.62%"
     ]
   },
   "SortieRewardsB": {
