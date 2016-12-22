@@ -410,7 +410,7 @@ Item Compatibility:
    VULKLOK PRIME, , Attenuation: 1.245
    STINGER, COMMON, Attenuation: 1.315
    VULKLOK, COMMON, Attenuation: 1.245
-   SIMULOR, UNCOMMON, Attenuation: 0.5
+   SIMULOR, COMMON, Attenuation: 0.5
    TORID, COMMON, Attenuation: 1.14
    IGNIS, COMMON, Attenuation: 0.79
    OGRIS, COMMON, Attenuation: 1.245
@@ -430,20 +430,20 @@ Item Compatibility:
    CARMINE PENTA, , Attenuation: 1.175
    PENTA, COMMON, Attenuation: 1.175
    [PH] VANDAL WEAPON, , Attenuation: 1.14
-   [PH] CORPUS SPEAR GUN, COMMON, Attenuation: 1
+   [PH] CORPUS SPEAR GUN, , Attenuation: 1
    HIND, COMMON, Attenuation: 1.42
    GRAKATA, COMMON, Attenuation: 1.105
    GRINLOK, COMMON, Attenuation: 1.245
    KARAK, COMMON, Attenuation: 1.28
    KARAK WRAITH, , Attenuation: 1.28
    MITER, COMMON, Attenuation: 1.6
-   VULKAR, COMMON, Attenuation: 1.315
-   VULKAR WRAITH, , Attenuation: 1.315
-   [PH], , Attenuation: 1.315
+   VULKAR, COMMON, Attenuation: 1.45
+   VULKAR WRAITH, , Attenuation: 1.45
+   [PH], , Attenuation: 1.45
    ZARR, COMMON, Attenuation: 1
    JAVLOK, COMMON, Attenuation: 1
    BUZLOK, COMMON, Attenuation: 1.55
-   TONKOR, UNCOMMON, Attenuation: 0.55
+   TONKOR, COMMON, Attenuation: 0.55
    HARPAK, COMMON, Attenuation: 1.55
    PRISMA GORGON, , Attenuation: 1.175
    GORGON WRAITH, , Attenuation: 1.175
@@ -486,7 +486,7 @@ Item Compatibility:
    LATRON, COMMON, Attenuation: 1.07
    SNIPETRON, , Attenuation: 1
    MK1-BRATON, , Attenuation: 0.965
-   SOMA, UNCOMMON, Attenuation: 0.5
+   SOMA, COMMON, Attenuation: 0.5
    VECTIS, COMMON, Attenuation: 1
    BRATON VANDAL, , Attenuation: 0.965
    SNIPETRON VANDAL, , Attenuation: 1
@@ -905,7 +905,7 @@ Item Compatibility:
    DETRON, COMMON, Attenuation: 1
    CESTRA, COMMON, Attenuation: 1.52
    DUAL CESTRA, COMMON, Attenuation: 1.35
-   SONICOR, UNCOMMON, Attenuation: 0.5
+   SONICOR, COMMON, Attenuation: 0.5
    STATICOR, COMMON, Attenuation: 0.53
    ANGSTRUM, COMMON, Attenuation: 1.4
    TWIN GREMLINS, COMMON, Attenuation: 1.5
@@ -915,7 +915,7 @@ Item Compatibility:
    TWIN GRAKATAS, COMMON, Attenuation: 0.76
    STUG, COMMON, Attenuation: 1.48
    BRAKK, COMMON, Attenuation: 0.75
-   MARELOK, UNCOMMON, Attenuation: 0.5
+   MARELOK, COMMON, Attenuation: 0.5
    NUKOR, COMMON, Attenuation: 1.45
    TWIN KOHMAK, COMMON, Attenuation: 1.27
    KOHMAK, COMMON, Attenuation: 1.49
@@ -937,7 +937,7 @@ Item Compatibility:
    RAKTA BALLISTICA, , Attenuation: 0.85
    VAYKOR MARELOK, , Attenuation: 0.5
    AKLEX, COMMON, Attenuation: 1.51
-   /Lotus/Weapons/Tenno/Akimbo/AkLexPrimePistols [LotusWeapon], , Attenuation: 1.51
+   AKLEX PRIME, , Attenuation: 1.51
    AFURIS, COMMON, Attenuation: 1.39
    AKBOLTO, COMMON, Attenuation: 0.85
    AKLATO, COMMON, Attenuation: 1.52
@@ -951,7 +951,7 @@ Item Compatibility:
    SICARUS, COMMON, Attenuation: 1.5
    BOLTO, COMMON, Attenuation: 1.51
    BRONCO, COMMON, Attenuation: 1.5
-   LEX, UNCOMMON, Attenuation: 0.5
+   LEX, COMMON, Attenuation: 0.5
    LATO PRIME, , Attenuation: 1.51
    LATO VANDAL, , Attenuation: 1.51
    LATO, COMMON, Attenuation: 1.51
@@ -966,8 +966,8 @@ Item Compatibility:
    VASTO PRIME, , Attenuation: 1.53
    PYRANA, COMMON, Attenuation: 1.48
    AKSOMATI, COMMON, Attenuation: 1.26
-   AZIMA, UNCOMMON, Attenuation: 1.35
-   AKSTILETTO, UNCOMMON, Attenuation: 0.5
+   AZIMA, COMMON, Attenuation: 1.35
+   AKSTILETTO, COMMON, Attenuation: 0.5
    AKJAGARA, COMMON, Attenuation: 1.43
    /Lotus/Weapons/Tenno/ThrowingWeapons/DumplingBomb/DumplingBombs [LotusWeapon], , Attenuation: 1
    SPIRA, COMMON, Attenuation: 0.66

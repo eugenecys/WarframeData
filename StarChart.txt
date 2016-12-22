@@ -1698,7 +1698,7 @@
   Id: SolNode764
   Faction: FC_CORPUS
   MissionType: MT_ARENA
-  NodeType: NT_EVENT
+  NodeType: NT_MISSION
   ArchwingRequired: No
   IsSharkwing: No
 
@@ -2287,7 +2287,7 @@
   Name: Oestrus
   Id: SolNode167
   Faction: FC_INFESTATION
-  MissionType: MT_MOBILE_DEFENSE
+  MissionType: MT_PURIFY
   NodeType: NT_MISSION
   ArchwingRequired: No
   IsSharkwing: No

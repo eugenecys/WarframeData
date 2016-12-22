@@ -4191,6 +4191,12 @@ DROP_POWERUP (Drop Chance: 25%)
 	150-300 CREDITS, RARE, 2.01%
 
 
+[PurifyAntidoteDropTable]
+
+DROP_POWERUP (Drop Chance: 100%)
+	Antiserum, COMMON, 100%, Bias 1
+
+
 [RaptorAgentDropTable]
  - RAPTOR (DroneAttackAvatar)
 

@@ -5212,7 +5212,7 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 "CONTINUITY COLLECTION"
 
 [/Lotus/Language/Bundles/NidusBundleDesc]
-"Succumb to the Infestation with the Nidus Warframe, Nidus Prion Helmet, Hema burst-rifle, Hirudo fist-weapon, and the Thorac Syandana. Includes 3-Day Affinity and Credit Boosters."
+"Succumb to the Infestation with the Nidus Warframe, Hema rifle, Hirudo fist-weapons, and the Thorac Syandana.  Includes 3-Day Affinity and Credit Boosters."
 
 [/Lotus/Language/Bundles/NidusBundleName]
 "NIDUS COLLECTION"
@@ -15756,6 +15756,27 @@ You need to go there and investigate.
 [/Lotus/Language/G1Quests/IIQTitle]
 "ONCE AWAKE"
 
+[/Lotus/Language/G1Quests/IndexDescription]
+"[PH] Use /Lotus/Language/G1Quests/IndexQuestDescription instead!!!! "
+
+[/Lotus/Language/G1Quests/IndexDrawingABody]
+"A drawing by the Myconian Neewa."
+
+[/Lotus/Language/G1Quests/IndexDrawingATitle]
+"Neewa's Drawing"
+
+[/Lotus/Language/G1Quests/IndexDrawingBBody]
+"A drawing by the Myconian Neewa."
+
+[/Lotus/Language/G1Quests/IndexDrawingBTitle]
+"Neewa's Drawing"
+
+[/Lotus/Language/G1Quests/IndexDrawingCBody]
+"A drawing by the Myconian Neewa."
+
+[/Lotus/Language/G1Quests/IndexDrawingCTitle]
+"Neewa's Drawing"
+
 [/Lotus/Language/G1Quests/IndexEventA]
 "[PH] Low Risk, Negligible Rewards"
 
@@ -15824,14 +15845,21 @@ I’ll give the final word to Neewa.
 [/Lotus/Language/G1Quests/IndexQuestCureHerTitle]
 "Neewa Has Been Cured"
 
+[/Lotus/Language/G1Quests/IndexQuestDescription]
+"Nef Anyo has stolen the children of the Mycona Colony and it is up to you to get them back. You must challenge Nef on The Index and beat him at his own game. But Tenno, beware, not all is as it seems."
+
 [/Lotus/Language/G1Quests/IndexQuestErgoInitiate]
-"[PH] Index Quest"
+"The Glast Gambit"
 
 [/Lotus/Language/G1Quests/IndexQuestErgoRelayMeetingBody]
 "Ergo Glast, Founder and President of the Perrin Sequence would like to meet with you to discuss an urgent matter that is of concern to the Tenno. Come to our Relay office at your earliest convenience."
 
 [/Lotus/Language/G1Quests/IndexQuestErgoRelayMeetingTitle]
 "Urgent Meeting Request: President Ergo Glast"
+
+[/Lotus/Language/G1Quests/IndexQuestHelpText]
+"<MINI_ARROW> <QUEST> The War Within
+<MINI_ARROW> Talk to Ergo Glast in Perrin Sequence room in any Relay"
 
 [/Lotus/Language/G1Quests/IndexQuestLerHerChooseChoice]
 "Let her decide"
@@ -15848,6 +15876,14 @@ Ergo Glast"
 
 [/Lotus/Language/G1Quests/IndexQuestLetHerChooseTitle]
 "Neewa Has Made Her Choice"
+
+[/Lotus/Language/G1Quests/IndexQuestNeewaDrawing1Body]
+"Tenno, here is the drawing my operative was able to smuggle out of Neewa’s cell. Just in case you need to be reminded of who you are helping.
+
+-Ergo Glast"
+
+[/Lotus/Language/G1Quests/IndexQuestNeewaDrawing1Title]
+"Neewa's Drawing"
 
 [/Lotus/Language/G1Quests/IndexQuestNeewaDrawing2Body]
 "My Corpus operative on the inside was able to get a message from Neewa. She is defiant but scared, for herself, but even more so for her people. Our only choice is to continue at the Index. It sickens me to think we are literally gambling for their futures, but this is the only way to get at Nef. 
@@ -15871,6 +15907,9 @@ Ergo Glast"
 [/Lotus/Language/G1Quests/IndexQuestNeewaDrawing4Title]
 "More from Neewa"
 
+[/Lotus/Language/G1Quests/IndexQuestPullQuote]
+"“We must exercise caution, don’t come on too strong, or he will back off. We need to, as they say, ‘hustle’ him.”"
+
 [/Lotus/Language/G1Quests/IndexQuestSendHerHomeBody]
 "|PLAYER_NAME|
 
@@ -15886,6 +15925,21 @@ Ergo Glast"
 
 [/Lotus/Language/G1Quests/IndexQuestSendHerHomeTitle]
 "Neewa Is Home"
+
+[/Lotus/Language/G1Quests/IndexQuestStage1]
+"Help Secure Mycona Colony"
+
+[/Lotus/Language/G1Quests/IndexQuestStage2345]
+"Challenge Nef Anyo on The Index"
+
+[/Lotus/Language/G1Quests/IndexQuestStage68]
+"Win back Neewa"
+
+[/Lotus/Language/G1Quests/IndexQuestStage7]
+"Find the source of Nef’s cheats"
+
+[/Lotus/Language/G1Quests/IndexTitle]
+"THE GLAST GAMBIT"
 
 [/Lotus/Language/G1Quests/IndexTutorialA]
 "So Tenno, you think you have what it takes to be a broker on The Index? Allow me educate you."
@@ -16520,6 +16574,12 @@ Baro Ki'Teer"
 
 [/Lotus/Language/G1Quests/MutalistIncursionClanTrophyTitle]
 "Mutalist Incursions: Clan Trophy"
+
+[/Lotus/Language/G1Quests/NeewaChoicePrompt]
+"What do you choose for Neewa?"
+
+[/Lotus/Language/G1Quests/NeewaName]
+"Neewa"
 
 [/Lotus/Language/G1Quests/NefAnyoBattlePayMessage]
 "Tenno,
@@ -17303,6 +17363,9 @@ Infiltrate the ship carrying Izar to a political rally and eliminate her."
 
 [/Lotus/Language/G1Quests/QuestMessage]
 "For completing this quest, you have been awarded <CREDITS> |CREDIT_REWARD|"
+
+[/Lotus/Language/G1Quests/QuestPromptIndex]
+"Will you help Neewa’s people?"
 
 [/Lotus/Language/G1Quests/QuestTitle]
 "|QUEST_NAME| Completed"
@@ -21196,7 +21259,7 @@ Your Battle Cards are ready now... Go!"
 "REGEN RATE (PER SECOND)"
 
 [/Lotus/Language/Game/INFEST_MAGGOT_DAMAGE]
-"[PH] MAGGOT EXPLOSION"
+"MAGGOT RUPTURE"
 
 [/Lotus/Language/Game/InfestedAladV]
 "MUTALIST ALAD V"
@@ -21340,10 +21403,10 @@ Your Battle Cards are ready now... Go!"
 "Releases a poison cloud on death"
 
 [/Lotus/Language/Game/InfestedPods_OneMoreStack]
-"[PH] Requires 1 More Adaptation Stack"
+"Requires 1 More Mutation Stack"
 
 [/Lotus/Language/Game/InfestedPods_XMoreStacks]
-"[PH] Requires |COUNT| More Adaptation Stacks"
+"Requires |COUNT| More Mutation Stacks"
 
 [/Lotus/Language/Game/InfestedRunner]
 "RUNNER"
@@ -22261,13 +22324,16 @@ A call echoes across the stars - as a menace approaches..."
 "HOLD <PRE_ATTACK> TO USE BEAM, <AIM_WEAPON> TO AIM"
 
 [/Lotus/Language/Game/OperatorLisetTransferenceTutorial]
-"PRESS <ACTIVATE_ABILITY_4> TO USE TRANSFERENCE"
+"PRESS <ACTIVATE_ABILITY_4> TO USE TRANSFERENCE
+(LATER YOU CAN HOLD <ACTIVATE_ABILITY_4> TO FOCUS)"
 
 [/Lotus/Language/Game/OperatorLisetTransferenceTutorialPowerMenu]
-"PRESS <POWER_MENU> WITH <ACTIVATE_ABILITY_MENU_4> TO USE TRANSFERENCE."
+"PRESS <POWER_MENU> WITH <ACTIVATE_ABILITY_MENU_4> TO USE TRANSFERENCE.
+(LATER YOU CAN PRESS <POWER_MENU> AND HOLD <ACTIVATE_ABILITY_MENU_4> TO FOCUS)"
 
 [/Lotus/Language/Game/OperatorLisetTransferenceTutorialSelect]
-"PRESS <POWER_MODIFIER> TO USE TRANSFERENCE"
+"PRESS <POWER_MODIFIER> TO USE TRANSFERENCE
+(LATER YOU CAN HOLD <POWER_MODIFIER> TO FOCUS)"
 
 [/Lotus/Language/Game/OperatorLisetTransferenceTutorialWithFocus]
 "PRESS <ACTIVATE_ABILITY_4> TO USE TRANSFERENCE
@@ -22558,7 +22624,7 @@ A call echoes across the stars - as a menace approaches..."
 "|PERCENT|%"
 
 [/Lotus/Language/Game/PurifyPurifier]
-"VAPORIZER"
+"VAPORIZOE"
 
 [/Lotus/Language/Game/PursuitEngineDisabled]
 "Disabled"
@@ -32377,6 +32443,9 @@ Pack Includes:
 [/Lotus/Language/Items/IncendiaryBuilderName]
 "Incendiary Builder"
 
+[/Lotus/Language/Items/IndexQuestCreditsFinalReward]
+"Profit: <CREDITS>150,000"
+
 [/Lotus/Language/Items/IndexQuestCreditsReward]
 "Profit: <CREDITS>20,000"
 
@@ -32522,10 +32591,10 @@ Pack Includes:
 "Creates 50x Irradiated Pherliac Pods that releases powerful pheromones to attract the Infested."
 
 [/Lotus/Language/Items/InfestedKubrowDesc]
-"[PH] Woah"
+"An Infested pet bread from the Helminth Cyst"
 
 [/Lotus/Language/Items/InfestedKubrowName]
-"[PH] INFESTED CHARGER"
+"HELMINTH CHARGER"
 
 [/Lotus/Language/Items/InfestedLexDesc]
 "Brain-strikes excite this bioweapon, causing it to rapidly release toxic munitions."
@@ -41775,7 +41844,7 @@ Decorate your Warframe, Companions and Landing Craft in Kuva-inspired gear."
 "Update failed!"
 
 [/Lotus/Language/Launcher/UPDATE_TITLE]
-"THE WAR WITHIN"
+"THE GLAST GAMBIT"
 
 [/Lotus/Language/Launcher/UPDATE_TITLE_CY]
 "Super Power Closed Beta"
@@ -44374,7 +44443,7 @@ Are you sure?"
 "PROFIT CONDITIONS"
 
 [/Lotus/Language/Menu/ArenaGamblingGenericConditions]
-"Win 3 Rounds
+"Win Victory
 Team deposits |NUM| Index Points"
 
 [/Lotus/Language/Menu/ArenaGamblingHint]
@@ -46191,6 +46260,9 @@ Are you sure?"
 [/Lotus/Language/Menu/CraftingComponent_AkbroncoPrimeLink]
 "AKBRONCO PRIME LINK"
 
+[/Lotus/Language/Menu/CraftingComponent_AklexPrimeLink]
+"AKLEX PRIME LINK"
+
 [/Lotus/Language/Menu/CraftingComponent_AkstilettoPrimeBarrel]
 "AKSTILETTO PRIME BARREL"
 
@@ -47147,6 +47219,24 @@ Are you sure?"
 
 [/Lotus/Language/Menu/CraftingComponent_NezhaSystemsName]
 "NEZHA SYSTEMS"
+
+[/Lotus/Language/Menu/CraftingComponent_NidusChassisDesc]
+"Chassis component of the Nidus Warframe."
+
+[/Lotus/Language/Menu/CraftingComponent_NidusChassisName]
+"NIDUS CHASSIS"
+
+[/Lotus/Language/Menu/CraftingComponent_NidusHelmetDesc]
+"Neuroptics component of the Nidus Warframe."
+
+[/Lotus/Language/Menu/CraftingComponent_NidusHelmetName]
+"NIDUS NEUROPTICS"
+
+[/Lotus/Language/Menu/CraftingComponent_NidusSystemsDesc]
+"Systems component of the Nidus Warframe."
+
+[/Lotus/Language/Menu/CraftingComponent_NidusSystemsName]
+"NIDUS SYSTEMS"
 
 [/Lotus/Language/Menu/CraftingComponent_NovaChassisDesc]
 "Chassis component of the Nova Warframe."
@@ -48670,7 +48760,7 @@ Scales with Mastery Rank"
 "WAGER <CREDITS> |CREDITS|"
 
 [/Lotus/Language/Menu/Gambling_QuestMatchEBuyIn]
-"[PH] WAGER <CREDITS> 180,000,
+"WAGER <CREDITS> 180,000,
 ALL OF ERGO's HOLDINGS"
 
 [/Lotus/Language/Menu/Gambling_QuestMatchEPayout]
@@ -48680,7 +48770,7 @@ ALL OF ERGO's HOLDINGS"
 "WAGER OLD WAR RELIC"
 
 [/Lotus/Language/Menu/Gambling_QuestMatchFPayout]
-"[PH] NEEWA, ALL OF ERGO'S HOLDINGS, <CREDITS> 150,000"
+"NEEWA, ALL OF ERGO'S HOLDINGS, <CREDITS> 150,000"
 
 [/Lotus/Language/Menu/Gambling_QuestPayoutCaptives]
 "|NUM| CAPTIVE MYCONIANS, <CREDITS> |CREDITS|"
@@ -48785,13 +48875,13 @@ ALL OF ERGO's HOLDINGS"
 "INCUBATOR"
 
 [/Lotus/Language/Menu/GeneticLab_InfestKubrowConfirm]
-"[PH] Use Helminith growth in kubrow incubation? Growth will be consumed in the process."
+"Use Helminth Cyst in Kubrow incubation? Cyst will be drained in the process."
 
 [/Lotus/Language/Menu/GeneticLab_InfestKubrowLabel]
-"[PH] EXPERIMENT"
+"DRAIN"
 
 [/Lotus/Language/Menu/GeneticLab_InfestKubrowTopTitle]
-"[PH] HELMINITH GROWTH"
+"HELMINTH CYST"
 
 [/Lotus/Language/Menu/GeneticLabDescription]
 "BREED NEW LIFE"
@@ -54194,7 +54284,7 @@ Do you wish to enable Recruit Conditioning?"
 "[PH] TASK NOT COMPELTED"
 
 [/Lotus/Language/Menu/REROLL_CommittedServerError]
-"Riven cycle selection could not be confirmed. Please reload the game to try again."
+"Riven reroll selection could not be confirmed. Please reload the game to try again."
 
 [/Lotus/Language/Menu/REROLL_Confirm]
 "Are you sure you want to cycle |MOD| for <KUVA> |PRICE|?"
@@ -56315,6 +56405,9 @@ This one is dedicated to you."
 [/Lotus/Language/Menu/Upgrade_LongGunSentinelWeaponForbidden]
 "Cannot use a mod with PRIMARY WEAPON and SENTINEL WEAPON simultaneously."
 
+[/Lotus/Language/Menu/Upgrade_LvlUpgrades]
+"RANK BONUSES"
+
 [/Lotus/Language/Menu/Upgrade_PermanentAbbrev]
 "Perm"
 
@@ -56383,6 +56476,16 @@ This one is dedicated to you."
 
 [/Lotus/Language/Menu/ViewPlayers_Rank]
 "RANK: %i"
+
+[/Lotus/Language/Menu/VoidProjectionItemsMessage]
+"Operator,
+
+Items were dropped during your extraction and have been retrieved for you.
+
+Diagnostic repairs are now underway. Ordis is certain this probably won't happen again."
+
+[/Lotus/Language/Menu/VoidProjectionItemsSubject]
+"Items Recovered"
 
 [/Lotus/Language/Menu/VoidProjectionQuality_Bronze]
 "INTACT"
@@ -58819,6 +58922,12 @@ As proof of your deed"
 [/Lotus/Language/Primes/PassiveAbilityNezhaPrime]
 "Slide faster and go further."
 
+[/Lotus/Language/Primes/PrimeAkLexDesc]
+"Savage the enemy with a Lex Prime in each hand."
+
+[/Lotus/Language/Primes/PrimeAkLexName]
+"AKLEX PRIME"
+
 [/Lotus/Language/Primes/PrimeAkstilettoDesc]
 "Stylish, discreet and accurate, perfect for the Tenno of distinction."
 
@@ -61056,6 +61165,33 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 [/Lotus/Language/Seasonal/Winter2016TDMVariantGlyphName]
 "SOLSTICE CONCLAVE GLYPH"
 
+[/Lotus/Language/Seasonal/WinterB2016GlyphAName]
+"WINTER GLYPH I"
+
+[/Lotus/Language/Seasonal/WinterB2016GlyphBName]
+"WINTER GLYPH II"
+
+[/Lotus/Language/Seasonal/WinterB2016GlyphCName]
+"WINTER GLYPH III"
+
+[/Lotus/Language/Seasonal/WinterB2016GlyphDName]
+"WINTER GLYPH IV"
+
+[/Lotus/Language/Seasonal/WinterB2016GlyphEName]
+"WINTER GLYPH V"
+
+[/Lotus/Language/Seasonal/WinterB2016GlyphFName]
+"WINTER GLYPH VI"
+
+[/Lotus/Language/Seasonal/WinterB2016GlyphGName]
+"WINTER GLYPH VII"
+
+[/Lotus/Language/Seasonal/WinterGlyphBundleBDesc]
+"A collection of winter themed glyphs."
+
+[/Lotus/Language/Seasonal/WinterGlyphBundleBName]
+"WINTER GLYPH PACK"
+
 [/Lotus/Language/Seasonal/WinterGlyphBundleDesc]
 "A collection of festive glyphs."
 
@@ -61945,7 +62081,7 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 "A drawing by Neewa."
 
 [/Lotus/Language/ShipDecorations/IndexChildDrawingG]
-"NEEWA'S DRAWING: My decision "
+"NEEWA'S DRAWING: My decision"
 
 [/Lotus/Language/ShipDecorations/IndexChildDrawingGDesc]
 "A drawing by Neewa."
@@ -68729,6 +68865,75 @@ Darvo's Totally Legit sale: You pick the best, I'm flushing the rest."
 
 [/Lotus/Language/Subtitles/MissionObjectives/DObComplete0110Lotus]
 "Mission accomplished, proceed to your landing craft."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDArmorLow0240Lotus]
+"Your armor is degrading. Put serum in that medstation to cleanse yourself."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDArmorLow0250Lotus]
+"Filling that medstation with serum will halt your health and armor from degrading. "
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDConsoleDeg0100Lotus]
+"Without help from the Vaporizers the Pox will continue to erode these consoles."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDConsoleDeg0110Lotus]
+"I will not be able to access these systems if the consoles degrade much further."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDExterminate0150Lotus]
+"I have the manifest. Wipe out the remaining Infested."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDExterminate0160Lotus]
+"I'm finished. You must clear the area of Infested before we can continue."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDFirstRound0030Lotus]
+"These consoles have been compromised by a fast growing Infested pox. Use the Vaporizers to kill the pox and I will access the consoles."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDFirstRound0040Lotus]
+"There's pox everywhere on these consoles and it's corrupted the manifests. Do you see any Vaporizer units near by? Use those to temporarily kill off the pox."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDMilestones0120Lotus]
+"I've reconstructed half the manifest."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDMilestones0130Lotus]
+"I have almost finished reconstructing the manifest. "
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDMilestones0140Lotus]
+"Keep fighting. I'm still working on this manifest."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDNewRound0190Lotus]
+"Here we go again. Get those Vaporizers working."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDNewRound0200Lotus]
+"Let's reconstruct the next manifest. "
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDNewRound0210Lotus]
+"Get ready. We're going reconstruct another manifest."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDObjective0010Lotus]
+"This desolate Corpus research vessel conceals a rich cache of supplies. To locate them, I will reconstruct the ship's corrupted shipping manifests."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDObjective0020Lotus]
+"The crew of this ship fell victim to the very Infestation they were researching. We're here to recover their extensive supplies. Find the consoles that contain the shipping manifests."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDRoundEnd0170Lotus]
+"This is what was in the manifest. There's more where that came from, do you want to keep fighting?"
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDRoundEnd0180Lotus]
+"Success. Do you want to attempt to reconstruct another manifest?"
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDSerumInstruct0050Lotus]
+"Tenno, these Infested hold the serum we need."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDSerumInstruct0060Lotus]
+"The Infested, they're dropping the serum we need for the Vaporizers."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDSerumInstruct0070Lotus]
+"Those Infested must have taken that serum from the researchers on this ship. "
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDSerumPickup0080Lotus]
+"You picked up serum, now put it in a Vaporizer."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDSerumPickup0090Lotus]
+"Put that serum in a Vaporizer."
 
 [/Lotus/Language/Subtitles/MissionObjectives/DPortalAnnounceCache030Lotus]
 "I've detected three resource caches on this vessel but Void interference is masking their location. You must decide if finding these caches is worth the added risk."
@@ -78353,31 +78558,31 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "While bleeding-out, Inaros becomes entombed in a protective Sarcophagus. He can revive himself by draining the life-force from nearby enemies and allies. "
 
 [/Lotus/Language/Suits/InfestAbilityAugment1Desc]
-"[PH]Rupture Augment - Reduce armor on hit by |PERCENT|% for each adaptation stack for |DURATION| seconds"
+"Virulence Augment - Reduce armor on hit by |PERCENT|% for each Mutation stack for |DURATION| seconds"
 
 [/Lotus/Language/Suits/InfestAbilityAugment1Name]
-"[PH]Armor Removal Rupture"
+"Armor Destroying Mutation"
 
 [/Lotus/Language/Suits/InfestAbilityAugment2Desc]
-"[PH]Rupture Augment - |PERCENT|% damage ignores shields."
+"Virulence Augment - |PERCENT|% damage ignores shields."
 
 [/Lotus/Language/Suits/InfestAbilityAugment2Name]
-"[PH]Shield Ignore Rupture"
+"Shield Bypass Mutation"
 
 [/Lotus/Language/Suits/InfestAbilityAugment3Desc]
-"[PH]Rupture Augment - Heal for |AMOUNT| on hit for each adaptation stack."
+"Virulence Augment - Heal for |AMOUNT| on hit for each Mutation stack."
 
 [/Lotus/Language/Suits/InfestAbilityAugment3Name]
-"[PH]Restoring Rupture"
+"Restorative Mutation"
 
 [/Lotus/Language/Suits/InfestAbilityDesc]
-"[PH] Spread the infestation around you. Maggots will attack your enemies, keeping them occupied and exploding after a short period. For each enemy hit, your infestation will adapt."
+"Gluttonous maggots swarm nearby enemies, feasting until they burst with Infestation. The maggots benefit from Mutation and each enemy consumed adds to the Mutation stack."
 
 [/Lotus/Language/Suits/InfestAbilityName]
-"[PH] Infest"
+"Ravenous"
 
 [/Lotus/Language/Suits/InfestationAdaptation]
-"[PH] Adaptation"
+"Mutation"
 
 [/Lotus/Language/Suits/InfestationAltHelmetDesc]
 "A uniquely-styled alternate helmet for Nidus."
@@ -78386,7 +78591,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "NIDUS PRION HELMET"
 
 [/Lotus/Language/Suits/InfestationDesc]
-"[PH]Nidus adapts to his enemies weaknesses, evolving the infestation within him."
+"Command the Infestation to mutate and grow ever more destructive."
 
 [/Lotus/Language/Suits/InfestationHelmetDesc]
 "The standard issue helmet for the Nidus Warframe."
@@ -78398,10 +78603,10 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "NIDUS"
 
 [/Lotus/Language/Suits/InfestPassiveAbility]
-"[PH]Taking deadly damage will consume 10 stacks of Adaptation, and make you invulnerable for 5 seconds."
+"If Nidus is killed with at least 10 stacks of Mutation, those 10 stacks are consumed; this grants 5 seconds of invulnerability and restores health to 50%."
 
 [/Lotus/Language/Suits/InfestPassiveAbilityName]
-"[PH]ADAPTIVE IMMUNITY"
+"UNDYING"
 
 [/Lotus/Language/Suits/InvisibilityAbilityAugment1Desc]
 "Invisibility Augment - Weapon noise is reduced by |NOISE_REDUC|% while invisible."
@@ -79139,10 +79344,10 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "Rift Walk"
 
 [/Lotus/Language/Suits/RuptureAbilityDesc]
-"[PH] Sharp Infested limbs will Rupture through the floor in front of you. For each enemy hit, your infestation will adapt, increasing it's damage. Each enemy hit will refund energy."
+"Rupture the ground with a damaging fungal growth that steals energy from each enemy it strikes.  For every five enemies hit, the Infestation mutates, multiplying its destructive force."
 
 [/Lotus/Language/Suits/RuptureAbilityName]
-"[PH] Rupture"
+"Virulence"
 
 [/Lotus/Language/Suits/RussianRouletteAbilityAugment1Desc]
 "Shooting Gallery Augment - Does a burst before switching between players, blinding enemies within |RANGE| meters for |DURATION| seconds."
@@ -79538,10 +79743,10 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "Exalted Blade"
 
 [/Lotus/Language/Suits/SymbioticLinkAbilityDesc]
-"[PH] Symbiotic Link with your target. Allied targets will increase the damage you both deal. Enemy targets will be congealed by infestation and damage taken will be redirected to them."
+"Bind to a target with a parasitic link. For allies, both the host and Nidus deal increased damage. Linked enemies take the damage inflicted on Nidus."
 
 [/Lotus/Language/Suits/SymbioticLinkAbilityName]
-"[PH] Symbiotic Link"
+"Parasitic Link"
 
 [/Lotus/Language/Suits/TearInSpaceAbilityAugment1Desc]
 "Cataclysm Augment - Duration increased by |DURATION|s for each enemy killed."
@@ -79574,10 +79779,10 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "Ash teleports towards the target, bringing him into melee range."
 
 [/Lotus/Language/Suits/TendrilsAbilityDesc]
-"[PH] Launch an infested pod that will grow Tendrils, grappling nearby enemies and pulling them in."
+"Spawn an Infested pod that erupts with tendrils, latches onto nearby enemies and pulls them in."
 
 [/Lotus/Language/Suits/TendrilsAbilityName]
-"[PH] Tendrils"
+"Larva"
 
 [/Lotus/Language/Suits/TerrorTotemAbilityAugment1Desc]
 "Terrify Augment - Affected enemies have |SLOW_PCT|% reduced movement speed."
