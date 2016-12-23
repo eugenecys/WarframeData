@@ -3551,7 +3551,7 @@ Item Compatibility:
    SMEETA KAVAT, COMMON, Attenuation: 1
    ADARZA KAVAT, COMMON, Attenuation: 1
    SAHASA KUBROW, COMMON, Attenuation: 1
-   SUNIKA KUBROW, COMMON, Attenuation: 1
+   HELMINTH CHARGER, COMMON, Attenuation: 1
    HURAS KUBROW, COMMON, Attenuation: 1
    RAKSA KUBROW, COMMON, Attenuation: 1
    SUNIKA KUBROW, COMMON, Attenuation: 1
@@ -3853,7 +3853,7 @@ Item Compatibility:
    SMEETA KAVAT, COMMON, Attenuation: 1
    ADARZA KAVAT, COMMON, Attenuation: 1
    SAHASA KUBROW, COMMON, Attenuation: 1
-   SUNIKA KUBROW, COMMON, Attenuation: 1
+   HELMINTH CHARGER, COMMON, Attenuation: 1
    HURAS KUBROW, COMMON, Attenuation: 1
    RAKSA KUBROW, COMMON, Attenuation: 1
    SUNIKA KUBROW, COMMON, Attenuation: 1

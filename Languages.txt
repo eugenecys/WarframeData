@@ -22624,7 +22624,7 @@ A call echoes across the stars - as a menace approaches..."
 "|PERCENT|%"
 
 [/Lotus/Language/Game/PurifyPurifier]
-"VAPORIZOE"
+"VAPORIZER"
 
 [/Lotus/Language/Game/PursuitEngineDisabled]
 "Disabled"
@@ -33137,6 +33137,12 @@ Requires: Installed KAVAT INCUBATOR UPGRADE SEGMENT"
 
 [/Lotus/Language/Items/KubrowChargePreceptName]
 "Hunt"
+
+[/Lotus/Language/Items/KubrowChargerChargePreceptName]
+"Helminith Hunt"
+
+[/Lotus/Language/Items/KubrowChargerFinisherModName]
+"Helminith Ferocity"
 
 [/Lotus/Language/Items/KubrowCloakPreceptDesc]
 "The kubrow cloaks itself and its master to stalk down its prey when they are within |RANGE|m."
