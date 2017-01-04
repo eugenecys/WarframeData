@@ -21253,7 +21253,7 @@ Your Battle Cards are ready now... Go!"
 "MARGIN EXCEEDED"
 
 [/Lotus/Language/Game/INFECT_ADAPTATION_COST]
-"ADAPTATION STACKS COST"
+"MUTATION STACKS COST"
 
 [/Lotus/Language/Game/INFEST_HEAL_RATE]
 "REGEN RATE (PER SECOND)"
@@ -40202,10 +40202,10 @@ Blueprint is reusable and will not be consumed."
 "This item lets you use HYDROID's noble animation set with any warframe of your choosing."
 
 [/Lotus/Language/Items/UnlockInfestationAgileDesc]
-"[PH] This item lets you use INFESTATION's agile animation set with any warframe of your choosing."
+"This item lets you use NIDUS' agile animation set with any warframe of your choosing."
 
 [/Lotus/Language/Items/UnlockInfestationNobleDesc]
-"[PH] This item lets you use INFESTATION's noble animation set with any warframe of your choosing."
+"This item lets you use NIDUS' noble animation set with any warframe of your choosing."
 
 [/Lotus/Language/Items/UnlockJadeAgile]
 "NYX's Agile Animations"
@@ -52574,6 +52574,9 @@ REWARD"
 [/Lotus/Language/Menu/Options_Display_Antialiasing_SMAA]
 "SMAA (Medium)"
 
+[/Lotus/Language/Menu/Options_Display_Antialiasing_TAA_Sharpen_Tip]
+"Sharpen image after Temporal antialiasing"
+
 [/Lotus/Language/Menu/Options_Display_Antialiasing_TEMPORAL]
 "TAA 8X (HIGH)"
 
@@ -52710,6 +52713,9 @@ Please update your drivers."
 
 [/Lotus/Language/Menu/Options_Display_Subtitles]
 "Show Subtitles"
+
+[/Lotus/Language/Menu/Options_Display_TAA_Sharpen]
+"TAA Sharpen"
 
 [/Lotus/Language/Menu/Options_Display_Tessellation]
 "Runtime Tessellation"
@@ -79710,7 +79716,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "Boosting this ability increases its duration."
 
 [/Lotus/Language/Suits/SpeedAbilityDesc]
-"Gain a brief boost of movement speed and place a Hasten Coil which does the same for allies."
+"Gain a brief boost of movement speed which affects all allies in range."
 
 [/Lotus/Language/Suits/SpeedAbilityName]
 "Speed"

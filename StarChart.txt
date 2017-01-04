@@ -1674,7 +1674,7 @@
   Id: SolNode761
   Faction: FC_CORPUS
   MissionType: MT_ARENA
-  NodeType: NT_MISSION
+  NodeType: 
   ArchwingRequired: No
   IsSharkwing: No
 
@@ -1682,7 +1682,7 @@
   Id: SolNode762
   Faction: FC_CORPUS
   MissionType: MT_ARENA
-  NodeType: NT_MISSION
+  NodeType: 
   ArchwingRequired: No
   IsSharkwing: No
 
@@ -1690,7 +1690,7 @@
   Id: SolNode763
   Faction: FC_CORPUS
   MissionType: MT_ARENA
-  NodeType: NT_MISSION
+  NodeType: 
   ArchwingRequired: No
   IsSharkwing: No
 
