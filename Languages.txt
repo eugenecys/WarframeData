@@ -8803,16 +8803,16 @@ Baro Ki’Teer"
 "TIME"
 
 [/Lotus/Language/Cosmetics/AshPrimeDefaultSkinDesc]
-"[PH] The standard issue skin for the Ash Prime Warframe."
+"The standard issue skin for the Ash Prime Warframe."
 
 [/Lotus/Language/Cosmetics/AshPrimeDefaultSkinName]
-"[PH] ASH PRIME SKIN"
+"ASH PRIME SKIN"
 
 [/Lotus/Language/Cosmetics/BansheeDefaultSkinDesc]
-"[PH] The standard issue skin for the Banshee Warframe."
+"The standard issue skin for the Banshee Warframe."
 
 [/Lotus/Language/Cosmetics/BansheeDefaultSkinName]
-"[PH] BANSHEE SKIN"
+"BANSHEE SKIN"
 
 [/Lotus/Language/Cosmetics/BaroArmourADesc]
 "This decorative armored plate is a Ki’Teer original."
@@ -8838,11 +8838,17 @@ Baro Ki’Teer"
 [/Lotus/Language/Cosmetics/BaroMeleeDangleName]
 "[PH] KI'TEER SUGATRA"
 
+[/Lotus/Language/Cosmetics/BerserkerDefaultSkinDesc]
+"The standard issue skin for the Valkyr Warframe."
+
+[/Lotus/Language/Cosmetics/BerserkerDefaultSkinName]
+"VALKYR SKIN"
+
 [/Lotus/Language/Cosmetics/BrawlerDefaultSkinDesc]
-"[PH] The standard issue skin for the Atlas Warframe."
+"The standard issue skin for the Atlas Warframe."
 
 [/Lotus/Language/Cosmetics/BrawlerDefaultSkinName]
-"[PH] ATLAS SKIN"
+"ATLAS SKIN"
 
 [/Lotus/Language/Cosmetics/CatbrowArmorGrnQueenDesc]
 "This decorative armor was forged for the Grineer Queens’ royal Kavats."
@@ -8869,16 +8875,22 @@ Baro Ki’Teer"
 "HYEKKA FURLESS PATTERN"
 
 [/Lotus/Language/Cosmetics/ChromaDefaultSkinDesc]
-"[PH] The standard issue skin for the Chroma Warframe."
+"The standard issue skin for the Chroma Warframe."
 
 [/Lotus/Language/Cosmetics/ChromaDefaultSkinName]
-"[PH] CHROMA SKIN"
+"CHROMA SKIN"
 
 [/Lotus/Language/Cosmetics/CorpusMeleeDangleDesc]
 "A token of Corpus ingenuity."
 
 [/Lotus/Language/Cosmetics/CorpusMeleeDangleName]
 "QUARO SUGATRA "
+
+[/Lotus/Language/Cosmetics/CowgirlDefaultSkinDesc]
+"The standard issue skin for the Mesa Warframe."
+
+[/Lotus/Language/Cosmetics/CowgirlDefaultSkinName]
+"MESA SKIN"
 
 [/Lotus/Language/Cosmetics/CrpModularScarfDesc]
 "March through the battlefield with this Corpus cloak."
@@ -8911,10 +8923,16 @@ Baro Ki’Teer"
 "GAZAL LEG PLATES"
 
 [/Lotus/Language/Cosmetics/EmberDefaultSkinDesc]
-"[PH] The standard issue skin for the Ember Warframe."
+"The standard issue skin for the Ember Warframe."
 
 [/Lotus/Language/Cosmetics/EmberDefaultSkinName]
-"[PH] EMBER SKIN"
+"EMBER SKIN"
+
+[/Lotus/Language/Cosmetics/EmberPrimeDefaultSkinDesc]
+"The standard issue skin for the Ember Prime Warframe."
+
+[/Lotus/Language/Cosmetics/EmberPrimeDefaultSkinName]
+"EMBER PRIME SKIN"
 
 [/Lotus/Language/Cosmetics/EmbolistMeleeDangleDesc]
 "A disgusting little nib of flesh to infest the hilt of any melee weapon."
@@ -8927,6 +8945,30 @@ Baro Ki’Teer"
 
 [/Lotus/Language/Cosmetics/ESGrnSugatraName]
 "BOLOKET SUGATRA"
+
+[/Lotus/Language/Cosmetics/FairyDefaultSkinDesc]
+"The standard issue skin for the Titania Warframe."
+
+[/Lotus/Language/Cosmetics/FairyDefaultSkinName]
+"TITANIA SKIN"
+
+[/Lotus/Language/Cosmetics/FrostDefaultSkinDesc]
+"The standard issue skin for the Frost Warframe."
+
+[/Lotus/Language/Cosmetics/FrostDefaultSkinName]
+"FROST SKIN"
+
+[/Lotus/Language/Cosmetics/FrostDeluxeGreatSwordDesc]
+"[PH] Description"
+
+[/Lotus/Language/Cosmetics/FrostDeluxeGreatSwordName]
+"[PH] FROST DELUXE GREAT SWORD"
+
+[/Lotus/Language/Cosmetics/FrostPrimeDefaultSkinDesc]
+"The standard issue skin for the Frost Prime Warframe."
+
+[/Lotus/Language/Cosmetics/FrostPrimeDefaultSkinName]
+"FROST PRIME SKIN"
 
 [/Lotus/Language/Cosmetics/GrnHoodedCapeDesc]
 "Once worn by an elegant Elder Queen, before time and disease left her body mangled and disfigured."
@@ -8951,6 +8993,12 @@ Baro Ki’Teer"
 
 [/Lotus/Language/Cosmetics/GrnStrapsScarfName]
 "LADDAK CLOAK"
+
+[/Lotus/Language/Cosmetics/HydroidDefaultSkinDesc]
+"The standard issue skin for the Hydroid Warframe."
+
+[/Lotus/Language/Cosmetics/HydroidDefaultSkinName]
+"HYDROID SKIN"
 
 [/Lotus/Language/Cosmetics/IndexBadgeDesc]
 "[PH] Description"
@@ -8982,6 +9030,12 @@ Baro Ki’Teer"
 [/Lotus/Language/Cosmetics/InfEmbolistArmorLName]
 "EMBOLIST LEG GROWTHS"
 
+[/Lotus/Language/Cosmetics/InfestationDefaultSkinDesc]
+"The standard issue skin for the Nidus Warframe."
+
+[/Lotus/Language/Cosmetics/InfestationDefaultSkinName]
+"NIDUS SKIN"
+
 [/Lotus/Language/Cosmetics/InfScarfRibCageDesc]
 "A sinuous spine of Infested anatomy."
 
@@ -9005,6 +9059,66 @@ Baro Ki’Teer"
 
 [/Lotus/Language/Cosmetics/KubrowArmorGrnQueenName]
 "KUVA KUBROW ARMOR"
+
+[/Lotus/Language/Cosmetics/LokiDefaultSkinDesc]
+"The standard issue skin for the Loki Warframe."
+
+[/Lotus/Language/Cosmetics/LokiDefaultSkinName]
+"LOKI SKIN"
+
+[/Lotus/Language/Cosmetics/LokiPrimeDefaultSkinDesc]
+"The standard issue skin for the Loki Prime Warframe."
+
+[/Lotus/Language/Cosmetics/LokiPrimeDefaultSkinName]
+"LOKI PRIME SKIN"
+
+[/Lotus/Language/Cosmetics/MagDefaultSkinDesc]
+"The standard issue skin for the Mag Warframe."
+
+[/Lotus/Language/Cosmetics/MagDefaultSkinName]
+"MAG SKIN"
+
+[/Lotus/Language/Cosmetics/MagicianDefaultSkinDesc]
+"The standard issue skin for the Limbo Warframe."
+
+[/Lotus/Language/Cosmetics/MagicianDefaultSkinName]
+"LIMBO SKIN"
+
+[/Lotus/Language/Cosmetics/MagPrimeDefaultSkinDesc]
+"The standard issue skin for the Mag Prime Warframe."
+
+[/Lotus/Language/Cosmetics/MagPrimeDefaultSkinName]
+"MAG PRIME SKIN"
+
+[/Lotus/Language/Cosmetics/MirageDefaultSkinDesc]
+"The standard issue skin for the Mirage Warframe."
+
+[/Lotus/Language/Cosmetics/MirageDefaultSkinName]
+"MIRAGE SKIN"
+
+[/Lotus/Language/Cosmetics/MonkeyKingDefaultSkinDesc]
+"The standard issue skin for the Wukong Warframe."
+
+[/Lotus/Language/Cosmetics/MonkeyKingDefaultSkinName]
+"WUKONG SKIN"
+
+[/Lotus/Language/Cosmetics/NekrosDefaultSkinDesc]
+"The standard issue skin for the Nekros Warframe."
+
+[/Lotus/Language/Cosmetics/NekrosDefaultSkinName]
+"NEKROS SKIN"
+
+[/Lotus/Language/Cosmetics/NekrosPrimeDefaultSkinDesc]
+"The standard issue skin for the Nekros Prime Warframe."
+
+[/Lotus/Language/Cosmetics/NekrosPrimeDefaultSkinName]
+"NEKROS PRIME SKIN"
+
+[/Lotus/Language/Cosmetics/NezhaDefaultSkinDesc]
+"The standard issue skin for the Nezha Warframe."
+
+[/Lotus/Language/Cosmetics/NezhaDefaultSkinName]
+"NEZHA SKIN"
 
 [/Lotus/Language/Cosmetics/NightwatchBrakkSkinDesc]
 "Emblazon the Brakk in the colors of the Grineer's most notorious unit."
@@ -9055,10 +9169,34 @@ Baro Ki’Teer"
 "TONKOR NIGHTWATCH SKIN"
 
 [/Lotus/Language/Cosmetics/NinjaDefaultSkinDesc]
-"[PH] The standard issue skin for the Ash Warframe."
+"The standard issue skin for the Ash Warframe."
 
 [/Lotus/Language/Cosmetics/NinjaDefaultSkinName]
-"[PH] ASH SKIN"
+"ASH SKIN"
+
+[/Lotus/Language/Cosmetics/NovaDefaultSkinDesc]
+"The standard issue skin for the Nova Warframe."
+
+[/Lotus/Language/Cosmetics/NovaDefaultSkinName]
+"NOVA SKIN"
+
+[/Lotus/Language/Cosmetics/NovaPrimeDefaultSkinDesc]
+"The standard issue skin for the Nova Prime Warframe."
+
+[/Lotus/Language/Cosmetics/NovaPrimeDefaultSkinName]
+"NOVA PRIME SKIN"
+
+[/Lotus/Language/Cosmetics/NyxDefaultSkinDesc]
+"The standard issue skin for the Nyx Warframe."
+
+[/Lotus/Language/Cosmetics/NyxDefaultSkinName]
+"NYX SKIN"
+
+[/Lotus/Language/Cosmetics/NyxPrimeDefaultSkinDesc]
+"The standard issue skin for the Nyx Prime Warframe."
+
+[/Lotus/Language/Cosmetics/NyxPrimeDefaultSkinName]
+"NYX PRIME SKIN"
 
 [/Lotus/Language/Cosmetics/ObsidianGlaiveDesc]
 "A next-generation skin for the Glaive."
@@ -9066,11 +9204,107 @@ Baro Ki’Teer"
 [/Lotus/Language/Cosmetics/ObsidianGlaiveName]
 "GLAIVE OBSIDIAN SKIN"
 
+[/Lotus/Language/Cosmetics/PaladinDefaultSkinDesc]
+"The standard issue skin for the Oberon Warframe."
+
+[/Lotus/Language/Cosmetics/PaladinDefaultSkinName]
+"OBERON SKIN"
+
+[/Lotus/Language/Cosmetics/RangerDefaultSkinDesc]
+"The standard issue skin for the Ivara Warframe."
+
+[/Lotus/Language/Cosmetics/RangerDefaultSkinName]
+"IVARA SKIN"
+
+[/Lotus/Language/Cosmetics/RhinoDefaultSkinDesc]
+"The standard issue skin for the Rhino Warframe."
+
+[/Lotus/Language/Cosmetics/RhinoDefaultSkinName]
+"RHINO SKIN"
+
+[/Lotus/Language/Cosmetics/RhinoPrimeDefaultSkinDesc]
+"The standard issue skin for the Rhino Prime Warframe."
+
+[/Lotus/Language/Cosmetics/RhinoPrimeDefaultSkinName]
+"RHINO PRIME SKIN"
+
 [/Lotus/Language/Cosmetics/RobedDjinnDesc]
 "Wrapped in silk and etched with glowing designs, the Gazal offers a glimpse of the Djinn uncorrupted by Infestation."
 
 [/Lotus/Language/Cosmetics/RobedDjinnName]
 "DJINN GAZAL SKIN"
+
+[/Lotus/Language/Cosmetics/SandmanDefaultSkinDesc]
+"The standard issue skin for the Inaros Warframe."
+
+[/Lotus/Language/Cosmetics/SandmanDefaultSkinName]
+"INAROS SKIN"
+
+[/Lotus/Language/Cosmetics/SarynDefaultSkinDesc]
+"The standard issue skin for the Saryn Warframe."
+
+[/Lotus/Language/Cosmetics/SarynDefaultSkinName]
+"SARYN SKIN"
+
+[/Lotus/Language/Cosmetics/SarynPrimeDefaultSkinDesc]
+"The standard issue skin for the Saryn Prime Warframe."
+
+[/Lotus/Language/Cosmetics/SarynPrimeDefaultSkinName]
+"SARYN PRIME SKIN"
+
+[/Lotus/Language/Cosmetics/TenguDefaultSkinDesc]
+"The standard issue skin for the Zephyr Warframe."
+
+[/Lotus/Language/Cosmetics/TenguDefaultSkinName]
+"ZEPHYR SKIN"
+
+[/Lotus/Language/Cosmetics/TrapperDefaultSkinDesc]
+"The standard issue skin for the Vauban Warframe."
+
+[/Lotus/Language/Cosmetics/TrapperDefaultSkinName]
+"VAUBAN SKIN"
+
+[/Lotus/Language/Cosmetics/TrapperPrimeDefaultSkinDesc]
+"The standard issue skin for the Vauban Prime Warframe."
+
+[/Lotus/Language/Cosmetics/TrapperPrimeDefaultSkinName]
+"VAUBAN PRIME SKIN"
+
+[/Lotus/Language/Cosmetics/TrinityDefaultSkinDesc]
+"The standard issue skin for the Trinity Warframe."
+
+[/Lotus/Language/Cosmetics/TrinityDefaultSkinName]
+"TRINITY SKIN"
+
+[/Lotus/Language/Cosmetics/TrinityPrimeDefaultSkinDesc]
+"The standard issue skin for the Trinity Prime Warframe."
+
+[/Lotus/Language/Cosmetics/TrinityPrimeDefaultSkinName]
+"TRINITY PRIME SKIN"
+
+[/Lotus/Language/Cosmetics/ValkyrPrimeDefaultSkinDesc]
+"The standard issue skin for the Valkyr Prime Warframe."
+
+[/Lotus/Language/Cosmetics/ValkyrPrimeDefaultSkinName]
+"VALKYR PRIME SKIN"
+
+[/Lotus/Language/Cosmetics/VoltDefaultSkinDesc]
+"The standard issue skin for the Volt Warframe."
+
+[/Lotus/Language/Cosmetics/VoltDefaultSkinName]
+"VOLT SKIN"
+
+[/Lotus/Language/Cosmetics/VoltPrimeDefaultSkinDesc]
+"The standard issue skin for the Volt Prime Warframe."
+
+[/Lotus/Language/Cosmetics/VoltPrimeDefaultSkinName]
+"VOLT PRIME SKIN"
+
+[/Lotus/Language/Cosmetics/YinYangDefaultSkinDesc]
+"The standard issue skin for the Equinox Warframe."
+
+[/Lotus/Language/Cosmetics/YinYangDefaultSkinName]
+"EQUINOX SKIN"
 
 [/Lotus/Language/CrashHandler/STRING_BUILDING_SEND_REQUEST]
 "Compiling report send request..."
@@ -33139,10 +33373,10 @@ Requires: Installed KAVAT INCUBATOR UPGRADE SEGMENT"
 "Hunt"
 
 [/Lotus/Language/Items/KubrowChargerChargePreceptName]
-"Helminith Hunt"
+"Helminth Hunt"
 
 [/Lotus/Language/Items/KubrowChargerFinisherModName]
-"Helminith Ferocity"
+"Helminth Ferocity"
 
 [/Lotus/Language/Items/KubrowCloakPreceptDesc]
 "The kubrow cloaks itself and its master to stalk down its prey when they are within |RANGE|m."
@@ -44449,7 +44683,7 @@ Are you sure?"
 "PROFIT CONDITIONS"
 
 [/Lotus/Language/Menu/ArenaGamblingGenericConditions]
-"Win Victory
+"Win 3 Rounds
 Team deposits |NUM| Index Points"
 
 [/Lotus/Language/Menu/ArenaGamblingHint]
@@ -61176,6 +61410,9 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 
 [/Lotus/Language/Seasonal/Winter2016TDMVariantBadgeName]
 "SOLSTICE CONCLAVE EMBLEM"
+
+[/Lotus/Language/Seasonal/Winter2016TDMVariantGlyphName]
+"SOLSTICE CONCLAVE GLYPH"
 
 [/Lotus/Language/Seasonal/WinterB2016GlyphAName]
 "WINTER GLYPH I"
