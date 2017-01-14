@@ -8860,10 +8860,10 @@
   "KI'TEER LEG PLATES"
 
 [/Lotus/Language/Cosmetics/BaroMeleeDangleDesc]:
-  "[PH] Description"
+  "The finest Sugatra for your finest weapon."
 
 [/Lotus/Language/Cosmetics/BaroMeleeDangleName]:
-  "[PH] KI'TEER SUGATRA"
+  "KI'TEER SUGATRA"
 
 [/Lotus/Language/Cosmetics/BerserkerDefaultSkinDesc]:
   "The standard issue skin for the Valkyr Warframe."
@@ -36806,6 +36806,9 @@
 [/Lotus/Language/Items/PrimedPistolModCritDamage]:
   "Primed Target Cracker"
 
+[/Lotus/Language/Items/PrimedRegenStoreItemName]:
+  "Primed Regen"
+
 [/Lotus/Language/Items/PrimedRifleModClipMax]:
   "Primed Magazine Warp"
 
@@ -36829,6 +36832,9 @@
 
 [/Lotus/Language/Items/PrimedShotgunModConvertAmmo]:
   "Primed Shotgun Ammo Mutation"
+
+[/Lotus/Language/Items/PrimedShotgunModCritChance]:
+  "Primed Blunderbuss"
 
 [/Lotus/Language/Items/PrimeDualBroncosDesc]:
   "Used together, these Orokin pistols feed off each other, inflicting greater damage with an enhanced chance for inducing elemental effects on targets."
@@ -37526,7 +37532,7 @@
   "ARCANE VENGEANCE"
 
 [/Lotus/Language/Items/RegenStoreItemDesc]:
-  "If Sentinel is killed he will regenerate once to |PERCENT|% max health."
+  "If the Sentinel is killed, it will regenerate up to |COUNT|x with |PERCENT|% max health."
 
 [/Lotus/Language/Items/RegenStoreItemName]:
   "Regen"
@@ -78903,7 +78909,7 @@
   "Restorative Mutation"
 
 [/Lotus/Language/Suits/InfestAbilityDesc]:
-  "Gluttonous maggots swarm nearby enemies, feasting until they burst with Infestation. The maggots benefit from Mutation and each enemy consumed adds to the Mutation stack."
+  "Gluttonous maggots swarm nearby enemies, feasting until they are hit with Virulence and burst with Infestation. The maggots benefit from Mutation and each enemy hit adds to the Mutation stack."
 
 [/Lotus/Language/Suits/InfestAbilityName]:
   "Ravenous"
@@ -82432,6 +82438,27 @@
 
 [/Lotus/Language/Upgrades/WhileChanneling]:
   "but |val|% Channeling Efficiency while channeling"
+
+[/Lotus/Language/Weapons/BlueprintHintExilusAdapter]:
+  "Blueprint can be acquired from Cephalon Simaris after completing the Natah quest or purchased from Teshin."
+
+[/Lotus/Language/Weapons/BlueprintHintGlaive]:
+  "Blueprint can be acquired from Alert missions."
+
+[/Lotus/Language/Weapons/BlueprintHintHeatDagger]:
+  "Blueprint can be acquired from Alert missions."
+
+[/Lotus/Language/Weapons/BlueprintHintMiter]:
+  "Blueprints for the weapon and its components are acquired by defeating Lech Kril and Captain Vor on Ceres."
+
+[/Lotus/Language/Weapons/BlueprintHintSimulor]:
+  "Blueprint can be purchased from Cephalon Simaris."
+
+[/Lotus/Language/Weapons/BlueprintHintTwinGremlins]:
+  "Blueprint is acquired by defeating Lech Kril and Captain Vor on Ceres."
+
+[/Lotus/Language/Weapons/BlueprintHintTwinKohmak]:
+  "Blueprint is acquired by defeating Kela De Thaym."
 
 [/Lotus/Language/Weapons/CorpusSpearGunDesc]:
   "[PH] Description"
