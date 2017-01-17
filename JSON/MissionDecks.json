@@ -77,6 +77,9 @@
       "Pluto, Hades, MT_ASSASSINATION, FC_CORPUS, NT_MISSION"
     ]
   },
+  "BossMissionRewards/FomorianRewards": {
+    "Locations": null
+  },
   "BossMissionRewards/FrostRewards": {
     "Locations": [
       "Mars, War, MT_ASSASSINATION, FC_GRINEER, NT_MISSION"
@@ -240,7 +243,7 @@
   },
   "CorpusArenaWagerRewardsEasy": {
     "Locations": [
-      "Neptune, THE INDEX, MT_ARENA, FC_CORPUS,"
+      "Neptune, THE INDEX, MT_ARENA, FC_CORPUS, NT_SUB_MISSION"
     ],
     "Rotation A": [
       "1 4000 CREDITS, COMMON, 100%"
@@ -255,7 +258,7 @@
   "CorpusArenaWagerRewardsHard": {
     "Locations": [
       {
-        "Neptune, THE INDEX": "ENDURANCE, MT_ARENA, FC_CORPUS,"
+        "Neptune, THE INDEX": "ENDURANCE, MT_ARENA, FC_CORPUS, NT_SUB_MISSION"
       }
     ],
     "Rotation A": [
@@ -271,7 +274,7 @@
   "CorpusArenaWagerRewardsMedium": {
     "Locations": [
       {
-        "Neptune, THE INDEX": "HIGH RISK, MT_ARENA, FC_CORPUS,"
+        "Neptune, THE INDEX": "HIGH RISK, MT_ARENA, FC_CORPUS, NT_SUB_MISSION"
       }
     ],
     "Rotation A": [
@@ -896,7 +899,7 @@
   "IndexMissionRewardDifficult": {
     "Locations": [
       {
-        "Neptune, THE INDEX": "HIGH RISK, MT_ARENA, FC_CORPUS,"
+        "Neptune, THE INDEX": "HIGH RISK, MT_ARENA, FC_CORPUS, NT_SUB_MISSION"
       }
     ],
     "Rotation A": [
@@ -914,7 +917,7 @@
   "IndexMissionRewardEndless": {
     "Locations": [
       {
-        "Neptune, THE INDEX": "ENDURANCE, MT_ARENA, FC_CORPUS,"
+        "Neptune, THE INDEX": "ENDURANCE, MT_ARENA, FC_CORPUS, NT_SUB_MISSION"
       }
     ],
     "Rotation A": [
@@ -931,7 +934,7 @@
   },
   "IndexMissionRewardStandard": {
     "Locations": [
-      "Neptune, THE INDEX, MT_ARENA, FC_CORPUS,"
+      "Neptune, THE INDEX, MT_ARENA, FC_CORPUS, NT_SUB_MISSION"
     ],
     "Rotation A": [
       "FixedWeights=True",
@@ -1539,30 +1542,6 @@
   },
   "ProjectNightwatchBonusRewards": {
     "Locations": null
-  },
-  "ProjectPanaceaBonusRewards": {
-    "Locations": null,
-    "Rotation A": [
-      "1 RIFT SIGIL, RARE, 0.25%",
-      "1 Stunning Speed, RARE, 0.25%",
-      "1 Hammer Shot, RARE, 0.25%",
-      "1 Blaze, RARE, 0.25%",
-      "1 Buzz Kill, RARE, 0.25%",
-      "1 Maim, RARE, 0.25%",
-      "1 Fanged Fusillade, RARE, 0.25%",
-      "1 Sweeping Serration, RARE, 0.25%",
-      "10 80 ENDO, UNCOMMON, 3.16%",
-      "5 80 ENDO, COMMON, 18.97%",
-      "1 3000 CREDITS, COMMON, 18.97%",
-      "1 4000 CREDITS, UNCOMMON, 3.16%",
-      "1 4000 CREDITS, UNCOMMON, 3.16%",
-      "1 DETONITE AMPULE, UNCOMMON, 3.16%",
-      "1 FIELDRON SAMPLE, COMMON, 18.97%",
-      "1 MUTAGEN SAMPLE, COMMON, 18.97%",
-      "2 Madurai Transmute Core, UNCOMMON, 3.16%",
-      "2 Vazarin Transmute Core, UNCOMMON, 3.16%",
-      "1 Naramon Transmute Core, UNCOMMON, 3.16%"
-    ]
   },
   "ProjectSinisterRewardsBasic": {
     "Locations": null
@@ -2279,6 +2258,11 @@
   },
   "VaultRewards": {
     "Locations": null
+  },
+  "VoidKeyMissionRewards/AklexPrime": {
+    "Locations": [
+      "AXI V5 RELIC"
+    ]
   },
   "VoidKeyMissionRewards/FireAndIceVaultA": {
     "Locations": [
