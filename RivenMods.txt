@@ -404,10 +404,10 @@ Item Compatibility:
 
    DETH MACHINE RIFLE, COMMON, Attenuation: 1.455
    LASER RIFLE, COMMON, Attenuation: 1.21
-   DETH MACHINE RIFLE PRIME, , Attenuation: 1.455
-   PRIME LASER RIFLE, , Attenuation: 1.21
-   STINGER PRIME, , Attenuation: 1.315
-   VULKLOK PRIME, , Attenuation: 1.245
+   DETH MACHINE RIFLE PRIME, NONE, Attenuation: 1.455
+   PRIME LASER RIFLE, NONE, Attenuation: 1.21
+   STINGER PRIME, NONE, Attenuation: 1.315
+   VULKLOK PRIME, NONE, Attenuation: 1.245
    STINGER, COMMON, Attenuation: 1.315
    VULKLOK, COMMON, Attenuation: 1.245
    SIMULOR, COMMON, Attenuation: 0.5
@@ -416,81 +416,81 @@ Item Compatibility:
    OGRIS, COMMON, Attenuation: 1.245
    SUPRA, COMMON, Attenuation: 1.14
    FLUX RIFLE, COMMON, Attenuation: 1.55
-   DERA VANDAL, , Attenuation: 1.245
+   DERA VANDAL, NONE, Attenuation: 1.245
    DERA, COMMON, Attenuation: 1.245
    LANKA, COMMON, Attenuation: 1.105
    AMPREX, COMMON, Attenuation: 0.965
    TETRA, COMMON, Attenuation: 1.5
-   PRISMA TETRA, , Attenuation: 1.5
-   OPTICOR VARIANT, , Attenuation: 1
+   PRISMA TETRA, NONE, Attenuation: 1.5
+   OPTICOR VARIANT, NONE, Attenuation: 1
    OPTICOR, COMMON, Attenuation: 1.21
    GLAXION, COMMON, Attenuation: 1.35
    QUANTA, COMMON, Attenuation: 0.895
-   QUANTA VANDAL, , Attenuation: 0.895
-   CARMINE PENTA, , Attenuation: 1.175
+   QUANTA VANDAL, NONE, Attenuation: 0.895
+   CARMINE PENTA, NONE, Attenuation: 1.175
    PENTA, COMMON, Attenuation: 1.175
-   [PH] VANDAL WEAPON, , Attenuation: 1.14
-   [PH] CORPUS SPEAR GUN, , Attenuation: 1
+   [PH] VANDAL WEAPON, NONE, Attenuation: 1.14
+   [PH] CORPUS SPEAR GUN, NONE, Attenuation: 1
    HIND, COMMON, Attenuation: 1.42
    GRAKATA, COMMON, Attenuation: 1.105
    GRINLOK, COMMON, Attenuation: 1.245
    KARAK, COMMON, Attenuation: 1.28
-   KARAK WRAITH, , Attenuation: 1.28
+   KARAK WRAITH, NONE, Attenuation: 1.28
    MITER, COMMON, Attenuation: 1.6
    VULKAR, COMMON, Attenuation: 1.45
-   VULKAR WRAITH, , Attenuation: 1.45
-   [PH], , Attenuation: 1.45
+   VULKAR WRAITH, NONE, Attenuation: 1.45
+   [PH], NONE, Attenuation: 1.45
    ZARR, COMMON, Attenuation: 1
    JAVLOK, COMMON, Attenuation: 1
    BUZLOK, COMMON, Attenuation: 1.55
    TONKOR, COMMON, Attenuation: 0.55
    HARPAK, COMMON, Attenuation: 1.55
-   PRISMA GORGON, , Attenuation: 1.175
-   GORGON WRAITH, , Attenuation: 1.175
+   PRISMA GORGON, NONE, Attenuation: 1.175
+   GORGON WRAITH, NONE, Attenuation: 1.175
    MUTALIST CERNOS, COMMON, Attenuation: 1.21
    MUTALIST QUANTA, COMMON, Attenuation: 1.55
    HEMA, COMMON, Attenuation: 1
    PARACYST, COMMON, Attenuation: 1.315
    SYNAPSE, COMMON, Attenuation: 1.315
-   MK1-PARIS, , Attenuation: 0.965
-   TELOS BOLTOR, , Attenuation: 0.79
-   SYNOID SIMULOR, , Attenuation: 0.5
-   SECURA PENTA, , Attenuation: 1.175
-   RAKTA CERNOS, , Attenuation: 0.86
+   MK1-PARIS, NONE, Attenuation: 0.965
+   TELOS BOLTOR, NONE, Attenuation: 0.79
+   SYNOID SIMULOR, NONE, Attenuation: 0.5
+   SECURA PENTA, NONE, Attenuation: 1.175
+   RAKTA CERNOS, NONE, Attenuation: 0.86
    CERNOS, COMMON, Attenuation: 0.86
    DAIKYU, COMMON, Attenuation: 1.21
-   CERNOS PRIME, , Attenuation: 0.86
+   CERNOS PRIME, NONE, Attenuation: 0.86
    PARIS, COMMON, Attenuation: 0.965
-   PARIS PRIME, , Attenuation: 0.965
+   PARIS PRIME, NONE, Attenuation: 0.965
    DREAD, COMMON, Attenuation: 0.825
-   DEX SYBARIS, , Attenuation: 0.895
+   DEX SYBARIS, NONE, Attenuation: 0.895
    TIBERON, COMMON, Attenuation: 1.5
    RUBICO, COMMON, Attenuation: 1.105
-   /Lotus/Weapons/Tenno/LongGuns/LoginPrimary/SundialRifle [LotusWeapon], , Attenuation: 1
+   /Lotus/Weapons/Tenno/LongGuns/LoginPrimary/SundialRifle [LotusWeapon], NONE, Attenuation: 1
    PANTHERA, COMMON, Attenuation: 1.55
-   BOLTOR PRIME, , Attenuation: 0.79
-   BURSTON PRIME, , Attenuation: 1.175
-   SOMA PRIME, , Attenuation: 0.5
-   VECTIS PRIME, , Attenuation: 1
+   BOLTOR PRIME, NONE, Attenuation: 0.79
+   BURSTON PRIME, NONE, Attenuation: 1.175
+   SOMA PRIME, NONE, Attenuation: 0.5
+   VECTIS PRIME, NONE, Attenuation: 1
    ZHUGE, COMMON, Attenuation: 1.105
    STRADAVAR, COMMON, Attenuation: 1.175
    SYBARIS, COMMON, Attenuation: 0.895
    ATTICA, COMMON, Attenuation: 1.415
-   LATRON WRAITH, , Attenuation: 1.07
+   LATRON WRAITH, NONE, Attenuation: 1.07
    BOLTOR, COMMON, Attenuation: 0.79
-   BRATON PRIME, , Attenuation: 0.965
+   BRATON PRIME, NONE, Attenuation: 0.965
    BURSTON, COMMON, Attenuation: 1.175
    GORGON, COMMON, Attenuation: 1.175
-   LATRON PRIME, , Attenuation: 1.07
+   LATRON PRIME, NONE, Attenuation: 1.07
    BRATON, COMMON, Attenuation: 0.965
    LATRON, COMMON, Attenuation: 1.07
-   SNIPETRON, , Attenuation: 1
-   MK1-BRATON, , Attenuation: 0.965
+   SNIPETRON, NONE, Attenuation: 1
+   MK1-BRATON, NONE, Attenuation: 0.965
    SOMA, COMMON, Attenuation: 0.5
    VECTIS, COMMON, Attenuation: 1
-   BRATON VANDAL, , Attenuation: 0.965
-   SNIPETRON VANDAL, , Attenuation: 1
-   PRISMA GRAKATA, , Attenuation: 1.105
+   BRATON VANDAL, NONE, Attenuation: 0.965
+   SNIPETRON VANDAL, NONE, Attenuation: 1
+   PRISMA GRAKATA, NONE, Attenuation: 1.105
 
 
 [Pistol Riven Mod]
@@ -898,8 +898,8 @@ Upgrade entries:
 Item Compatibility:
 
    BURST LASER, COMMON, Attenuation: 1.45
-   BURST LASER PRIME, , Attenuation: 1.45
-   PRISMA BURST LASER, , Attenuation: 1
+   BURST LASER PRIME, NONE, Attenuation: 1.45
+   PRISMA BURST LASER, NONE, Attenuation: 1
    ACRID, COMMON, Attenuation: 1.33
    SPECTRA, COMMON, Attenuation: 1.49
    DETRON, COMMON, Attenuation: 1
@@ -922,22 +922,22 @@ Item Compatibility:
    TWIN ROGGA, COMMON, Attenuation: 1
    KULSTAR, COMMON, Attenuation: 1.1
    ATOMOS, COMMON, Attenuation: 0.87
-   WRAITH TWIN VIPERS, , Attenuation: 1.41
+   WRAITH TWIN VIPERS, NONE, Attenuation: 1.41
    POX, COMMON, Attenuation: 0.82
    DUAL TOXOCYST, COMMON, Attenuation: 1.19
    TYSIS, COMMON, Attenuation: 1.51
    EMBOLIST, COMMON, Attenuation: 1.45
-   MK1-FURIS, , Attenuation: 1.35
-   MK1-KUNAI, , Attenuation: 1.51
-   TELOS AKBOLTO, , Attenuation: 0.85
+   MK1-FURIS, NONE, Attenuation: 1.35
+   MK1-KUNAI, NONE, Attenuation: 1.51
+   TELOS AKBOLTO, NONE, Attenuation: 0.85
    GAMMACOR, COMMON, Attenuation: 0.53
-   SYNOID GAMMACOR, , Attenuation: 0.53
-   SANCTI CASTANAS, , Attenuation: 1.42
-   SECURA DUAL CESTRA, , Attenuation: 1.35
-   RAKTA BALLISTICA, , Attenuation: 0.85
-   VAYKOR MARELOK, , Attenuation: 0.5
+   SYNOID GAMMACOR, NONE, Attenuation: 0.53
+   SANCTI CASTANAS, NONE, Attenuation: 1.42
+   SECURA DUAL CESTRA, NONE, Attenuation: 1.35
+   RAKTA BALLISTICA, NONE, Attenuation: 0.85
+   VAYKOR MARELOK, NONE, Attenuation: 0.5
    AKLEX, COMMON, Attenuation: 1.51
-   AKLEX PRIME, , Attenuation: 1.51
+   AKLEX PRIME, NONE, Attenuation: 1.51
    AFURIS, COMMON, Attenuation: 1.39
    AKBOLTO, COMMON, Attenuation: 0.85
    AKLATO, COMMON, Attenuation: 1.52
@@ -945,42 +945,42 @@ Item Compatibility:
    TWIN VIPERS, COMMON, Attenuation: 1.41
    AKMAGNUS, COMMON, Attenuation: 1.28
    AKVASTO, COMMON, Attenuation: 1.24
-   AKBRONCO PRIME, , Attenuation: 1.42
+   AKBRONCO PRIME, NONE, Attenuation: 1.42
    FURIS, COMMON, Attenuation: 1.35
-   BRONCO PRIME, , Attenuation: 1.5
+   BRONCO PRIME, NONE, Attenuation: 1.5
    SICARUS, COMMON, Attenuation: 1.5
    BOLTO, COMMON, Attenuation: 1.51
    BRONCO, COMMON, Attenuation: 1.5
    LEX, COMMON, Attenuation: 0.5
-   LATO PRIME, , Attenuation: 1.51
-   LATO VANDAL, , Attenuation: 1.51
+   LATO PRIME, NONE, Attenuation: 1.51
+   LATO VANDAL, NONE, Attenuation: 1.51
    LATO, COMMON, Attenuation: 1.51
    VASTO, COMMON, Attenuation: 1.53
    BALLISTICA, COMMON, Attenuation: 0.85
-   DEX FURIS, , Attenuation: 1.39
+   DEX FURIS, NONE, Attenuation: 1.39
    AKZANI, COMMON, Attenuation: 1.52
    MAGNUS, COMMON, Attenuation: 1.53
-   AKSTILETTO PRIME, , Attenuation: 0.5
-   LEX PRIME, , Attenuation: 0.5
-   SICARUS PRIME, , Attenuation: 1.5
-   VASTO PRIME, , Attenuation: 1.53
+   AKSTILETTO PRIME, NONE, Attenuation: 0.5
+   LEX PRIME, NONE, Attenuation: 0.5
+   SICARUS PRIME, NONE, Attenuation: 1.5
+   VASTO PRIME, NONE, Attenuation: 1.53
    PYRANA, COMMON, Attenuation: 1.48
    AKSOMATI, COMMON, Attenuation: 1.26
    AZIMA, COMMON, Attenuation: 1.35
    AKSTILETTO, COMMON, Attenuation: 0.5
    AKJAGARA, COMMON, Attenuation: 1.43
-   /Lotus/Weapons/Tenno/ThrowingWeapons/DumplingBomb/DumplingBombs [LotusWeapon], , Attenuation: 1
+   /Lotus/Weapons/Tenno/ThrowingWeapons/DumplingBomb/DumplingBombs [LotusWeapon], NONE, Attenuation: 1
    SPIRA, COMMON, Attenuation: 0.66
-   SPIRA PRIME, , Attenuation: 0.66
-   HIKOU PRIME, , Attenuation: 0.69
+   SPIRA PRIME, NONE, Attenuation: 0.66
+   HIKOU PRIME, NONE, Attenuation: 0.69
    CASTANAS, COMMON, Attenuation: 1.42
    TALONS, COMMON, Attenuation: 1.44
    KUNAI, COMMON, Attenuation: 1.51
    DESPAIR, COMMON, Attenuation: 1.24
    HIKOU, COMMON, Attenuation: 0.69
-   SOLSTICE SPHERES, , Attenuation: 0.77
-   HIKOU VARIANT, , Attenuation: 0.77
-   MARA DETRON, , Attenuation: 1
+   SOLSTICE SPHERES, NONE, Attenuation: 0.77
+   HIKOU VARIANT, NONE, Attenuation: 0.77
+   MARA DETRON, NONE, Attenuation: 1
 
 
 [Shotgun Riven Mod]
@@ -1379,24 +1379,24 @@ Upgrade entries:
 
 Item Compatibility:
 
-   SWEEPER PRIME, , Attenuation: 1
+   SWEEPER PRIME, NONE, Attenuation: 1
    SWEEPER, COMMON, Attenuation: 1
    CONVECTRIX, COMMON, Attenuation: 1.46
    DRAKGOON, COMMON, Attenuation: 1.48
    KOHM, COMMON, Attenuation: 1.4
    PHAGE, COMMON, Attenuation: 1.46
-   MK1-STRUN, , Attenuation: 1.42
-   SANCTI TIGRIS, , Attenuation: 0.5
-   VAYKOR HEK, , Attenuation: 0.55
+   MK1-STRUN, NONE, Attenuation: 1.42
+   SANCTI TIGRIS, NONE, Attenuation: 0.5
+   VAYKOR HEK, NONE, Attenuation: 0.55
    TIGRIS, COMMON, Attenuation: 0.5
-   TIGRIS PRIME, , Attenuation: 0.5
+   TIGRIS PRIME, NONE, Attenuation: 0.5
    SOBEK, COMMON, Attenuation: 1.33
    BOAR, COMMON, Attenuation: 1.34
-   BOAR PRIME, , Attenuation: 1.34
-   HEK, , Attenuation: 0.55
+   BOAR PRIME, NONE, Attenuation: 1.34
+   HEK, NONE, Attenuation: 0.55
    HEK, COMMON, Attenuation: 0.55
    STRUN, COMMON, Attenuation: 1.42
-   STRUN WRAITH, , Attenuation: 1.42
+   STRUN WRAITH, NONE, Attenuation: 1.42
 
 
 [Melee Riven Mod]
@@ -1795,25 +1795,25 @@ Upgrade entries:
 
 Item Compatibility:
 
-   KOGAKE, , Attenuation: 1
+   KOGAKE, NONE, Attenuation: 1
    /Lotus/Types/Sentinels/SentinelWeapons/DeconstructorPrime/PrimeHeliosGlaiveWeapon [LotusMeleeWeapon], COMMON, Attenuation: 1
    DECONSTRUCTOR, COMMON, Attenuation: 1
    HELIOCOR, COMMON, Attenuation: 1
    PROVA, COMMON, Attenuation: 1
-   PROVA VANDAL, , Attenuation: 1
+   PROVA VANDAL, NONE, Attenuation: 1
    [PH] CORPUS TONFAS, COMMON, Attenuation: 1
    OBEX, COMMON, Attenuation: 1
    SERRO, COMMON, Attenuation: 1
    LECTA, COMMON, Attenuation: 1
    RIPKAS, COMMON, Attenuation: 1
-   SHEEV, , Attenuation: 1
+   SHEEV, NONE, Attenuation: 1
    KESHEG, COMMON, Attenuation: 1
    JAT KITTAG, COMMON, Attenuation: 1
    DUAL CLEAVERS, COMMON, Attenuation: 1
    MACHETE, COMMON, Attenuation: 1
-   PRISMA DUAL CLEAVERS, , Attenuation: 1
-   PRISMA MACHETE, , Attenuation: 1
-   MACHETE WRAITH, , Attenuation: 1
+   PRISMA DUAL CLEAVERS, NONE, Attenuation: 1
+   PRISMA MACHETE, NONE, Attenuation: 1
+   MACHETE WRAITH, NONE, Attenuation: 1
    ACK & BRUNT, COMMON, Attenuation: 1
    ATTERAX, COMMON, Attenuation: 1
    HALIKAR, COMMON, Attenuation: 1
@@ -1827,15 +1827,15 @@ Item Compatibility:
    MIRE, COMMON, Attenuation: 1
    LESION, COMMON, Attenuation: 1
    SCOLIAC, COMMON, Attenuation: 1
-   MK1-BO, , Attenuation: 1
-   MK1-FURAX, , Attenuation: 1
-   TELOS BOLTACE, , Attenuation: 1
-   SYNOID HELIOCOR, , Attenuation: 1
-   SANCTI MAGISTAR, , Attenuation: 1
-   SECURA LECTA, , Attenuation: 1
+   MK1-BO, NONE, Attenuation: 1
+   MK1-FURAX, NONE, Attenuation: 1
+   TELOS BOLTACE, NONE, Attenuation: 1
+   SYNOID HELIOCOR, NONE, Attenuation: 1
+   SANCTI MAGISTAR, NONE, Attenuation: 1
+   SECURA LECTA, NONE, Attenuation: 1
    RAKTA DARK DAGGER, COMMON, Attenuation: 1
-   VAYKOR SYDON, , Attenuation: 1
-   SCINDO PRIME, , Attenuation: 1
+   VAYKOR SYDON, NONE, Attenuation: 1
+   SCINDO PRIME, NONE, Attenuation: 1
    SCINDO, COMMON, Attenuation: 1
    DUAL ZOREN, COMMON, Attenuation: 1
    DUAL ICHOR, COMMON, Attenuation: 1
@@ -1848,20 +1848,20 @@ Item Compatibility:
    DARK DAGGER, COMMON, Attenuation: 1
    FANG, COMMON, Attenuation: 1
    ETHER DAGGERS, COMMON, Attenuation: 1
-   FANG PRIME, , Attenuation: 1
+   FANG PRIME, NONE, Attenuation: 1
    DUAL KAMAS, COMMON, Attenuation: 1
    KAMA, COMMON, Attenuation: 1
    DUAL ETHER, COMMON, Attenuation: 1
-   DUAL HEAT SWORDS, , Attenuation: 1
+   DUAL HEAT SWORDS, NONE, Attenuation: 1
    DUAL SKANA, COMMON, Attenuation: 1
    FURAX, COMMON, Attenuation: 1
-   FURAX WRAITH, , Attenuation: 1
+   FURAX WRAITH, NONE, Attenuation: 1
    TEKKO, COMMON, Attenuation: 1
-   ANKYROS PRIME, , Attenuation: 1
+   ANKYROS PRIME, NONE, Attenuation: 1
    ANKYROS, COMMON, Attenuation: 1
    KESTREL, COMMON, Attenuation: 1
    GLAIVE, COMMON, Attenuation: 1
-   GLAIVE PRIME, , Attenuation: 1
+   GLAIVE PRIME, NONE, Attenuation: 1
    ORVIUS, COMMON, Attenuation: 1
    GRAM, COMMON, Attenuation: 1
    SARPA, COMMON, Attenuation: 1
@@ -1870,56 +1870,56 @@ Item Compatibility:
    FRAGOR, COMMON, Attenuation: 1
    ETHER SWORD, COMMON, Attenuation: 1
    SKANA, COMMON, Attenuation: 1
-   SKANA PRIME, , Attenuation: 1
+   SKANA PRIME, NONE, Attenuation: 1
    MAGISTAR, COMMON, Attenuation: 1
    NINKONDI, COMMON, Attenuation: 1
    SHAKU, COMMON, Attenuation: 1
    GAZAL MACHETE, COMMON, Attenuation: 1
    TONBO, COMMON, Attenuation: 1
    ORTHOS, COMMON, Attenuation: 1
-   ORTHOS PRIME, , Attenuation: 1
-   DUAL KAMAS PRIME, , Attenuation: 1
-   FRAGOR PRIME, , Attenuation: 1
-   VENKA PRIME, , Attenuation: 1
+   ORTHOS PRIME, NONE, Attenuation: 1
+   DUAL KAMAS PRIME, NONE, Attenuation: 1
+   FRAGOR PRIME, NONE, Attenuation: 1
+   VENKA PRIME, NONE, Attenuation: 1
    ANKU, COMMON, Attenuation: 1
-   SOLSTICE SCYTHE, , Attenuation: 1
+   SOLSTICE SCYTHE, NONE, Attenuation: 1
    ETHER REAPER, COMMON, Attenuation: 1
    REAPER PRIME, COMMON, Attenuation: 1
    HATE, COMMON, Attenuation: 1
    DUAL RAZA, COMMON, Attenuation: 1
    TIPEDO, COMMON, Attenuation: 1
-   BO PRIME, , Attenuation: 1
+   BO PRIME, NONE, Attenuation: 1
    BO, COMMON, Attenuation: 1
    AMPHIS, COMMON, Attenuation: 1
-   CADUS, , Attenuation: 1
-   BO, , Attenuation: 1
-   ZENISTAR, , Attenuation: 1
+   CADUS, NONE, Attenuation: 1
+   BO, NONE, Attenuation: 1
+   ZENISTAR, NONE, Attenuation: 1
    NAMI SKYLA, COMMON, Attenuation: 1
    NAMI SOLO, COMMON, Attenuation: 1
    DARK SWORD, COMMON, Attenuation: 1
    /Lotus/Weapons/Tenno/Melee/Swords/DarkSword/DarkSwordDaggerDuals [LotusMeleeWeapon], COMMON, Attenuation: 1
    /Lotus/Weapons/Tenno/Melee/Swords/DarkSword/DarkSwordDaggerSingle [LotusMeleeWeapon], COMMON, Attenuation: 1
-   DEX DAKRA, , Attenuation: 1
+   DEX DAKRA, NONE, Attenuation: 1
    GALATINE, COMMON, Attenuation: 1
    HEAT SWORD, COMMON, Attenuation: 1
    JAW SWORD, COMMON, Attenuation: 1
    NIKANA, COMMON, Attenuation: 1
    DRAGON NIKANA, COMMON, Attenuation: 1
-   NIKANA VARIANT, , Attenuation: 1
+   NIKANA VARIANT, NONE, Attenuation: 1
    KARYST, COMMON, Attenuation: 1
    PANGOLIN SWORD, COMMON, Attenuation: 1
    PLASMA SWORD, COMMON, Attenuation: 1
-   GALATINE PRIME, , Attenuation: 1
-   NIKANA PRIME, , Attenuation: 1
+   GALATINE PRIME, NONE, Attenuation: 1
+   NIKANA PRIME, NONE, Attenuation: 1
    LACERA, COMMON, Attenuation: 1
    WAR, COMMON, Attenuation: 1
-   BROKEN-WAR, , Attenuation: 1
+   BROKEN-WAR, NONE, Attenuation: 1
    OKINA, COMMON, Attenuation: 1
    DESTREZA, COMMON, Attenuation: 1
    SILVA & AEGIS, COMMON, Attenuation: 1
    BOLTACE, COMMON, Attenuation: 1
    KRONEN, COMMON, Attenuation: 1
-   PRISMA SKANA, , Attenuation: 1
+   PRISMA SKANA, NONE, Attenuation: 1
 
 
 [[PH] Warframe Omega Mod]
@@ -2326,57 +2326,57 @@ Upgrade entries:
 
 Item Compatibility:
 
-   NOVA, , Attenuation: 1
-   NOVA PRIME, , Attenuation: 1
-   BANSHEE, , Attenuation: 1
-   /Lotus/Powersuits/Bard/Bard [PowerSuit], , Attenuation: 1
-   VALKYR, , Attenuation: 1
-   VALKYR PRIME, , Attenuation: 1
-   ATLAS, , Attenuation: 1
-   MESA, , Attenuation: 1
-   CHROMA, , Attenuation: 1
-   [PH], , Attenuation: 1
-   EMBER, , Attenuation: 1
-   EMBER PRIME, , Attenuation: 1
-   EXCALIBUR UMBRA, , Attenuation: 1
-   EXCALIBUR, , Attenuation: 1
-   EXCALIBUR PRIME, , Attenuation: 1
-   TITANIA, , Attenuation: 1
-   FROST, , Attenuation: 1
-   FROST PRIME, , Attenuation: 1
-   MIRAGE, , Attenuation: 1
-   NIDUS, , Attenuation: 1
-   NYX, , Attenuation: 1
-   NYX PRIME, , Attenuation: 1
-   LOKI, , Attenuation: 1
-   LOKI PRIME, , Attenuation: 1
-   MAG, , Attenuation: 1
-   MAG PRIME, , Attenuation: 1
-   LIMBO, , Attenuation: 1
-   WUKONG, , Attenuation: 1
-   NEKROS, , Attenuation: 1
-   NEKROS PRIME, , Attenuation: 1
-   NEZHA, , Attenuation: 1
-   ASH PRIME, , Attenuation: 1
-   ASH, , Attenuation: 1
-   WARFRAME, , Attenuation: 1
-   WARFRAME, , Attenuation: 1
-   OBERON, , Attenuation: 1
-   HYDROID, , Attenuation: 1
-   IVARA, , Attenuation: 1
-   RHINO, , Attenuation: 1
-   RHINO PRIME, , Attenuation: 1
-   INAROS, , Attenuation: 1
-   SARYN, , Attenuation: 1
-   SARYN PRIME, , Attenuation: 1
-   ZEPHYR, , Attenuation: 1
-   VAUBAN, , Attenuation: 1
-   VAUBAN PRIME, , Attenuation: 1
-   TRINITY, , Attenuation: 1
-   TRINITY PRIME, , Attenuation: 1
-   VOLT, , Attenuation: 1
-   VOLT PRIME, , Attenuation: 1
-   EQUINOX, , Attenuation: 1
+   NOVA, NONE, Attenuation: 1
+   NOVA PRIME, NONE, Attenuation: 1
+   BANSHEE, NONE, Attenuation: 1
+   /Lotus/Powersuits/Bard/Bard [PowerSuit], NONE, Attenuation: 1
+   VALKYR, NONE, Attenuation: 1
+   VALKYR PRIME, NONE, Attenuation: 1
+   ATLAS, NONE, Attenuation: 1
+   MESA, NONE, Attenuation: 1
+   CHROMA, NONE, Attenuation: 1
+   [PH], NONE, Attenuation: 1
+   EMBER, NONE, Attenuation: 1
+   EMBER PRIME, NONE, Attenuation: 1
+   EXCALIBUR UMBRA, NONE, Attenuation: 1
+   EXCALIBUR, NONE, Attenuation: 1
+   EXCALIBUR PRIME, NONE, Attenuation: 1
+   TITANIA, NONE, Attenuation: 1
+   FROST, NONE, Attenuation: 1
+   FROST PRIME, NONE, Attenuation: 1
+   MIRAGE, NONE, Attenuation: 1
+   NIDUS, NONE, Attenuation: 1
+   NYX, NONE, Attenuation: 1
+   NYX PRIME, NONE, Attenuation: 1
+   LOKI, NONE, Attenuation: 1
+   LOKI PRIME, NONE, Attenuation: 1
+   MAG, NONE, Attenuation: 1
+   MAG PRIME, NONE, Attenuation: 1
+   LIMBO, NONE, Attenuation: 1
+   WUKONG, NONE, Attenuation: 1
+   NEKROS, NONE, Attenuation: 1
+   NEKROS PRIME, NONE, Attenuation: 1
+   NEZHA, NONE, Attenuation: 1
+   ASH PRIME, NONE, Attenuation: 1
+   ASH, NONE, Attenuation: 1
+   WARFRAME, NONE, Attenuation: 1
+   WARFRAME, NONE, Attenuation: 1
+   OBERON, NONE, Attenuation: 1
+   HYDROID, NONE, Attenuation: 1
+   IVARA, NONE, Attenuation: 1
+   RHINO, NONE, Attenuation: 1
+   RHINO PRIME, NONE, Attenuation: 1
+   INAROS, NONE, Attenuation: 1
+   SARYN, NONE, Attenuation: 1
+   SARYN PRIME, NONE, Attenuation: 1
+   ZEPHYR, NONE, Attenuation: 1
+   VAUBAN, NONE, Attenuation: 1
+   VAUBAN PRIME, NONE, Attenuation: 1
+   TRINITY, NONE, Attenuation: 1
+   TRINITY PRIME, NONE, Attenuation: 1
+   VOLT, NONE, Attenuation: 1
+   VOLT PRIME, NONE, Attenuation: 1
+   EQUINOX, NONE, Attenuation: 1
    WARFRAME, COMMON, Attenuation: 1
 
 
@@ -3562,13 +3562,13 @@ Item Compatibility:
    DJINN, COMMON, Attenuation: 1
    HELIOS, COMMON, Attenuation: 1
    CARRIER PRIME, COMMON, Attenuation: 1
-   DETHCUBE PRIME, , Attenuation: 1
-   /Lotus/Types/Sentinels/SentinelPowersuits/PrimeDirigaPowerSuit [SentinelPowerSuit], , Attenuation: 1
-   /Lotus/Types/Sentinels/SentinelPowersuits/PrimeDjinnPowerSuit [SentinelPowerSuit], , Attenuation: 1
-   /Lotus/Types/Sentinels/SentinelPowersuits/PrimeHeliosPowerSuit [SentinelPowerSuit], , Attenuation: 1
-   /Lotus/Types/Sentinels/SentinelPowersuits/PrimeShadePowerSuit [SentinelPowerSuit], , Attenuation: 1
+   DETHCUBE PRIME, NONE, Attenuation: 1
+   /Lotus/Types/Sentinels/SentinelPowersuits/PrimeDirigaPowerSuit [SentinelPowerSuit], NONE, Attenuation: 1
+   /Lotus/Types/Sentinels/SentinelPowersuits/PrimeDjinnPowerSuit [SentinelPowerSuit], NONE, Attenuation: 1
+   /Lotus/Types/Sentinels/SentinelPowersuits/PrimeHeliosPowerSuit [SentinelPowerSuit], NONE, Attenuation: 1
+   /Lotus/Types/Sentinels/SentinelPowersuits/PrimeShadePowerSuit [SentinelPowerSuit], NONE, Attenuation: 1
    WYRM PRIME, COMMON, Attenuation: 1
-   PRISMA SHADE, , Attenuation: 1
+   PRISMA SHADE, NONE, Attenuation: 1
    SHADE, COMMON, Attenuation: 1
    [PH] STARTER PET, COMMON, Attenuation: 1
    WYRM, COMMON, Attenuation: 1

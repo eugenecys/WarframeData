@@ -126,6 +126,12 @@ DROP_POWERUP (Drop Chance: 25%)
 	150-300 CREDITS, RARE, 2.01%
 
 
+[ArtificerDropTable]
+
+
+[ArtificerVoidDropTable]
+
+
 [BossBipedAgentDropTable]
  - AMBULAS (BossBipedAvatar)
 
@@ -284,6 +290,9 @@ DROP_POWERUP (Drop Chance: 75%)
 DROP_FUSION_ORNAMENT (Drop Chance: 1.5%)
 	AYATAN CYAN STAR, COMMON, 50%
 	AYATAN AMBER STAR, COMMON, 50%, Bias 0.5662
+
+
+[ContainerDropTables/CommonLootCrateGrineerTutorialDropTable]
 
 
 [ContainerDropTables/CommonSurvivalLootCrateDropTable]
@@ -458,6 +467,9 @@ DROP_FUSION_ORNAMENT (Drop Chance: 1.5%)
 	AYATAN AMBER STAR, COMMON, 50%, Bias 0.5662
 
 
+[ContainerDropTables/RaidLootCrateDropTable]
+
+
 [ContainerDropTables/RareCorpusLootCrateDropTable]
 
 DROP_AMMO (Drop Chance: 100%)
@@ -549,6 +561,15 @@ DROP_POWERUP (Drop Chance: 100%)
 DROP_FUSION_ORNAMENT (Drop Chance: 1.5%)
 	AYATAN CYAN STAR, COMMON, 50%
 	AYATAN AMBER STAR, COMMON, 50%, Bias 0.5662
+
+
+[ContainerDropTables/StorageLockerCommonDropTable]
+
+
+[ContainerDropTables/StorageLockerRareDropTable]
+
+
+[ContainerDropTables/TestCrateDropTable]
 
 
 [ContainerDropTables/UltraRareCorpusLootCrateDropTable]
@@ -650,6 +671,9 @@ DROP_POWERUP (Drop Chance: 100%)
 DROP_FUSION_ORNAMENT (Drop Chance: 1.5%)
 	AYATAN CYAN STAR, COMMON, 50%
 	AYATAN AMBER STAR, COMMON, 50%, Bias 0.5662
+
+
+[ContainerDropTables/UncommonLootCrateGrineerDropTable]
 
 
 [CorpusAladVBossAgentDropTable]
@@ -1184,6 +1208,9 @@ DROP_POWERUP (Drop Chance: 25%)
 	150-300 CREDITS, RARE, 2.01%
 
 
+[CorpusRiotTacAlertDropTable]
+
+
 [CorpusShieldDroneAgentDropTable]
  - SHIELD OSPREY (ShieldDroneAvatar)
 
@@ -1541,6 +1568,9 @@ DROP_POWERUP (Drop Chance: 25%)
 	150-300 CREDITS, RARE, 2.01%
 
 
+[EventDropTables/ProjectNightwatch/NightwatchReaverDropTable]
+
+
 [EventDropTables/ProjectNightwatch/NightwatchRifleLancerDropTable]
  - NIGHTWATCH LANCER (NightwatchRifleLancerAvatar)
 
@@ -1660,6 +1690,9 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
+
+
+[GrineerBladeSawmanNoCoverDropTable]
 
 
 [GrineerBlowtorchSawmanDropTable]
@@ -2116,6 +2149,9 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
+
+
+[GrineerMacheteWomanNoCoverDropTable]
 
 
 [GrineerManicBombardDropTable]
@@ -2582,6 +2618,9 @@ DROP_POWERUP (Drop Chance: 25%)
 	150-300 CREDITS, RARE, 2.01%
 
 
+[GrineerSeaLabFemaleDropTable]
+
+
 [GrineerSeaLabFemaleSniperDropTable]
  - DREKAR BALLISTA (FemaleGrineerSniperAvatar)
 
@@ -2803,6 +2842,9 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
+
+
+[GrineerSpaceDropTable]
 
 
 [GrineerVorTwoAgentDropTable]
@@ -3372,7 +3414,7 @@ DROP_POWERUP (Drop Chance: 0%)
 [JohnProdmanDropTable]
 
 DROP_MISC_ITEM (Drop Chance: 100%, Exclusive)
-	/Lotus/Types/Items/ShipDecos/IndexAutograph, COMMON, 100%
+	[PH] EMPLOYEE OF THE MONTH, COMMON, 100%
 
 
 [KavatFeralDropTable]
@@ -4134,6 +4176,12 @@ DROP_POWERUP (Drop Chance: 25%)
 	150-300 CREDITS, RARE, 2.01%
 
 
+[PersistentEnemyDropTable]
+
+
+[PersistentEnemyRareDropTable]
+
+
 [ProsecutorDeltaDropTable]
 
 DROP_AMMO (Drop Chance: 70%)
@@ -4195,6 +4243,9 @@ DROP_POWERUP (Drop Chance: 25%)
 
 DROP_POWERUP (Drop Chance: 100%)
 	Antiserum, COMMON, 100%, Bias 1
+
+
+[RaidCarrierDropTable]
 
 
 [RaptorAgentDropTable]
@@ -4413,6 +4464,9 @@ DROP_MOD (Drop Chance: 40%)
 	80 ENDO, RARE, 1.01%
 
 
+[SargasRukBossDropTable]
+
+
 [SectorWarsBasicDropTable]
 
 DROP_AMMO (Drop Chance: 25%)
@@ -4509,6 +4563,9 @@ DROP_MOD (Drop Chance: 25%)
 	Lock and Load, RARE, 1.67%
 	Strafing Slide, RARE, 1.67%
 	Gun Glide, RARE, 1.67%
+
+
+[SentinelDropTable]
 
 
 [SpaceDropTables/CorpusFlakShipDropTable]
@@ -4901,6 +4958,9 @@ DROP_POWERUP (Drop Chance: 50%)
 	25 HEALTH, COMMON, 25%, Bias 0.25
 	100 AFFINITY, COMMON, 25%, Bias 0.5
 	50 ENERGY, COMMON, 25%, Bias 0.1
+
+
+[SpaceDropTables/GrineerSpaceMissileTurretDropTable]
 
 
 [SpaceDropTables/GrineerSpaceShipDropTable]
@@ -5322,6 +5382,9 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
+
+
+[VoidTearGenericDropTable]
 
 
 [VoidTearSealerDropTable]
