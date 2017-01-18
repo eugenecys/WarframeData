@@ -37532,7 +37532,7 @@
   "ARCANE VENGEANCE"
 
 [/Lotus/Language/Items/RegenStoreItemDesc]:
-  "If the Sentinel is killed, it will regenerate up to |COUNT|x with |PERCENT|% max health."
+  "If killed, regenerates |COUNT|x with |PERCENT|% Max Health and is invulnerable for |SECONDS|s."
 
 [/Lotus/Language/Items/RegenStoreItemName]:
   "Regen"
@@ -62369,7 +62369,7 @@
   "An autographed photo of the Employee of the Month, at Anyo Corp."
 
 [/Lotus/Language/ShipDecorations/IndexAutographName]:
-  "[PH] EMPLOYEE OF THE MONTH"
+  "PRODMAN AUTOGRAPH"
 
 [/Lotus/Language/ShipDecorations/IndexChildDrawingA]:
   "NEEWA'S DRAWING: The Dark-Eyed Man"
