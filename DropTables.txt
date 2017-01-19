@@ -2340,7 +2340,6 @@ DROP_POWERUP (Drop Chance: 25%)
 
 
 [GrineerMinigunBombardDropTable]
- - KUVA HEAVY GUNNER (FortressHeavyFemaleGrineerAvatar)
  - HEAVY GUNNER (HeavyFemaleGrineerAvatar)
  - ARID HEAVY GUNNER (HeavyFemaleGrineerAvatarDesert)
  - GRINEER WARDEN (WardenGrineerHeavyAvatar)
@@ -3549,6 +3548,36 @@ DROP_POWERUP (Drop Chance: 50%)
 	100 AFFINITY, COMMON, 25%
 	25 ENERGY, COMMON, 25%
 	25 HEALTH, COMMON, 25%
+
+
+[KuvaMinigunBombardDropTable]
+ - KUVA HEAVY GUNNER (FortressHeavyFemaleGrineerAvatar)
+
+DROP_AMMO (Drop Chance: 70%)
+	20 RIFLE AMMO, COMMON, 25%
+	20 PISTOL AMMO, COMMON, 25%
+	10 SHOTGUN AMMO, COMMON, 25%, Bias 0.455
+	10 SNIPER AMMO, COMMON, 25%, Bias 0.555
+
+DROP_MISC_ITEM (Drop Chance: 7%)
+	Uncommon Resource, COMMON, 100%
+
+DROP_MOD (Drop Chance: 3%)
+	True Steel, COMMON, 25.29%
+	Warm Coat, COMMON, 25.29%
+	Sure Footed, RARE, 0.5%
+	Expel Grineer, UNCOMMON, 11.06%
+	Tactical Pump, UNCOMMON, 11.06%
+	Sovereign Outcast, RARE, 0.5%
+	15 ENDO, COMMON, 25.29%
+	Crimson Dervish, RARE, 0.5%
+	80 ENDO, RARE, 0.5%
+
+DROP_POWERUP (Drop Chance: 25%)
+	25 ENERGY, COMMON, 37.94%
+	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
+	75-150 CREDITS, UNCOMMON, 22.11%
+	150-300 CREDITS, RARE, 2.01%
 
 
 [LaserDiscMoaDropTable]

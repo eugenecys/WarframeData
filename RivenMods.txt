@@ -430,7 +430,7 @@ Item Compatibility:
    CARMINE PENTA, NONE, Attenuation: 1.175
    PENTA, COMMON, Attenuation: 1.175
    [PH] VANDAL WEAPON, NONE, Attenuation: 1.14
-   [PH] CORPUS SPEAR GUN, NONE, Attenuation: 1
+   FERROX, NONE, Attenuation: 1
    HIND, COMMON, Attenuation: 1.42
    GRAKATA, COMMON, Attenuation: 1.105
    GRINLOK, COMMON, Attenuation: 1.245
@@ -1801,7 +1801,7 @@ Item Compatibility:
    HELIOCOR, COMMON, Attenuation: 1
    PROVA, COMMON, Attenuation: 1
    PROVA VANDAL, NONE, Attenuation: 1
-   [PH] CORPUS TONFAS, COMMON, Attenuation: 1
+   OHMA, COMMON, Attenuation: 1
    OBEX, COMMON, Attenuation: 1
    SERRO, COMMON, Attenuation: 1
    LECTA, COMMON, Attenuation: 1

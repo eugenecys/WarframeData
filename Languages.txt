@@ -5172,6 +5172,12 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 [/Lotus/Language/Bosses/Teshin]
 "Teshin"
 
+[/Lotus/Language/Bundles/CrpIndexItemPackDesc]
+"Master market forces with this collection of Corpus items. Includes the electrified Ohma Melee Weapon, Quaro Armor Set, Quaro Sugatra, and Sovereign Outcast Stance."
+
+[/Lotus/Language/Bundles/CrpIndexItemPackName]
+"QUARO COLLECTION "
+
 [/Lotus/Language/Bundles/FrostDeluxeBundleDesc]
 "This icy bundle contains the Frost Harka Skin and the Frysta Longsword Skin."
 
@@ -13342,6 +13348,9 @@ and will receive from |PLAYER_NAME| the following:|GETTING|"
 [/Lotus/Language/Enemies/IndexSpecterWukong]
 "Wukong Specter"
 
+[/Lotus/Language/Enemies/OrokinAutoTurret]
+"OROKIN SENTRY"
+
 [/Lotus/Language/Enemies/ReplicantChroma]
 "CHROMA SPECTER"
 
@@ -20750,6 +20759,12 @@ Your Battle Cards are ready now... Go!"
 
 [/Lotus/Language/Game/ExplosiveBarrelDesc]
 "Contains hazardous materials. Store in a cool, dry place. Do not expose to heat. Do not rupture the container."
+
+[/Lotus/Language/Game/ExplosiveBarrelFrozen]
+"LN2 BARREL"
+
+[/Lotus/Language/Game/ExplosiveBarrelFrozenDesc]
+"Contains a volatile freezing agent. Store in a cool, dry place. Do not expose to heat. Do not rupture the container."
 
 [/Lotus/Language/Game/ExtendedInfestedSyringeDesc]
 "[PH] Syringe with 5m range"
@@ -40127,7 +40142,7 @@ Blueprint is reusable and will not be consumed."
 "A style exhibiting sweeping slash attacks and swift jabs."
 
 [/Lotus/Language/Items/TonfaStanceB]
-"Soverign Outcast"
+"Sovereign Outcast"
 
 [/Lotus/Language/Items/TonfaStanceBDesc]
 "An outlandish style with sweeping attacks."
@@ -82464,13 +82479,13 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "[PH] Description"
 
 [/Lotus/Language/Weapons/CorpusSpearGunName]
-"[PH] CORPUS SPEAR GUN"
+"FERROX"
 
 [/Lotus/Language/Weapons/CorpusTonfaDesc]
-"[PH] Description"
+"Bring the enemy to its knees with these twin electrified tonfas."
 
 [/Lotus/Language/Weapons/CorpusTonfaName]
-"[PH] CORPUS TONFAS"
+"OHMA"
 
 [/Lotus/Language/Weapons/DjinnMacheteDesc]
 "Each kill with this swooping blade adds bonus damage to the Djinn Sentinel’s next Fatal Attraction ability. In turn, Fatal Attraction bestows the weapon with a period of corrosive damage."
