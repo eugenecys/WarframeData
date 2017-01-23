@@ -25467,8 +25467,7 @@ Note: This item requires two open slots."
 "<ARCHWING> VERITUX"
 
 [/Lotus/Language/Items/ArchSwordShieldDesc]
-"[ARCHWING]
-Part sword, part shield, the Centaur excels at charging headlong into enemy fire."
+"Part sword, part shield, the Centaur excels at charging headlong into enemy fire."
 
 [/Lotus/Language/Items/ArchSwordShieldName]
 "<ARCHWING> CENTAUR"
@@ -31794,8 +31793,7 @@ This is a key for a TRIAL mission that has been designed to be challenging for 8
 "<ARCHWING> GRATTLER"
 
 [/Lotus/Language/Items/GrnArchHandDesc]
-"[ARCHWING]
-Gallium-alloy gauntlets for close-range Archwing combat. Designed by the infamous Tyl Regor."
+"Gallium-alloy gauntlets for close-range Archwing combat. Designed by the infamous Tyl Regor."
 
 [/Lotus/Language/Items/GrnArchHandFeaturedText]
 "Gallium-alloy gauntlets for close-range Archwing combat."
@@ -64067,8 +64065,7 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 "ONORIX"
 
 [/Lotus/Language/SpaceMelee/ArchHammerDesc]
-"[ARCHWING]
-Using Archwing’s jets for thrust, this massive hammer crushes anything in its path."
+"Using Archwing’s jets for thrust, this massive hammer crushes anything in its path."
 
 [/Lotus/Language/SpaceMelee/ArchHammerName]
 "RATHBONE"
@@ -82356,7 +82353,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "For |val| Seconds on Critical Hit"
 
 [/Lotus/Language/Upgrades/WeaponMeleeCritFireRateBonusValue]
-"|val|% Attack Speed Bonus"
+"|val|% Attack Speed Bonus (up to 75%)"
 
 [/Lotus/Language/Upgrades/WeaponMeleeFinisherDmgModDesc]
 "|val|% Finisher Damage"
