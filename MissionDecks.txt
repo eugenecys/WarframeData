@@ -1665,7 +1665,7 @@ Rotation A:
   FixedWeights=True
 
   1 Rifle Riven Mod, 8.62%
-  25 80 ENDO, 28%
+  1 "", 28%
   50 80 ENDO, 12.1%
   1 MADURAI LENS, 3%
   1 GREATER MADURAI LENS, 1%
