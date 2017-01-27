@@ -2265,7 +2265,15 @@
   },
   "VoidKeyMissionRewards/AklexPrime": {
     "Locations": [
-      "AXI V5 RELIC"
+      "AXI A2 RELIC"
+    ],
+    "Rotation A": [
+      "1 AKLEX PRIME LINK, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats",
+      "1 AKLEX PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats",
+      "1 LEX PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 25 Ducats",
+      "1 LEX PRIME RECEIVER, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats",
+      "1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%",
+      "1 LEX PRIME BARREL, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats"
     ]
   },
   "VoidKeyMissionRewards/FireAndIceVaultA": {
@@ -2576,7 +2584,7 @@
       "1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%",
       "1 ORTHOS PRIME BLADE, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats",
       "1 DUAL KAMAS PRIME BLADE, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats",
-      "1 LEX PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats",
+      "1 LEX PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 25 Ducats",
       "1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%"
     ]
   },
@@ -2848,7 +2856,7 @@
       "NEO N2 RELIC"
     ],
     "Rotation A": [
-      "1 LEX PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats",
+      "1 LEX PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 25 Ducats",
       "1 VAUBAN PRIME SYSTEMS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats",
       "1 FANG PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats",
       "1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%",
@@ -2890,7 +2898,7 @@
       "1 SARYN PRIME BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats",
       "1 TRINITY PRIME CHASSIS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats",
       "1 KAVASA PRIME KUBROW COLLAR BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats",
-      "1 LEX PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats",
+      "1 LEX PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 25 Ducats",
       "1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%",
       "1 PARIS PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats"
     ]
