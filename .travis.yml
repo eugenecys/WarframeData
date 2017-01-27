@@ -4,6 +4,7 @@ node_js:
 script:
 - node parsers/Languages.js
 - node parsers/MissionDecks.js
+- node parsers/StarChart.js
 after_success:
 - "./travis/push.sh"
 env:
