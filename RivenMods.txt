@@ -899,7 +899,7 @@ Item Compatibility:
 
    BURST LASER, COMMON, Attenuation: 1.45
    BURST LASER PRIME, NONE, Attenuation: 1.45
-   PRISMA BURST LASER, NONE, Attenuation: 1
+   PRISMA BURST LASER, NONE, Attenuation: 1.45
    ACRID, COMMON, Attenuation: 1.33
    SPECTRA, COMMON, Attenuation: 1.49
    DETRON, COMMON, Attenuation: 1
@@ -936,8 +936,8 @@ Item Compatibility:
    SECURA DUAL CESTRA, NONE, Attenuation: 1.35
    RAKTA BALLISTICA, NONE, Attenuation: 0.85
    VAYKOR MARELOK, NONE, Attenuation: 0.5
-   AKLEX, COMMON, Attenuation: 1.51
-   AKLEX PRIME, NONE, Attenuation: 1.51
+   AKLEX, COMMON, Attenuation: 1
+   AKLEX PRIME, NONE, Attenuation: 1
    AFURIS, COMMON, Attenuation: 1.39
    AKBOLTO, COMMON, Attenuation: 0.85
    AKLATO, COMMON, Attenuation: 1.52
@@ -980,7 +980,7 @@ Item Compatibility:
    HIKOU, COMMON, Attenuation: 0.69
    SOLSTICE SPHERES, NONE, Attenuation: 0.77
    HIKOU VARIANT, NONE, Attenuation: 0.77
-   MARA DETRON, NONE, Attenuation: 1
+   DETRON MARA, NONE, Attenuation: 1
 
 
 [Shotgun Riven Mod]
@@ -1796,7 +1796,7 @@ Upgrade entries:
 Item Compatibility:
 
    KOGAKE, NONE, Attenuation: 1
-   /Lotus/Types/Sentinels/SentinelWeapons/DeconstructorPrime/PrimeHeliosGlaiveWeapon [LotusMeleeWeapon], COMMON, Attenuation: 1
+   /Lotus/Types/Sentinels/SentinelWeapons/DeconstructorPrime/PrimeHeliosGlaiveWeapon [LotusMeleeWeapon], NONE, Attenuation: 1
    DECONSTRUCTOR, COMMON, Attenuation: 1
    HELIOCOR, COMMON, Attenuation: 1
    PROVA, COMMON, Attenuation: 1
