@@ -5172,6 +5172,12 @@
 [/Lotus/Language/Bosses/Teshin]:
   "Teshin"
 
+[/Lotus/Language/Bundles/ActionGlyphsBundleADesc]:
+  "Show off your style, with this action packed collection of Warframe glyphs."
+
+[/Lotus/Language/Bundles/ActionGlyphsBundleAName]:
+  "VEDDA GLYPH PACK"
+
 [/Lotus/Language/Bundles/CrpIndexItemPackDesc]:
   "Master market forces with this collection of Corpus items. Includes the electrified Ohma Melee Weapon, Quaro Armor Set, Quaro Sugatra, and Sovereign Outcast Stance."
 
@@ -8839,7 +8845,7 @@
   "A profile icon portraying Baro Ki'teer, himself."
 
 [/Lotus/Language/Cosmetics/AvatarBaroKiteerName]:
-  "Baro Ki'teer Profile Icon"
+  "BARO KI'TEER PROFILE ICON"
 
 [/Lotus/Language/Cosmetics/BansheeDefaultSkinDesc]:
   "The standard issue skin for the Banshee Warframe."
@@ -9243,6 +9249,12 @@
 [/Lotus/Language/Cosmetics/PaladinDefaultSkinName]:
   "OBERON SKIN"
 
+[/Lotus/Language/Cosmetics/RangerAlt02HelmetDesc]:
+  "An alternate helmet for Ivara."
+
+[/Lotus/Language/Cosmetics/RangerAlt02HelmetName]:
+  "IVARA ZIRASTRA HELMET"
+
 [/Lotus/Language/Cosmetics/RangerDefaultSkinDesc]:
   "The standard issue skin for the Ivara Warframe."
 
@@ -9266,6 +9278,12 @@
 
 [/Lotus/Language/Cosmetics/RobedDjinnName]:
   "DJINN GAZAL SKIN"
+
+[/Lotus/Language/Cosmetics/SandmanAlt02HelmetDesc]:
+  "An alternate helmet for Inaros."
+
+[/Lotus/Language/Cosmetics/SandmanAlt02HelmetName]:
+  "INAROS CANOPIC HELMET"
 
 [/Lotus/Language/Cosmetics/SandmanDefaultSkinDesc]:
   "The standard issue skin for the Inaros Warframe."
@@ -18410,6 +18428,24 @@
 [/Lotus/Language/G1Quests/TacAlertHalloweenToolTip]:
   "Hallowed Nightmare Mode"
 
+[/Lotus/Language/G1Quests/TacAlertNinjaVariantRewardsBody]:
+  "|PLAYER_NAME|,
+  
+  You have honored The Conclave with your strength and perseverance. Please, take this reward as a token of your dedication.
+  
+  -Teshin"
+
+[/Lotus/Language/G1Quests/TacAlertNinjaVariantRewardsTitle]:
+  "QUICK STEEL: Conclave Award"
+
+[/Lotus/Language/G1Quests/TacAlertNinjaVariantTitle]:
+  "QUICK STEEL"
+
+[/Lotus/Language/G1Quests/TacAlertNinjaVariantToolTip]:
+  "Razor sharp Nikana clash with bullet fast Hikou in this amped-up deathmatch variant.
+  
+  Win (Place in top 3) = 3 Points. Loss = 1 Point."
+
 [/Lotus/Language/G1Quests/TacAlertSnowballFightRewardsBody]:
   "Operator, alert! 
   
@@ -20458,6 +20494,9 @@
 
 [/Lotus/Language/Game/DM_Description]:
   "You are alone against many. Annihilate the most Oro to win the match."
+
+[/Lotus/Language/Game/DM_NinjaVariantDescription]:
+  "Razor sharp Nikana clash with bullet fast Hikou in this amped-up deathmatch variant."
 
 [/Lotus/Language/Game/DM_Title]:
   "ANNIHILATION"
@@ -25195,7 +25234,7 @@
   "A profile icon of the Arbiters of Hexis"
 
 [/Lotus/Language/Items/ArbitersHexisProfileIconName]:
-  "Arbiters of Hexis Profile Icon"
+  "ARBITERS OF HEXIS PROFILE ICON"
 
 [/Lotus/Language/Items/ArcaneAshAltHelmet2Desc]:
   "This helmet is worn by Ash, and adds Energy Capacity, with a reduction to Speed."
@@ -25755,169 +25794,169 @@
   "A profile icon depicting Ash on a bright background."
 
 [/Lotus/Language/Items/AvatarAshBrightName]:
-  "Ash Profile Icon"
+  "ASH PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarAshDarkDescription]:
   "A profile icon depicting Ash on a dark background."
 
 [/Lotus/Language/Items/AvatarAshDarkName]:
-  "Ash Profile Icon"
+  "ASH PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarAshDeluxeDesc]:
   "A profile icon depicting Ash Koga skin."
 
 [/Lotus/Language/Items/AvatarAshDeluxeName]:
-  "Ash Koga Profile Icon"
+  "ASH KOGA PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarAshLocustBrightDescription]:
   "A profile icon depicting Ash Locust on a bright background."
 
 [/Lotus/Language/Items/AvatarAshLocustBrightName]:
-  "Ash Locust Profile Icon"
+  "ASH LOCUST PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarAshLocustDarkDescription]:
   "A profile icon depicting Ash Locust on a dark background."
 
 [/Lotus/Language/Items/AvatarAshLocustDarkName]:
-  "Ash Locust Profile Icon"
+  "ASH LOCUST PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarAshPrimeBrightDesc]:
   "A profile icon depicting Ash Prime on a bright background."
 
 [/Lotus/Language/Items/AvatarAshPrimeBrightName]:
-  "Ash Prime Profile Icon"
+  "ASH PRIME PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarAshPrimeDarkDesc]:
   "A profile icon depicting Ash Prime on a dark background."
 
 [/Lotus/Language/Items/AvatarAshPrimeDarkName]:
-  "Ash Prime Profile Icon"
+  "ASH PRIME PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarAshScorpionBrightDescription]:
   "A profile icon depicting Ash Scorpion on a bright background."
 
 [/Lotus/Language/Items/AvatarAshScorpionBrightName]:
-  "Ash Scorpion Profile Icon"
+  "ASH SCORPION PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarAshScorpionDarkDescription]:
   "A profile icon depicting Ash Scorpion on a dark background."
 
 [/Lotus/Language/Items/AvatarAshScorpionDarkName]:
-  "Ash Scorpion Profile Icon"
+  "ASH SCORPION PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarBansheeBrightDescription]:
   "A profile icon depicting Banshee on a bright background."
 
 [/Lotus/Language/Items/AvatarBansheeBrightName]:
-  "Banshee Profile Icon"
+  "BANSHEE PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarBansheeChorusBrightDescription]:
   "A profile icon depicting Banshee Chorus on a bright background."
 
 [/Lotus/Language/Items/AvatarBansheeChorusBrightName]:
-  "Banshee Chorus Profile Icon"
+  "BANSHEE CHORUS PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarBansheeChorusDarkDescription]:
   "A profile icon depicting Banshee Chorus on a dark background."
 
 [/Lotus/Language/Items/AvatarBansheeChorusDarkName]:
-  "Banshee Chorus Profile Icon"
+  "BANSHEE CHORUS PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarBansheeDarkDescription]:
   "A profile icon depicting Banshee on a dark background."
 
 [/Lotus/Language/Items/AvatarBansheeDarkName]:
-  "Banshee Profile Icon"
+  "BANSHEE PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarBansheeDeluxeDesc]:
   "A profile icon depicting Banshee Soprana skin."
 
 [/Lotus/Language/Items/AvatarBansheeDeluxeName]:
-  "Banshee Soprana Profile Icon"
+  "BANSHEE SOPRANA PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarBansheeReverbBrightDescription]:
   "A profile icon depicting Banshee Reverb on a bright background."
 
 [/Lotus/Language/Items/AvatarBansheeReverbBrightName]:
-  "Banshee Reverb Profile Icon"
+  "BANSHEE REVERB PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarBansheeReverbDarkDescription]:
   "A profile icon depicting Banshee Reverb on a dark background."
 
 [/Lotus/Language/Items/AvatarBansheeReverbDarkName]:
-  "Banshee Reverb Profile Icon"
+  "BANSHEE REVERB PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarBrawlerAltBrightDesc]:
   "A profile icon depicting Atlas Tartarus on a bright background."
 
 [/Lotus/Language/Items/AvatarBrawlerAltBrightName]:
-  "Atlas Tartarus Profile Icon"
+  "ATLAS TARTARUS PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarBrawlerAltDarkDesc]:
   "A profile icon depicting Atlas Tartarus on a dark background."
 
 [/Lotus/Language/Items/AvatarBrawlerAltDarkName]:
-  "Atlas Tartarus Profile Icon"
+  "ATLAS TARTARUS PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarBrawlerAltTwoBrightDescription]:
   "A profile icon depicting Atlas Shikoro on a bright background."
 
 [/Lotus/Language/Items/AvatarBrawlerAltTwoBrightName]:
-  "Atlas Shikoro Profile Icon"
+  "ATLAS SHIKORO PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarBrawlerAltTwoDarkDescription]:
   "A profile icon depicting Atlas Shikoro on a dark background."
 
 [/Lotus/Language/Items/AvatarBrawlerAltTwoDarkName]:
-  "Atlas Shikoro Profile Icon"
+  "ATLAS SHIKORO PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarBrawlerBrightDesc]:
   "A profile icon depicting Atlas on a bright background."
 
 [/Lotus/Language/Items/AvatarBrawlerBrightName]:
-  "Atlas Profile Icon"
+  "ATLAS PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarBrawlerDarkDesc]:
   "A profile icon depicting Atlas on a dark background."
 
 [/Lotus/Language/Items/AvatarBrawlerDarkName]:
-  "Atlas Profile Icon"
+  "ATLAS PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarChromaAmaruBrightDesc]:
   "A profile icon depicting Chroma Amaru on a bright background."
 
 [/Lotus/Language/Items/AvatarChromaAmaruBrightName]:
-  "Chroma Amaru Profile Icon"
+  "CHROMA AMARU PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarChromaAmaruDarkDesc]:
   "A profile icon depicting Chroma Amaru on a dark background."
 
 [/Lotus/Language/Items/AvatarChromaAmaruDarkName]:
-  "Chroma Amaru Profile Icon"
+  "CHROMA AMARU PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarChromaBrightDesc]:
   "A profile icon depicting Chroma on a bright background."
 
 [/Lotus/Language/Items/AvatarChromaBrightName]:
-  "Chroma Profile Icon"
+  "CHROMA PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarChromaDarkDesc]:
   "A profile icon depicting Chroma on a dark background."
 
 [/Lotus/Language/Items/AvatarChromaDarkName]:
-  "Chroma Profile Icon"
+  "CHROMA PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarChromaDracBrightDesc]:
   "A profile icon depicting Chroma Drac on a bright background."
 
 [/Lotus/Language/Items/AvatarChromaDracBrightName]:
-  "Chroma Drac Profile Icon"
+  "CHROMA DRAC PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarChromaDracDarkDesc]:
   "A profile icon depicting Chroma Drac on a dark background."
 
 [/Lotus/Language/Items/AvatarChromaDracDarkName]:
-  "Chroma Drac Profile Icon"
+  "CHROMA DRAC PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarDynlineDesc]:
   "A prize-winning profile icon, designed by Dynline
@@ -25932,49 +25971,49 @@
   "A profile icon depicting Ember Backdraft on a bright background."
 
 [/Lotus/Language/Items/AvatarEmberBackdraftBrightName]:
-  "Ember Backdraft Profile Icon"
+  "EMBER BACKDRAFT PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarEmberBackdraftDarkDescription]:
   "A profile icon depicting Ember Backdraft on a dark background."
 
 [/Lotus/Language/Items/AvatarEmberBackdraftDarkName]:
-  "Ember Backdraft Profile Icon"
+  "EMBER BACKDRAFT PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarEmberBrightDescription]:
   "A profile icon depicting Ember on a bright background."
 
 [/Lotus/Language/Items/AvatarEmberBrightName]:
-  "Ember Profile Icon"
+  "EMBER PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarEmberDarkDescription]:
   "A profile icon depicting Ember on a dark background."
 
 [/Lotus/Language/Items/AvatarEmberDarkName]:
-  "Ember Profile Icon"
+  "EMBER PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarEmberPheonixBrightDescription]:
   "A profile icon depicting Ember Phoenix on a bright background."
 
 [/Lotus/Language/Items/AvatarEmberPheonixBrightName]:
-  "Phoenix Ember Profile Icon"
+  "PHOENIX EMBER PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarEmberPheonixDarkDescription]:
   "A profile icon depicting Ember Phoenix on a dark background."
 
 [/Lotus/Language/Items/AvatarEmberPheonixDarkName]:
-  "Phoenix Ember Profile Icon"
+  "PHOENIX EMBER PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarEmberPrimeBrightDesc]:
   "A profile icon depicting Ember Prime on a bright background."
 
 [/Lotus/Language/Items/AvatarEmberPrimeBrightName]:
-  "Ember Prime Profile Icon"
+  "EMBER PRIME PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarEmberPrimeDarkDesc]:
   "A profile icon depicting Ember Prime on a dark background."
 
 [/Lotus/Language/Items/AvatarEmberPrimeDarkName]:
-  "Ember Prime Profile Icon"
+  "EMBER PRIME PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarEpsilonDesc]:
   "A prize-winning profile icon, designed by NaturallySelected
@@ -25989,91 +26028,91 @@
   "A profile icon depicting Equinox on a bright background."
 
 [/Lotus/Language/Items/AvatarEquinoxBrightName]:
-  "Equinox Profile Icon"
+  "EQUINOX PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarEquinoxDarkDesc]:
   "A profile icon depicting Equinox Solstice on a dark background."
 
 [/Lotus/Language/Items/AvatarEquinoxDarkName]:
-  "Equinox Profile Icon"
+  "EQUINOX PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarEquinoxSolsticeBrightDesc]:
   "A profile icon depicting Equinox Solstice on a bright background."
 
 [/Lotus/Language/Items/AvatarEquinoxSolsticeBrightName]:
-  "Equinox Solstice Profile Icon"
+  "EQUINOX SOLSTICE PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarEquinoxSolsticeDarkDesc]:
   "A profile icon depicting Equinox on a dark background."
 
 [/Lotus/Language/Items/AvatarEquinoxSolsticeDarkName]:
-  "Equinox Solstice Profile Icon"
+  "EQUINOX SOLSTICE PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarExcaliburAvalonBrightDescription]:
   "A profile icon depicting Excalibur Avalon on a bright background."
 
 [/Lotus/Language/Items/AvatarExcaliburAvalonBrightName]:
-  "Excalibur Avalon Profile Icon"
+  "EXCALIBUR AVALON PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarExcaliburAvalonDarkDescription]:
   "A profile icon depicting Excalibur Avalon on a dark background."
 
 [/Lotus/Language/Items/AvatarExcaliburAvalonDarkName]:
-  "Excalibur Avalon Profile Icon"
+  "EXCALIBUR AVALON PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarExcaliburBrightDescription]:
   "A profile icon depicting Excalibur on a bright background."
 
 [/Lotus/Language/Items/AvatarExcaliburBrightName]:
-  "Excalibur Profile Icon"
+  "EXCALIBUR PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarExcaliburDarkDescription]:
   "A profile icon depicting Excalibur on a dark background."
 
 [/Lotus/Language/Items/AvatarExcaliburDarkName]:
-  "Excalibur Profile Icon"
+  "EXCALIBUR PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarExcaliburMordredBrightDescription]:
   "A profile icon depicting Excalibur Mordred on a bright background."
 
 [/Lotus/Language/Items/AvatarExcaliburMordredBrightName]:
-  "Excalibur Mordred Profile Icon"
+  "EXCALIBUR MORDRED PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarExcaliburMordredDarkDescription]:
   "A profile icon depicting Excalibur Mordred on a dark background."
 
 [/Lotus/Language/Items/AvatarExcaliburMordredDarkName]:
-  "Excalibur Mordred Profile Icon"
+  "EXCALIBUR MORDRED PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarExcaliburPendragonBrightDescription]:
   "A profile icon depicting Excalibur Pendragon on a bright background."
 
 [/Lotus/Language/Items/AvatarExcaliburPendragonBrightName]:
-  "Excalibur Pendragon Profile Icon"
+  "EXCALIBUR PENDRAGON PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarExcaliburPendragonDarkDescription]:
   "A profile icon depicting Excalibur Pendragon on a dark background."
 
 [/Lotus/Language/Items/AvatarExcaliburPendragonDarkName]:
-  "Excalibur Pendragon Profile Icon"
+  "EXCALIBUR PENDRAGON PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarExcaliburPrimeBrightDescription]:
   "A profile icon depicting Excalibur Prime on a bright background."
 
 [/Lotus/Language/Items/AvatarExcaliburPrimeBrightName]:
-  "Excalibur Prime Profile Icon"
+  "EXCALIBUR PRIME PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarExcaliburPrimeDarkDescription]:
   "A profile icon depicting Excalibur Prime on a dark background."
 
 [/Lotus/Language/Items/AvatarExcaliburPrimeDarkName]:
-  "Excalibur Prime Profile Icon"
+  "EXCALIBUR PRIME PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarExcaliburProtoDescription]:
   "A profile icon depicting the Excalibur Proto-suit."
 
 [/Lotus/Language/Items/AvatarExcaliburProtoName]:
-  "Excalibur Proto-Suit Profile Icon"
+  "EXCALIBUR PROTO-SUIT PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarFabpsiDesc]:
   "A prize-winning profile icon, designed by Fabpsi
@@ -26088,25 +26127,25 @@
   "A profile icon depicting Frost Aurora on a bright background."
 
 [/Lotus/Language/Items/AvatarFrostAuroraBrightName]:
-  "Frost Aurora Profile Icon"
+  "FROST AURORA PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarFrostAuroraDarkDescription]:
   "A profile icon depicting Frost Aurora on a dark background."
 
 [/Lotus/Language/Items/AvatarFrostAuroraDarkName]:
-  "Frost Aurora Profile Icon"
+  "FROST AURORA PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarFrostBrightDescription]:
   "A profile icon depicting Frost on a bright background."
 
 [/Lotus/Language/Items/AvatarFrostBrightName]:
-  "Frost Profile Icon"
+  "FROST PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarFrostDarkDescription]:
   "A profile icon depicting Frost on a dark background."
 
 [/Lotus/Language/Items/AvatarFrostDarkName]:
-  "Frost Profile Icon"
+  "FROST PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarFrostDeluxeDesc]:
   "A profile icon depicting Frost Harka."
@@ -26118,115 +26157,115 @@
   "A profile icon depicting Frost Prime on a bright background."
 
 [/Lotus/Language/Items/AvatarFrostPrimeBrightName]:
-  "Frost Prime Profile Icon"
+  "FROST PRIME PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarFrostPrimeDarkDescription]:
   "A profile icon depicting Frost Prime on a dark background."
 
 [/Lotus/Language/Items/AvatarFrostPrimeDarkName]:
-  "Frost Prime Profile Icon"
+  "FROST PRIME PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarFrostSquallBrightDescription]:
   "A profile icon depicting Frost Squall on a bright background."
 
 [/Lotus/Language/Items/AvatarFrostSquallBrightName]:
-  "Frost Squall Profile Icon"
+  "FROST SQUALL PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarFrostSquallDarkDescription]:
   "A profile icon depicting Frost Squall on a dark background."
 
 [/Lotus/Language/Items/AvatarFrostSquallDarkName]:
-  "Frost Squall Profile Icon"
+  "FROST SQUALL PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarGunslingerAltBrightDesc]:
   "A profile icon depicting Mesa Longhorn on a bright background."
 
 [/Lotus/Language/Items/AvatarGunslingerAltBrightName]:
-  "Mesa Longhorn Profile Icon"
+  "MESA LONGHORN PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarGunslingerAltDarkDesc]:
   "A profile icon depicting Mesa Longhorn on a dark background."
 
 [/Lotus/Language/Items/AvatarGunslingerAltDarkName]:
-  "Mesa Longhorn Profile Icon"
+  "MESA LONGHORN PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarGunslingerBrightDesc]:
   "A profile icon depicting Mesa on a bright background."
 
 [/Lotus/Language/Items/AvatarGunslingerBrightName]:
-  "Mesa Profile Icon"
+  "MESA PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarGunslingerDarkDesc]:
   "A profile icon depicting Mesa on a dark background."
 
 [/Lotus/Language/Items/AvatarGunslingerDarkName]:
-  "Mesa Profile Icon"
+  "MESA PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarHydroidKetosBrightDesc]:
   "A profile icon depicting Hydroid Ketos on a bright background."
 
 [/Lotus/Language/Items/AvatarHydroidKetosBrightName]:
-  "Hydroid Ketos Profile Icon"
+  "HYDROID KETOS PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarHydroidKetosDarkDesc]:
   "A profile icon depicting Hydroid Ketos on a dark background."
 
 [/Lotus/Language/Items/AvatarHydroidKetosDarkName]:
-  "Hydroid Ketos Profile Icon"
+  "HYDROID KETOS PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarImage1Description]:
-  "Excalibur Profile Icon"
+  "EXCALIBUR PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarImage1Name]:
-  "Excalibur Profile Icon"
+  "EXCALIBUR PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarImage2Description]:
-  "Volt Profile Icon"
+  "VOLT PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarImage2Name]:
-  "Volt Profile Icon"
+  "VOLT PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarImage3Description]:
-  "Trinity Profile Icon"
+  "TRINITY PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarImage3Name]:
-  "Trinity Profile Icon"
+  "TRINITY PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarImage4Description]:
-  "Rhino Profile Icon"
+  "RHINO PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarImage4Name]:
-  "Rhino Profile Icon"
+  "RHINO PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarImage5Description]:
-  "Mag Profile Icon"
+  "MAG PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarImage5Name]:
-  "Mag Profile Icon"
+  "MAG PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarImage6Description]:
-  "Ash Profile Icon"
+  "ASH PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarImage6Name]:
-  "Ash Profile Icon"
+  "ASH PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarImage7Description]:
-  "Ember Profile Icon"
+  "EMBER PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarImage7Name]:
-  "Ember Profile Icon"
+  "EMBER PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarImage8Description]:
-  "Loki Profile Icon"
+  "LOKI PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarImage8Name]:
-  "Loki Profile Icon"
+  "LOKI PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarImageDefaultDescription]:
   "The symbol of the Lotus"
 
 [/Lotus/Language/Items/AvatarImageDefaultName]:
-  "Lotus Symbol Profile Icon"
+  "LOTUS SYMBOL PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarImagePack1Description]:
   "Contains 2 unique profile icon images."
@@ -26253,37 +26292,37 @@
   "A profile icon depicting Limbo Aristeas on a bright background."
 
 [/Lotus/Language/Items/AvatarLimboAristeasBrightName]:
-  "Limbo Aristeas Profile Icon"
+  "LIMBO ARISTEAS PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarLimboAristeasDarkDescription]:
   "A profile icon depicting Limbo Aristeas on a dark background."
 
 [/Lotus/Language/Items/AvatarLimboAristeasDarkName]:
-  "Limbo Aristeas Profile Icon"
+  "LIMBO ARISTEAS PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarLimboBrightDescription]:
   "A profile icon depicting Limbo on a bright background."
 
 [/Lotus/Language/Items/AvatarLimboBrightName]:
-  "Limbo Profile Icon"
+  "LIMBO PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarLimboDarkDescription]:
   "A profile icon depicting Limbo on a dark background."
 
 [/Lotus/Language/Items/AvatarLimboDarkName]:
-  "Limbo Profile Icon"
+  "LIMBO PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarLimboGraeaeBrightDesc]:
   "A profile icon depicting Limbo Magrite on a bright background."
 
 [/Lotus/Language/Items/AvatarLimboGraeaeBrightName]:
-  "Limbo Magrite Profile Icon"
+  "LIMBO MAGRITE PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarLimboGraeaeDarkDesc]:
   "A profile icon depicting Limbo Magrite on a dark background."
 
 [/Lotus/Language/Items/AvatarLimboGraeaeDarkName]:
-  "Limbo Magrite Profile Icon"
+  "LIMBO MAGRITE PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarLocoCrazyDesc]:
   "A prize-winning profile icon, designed by LocoCrazy
@@ -26298,13 +26337,13 @@
   "A profile icon depicting Loki on a bright background."
 
 [/Lotus/Language/Items/AvatarLokiBrightName]:
-  "Loki Profile Icon"
+  "LOKI PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarLokiDarkDescription]:
   "A profile icon depicting Loki on a dark background."
 
 [/Lotus/Language/Items/AvatarLokiDarkName]:
-  "Loki Profile Icon"
+  "LOKI PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarLokiDeluxeDesc]:
   "A profile icon depicting Loki Knave."
@@ -26316,301 +26355,301 @@
   "A profile icon depicting Loki Enigma on a bright background."
 
 [/Lotus/Language/Items/AvatarLokiEnigmaBrightName]:
-  "Loki Enigma Profile Icon"
+  "LOKI ENIGMA PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarLokiEnigmaDarkDesc]:
   "A profile icon depicting Loki Enigma on a dark background."
 
 [/Lotus/Language/Items/AvatarLokiEnigmaDarkName]:
-  "Loki Enigma Profile Icon"
+  "LOKI ENIGMA PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarLokiEssenceBrightDescription]:
   "A profile icon depicting Loki Essence on a bright background."
 
 [/Lotus/Language/Items/AvatarLokiEssenceBrightName]:
-  "Loki Essence Profile Icon"
+  "LOKI ESSENCE PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarLokiEssenceDarkDescription]:
   "A profile icon depicting Loki Essence on a dark background."
 
 [/Lotus/Language/Items/AvatarLokiEssenceDarkName]:
-  "Loki Essence Profile Icon"
+  "LOKI ESSENCE PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarLokiPrimeBrightDescription]:
   "A profile icon depicting Loki Prime on a bright background."
 
 [/Lotus/Language/Items/AvatarLokiPrimeBrightName]:
-  "Loki Prime Profile Icon"
+  "LOKI PRIME PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarLokiPrimeDarkDescription]:
   "A profile icon depicting Loki Prime on a dark background."
 
 [/Lotus/Language/Items/AvatarLokiPrimeDarkName]:
-  "Loki Prime Profile Icon"
+  "LOKI PRIME PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarLokiSwindleBrightDescription]:
   "A profile icon depicting Loki Swindle on a bright background."
 
 [/Lotus/Language/Items/AvatarLokiSwindleBrightName]:
-  "Loki Swindle Profile Icon"
+  "LOKI SWINDLE PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarLokiSwindleDarkDescription]:
   "A profile icon depicting Loki Swindle on a dark background."
 
 [/Lotus/Language/Items/AvatarLokiSwindleDarkName]:
-  "Loki Swindle Profile Icon"
+  "LOKI SWINDLE PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarMagBrightDescription]:
   "A profile icon depicting Mag on a bright background."
 
 [/Lotus/Language/Items/AvatarMagBrightName]:
-  "Mag Profile Icon"
+  "MAG PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarMagCoilBrightDescription]:
   "A profile icon depicting Mag Coil on a bright background."
 
 [/Lotus/Language/Items/AvatarMagCoilBrightName]:
-  "Mag Coil Profile Icon"
+  "MAG COIL PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarMagCoilDarkDescription]:
   "A profile icon depicting Mag Coil on a dark background."
 
 [/Lotus/Language/Items/AvatarMagCoilDarkName]:
-  "Mag Coil Profile Icon"
+  "MAG COIL PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarMagDarkDescription]:
   "A profile icon depicting Mag on a dark background."
 
 [/Lotus/Language/Items/AvatarMagDarkName]:
-  "Mag Profile Icon"
+  "MAG PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarMagGaussBrightDescription]:
   "A profile icon depicting Mag Gauss on a bright background."
 
 [/Lotus/Language/Items/AvatarMagGaussBrightName]:
-  "Mag Gauss Profile Icon"
+  "MAG GAUSS PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarMagGaussDarkDescription]:
   "A profile icon depicting Mag Gauss on a dark background."
 
 [/Lotus/Language/Items/AvatarMagGaussDarkName]:
-  "Mag Gauss Profile Icon"
+  "MAG GAUSS PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarMagPrimeBrightDescription]:
   "A profile icon depicting Mag Prime on a bright background."
 
 [/Lotus/Language/Items/AvatarMagPrimeBrightName]:
-  "Mag Prime Profile Icon"
+  "MAG PRIME PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarMagPrimeDarkDescription]:
   "A profile icon depicting Mag Prime on a dark background."
 
 [/Lotus/Language/Items/AvatarMagPrimeDarkName]:
-  "Mag Prime Profile Icon"
+  "MAG PRIME PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarMesaCortesBrightDesc]:
   "A profile icon depicting Mesa Ovis on a bright background."
 
 [/Lotus/Language/Items/AvatarMesaCortesBrightName]:
-  "Mesa Ovis Profile Icon"
+  "MESA OVIS PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarMesaCortesDarkDesc]:
   "A profile icon depicting Mesa Ovis on a dark background."
 
 [/Lotus/Language/Items/AvatarMesaCortesDarkName]:
-  "Mesa Ovis Profile Icon"
+  "MESA OVIS PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarMirageBrightDesc]:
   "A profile icon depicting Mirage on a bright background."
 
 [/Lotus/Language/Items/AvatarMirageBrightName]:
-  "Mirage Profile Icon"
+  "MIRAGE PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarMirageDarkDesc]:
   "A profile icon depicting Mirage on a dark background."
 
 [/Lotus/Language/Items/AvatarMirageDarkName]:
-  "Mirage Profile Icon"
+  "MIRAGE PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarMirageHarlequinBrightDesc]:
   "A profile icon depicting Mirage Harlequin on a bright background."
 
 [/Lotus/Language/Items/AvatarMirageHarlequinBrightName]:
-  "Mirage Harlequin Profile Icon"
+  "MIRAGE HARLEQUIN PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarMirageHarlequinDarkDesc]:
   "A profile icon depicting Mirage Harlequin on a dark background."
 
 [/Lotus/Language/Items/AvatarMirageHarlequinDarkName]:
-  "Mirage Harlequin Profile Icon"
+  "MIRAGE HARLEQUIN PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarMirageTrivelinBrightDesc]:
   "A profile icon depicting Mirage Trivelin on a bright background."
 
 [/Lotus/Language/Items/AvatarMirageTrivelinBrightName]:
-  "Mirage Trivelin Profile Icon"
+  "MIRAGE TRIVELIN PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarMirageTrivelinDarkDesc]:
   "A profile icon depicting Mirage Trivelin on a dark background."
 
 [/Lotus/Language/Items/AvatarMirageTrivelinDarkName]:
-  "Mirage Trivelin Profile Icon"
+  "MIRAGE TRIVELIN PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarMonkeyKingAltBrightDescription]:
   "A profile icon depicting Wukong Dasheng on a bright background."
 
 [/Lotus/Language/Items/AvatarMonkeyKingAltBrightName]:
-  "Wukong Dasheng Profile Icon"
+  "WUKONG DASHENG PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarMonkeyKingAltDarkDescription]:
   "A profile icon depicting Wukong Dasheng on a dark background."
 
 [/Lotus/Language/Items/AvatarMonkeyKingAltDarkName]:
-  "Wukong Dasheng Profile Icon"
+  "WUKONG DASHENG PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarMonkeyKingBrightDescription]:
   "A profile icon depicting Wukong on a bright background."
 
 [/Lotus/Language/Items/AvatarMonkeyKingBrightName]:
-  "Wukong Profile Icon"
+  "WUKONG PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarMonkeyKingDarkDescription]:
   "A profile icon depicting Wukong on a dark background."
 
 [/Lotus/Language/Items/AvatarMonkeyKingDarkName]:
-  "Wukong Profile Icon"
+  "WUKONG PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarNekrosAraknidBrightDescription]:
   "A profile icon depicting Nekros Raknis on a bright background."
 
 [/Lotus/Language/Items/AvatarNekrosAraknidBrightName]:
-  "Nekros Raknis Profile Icon"
+  "NEKROS RAKNIS PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarNekrosAraknidDarkDescription]:
   "A profile icon depicting Nekros Raknis on a dark background."
 
 [/Lotus/Language/Items/AvatarNekrosAraknidDarkName]:
-  "Nekros Raknis Profile Icon"
+  "NEKROS RAKNIS PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarNekrosBrightDescription]:
   "A profile icon depicting Nekros on a bright background."
 
 [/Lotus/Language/Items/AvatarNekrosBrightName]:
-  "Nekros Profile Icon"
+  "NEKROS PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarNekrosDarkDescription]:
   "A profile icon depicting Nekros on a dark background."
 
 [/Lotus/Language/Items/AvatarNekrosDarkName]:
-  "Nekros Profile Icon"
+  "NEKROS PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarNekrosPrimeBrightDesc]:
   "A profile icon depicting Nekros Prime on a bright background."
 
 [/Lotus/Language/Items/AvatarNekrosPrimeBrightName]:
-  "Nekros Prime Profile Icon"
+  "NEKROS PRIME PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarNekrosPrimeDarkDesc]:
   "A profile icon depicting Nekros Prime on a dark background."
 
 [/Lotus/Language/Items/AvatarNekrosPrimeDarkName]:
-  "Nekros Prime Profile Icon"
+  "NEKROS PRIME PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarNekrosShroudBrightDesc]:
   "A profile icon depicting Nekros Shroud on a bright background."
 
 [/Lotus/Language/Items/AvatarNekrosShroudBrightName]:
-  "Nekros Shroud Profile Icon"
+  "NEKROS SHROUD PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarNekrosShroudDarkDesc]:
   "A profile icon depicting Nekros Shroud on a dark background."
 
 [/Lotus/Language/Items/AvatarNekrosShroudDarkName]:
-  "Nekros Shroud Profile Icon"
+  "NEKROS SHROUD PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarNextPromoWarframeBrightDescription]:
   "A profile icon depicting Nyx Prime on a bright background."
 
 [/Lotus/Language/Items/AvatarNextPromoWarframeBrightName]:
-  "Nyx Prime Profile Icon"
+  "NYX PRIME PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarNextPromoWarframeDarkDescription]:
   "A profile icon depicting Nyx Prime on a dark background."
 
 [/Lotus/Language/Items/AvatarNextPromoWarframeDarkName]:
-  "Nyx Prime Profile Icon"
+  "NYX PRIME PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarNezhaAltBrightDescription]:
   "A profile icon depicting Nezha Circa on a bright background."
 
 [/Lotus/Language/Items/AvatarNezhaAltBrightName]:
-  "Nezha Circa Profile Icon"
+  "NEZHA CIRCA PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarNezhaAltDarkDescription]:
   "A profile icon depicting Nezha Circa on a dark background."
 
 [/Lotus/Language/Items/AvatarNezhaAltDarkName]:
-  "Nezha Circa Profile Icon"
+  "NEZHA CIRCA PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarNezhaBrightDescription]:
   "A profile icon depicting Nezha on a bright background."
 
 [/Lotus/Language/Items/AvatarNezhaBrightName]:
-  "Nezha Profile Icon"
+  "NEZHA PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarNezhaDarkDescription]:
   "A profile icon depicting Nezha on a dark background."
 
 [/Lotus/Language/Items/AvatarNezhaDarkName]:
-  "Nezha Profile Icon"
+  "NEZHA PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarNidusBrightDesc]:
   "A profile icon depicting Nidus on a bright background."
 
 [/Lotus/Language/Items/AvatarNidusBrightName]:
-  "Nidus Profile Icon"
+  "NIDUS PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarNidusDarkDesc]:
   "A profile icon depicting Nidus on a dark background."
 
 [/Lotus/Language/Items/AvatarNidusDarkName]:
-  "Nidus Profile Icon"
+  "NIDUS PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarNidusPrionBrightDesc]:
   "A profile icon depicting Nidus Prion on a bright background."
 
 [/Lotus/Language/Items/AvatarNidusPrionBrightName]:
-  "Nidus Prion Profile Icon"
+  "NIDUS PRION PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarNidusPrionDarkDesc]:
   "A profile icon depicting Nidus Prion on a dark background."
 
 [/Lotus/Language/Items/AvatarNidusPrionDarkName]:
-  "Nidus Prion Profile Icon"
+  "NIDUS PRION PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarNovaAltBrightDescription]:
   "A profile icon depicting Nova Flux on a bright background."
 
 [/Lotus/Language/Items/AvatarNovaAltBrightName]:
-  "Nova Flux Profile Icon"
+  "NOVA FLUX PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarNovaAltDarkDescription]:
   "A profile icon depicting Nova Flux on a dark background."
 
 [/Lotus/Language/Items/AvatarNovaAltDarkName]:
-  "Nova Flux Profile Icon"
+  "NOVA FLUX PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarNovaBrightDescription]:
   "A profile icon depicting Nova on a bright background."
 
 [/Lotus/Language/Items/AvatarNovaBrightName]:
-  "Nova Profile Icon"
+  "NOVA PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarNovaDarkDescription]:
   "A profile icon depicting Nova on a dark background."
 
 [/Lotus/Language/Items/AvatarNovaDarkName]:
-  "Nova Profile Icon"
+  "NOVA PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarNovaDeluxeDesc]:
   "A profile icon depicting Nova Asuri."
@@ -26622,61 +26661,61 @@
   "A profile icon depicting Nova Prime on a bright background."
 
 [/Lotus/Language/Items/AvatarNovaPrimeBrightName]:
-  "Nova Prime Profile Icon"
+  "NOVA PRIME PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarNovaPrimeDarkDescription]:
   "A profile icon depicting Nova Prime on a dark background."
 
 [/Lotus/Language/Items/AvatarNovaPrimeDarkName]:
-  "Nova Prime Profile Icon"
+  "NOVA PRIME PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarNovaQuantumBrightDesc]:
   "A profile icon depicting Nova Quantum on a bright background."
 
 [/Lotus/Language/Items/AvatarNovaQuantumBrightName]:
-  "Nova Quantum Profile Icon"
+  "NOVA QUANTUM PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarNovaQuantumDarkDesc]:
   "A profile icon depicting Nova Quantum on a dark background."
 
 [/Lotus/Language/Items/AvatarNovaQuantumDarkName]:
-  "Nova Quantum Profile Icon"
+  "NOVA QUANTUM PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarNovaSlipstreamBrightDesc]:
   "A profile icon depicting Nova Slipstream on a bright background."
 
 [/Lotus/Language/Items/AvatarNovaSlipstreamBrightName]:
-  "Nova Slipstream Profile Icon"
+  "NOVA SLIPSTREAM PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarNovaSlipstreamDarkDesc]:
   "A profile icon depicting Nova Slipstream on a dark background."
 
 [/Lotus/Language/Items/AvatarNovaSlipstreamDarkName]:
-  "Nova Slipstream Profile Icon"
+  "NOVA SLIPSTREAM PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarNyxBrightDescription]:
   "A profile icon depicting Nyx on a bright background."
 
 [/Lotus/Language/Items/AvatarNyxBrightName]:
-  "Nyx Profile Icon"
+  "NYX PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarNyxDarkDescription]:
   "A profile icon depicting Nyx on a dark background."
 
 [/Lotus/Language/Items/AvatarNyxDarkName]:
-  "Nyx Profile Icon"
+  "NYX PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarNyxMenticideBrightDescription]:
   "A profile icon depicting Nyx Menticide on a bright background."
 
 [/Lotus/Language/Items/AvatarNyxMenticideBrightName]:
-  "Nyx Menticide Profile Icon"
+  "NYX MENTICIDE PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarNyxMenticideDarkDescription]:
   "A profile icon depicting Nyx Menticide on a dark background."
 
 [/Lotus/Language/Items/AvatarNyxMenticideDarkName]:
-  "Nyx Menticide Profile Icon"
+  "NYX MENTICIDE PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarNyxNemesisDesc]:
   "A profile icon depicting Nyx Nemesis."
@@ -26688,25 +26727,25 @@
   "A profile icon depicting Nyx Vespa on a bright background."
 
 [/Lotus/Language/Items/AvatarNyxVespaBrightName]:
-  "Nyx Vespa Profile Icon"
+  "NYX VESPA PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarNyxVespaDarkDescription]:
   "A profile icon depicting Nyx Vespa on a dark background."
 
 [/Lotus/Language/Items/AvatarNyxVespaDarkName]:
-  "Nyx Vespa Profile Icon"
+  "NYX VESPA PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarOberonBrightDescription]:
   "A profile icon depicting Oberon on a bright background."
 
 [/Lotus/Language/Items/AvatarOberonBrightName]:
-  "Oberon Profile Icon"
+  "OBERON PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarOberonDarkDescription]:
   "A profile icon depicting Oberon on a dark background."
 
 [/Lotus/Language/Items/AvatarOberonDarkName]:
-  "Oberon Profile Icon"
+  "OBERON PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarOberonDeluxeDesc]:
   "A profile icon depicting Oberon Feyarch."
@@ -26718,25 +26757,25 @@
   "A profile icon depicting Oberon Markhor on a bright background."
 
 [/Lotus/Language/Items/AvatarOberonMarkhorBrightName]:
-  "Oberon Markhor Profile Icon"
+  "OBERON MARKHOR PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarOberonMarkhorDarkDescription]:
   "A profile icon depicting Oberon Markhor on a dark background."
 
 [/Lotus/Language/Items/AvatarOberonMarkhorDarkName]:
-  "Oberon Markhor Profile Icon"
+  "OBERON MARKHOR PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarOberonOryxBrightDescription]:
   "A profile icon depicting Oberon Oryx on a bright background."
 
 [/Lotus/Language/Items/AvatarOberonOryxBrightName]:
-  "Oberon Oryx Profile Icon"
+  "OBERON ORYX PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarOberonOryxDarkDescription]:
   "A profile icon depicting Oberon Oryx on a dark background."
 
 [/Lotus/Language/Items/AvatarOberonOryxDarkName]:
-  "Oberon Oryx Profile Icon"
+  "OBERON ORYX PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarPackAshDescription]:
   "Contains four variations of Ash and Ash Scorpion profile icons."
@@ -27060,25 +27099,25 @@
   "A profile icon depicting Hydroid on a bright background."
 
 [/Lotus/Language/Items/AvatarPirateBrightName]:
-  "Hydroid Profile Icon"
+  "HYDROID PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarPirateDarkDescription]:
   "A profile icon depicting Hydroid on a dark background."
 
 [/Lotus/Language/Items/AvatarPirateDarkName]:
-  "Hydroid Profile Icon"
+  "HYDROID PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarPirateTritonBrightDescription]:
   "A profile icon depicting Hydroid Triton on a bright background."
 
 [/Lotus/Language/Items/AvatarPirateTritonBrightName]:
-  "Hydroid Triton Profile Icon"
+  "HYDROID TRITON PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarPirateTritonDarkDescription]:
   "A profile icon depicting Hydroid Triton on a dark background."
 
 [/Lotus/Language/Items/AvatarPirateTritonDarkName]:
-  "Hydroid Triton Profile Icon"
+  "HYDROID TRITON PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarProcTimeMod]:
   "Rapid Resilience"
@@ -27087,37 +27126,37 @@
   "A profile icon depicting Ivara on a bright background."
 
 [/Lotus/Language/Items/AvatarRangerBrightName]:
-  "Ivara Profile Icon"
+  "IVARA PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarRangerDarkDescription]:
   "A profile icon depicting Ivara on a dark background."
 
 [/Lotus/Language/Items/AvatarRangerDarkName]:
-  "Ivara Profile Icon"
+  "IVARA PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarRangerLoxleyBrightDescription]:
   "A profile icon depicting Ivara Loxley on a bright background."
 
 [/Lotus/Language/Items/AvatarRangerLoxleyBrightName]:
-  "Ivara Loxley Profile Icon"
+  "IVARA LOXLEY PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarRangerLoxleyDarkDescription]:
   "A profile icon depicting Ivara Loxley on a dark background."
 
 [/Lotus/Language/Items/AvatarRangerLoxleyDarkName]:
-  "Ivara Loxley Profile Icon"
+  "IVARA LOXLEY PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarRhinoBrightDescription]:
   "A profile icon depicting Rhino on a bright background."
 
 [/Lotus/Language/Items/AvatarRhinoBrightName]:
-  "Rhino Profile Icon"
+  "RHINO PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarRhinoDarkDescription]:
   "A profile icon depicting Rhino on a dark background."
 
 [/Lotus/Language/Items/AvatarRhinoDarkName]:
-  "Rhino Profile Icon"
+  "RHINO PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarRhinoDeluxeDesc]:
   "A profile icon depicting Rhino Palatine."
@@ -27129,115 +27168,115 @@
   "A profile icon depicting Rhino Prime on a bright background."
 
 [/Lotus/Language/Items/AvatarRhinoPrimeBrightName]:
-  "Rhino Prime Profile Icon"
+  "RHINO PRIME PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarRhinoPrimeDarkDescription]:
   "A profile icon depicting Rhino Prime on a dark background."
 
 [/Lotus/Language/Items/AvatarRhinoPrimeDarkName]:
-  "Rhino Prime Profile Icon"
+  "RHINO PRIME PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarRhinoThrakBrightDescription]:
   "A profile icon depicting Rhino Thrak on a bright background."
 
 [/Lotus/Language/Items/AvatarRhinoThrakBrightName]:
-  "Rhino Thrak Profile Icon"
+  "RHINO THRAK PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarRhinoThrakDarkDescription]:
   "A profile icon depicting Rhino Thrak on a dark background."
 
 [/Lotus/Language/Items/AvatarRhinoThrakDarkName]:
-  "Rhino Thrak Profile Icon"
+  "RHINO THRAK PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarRhinoVanguardBrightDescription]:
   "A profile icon depicting Rhino Vanguard on a bright background."
 
 [/Lotus/Language/Items/AvatarRhinoVanguardBrightName]:
-  "Rhino Vanguard Profile Icon"
+  "RHINO VANGUARD PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarRhinoVanguardDarkDescription]:
   "A profile icon depicting Rhino Vanguard on a dark background."
 
 [/Lotus/Language/Items/AvatarRhinoVanguardDarkName]:
-  "Rhino Vanguard Profile Icon"
+  "RHINO VANGUARD PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarSandmanAnubisBrightDescription]:
   "A profile icon depicting Inaros Anubis on a bright background."
 
 [/Lotus/Language/Items/AvatarSandmanAnubisBrightName]:
-  "Inaros Anubis Profile Icon"
+  "INAROS ANUBIS PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarSandmanAnubisDarkDescription]:
   "A profile icon depicting Inaros Anubis on a dark background."
 
 [/Lotus/Language/Items/AvatarSandmanAnubisDarkName]:
-  "Inaros Anubis Profile Icon"
+  "INAROS ANUBIS PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarSandmanBrightDescription]:
   "A profile icon depicting Inaros on a bright background."
 
 [/Lotus/Language/Items/AvatarSandmanBrightName]:
-  "Inaros Profile Icon"
+  "INAROS PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarSandmanDarkDescription]:
   "A profile icon depicting Inaros on a dark background."
 
 [/Lotus/Language/Items/AvatarSandmanDarkName]:
-  "Inaros Profile Icon"
+  "INAROS PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarSarynBrightDescription]:
   "A profile icon depicting Saryn on a bright background."
 
 [/Lotus/Language/Items/AvatarSarynBrightName]:
-  "Saryn Profile Icon"
+  "SARYN PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarSarynChloraBrightDescription]:
   "A profile icon depicting Saryn Chlora on a bright background."
 
 [/Lotus/Language/Items/AvatarSarynChloraBrightName]:
-  "Saryn Chlora Profile Icon"
+  "SARYN CHLORA PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarSarynChloraDarkDescription]:
   "A profile icon depicting Saryn Chlora on a dark background."
 
 [/Lotus/Language/Items/AvatarSarynChloraDarkName]:
-  "Saryn Chlora Profile Icon"
+  "SARYN CHLORA PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarSarynDarkDescription]:
   "A profile icon depicting Saryn on a dark background."
 
 [/Lotus/Language/Items/AvatarSarynDarkName]:
-  "Saryn Profile Icon"
+  "SARYN PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarSarynDeluxeDesc]:
   "A profile icon depicting Saryn Orphid skin."
 
 [/Lotus/Language/Items/AvatarSarynDeluxeName]:
-  "Saryn Orphid Profile Icon"
+  "SARYN ORPHID PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarSarynHemlockBrightDescription]:
   "A profile icon depicting Saryn Hemlock on a bright background."
 
 [/Lotus/Language/Items/AvatarSarynHemlockBrightName]:
-  "Saryn Hemlock Profile Icon"
+  "SARYN HEMLOCK PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarSarynHemlockDarkDescription]:
   "A profile icon depicting Saryn Hemlock on a dark background."
 
 [/Lotus/Language/Items/AvatarSarynHemlockDarkName]:
-  "Saryn Hemlock Profile Icon"
+  "SARYN HEMLOCK PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarSarynPrimeBrightDesc]:
   "A profile icon depicting Saryn Prime on a bright background."
 
 [/Lotus/Language/Items/AvatarSarynPrimeBrightName]:
-  "Saryn Prime Profile Icon"
+  "SARYN PRIME PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarSarynPrimeDarkDesc]:
   "A profile icon depicting Saryn Prime on a dark background."
 
 [/Lotus/Language/Items/AvatarSarynPrimeDarkName]:
-  "Saryn Prime Profile Icon"
+  "SARYN PRIME PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarSharksteethDesc]:
   "A prize-winning profile icon, designed by Sharksteeth
@@ -27252,277 +27291,277 @@
   "A profile icon depicting Titania Aurai on a bright background."
 
 [/Lotus/Language/Items/AvatarTitaniaAltBrightName]:
-  "Titania Aurai Profile Icon"
+  "TITANIA AURAI PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarTitaniaAltDarkDesc]:
   "A profile icon depicting Titania Aurai on a dark background."
 
 [/Lotus/Language/Items/AvatarTitaniaAltDarkName]:
-  "Titania Aurai Profile Icon"
+  "TITANIA AURAI PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarTitaniaBrightDesc]:
   "A profile icon depicting Titania on a bright background."
 
 [/Lotus/Language/Items/AvatarTitaniaBrightName]:
-  "Titania Profile Icon"
+  "TITANIA PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarTitaniaDarkDesc]:
   "A profile icon depicting Titania on a dark background."
 
 [/Lotus/Language/Items/AvatarTitaniaDarkName]:
-  "Titania Profile Icon"
+  "TITANIA PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarTrapperAltBrightDescription]:
   "A profile icon depicting Vauban Esprit on a bright background."
 
 [/Lotus/Language/Items/AvatarTrapperAltBrightName]:
-  "Vauban Esprit Profile Icon"
+  "VAUBAN ESPRIT PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarTrapperAltDarkDescription]:
   "A profile icon depicting Vauban Esprit on a dark background."
 
 [/Lotus/Language/Items/AvatarTrapperAltDarkName]:
-  "Vauban Esprit Profile Icon"
+  "VAUBAN ESPRIT PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarTrapperBrightDescription]:
   "A profile icon depicting Vauban on a bright background."
 
 [/Lotus/Language/Items/AvatarTrapperBrightName]:
-  "Vauban Profile Icon"
+  "VAUBAN PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarTrapperDarkDescription]:
   "A profile icon depicting Vauban on a dark background."
 
 [/Lotus/Language/Items/AvatarTrapperDarkName]:
-  "Vauban Profile Icon"
+  "VAUBAN PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarTrapperGambitBrightDescription]:
   "A profile icon depicting Vauban Gambit on a bright background."
 
 [/Lotus/Language/Items/AvatarTrapperGambitBrightName]:
-  "Vauban Gambit Profile Icon"
+  "VAUBAN GAMBIT PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarTrapperGambitDarkDescription]:
   "A profile icon depicting Vauban Gambit on a dark background."
 
 [/Lotus/Language/Items/AvatarTrapperGambitDarkName]:
-  "Vauban Gambit Profile Icon"
+  "VAUBAN GAMBIT PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarTrapperSoldierBrightDescription]:
   "A profile icon depicting Vauban Armistice on a bright background."
 
 [/Lotus/Language/Items/AvatarTrapperSoldierBrightName]:
-  "Vauban Armistice Profile Icon"
+  "VAUBAN ARMISTICE PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarTrapperSoldierDarkDescription]:
   "A profile icon depicting Vauban Armistice on a dark background."
 
 [/Lotus/Language/Items/AvatarTrapperSoldierDarkName]:
-  "Vauban Armistice Profile Icon"
+  "VAUBAN ARMISTICE PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarTrinityAuraBrightDescription]:
   "A profile icon depicting Trinity Aura on a bright background."
 
 [/Lotus/Language/Items/AvatarTrinityAuraBrightName]:
-  "Trinity Aura Profile Icon"
+  "TRINITY AURA PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarTrinityAuraDarkDescription]:
   "A profile icon depicting Trinity Aura on a dark background."
 
 [/Lotus/Language/Items/AvatarTrinityAuraDarkName]:
-  "Trinity Aura Profile Icon"
+  "TRINITY AURA PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarTrinityBrightDescription]:
   "A profile icon depicting Trinity on a bright background."
 
 [/Lotus/Language/Items/AvatarTrinityBrightName]:
-  "Trinity Profile Icon"
+  "TRINITY PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarTrinityDarkDescription]:
   "A profile icon depicting Trinity on a dark background."
 
 [/Lotus/Language/Items/AvatarTrinityDarkName]:
-  "Trinity Profile Icon"
+  "TRINITY PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarTrinityDeluxeDesc]:
   "A profile icon depicting Trinity Strega skin."
 
 [/Lotus/Language/Items/AvatarTrinityDeluxeName]:
-  "Trinity Strega Profile Icon"
+  "TRINITY STREGA PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarTrinityMeridianBrightDescription]:
   "A profile icon depicting Trinity Meridian on a bright background."
 
 [/Lotus/Language/Items/AvatarTrinityMeridianBrightName]:
-  "Trinity Meridian Profile Icon"
+  "TRINITY MERIDIAN PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarTrinityMeridianDarkDescription]:
   "A profile icon depicting Trinity Meridian on a dark background."
 
 [/Lotus/Language/Items/AvatarTrinityMeridianDarkName]:
-  "Trinity Meridian Profile Icon"
+  "TRINITY MERIDIAN PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarTrinityPrimeBrightDesc]:
   "A profile icon depicting Trinity Prime on a bright background."
 
 [/Lotus/Language/Items/AvatarTrinityPrimeBrightName]:
-  "Trinity Prime Profile Icon"
+  "TRINITY PRIME PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarTrinityPrimeDarkDesc]:
   "A profile icon depicting Trinity Prime on a dark background."
 
 [/Lotus/Language/Items/AvatarTrinityPrimeDarkName]:
-  "Trinity Prime Profile Icon"
+  "TRINITY PRIME PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarValkyrBastetBrightDesc]:
   "A profile icon depicting Valkyr Bastet on a bright background."
 
 [/Lotus/Language/Items/AvatarValkyrBastetBrightName]:
-  "Valkyr Bastet Profile Icon"
+  "VALKYR BASTET PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarValkyrBastetDarkDesc]:
   "A profile icon depicting Valkyr Bastet on a dark background."
 
 [/Lotus/Language/Items/AvatarValkyrBastetDarkName]:
-  "Valkyr Bastet Profile Icon"
+  "VALKYR BASTET PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarValkyrBrightDesc]:
   "A profile icon depicting Valkyr on a bright background."
 
 [/Lotus/Language/Items/AvatarValkyrBrightName]:
-  "Valkyr Profile Icon"
+  "VALKYR PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarValkyrDarkDesc]:
   "A profile icon depicting Valkyr on a dark background."
 
 [/Lotus/Language/Items/AvatarValkyrDarkName]:
-  "Valkyr Profile Icon"
+  "VALKYR PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarValkyrDeluxeDesc]:
   "A profile icon depicting the Valkyr Gersemi skin."
 
 [/Lotus/Language/Items/AvatarValkyrDeluxeName]:
-  "Valkyr Gersemi Profile Icon"
+  "VALKYR GERSEMI PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarValkyrKaraBrightDescription]:
   "A profile icon depicting Valkyr Kara on a bright background."
 
 [/Lotus/Language/Items/AvatarValkyrKaraBrightName]:
-  "Valkyr Kara Profile Icon"
+  "VALKYR KARA PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarValkyrKaraDarkDescription]:
   "A profile icon depicting Valkyr Kara on a dark background."
 
 [/Lotus/Language/Items/AvatarValkyrKaraDarkName]:
-  "Valkyr Kara Profile Icon"
+  "VALKYR KARA PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarValkyrPrimeBrightDesc]:
   "A profile icon depicting Valkyr Prime on a bright background."
 
 [/Lotus/Language/Items/AvatarValkyrPrimeBrightName]:
-  "Valkyr Prime Profile Icon"
+  "VALKYR PRIME PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarValkyrPrimeDarkDesc]:
   "A profile icon depicting Valkyr Prime on a dark background."
 
 [/Lotus/Language/Items/AvatarValkyrPrimeDarkName]:
-  "Valkyr Prime Profile Icon"
+  "VALKYR PRIME PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarVaubanPrimeBrightDesc]:
   "A profile icon depicting Vauban Prime on a bright background."
 
 [/Lotus/Language/Items/AvatarVaubanPrimeBrightName]:
-  "Vauban Prime Profile Icon"
+  "VAUBAN PRIME PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarVaubanPrimeDarkDesc]:
   "A profile icon depicting Vauban Prime on a dark background."
 
 [/Lotus/Language/Items/AvatarVaubanPrimeDarkName]:
-  "Vauban Prime Profile Icon"
+  "VAUBAN PRIME PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarVoltBrightDescription]:
   "A profile icon depicting Volt on a bright background."
 
 [/Lotus/Language/Items/AvatarVoltBrightName]:
-  "Volt Profile Icon"
+  "VOLT PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarVoltDarkDescription]:
   "A profile icon depicting Volt on a dark background."
 
 [/Lotus/Language/Items/AvatarVoltDarkName]:
-  "Volt Profile Icon"
+  "VOLT PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarVoltPrimeWarframeBrightDescription]:
   "A profile icon depicting Volt Prime on a bright background."
 
 [/Lotus/Language/Items/AvatarVoltPrimeWarframeBrightName]:
-  "Volt Prime Profile Icon"
+  "VOLT PRIME PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarVoltPrimeWarframeDarkDescription]:
   "A profile icon depicting Volt Prime on a dark background."
 
 [/Lotus/Language/Items/AvatarVoltPrimeWarframeDarkName]:
-  "Volt Prime Profile Icon"
+  "VOLT PRIME PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarVoltPulseBrightDescription]:
   "A profile icon depicting Volt Pulse on a bright background."
 
 [/Lotus/Language/Items/AvatarVoltPulseBrightName]:
-  "Volt Pulse Profile Icon"
+  "VOLT PULSE PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarVoltPulseDarkDescription]:
   "A profile icon depicting Volt Pulse on a dark background."
 
 [/Lotus/Language/Items/AvatarVoltPulseDarkName]:
-  "Volt Pulse Profile Icon"
+  "VOLT PULSE PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarVoltStormBrightDescription]:
   "A profile icon depicting Volt Storm on a bright background."
 
 [/Lotus/Language/Items/AvatarVoltStormBrightName]:
-  "Volt Storm Profile Icon"
+  "VOLT STORM PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarVoltStormDarkDescription]:
   "A profile icon depicting Volt Storm on a dark background."
 
 [/Lotus/Language/Items/AvatarVoltStormDarkName]:
-  "Volt Storm Profile Icon"
+  "VOLT STORM PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarZephyrBrightDescription]:
   "A profile icon depicting Zephyr on a bright background."
 
 [/Lotus/Language/Items/AvatarZephyrBrightName]:
-  "Zephyr Profile Icon"
+  "ZEPHYR PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarZephyrCierzoBrightDescription]:
   "A profile icon depicting Zephyr Cierzo on a bright background."
 
 [/Lotus/Language/Items/AvatarZephyrCierzoBrightName]:
-  "Zephyr Cierzo Profile Icon"
+  "ZEPHYR CIERZO PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarZephyrCierzoDarkDescription]:
   "A profile icon depicting Zephyr Cierzo on a dark background."
 
 [/Lotus/Language/Items/AvatarZephyrCierzoDarkName]:
-  "Zephyr Cierzo Profile Icon"
+  "ZEPHYR CIERZO PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarZephyrDarkDescription]:
   "A profile icon depicting Zephyr on a dark background."
 
 [/Lotus/Language/Items/AvatarZephyrDarkName]:
-  "Zephyr Profile Icon"
+  "ZEPHYR PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarZephyrTenguBrightDesc]:
   "A profile icon depicting Zephyr Tengu on a bright background."
 
 [/Lotus/Language/Items/AvatarZephyrTenguBrightName]:
-  "Zephyr Tengu Profile Icon"
+  "ZEPHYR TENGU PROFILE ICON"
 
 [/Lotus/Language/Items/AvatarZephyrTenguDarkDesc]:
   "A profile icon depicting Zephyr Tengu on a dark background."
 
 [/Lotus/Language/Items/AvatarZephyrTenguDarkName]:
-  "Zephyr Tengu Profile Icon"
+  "ZEPHYR TENGU PROFILE ICON"
 
 [/Lotus/Language/Items/AxeBranchADefaults]:
   "Landing Dragon"
@@ -27573,7 +27612,10 @@
   "A profile icon of a Grineer Ballista"
 
 [/Lotus/Language/Items/BallistaProfileIconName]:
-  "Grineer Ballista Profile Icon"
+  "GRINEER BALLISTA PROFILE ICON"
+
+[/Lotus/Language/Items/BansheeActionGlyphName]:
+  "BANSHEE IN ACTION GLYPH"
 
 [/Lotus/Language/Items/BansheeAltHelmet2Desc]:
   "Chorus Helmet for the Banshee Warframe."
@@ -27913,7 +27955,7 @@
   "Arrow Mutation"
 
 [/Lotus/Language/Items/BowModConvertAmmoDesc]:
-  "Converts unused ammo drops into arrows; |PISTOL_RIFLE| ammo for pistol and rifle drops and |SHOTGUN_SNIPER| for shotgun ammo drops."
+  "Converts unused ammo pickups into Arrows. Pistol/Rifle <AMMO_MUTATION> |PISTOL_RIFLE| and Shotgun/Sniper <AMMO_MUTATION> |SHOTGUN_SNIPER|."
 
 [/Lotus/Language/Items/BowPickup]:
   "Pick up Bow"
@@ -28083,10 +28125,10 @@
   "A profile icon of Captain Vor."
 
 [/Lotus/Language/Items/CaptainVorProfileIconName]:
-  "Captain Vor Profile Icon"
+  "CAPTAIN VOR PROFILE ICON"
 
 [/Lotus/Language/Items/CarrierPrimaryPreceptDesc]:
-  "Carrier will attack the first visible enemy within |RANGE|m."
+  "Carrier will attack the first visible enemy within |RANGE|m"
 
 [/Lotus/Language/Items/CarrierPrimaryPreceptName]:
   "Striker"
@@ -28223,7 +28265,7 @@
   "A profile icon of the Cephalon Suda"
 
 [/Lotus/Language/Items/CephalonSudaProfileIconName]:
-  "Cephalon Suda Profile Icon"
+  "CEPHALON SUDA PROFILE ICON"
 
 [/Lotus/Language/Items/CephHammerDesc]:
   "Obtain enlightenment with this massive hammer that performs a Codex scan on each fatal strike. Scans require an equipped Codex Scanner and an available charge."
@@ -29228,37 +29270,37 @@
   "A profile icon of Alad V"
 
 [/Lotus/Language/Items/CorpusProfileIconAladVName]:
-  "Alad V Profile Icon"
+  "ALAD V PROFILE ICON"
 
 [/Lotus/Language/Items/CorpusProfileIconCrewmanDesc]:
   "A profile icon of a Corpus Crewman"
 
 [/Lotus/Language/Items/CorpusProfileIconCrewmanName]:
-  "Crewman Profile Icon"
+  "CREWMAN PROFILE ICON"
 
 [/Lotus/Language/Items/CorpusProfileIconJackalDesc]:
   "A profile icon of the Jackal"
 
 [/Lotus/Language/Items/CorpusProfileIconJackalName]:
-  "The Jackal Profile Icon"
+  "THE JACKAL PROFILE ICON"
 
 [/Lotus/Language/Items/CorpusProfileIconMoaDesc]:
   "A profile icon of a Corpus MOA"
 
 [/Lotus/Language/Items/CorpusProfileIconMoaName]:
-  "MOA Profile Icon"
+  "MOA PROFILE ICON"
 
 [/Lotus/Language/Items/CorpusProfileIconNefAnyoDesc]:
   "A profile icon of Nef Anyo"
 
 [/Lotus/Language/Items/CorpusProfileIconNefAnyoName]:
-  "Nef Anyo Profile Icon"
+  "NEF ANYO PROFILE ICON"
 
 [/Lotus/Language/Items/CorpusProfileIconOspreyDesc]:
   "A profile icon of a Corpus Osprey"
 
 [/Lotus/Language/Items/CorpusProfileIconOspreyName]:
-  "Osprey Profile Icon"
+  "OSPREY PROFILE ICON"
 
 [/Lotus/Language/Items/CorpusProfileIconPackDesc]:
   "A collection of profile icons featuring the personnel affiliated with the Corpus."
@@ -31103,6 +31145,9 @@
 [/Lotus/Language/Items/FrogLancerName]:
   "[PH] AQUA LANCER"
 
+[/Lotus/Language/Items/FrostActionGlyphName]:
+  "FROST IN ACTION GLYPH"
+
 [/Lotus/Language/Items/FrostAgileAnims]:
   "FROST AGILE ANIMATION SET"
 
@@ -31277,49 +31322,49 @@
   "A profile icon of Executioner Zura"
 
 [/Lotus/Language/Items/GCBeastMasterProfileIconName]:
-  "Executioner Zura Profile Icon"
+  "EXECUTIONER ZURA PROFILE ICON"
 
 [/Lotus/Language/Items/GCChargerProfileIconDesc]:
   "A profile icon of Executioner Garesh"
 
 [/Lotus/Language/Items/GCChargerProfileIconName]:
-  "Executioner Garesh Profile Icon"
+  "EXECUTIONER GARESH PROFILE ICON"
 
 [/Lotus/Language/Items/GCEngineerProfileIconDesc]:
   "A profile icon of Executioner Reth"
 
 [/Lotus/Language/Items/GCEngineerProfileIconName]:
-  "Executioner Reth Profile Icon"
+  "EXECUTIONER RETH PROFILE ICON"
 
 [/Lotus/Language/Items/GCGruntProfileIconDesc]:
   "A profile icon of Executioner Nok"
 
 [/Lotus/Language/Items/GCGruntProfileIconName]:
-  "Executioner Nok Profile Icon"
+  "EXECUTIONER NOK PROFILE ICON"
 
 [/Lotus/Language/Items/GCHealerProfileIconDesc]:
   "A profile icon of Executioner Dok Thul"
 
 [/Lotus/Language/Items/GCHealerProfileIconName]:
-  "Executioner Dok Thul Profile Icon"
+  "EXECUTIONER DOK THUL PROFILE ICON"
 
 [/Lotus/Language/Items/GCHellionProfileIconDesc]:
   "A profile icon of Executioner Vay Molta"
 
 [/Lotus/Language/Items/GCHellionProfileIconName]:
-  "Executioner Vay Molta Profile Icon"
+  "EXECUTIONER VAY MOLTA PROFILE ICON"
 
 [/Lotus/Language/Items/GCSniperProfileIconDesc]:
   "A profile icon of Executioner Harkonar"
 
 [/Lotus/Language/Items/GCSniperProfileIconName]:
-  "Executioner Harkonar Profile Icon"
+  "EXECUTIONER HARKONAR PROFILE ICON"
 
 [/Lotus/Language/Items/GCTankProfileIconDesc]:
   "A profile icon of Executioner Gorth"
 
 [/Lotus/Language/Items/GCTankProfileIconName]:
-  "Executioner Gorth Profile Icon"
+  "EXECUTIONER GORTH PROFILE ICON"
 
 [/Lotus/Language/Items/GearMutuallyExclusive]:
   "Cannot equip |ITEMB| while |ITEMA| is equipped!"
@@ -33380,7 +33425,7 @@
   "A profile icon of Kela de Thaym"
 
 [/Lotus/Language/Items/KelaProfileIconName]:
-  "Kela de Thaym Profile Icon"
+  "KELA DE THAYM PROFILE ICON"
 
 [/Lotus/Language/Items/KestrelBoomerangDesc]:
   "The Kestrel boomerang is a heavy throwing weapon that can knock down enemies at a distance."
@@ -34627,7 +34672,7 @@
   "A profile icon of a Grineer Lancer"
 
 [/Lotus/Language/Items/MarineProfileIconName]:
-  "Grineer Lancer Profile Icon"
+  "GRINEER LANCER PROFILE ICON"
 
 [/Lotus/Language/Items/MassResistWarframeMod]:
   "Mass Resist"
@@ -35053,6 +35098,9 @@
 [/Lotus/Language/Items/NecroScarfDesc]:
   "Only Nekros is permitted to wear the Mortos Binds."
 
+[/Lotus/Language/Items/NekrosActionGlyphName]:
+  "NEKROS IN ACTION GLYPH"
+
 [/Lotus/Language/Items/NekrosAltHelm2Desc]:
   "Strike fear into enemies with this alternate helmet for Nekros."
 
@@ -35104,7 +35152,7 @@
   "A profile icon of the New Loka"
 
 [/Lotus/Language/Items/NewLokaProfileIconName]:
-  "New Loka Profile Icon"
+  "NEW LOKA PROFILE ICON"
 
 [/Lotus/Language/Items/NextPromoArmArmorDesc]:
   "Decorative shoulder plates for your Warframe."
@@ -35294,6 +35342,9 @@
 [/Lotus/Language/Items/NoStanceInstalledDetails]:
   "Equip Stance Mods on your Melee weapons using the Arsenal to unlock devastating combos! Find Stance Mods in the world by killing enemies."
 
+[/Lotus/Language/Items/NovaActionGlyphName]:
+  "NOVA IN ACTION GLYPH"
+
 [/Lotus/Language/Items/NovaAltHelm2Desc]:
   "A uniquely-styled alternate helmet for Nova."
 
@@ -35377,6 +35428,9 @@
 
 [/Lotus/Language/Items/NvidiaBratonSkinName]:
   "NVIDIA BRATON"
+
+[/Lotus/Language/Items/NyxActionGlyphName]:
+  "NYX IN ACTION GLYPH"
 
 [/Lotus/Language/Items/NyxAltHelmet2Desc]:
   "Vespa Helmet for the Nyx Warframe."
@@ -36211,7 +36265,7 @@
   "A profile icon of the Perrin Sequence"
 
 [/Lotus/Language/Items/PerrinSequenceProfileIconName]:
-  "Perrin Sequence Profile Icon"
+  "PERRIN SEQUENCE PROFILE ICON"
 
 [/Lotus/Language/Items/PetAttachmentPackADesc]:
   "Save some platinum when you purchase the complete first series of Sentinel accessories together."
@@ -36279,7 +36333,7 @@
   "Pistol Ammo Mutation"
 
 [/Lotus/Language/Items/PistolModConvertAmmoDesc]:
-  "Converts unused ammo drops into pistol ammo; |PISTOL_RIFLE| ammo for rifle drops and |SHOTGUN_SNIPER| for shotgun and sniper ammo drops."
+  "Converts unused ammo pickups into Pistol ammo. Rifle <AMMO_MUTATION> |PISTOL_RIFLE| and Shotgun/Sniper <AMMO_MUTATION> |SHOTGUN_SNIPER|."
 
 [/Lotus/Language/Items/PistolModCorruptedCritDamage]:
   "Hollow Point"
@@ -37548,7 +37602,7 @@
   "A profile icon of the Red Veil"
 
 [/Lotus/Language/Items/RedVeilProfileIconName]:
-  "Red Veil Profile Icon"
+  "RED VEIL PROFILE ICON"
 
 [/Lotus/Language/Items/ReflectDamageOnParryName]:
   "ARCANE VENGEANCE"
@@ -37776,7 +37830,7 @@
   "Rifle Ammo Mutation"
 
 [/Lotus/Language/Items/RifleModConvertAmmoDesc]:
-  "Converts unused ammo drops into rifle ammo; |PISTOL_RIFLE| ammo for pistol drops and |SHOTGUN_SNIPER| for shotgun and sniper ammo drops."
+  "Converts unused ammo pickups into Rifle ammo. Pistol <AMMO_MUTATION> |PISTOL_RIFLE| and Shotgun/Sniper <AMMO_MUTATION> |SHOTGUN_SNIPER|."
 
 [/Lotus/Language/Items/RifleModCorruptedCritRateFireRate]:
   "Critical Delay"
@@ -37899,7 +37953,7 @@
   "A profile icon of a Grineer Roller"
 
 [/Lotus/Language/Items/RollerProfileIconName]:
-  "Grineer Roller Profile Icon"
+  "GRINEER ROLLER PROFILE ICON"
 
 [/Lotus/Language/Items/Rubedo]:
   "RUBEDO"
@@ -38048,7 +38102,10 @@
   "A profile icon of Sargas Ruk"
 
 [/Lotus/Language/Items/SargusRukProfileIconName]:
-  "Sargas Ruk Profile Icon"
+  "SARGAS RUK PROFILE ICON"
+
+[/Lotus/Language/Items/SarynActionGlyphName]:
+  "SARYN IN ACTION GLYPH"
 
 [/Lotus/Language/Items/SarynAltHelmet2Desc]:
   "Chlora Helmet for the Saryn Warframe."
@@ -38512,7 +38569,7 @@
   "Shotgun Ammo Mutation"
 
 [/Lotus/Language/Items/ShotgunModConvertAmmoDesc]:
-  "Converts unused ammo drops into shotgun ammo; |PISTOL_RIFLE| ammo for pistol and rifle drops and |SHOTGUN_SNIPER| for sniper ammo drops."
+  "Converts unused ammo pickups into Shotgun ammo. Pistol/Rifle <AMMO_MUTATION> |PISTOL_RIFLE| and Sniper <AMMO_MUTATION> |SHOTGUN_SNIPER|."
 
 [/Lotus/Language/Items/ShotgunModCorruptedDamageSpread]:
   "Vicious Spread"
@@ -38697,7 +38754,7 @@
   "Sniper Ammo Mutation"
 
 [/Lotus/Language/Items/SniperModConvertAmmoDesc]:
-  "Converts unused ammo drops into sniper ammo; |PISTOL_RIFLE| ammo for pistol and rifle drops and |SHOTGUN_SNIPER| for shotgun ammo drops."
+  "Converts unused ammo pickups into Sniper ammo. Pistol/Rifle <AMMO_MUTATION> |PISTOL_RIFLE| and Shotgun <AMMO_MUTATION> |SHOTGUN_SNIPER|."
 
 [/Lotus/Language/Items/SniperModReloadDamage]:
   "Charged Chamber"
@@ -39033,7 +39090,7 @@
   "A profile icon of the Steel Meridian"
 
 [/Lotus/Language/Items/SteelMeridianProfileIconName]:
-  "Steel Meridian Profile Icon"
+  "STEEL MERIDIAN PROFILE ICON"
 
 [/Lotus/Language/Items/StickyBombDesc]:
   "The remotely triggered Castanas quietly deliver a lethal dose of electricity to unsuspecting enemies."
@@ -40752,6 +40809,9 @@
 [/Lotus/Language/Items/ValentinesArrowName]:
   "EROS ARROW SKIN"
 
+[/Lotus/Language/Items/ValkyrActionGlyphName]:
+  "VALKYR IN ACTION GLYPH"
+
 [/Lotus/Language/Items/ValkyrAltBHelmetDesc]:
   "A uniquely-styled alternate helmet for Valkyr."
 
@@ -40784,6 +40844,9 @@
 
 [/Lotus/Language/Items/VariantXmasScythe]:
   "SOLSTICE SCYTHE"
+
+[/Lotus/Language/Items/VaubanActionGlyphName]:
+  "VAUBAN IN ACTION GLYPH"
 
 [/Lotus/Language/Items/VaubanAlternateHelmetDesc]:
   "A uniquely-styled alternate helmet for Vauban."
@@ -52595,6 +52658,9 @@
 [/Lotus/Language/Menu/Notification_Bounty]:
   "TACTICAL ALERT"
 
+[/Lotus/Language/Menu/Notification_Conclave]:
+  "CONCLAVE"
+
 [/Lotus/Language/Menu/Notification_EnemyBounty]:
   "BOUNTY"
 
@@ -57275,7 +57341,7 @@
   "Shrapnel Shot"
 
 [/Lotus/Language/Mods/CritToAbilityAuraDesc]:
-  "Status procs increase Power Strength by |val| for |duration|s."
+  "Applying Status Effects with weapons increase Power Strength by |val| for |duration|s."
 
 [/Lotus/Language/Mods/CritToAbilityAuraName]:
   "Growing Power"
@@ -59044,6 +59110,12 @@
 [/Lotus/Language/Primes/AtlasPrimePassiveAbility]:
   "Becomes immune to Knockdown effects while on the ground."
 
+[/Lotus/Language/Primes/BansheePrimeArmLeftArmorDesc]:
+  "Default armor for the Banshee Prime Warframe."
+
+[/Lotus/Language/Primes/BansheePrimeArmLeftArmorName]:
+  "BANSHEE PRIME ARMOR"
+
 [/Lotus/Language/Primes/BansheePrimeDesc]:
   "Banshee Prime assails her foes with by manipulating sonic forces to deadly effect. Featuring altered mod polarities for greater customization."
 
@@ -59131,6 +59203,18 @@
 [/Lotus/Language/Primes/HydroidPrimePassiveAbility]:
   "Slam Attacks have a chance to summon a tentacle."
 
+[/Lotus/Language/Primes/IctusPrimeDesc]:
+  "Golden accessories for Helios Prime."
+
+[/Lotus/Language/Primes/IctusPrimeMaskName]:
+  "ICTUS PRIME MASK"
+
+[/Lotus/Language/Primes/IctusPrimeTailName]:
+  "ICTUS PRIME TAIL"
+
+[/Lotus/Language/Primes/IctusPrimeWingsName]:
+  "ICTUS PRIME WINGS"
+
 [/Lotus/Language/Primes/ImperatorPrimeSyandanaDesc]:
   "[PH] Description"
 
@@ -59145,6 +59229,12 @@
 
 [/Lotus/Language/Primes/IvaraPrimePassiveAbility]:
   "Senses nearby enemies."
+
+[/Lotus/Language/Primes/IzvaraPrimeDesc]:
+  "This graceful cape is the signature Syandana of Banshee Prime."
+
+[/Lotus/Language/Primes/IzvaraPrimeName]:
+  "CAPELLA PRIME SYANDANA"
 
 [/Lotus/Language/Primes/LimboPrimeDesc]:
   "Limbo Prime harnesses the energies of the Rift to displace adversaries and shift between realities. Featuring altered mod polarities for greater customization."
@@ -59284,6 +59374,12 @@
 [/Lotus/Language/Primes/PassiveAbilityNezhaPrime]:
   "Slide faster and go further."
 
+[/Lotus/Language/Primes/Prime1HShotgunDesc]:
+  "Banshee Prime’s signature shotgun is an instrument of devastation that fires both focused and broad shots."
+
+[/Lotus/Language/Primes/Prime1HShotgunName]:
+  "EUPHONA PRIME"
+
 [/Lotus/Language/Primes/PrimeAkLexDesc]:
   "Savage the enemy with a Lex Prime in each hand."
 
@@ -59357,10 +59453,10 @@
   "GALATINE PRIME"
 
 [/Lotus/Language/Primes/PrimeHeliosDesc]:
-  "[PH] Description"
+  "This knowledge hungry protector defends its master with Deconstructor Prime."
 
 [/Lotus/Language/Primes/PrimeHeliosGlaiveWeaponDesc]:
-  "[PH] Description"
+  "Allows the Helios Prime to violently disassemble and turn itself into a deadly projectile."
 
 [/Lotus/Language/Primes/PrimeHeliosGlaiveWeaponName]:
   "DECONSTRUCTOR PRIME"
@@ -62197,16 +62293,22 @@
   "NOGGLE STATUE - ZEPHYR"
 
 [/Lotus/Language/ShipDecorations/ConclaveOroMoonOrnament]:
-  "[PH]CONCLAVE MOON ORO ORNAMENT"
+  "MOON ORO ORNAMENT"
+
+[/Lotus/Language/ShipDecorations/ConclaveOroMoonOrnamentDesc]:
+  "This pulsating ornament is an ode to your dedication to The Conclave. Display it proudly in your ship."
 
 [/Lotus/Language/ShipDecorations/ConclaveOroOrnament]:
-  "[PH]CONCLAVE ORO ORNAMENT"
+  "ORO ORNAMENT"
 
 [/Lotus/Language/ShipDecorations/ConclaveOroOrnamentDesc]:
-  "[PH]An ornament alive with energy from the Conclave"
+  "This pulsating ornament is an ode to your dedication to The Conclave. Display it proudly in your ship."
 
 [/Lotus/Language/ShipDecorations/ConclaveOroSunOrnament]:
-  "[PH]CONCLAVE SUN ORO ORNAMENT"
+  "SUN ORO ORNAMENT"
+
+[/Lotus/Language/ShipDecorations/ConclaveOroSunOrnamentDesc]:
+  "This pulsating ornament is an ode to your dedication to The Conclave. Display it proudly in your ship."
 
 [/Lotus/Language/ShipDecorations/DisplayResourceContainerAlloyPlate]:
   "ALLOY DRUM DECORATION"
@@ -62388,6 +62490,12 @@
 [/Lotus/Language/ShipDecorations/DisplayResourcePickupSalvageDesc]:
   "A Salvage resource pickup to place in your Orbiter."
 
+[/Lotus/Language/ShipDecorations/GlyphPictureFrame]:
+  "DISPLAY - GLYPH"
+
+[/Lotus/Language/ShipDecorations/GlyphPictureFrameDesc]:
+  "Proudly display glyph images around the ship. Choose from any unlocked glyph image."
+
 [/Lotus/Language/ShipDecorations/GyroscopeShipGrineerQueensName]:
   "XIPHOS KUVA SKIN"
 
@@ -62459,6 +62567,12 @@
 
 [/Lotus/Language/ShipDecorations/LisetSkinGrineerQueensName]:
   "LISET KUVA SKIN"
+
+[/Lotus/Language/ShipDecorations/LunaroGoalOrnament]:
+  "[PH]LUNARO GOAL ORNAMENT"
+
+[/Lotus/Language/ShipDecorations/LunaroGoalOrnamentDesc]:
+  "[PH]LUNARO GOAL ORNAMENT"
 
 [/Lotus/Language/ShipDecorations/OrbiterPictureFrame]:
   "DISPLAY - ARC"
@@ -62696,6 +62810,12 @@
 
 [/Lotus/Language/Sigils/CollectorSigilName]:
   "CEPHALON SIMARIS SIGIL"
+
+[/Lotus/Language/Sigils/ConclaveTacAlertSigilA]:
+  "QUICK STEEL SIGIL"
+
+[/Lotus/Language/Sigils/ConclaveTacAlertSigilADesc]:
+  "A symbol of pride for those that braved blade and star in The Conclave."
 
 [/Lotus/Language/Sigils/DeathMarkSigilGrustragDesc]:
   "A sigil depicting the emblem of the Grustrag Three."
@@ -78448,13 +78568,13 @@
   ""
 
 [/Lotus/Language/Suits/AbsorbAbilityAugment1Desc]:
-  "Absorb Augment - Nyx can move at |SPEED|% speed while using Absorb, but the area is reduced by half."
+  "Absorb Augment: Nyx can move at |SPEED|% speed while using Absorb, but the area is reduced by half."
 
 [/Lotus/Language/Suits/AbsorbAbilityAugment1Name]:
   "Assimilate"
 
 [/Lotus/Language/Suits/AbsorbAbilityAugment1PvPDesc]:
-  "Absorb Augment - Creates a ring every 3 seconds that drags in enemies at |PULL_STR| meters per second."
+  "Absorb Augment: Creates a ring every 3 seconds that drags in enemies at |PULL_STR| meters per second."
 
 [/Lotus/Language/Suits/AbsorbAbilityAugment1PvPName]:
   "Singularity"
@@ -78490,7 +78610,7 @@
   "Becomes immune to Knockdown effects while on the ground."
 
 [/Lotus/Language/Suits/AvalancheAbilityAugment1Desc]:
-  "Avalanche Augment - Grants allies within the radius a coat of ice that absorbs |ABSORB| damage per enemy hit."
+  "Avalanche Augment: Grants allies within the radius a coat of ice that absorbs |ABSORB| damage per enemy hit."
 
 [/Lotus/Language/Suits/AvalancheAbilityAugment1Name]:
   "Icy Avalanche"
@@ -78505,7 +78625,7 @@
   "Avalanche"
 
 [/Lotus/Language/Suits/BallisticBatteryAbilityAugment1Desc]:
-  "Ballistic Battery Augment - Applies a |PROC_CHANCE|% status chance bonus to the shot, based on the amount charged."
+  "Ballistic Battery Augment: Applies a |PROC_CHANCE|% status chance bonus to the shot, based on the amount charged."
 
 [/Lotus/Language/Suits/BallisticBatteryAbilityAugment1Name]:
   "Ballistic Bullseye"
@@ -78517,7 +78637,7 @@
   "Ballistic Battery"
 
 [/Lotus/Language/Suits/BanishAbilityAugment1Desc]:
-  "Banish Augment - Allies banished to the rift will have |HEALTH_PERCENT|% of their max health restored."
+  "Banish Augment: Allies banished to the rift will have |HEALTH_PERCENT|% of their max health restored."
 
 [/Lotus/Language/Suits/BanishAbilityAugment1Name]:
   "Haven"
@@ -78556,7 +78676,7 @@
   "[PH] THUNDER FIRE"
 
 [/Lotus/Language/Suits/BerserkerScreamAbilityAugment1Desc]:
-  "Warcry Augment - While active, Warcry's duration is increased by |DURATION_INC| seconds for each melee kill."
+  "Warcry Augment: While active, Warcry's duration is increased by |DURATION_INC| seconds for each melee kill."
 
 [/Lotus/Language/Suits/BerserkerScreamAbilityAugment1Name]:
   "Eternal War"
@@ -78568,7 +78688,7 @@
   "Warcry"
 
 [/Lotus/Language/Suits/BlessingAbilityAugment1Desc]:
-  "[PH] Blessing - Allies will gain a |DAMAGE|% damage boost, a |PARKOUR|% Bullet Jump boost, and |KNOCKDOWN|% knockdown resistance."
+  "[PH] Blessing: Allies will gain a |DAMAGE|% damage boost, a |PARKOUR|% Bullet Jump boost, and |KNOCKDOWN|% knockdown resistance."
 
 [/Lotus/Language/Suits/BlessingAbilityAugment1Name]:
   "[PH] BLESSING AUGMENT"
@@ -78583,7 +78703,7 @@
   "Blessing"
 
 [/Lotus/Language/Suits/BrawlerBarrierAbilityAugment1Desc]:
-  "Tectonics Augment - Create up to |NUM_WALLS| walls with |HEALTH_MULT|% health. Walls can no longer be turned into boulders."
+  "Tectonics Augment: Create up to |NUM_WALLS| walls with |HEALTH_MULT|% health. Walls can no longer be turned into boulders."
 
 [/Lotus/Language/Suits/BrawlerBarrierAbilityAugment1Name]:
   "Tectonic Fracture"
@@ -78598,7 +78718,7 @@
   "BULWARK"
 
 [/Lotus/Language/Suits/BrawlerGazeAbilityAugment1Desc]:
-  "Petrify Augment - Petrified enemies are scanned into the codex and have a |CHANCE|% chance to drop additional loot when killed."
+  "Petrify Augment: Petrified enemies are scanned into the codex and have a |CHANCE|% chance to drop additional loot when killed."
 
 [/Lotus/Language/Suits/BrawlerGazeAbilityAugment1Name]:
   "Ore Gaze"
@@ -78610,7 +78730,7 @@
   "Petrify"
 
 [/Lotus/Language/Suits/BrawlerPunchAbilityAugment1Desc]:
-  "Landslide Augment - Leave a trail for |TRAIL_DURATION|s that petrifies enemies for |STONE_DURATION|s."
+  "Landslide Augment: Leave a trail for |TRAIL_DURATION|s that petrifies enemies for |STONE_DURATION|s."
 
 [/Lotus/Language/Suits/BrawlerPunchAbilityAugment1Name]:
   "Path of Statues"
@@ -78622,13 +78742,13 @@
   "Landslide"
 
 [/Lotus/Language/Suits/BrawlerSummonAbilityAugment1Desc]:
-  "Rumblers Augment - Create a single rumbler with |HEALTH_MULT|% health, |DAMAGE_MULT|% damage, and |SPEED_MULT|% speed that taunts nearby enemies into attacking it."
+  "Rumblers Augment: Create a single rumbler with |HEALTH_MULT|% health, |DAMAGE_MULT|% damage, and |SPEED_MULT|% speed that taunts nearby enemies into attacking it."
 
 [/Lotus/Language/Suits/BrawlerSummonAbilityAugment1Name]:
   "Titanic Rumbler"
 
 [/Lotus/Language/Suits/BrawlerSummonAbilityAugment1PvPDesc]:
-  "Rumblers Augment - Atlas becomes a Rumbler with rock armor that can absorb up to |ABSORB| damage."
+  "Rumblers Augment: Atlas becomes a Rumbler with rock armor that can absorb up to |ABSORB| damage."
 
 [/Lotus/Language/Suits/BrawlerSummonAbilityAugment1PvPName]:
   "Rumbled"
@@ -78661,7 +78781,7 @@
   "Creates a magnetic field around a target that attracts any weapon fire that hits it and deals damage over time."
 
 [/Lotus/Language/Suits/CannonBarrageAbilityAugment1Desc]:
-  "Tempest Barrage Augment - Each projectile has a |CHANCE|% chance of inflicting a Corrosive status effect."
+  "Tempest Barrage Augment: Each projectile has a |CHANCE|% chance of inflicting a Corrosive status effect."
 
 [/Lotus/Language/Suits/CannonBarrageAbilityAugment1Name]:
   "Corroding Barrage"
@@ -78679,7 +78799,7 @@
   "Void Carry"
 
 [/Lotus/Language/Suits/ChaosAbilityAugment1Desc]:
-  "Chaos Augment - Enemies entering the effect range will be inflicted with Chaos. Effect range lasts for |PCT_CHANCE|% of the ability duration and shrinks over time."
+  "Chaos Augment: Enemies entering the effect range will be inflicted with Chaos. Effect range lasts for |PCT_CHANCE|% of the ability duration and shrinks over time."
 
 [/Lotus/Language/Suits/ChaosAbilityAugment1Name]:
   "Chaos Sphere"
@@ -78706,7 +78826,7 @@
   "Chosen Energy color dictates the type of Elemental damage dealt by abilities."
 
 [/Lotus/Language/Suits/CloneTheDeadAbilityAugment1Desc]:
-  "Shadows of the Dead Augment - Shadows within |RANGE| meters each take |LINK_PCT|% of the damage done to Nekros in his stead."
+  "Shadows of the Dead Augment: Shadows within |RANGE| meters each take |LINK_PCT|% of the damage done to Nekros in his stead."
 
 [/Lotus/Language/Suits/CloneTheDeadAbilityAugment1Name]:
   "Shield of Shadows"
@@ -78721,7 +78841,7 @@
   "Reduces respawn timer of Nekros and his teammates to 0."
 
 [/Lotus/Language/Suits/CrushAbilityAugment1Desc]:
-  "Crush Augment - Survivors have their armor decreased by |ARMOUR|% and become unable to move for |DURATION| seconds."
+  "Crush Augment: Survivors have their armor decreased by |ARMOUR|% and become unable to move for |DURATION| seconds."
 
 [/Lotus/Language/Suits/CrushAbilityAugment1Name]:
   "Fracturing Crush"
@@ -78742,13 +78862,13 @@
   "EXCALIBUR UMBRA"
 
 [/Lotus/Language/Suits/DecoyAbilityAugment1Desc]:
-  "Decoy Augment - If Loki takes fatal damage, Decoy absorbs the damage and swaps locations. Also increases casting speed of Decoy by |SPEED|%"
+  "Decoy Augment: If Loki takes fatal damage, Decoy absorbs the damage and swaps locations. Also increases casting speed of Decoy by |SPEED|%"
 
 [/Lotus/Language/Suits/DecoyAbilityAugment1Name]:
   "Savior Decoy"
 
 [/Lotus/Language/Suits/DecoyAbilityAugment1PvPDesc]:
-  "Decoy Augment - |LINK_PCT|% of damage Loki takes is transferred to Decoy, and vice versa."
+  "Decoy Augment: |LINK_PCT|% of damage Loki takes is transferred to Decoy, and vice versa."
 
 [/Lotus/Language/Suits/DecoyAbilityAugment1PvPName]:
   "Deceptive Bond"
@@ -78769,7 +78889,7 @@
   "Disarm"
 
 [/Lotus/Language/Suits/DragonScalesAbilityAugment1Desc]:
-  "Vex Armor Augment - Taking |DMG_REQ| damage will trigger a |RADIUS|m burst. Shield damage will cause a puncture proc while health damage will cause a blast proc."
+  "Vex Armor Augment: Taking |DMG_REQ| damage will trigger a |RADIUS|m burst. Shield damage will cause a puncture proc while health damage will cause a blast proc."
 
 [/Lotus/Language/Suits/DragonScalesAbilityAugment1Name]:
   "Vexing Retaliation"
@@ -78781,13 +78901,13 @@
   "Vex Armor"
 
 [/Lotus/Language/Suits/DropAbilityAugment1Desc]:
-  "Antimatter Drop Augment - Absorbs enemy bullets within |RANGE| meters, increasing its damage when it explodes."
+  "Antimatter Drop Augment: Absorbs enemy bullets within |RANGE| meters, increasing its damage when it explodes."
 
 [/Lotus/Language/Suits/DropAbilityAugment1Name]:
   "Antimatter Absorb"
 
 [/Lotus/Language/Suits/DropAbilityAugment1PvPDesc]:
-  "Antimatter Drop Augment - Creates a fully charged stationary orb that explodes after |DURATION|s or within enemy proximity."
+  "Antimatter Drop Augment: Creates a fully charged stationary orb that explodes after |DURATION|s or within enemy proximity."
 
 [/Lotus/Language/Suits/DropAbilityAugment1PvPName]:
   "Antimatter Mine"
@@ -78799,7 +78919,7 @@
   "Antimatter Drop"
 
 [/Lotus/Language/Suits/EclipseAbilityAugment1Desc]:
-  "Eclipse Augment - While active, allies within |RANGE| meters gain |PERCENT|% benefit from Eclipse."
+  "Eclipse Augment: While active, allies within |RANGE| meters gain |PERCENT|% benefit from Eclipse."
 
 [/Lotus/Language/Suits/EclipseAbilityAugment1Name]:
   "Total Eclipse"
@@ -78811,7 +78931,7 @@
   "Eclipse"
 
 [/Lotus/Language/Suits/ElementalAttackAbilityAugment1Desc]:
-  "Spectral Scream Augment - Upon deactivation, Chroma will launch an elemental projectile dealing |PROJ_DPS| damage for each second the ability was active, to a maximum of |DAMAGE_CAP| damage."
+  "Spectral Scream Augment: Upon deactivation, Chroma will launch an elemental projectile dealing |PROJ_DPS| damage for each second the ability was active, to a maximum of |DAMAGE_CAP| damage."
 
 [/Lotus/Language/Suits/ElementalAttackAbilityAugment1Name]:
   "Afterburn"
@@ -78832,7 +78952,7 @@
   "Regenerates Energy and deals more damage while on Fire. "
 
 [/Lotus/Language/Suits/EnergyVampireAbilityAugment1Desc]:
-  "Energy Vampire Augment - Excess energy replenishes shields by |SHIELD_PCT|%."
+  "Energy Vampire Augment: Excess energy replenishes shields by |SHIELD_PCT|%."
 
 [/Lotus/Language/Suits/EnergyVampireAbilityAugment1Name]:
   "Vampire Leech"
@@ -78904,7 +79024,7 @@
   "Staggers opponent and reduces their damage."
 
 [/Lotus/Language/Suits/FireBallAbilityAugment1Desc]:
-  "Fireball Augment - Casting on allies will add |DAMAGE_INCREASE|% Fire damage to their attacks for |DURATION| seconds."
+  "Fireball Augment: Casting on allies will add |DAMAGE_INCREASE|% Fire damage to their attacks for |DURATION| seconds."
 
 [/Lotus/Language/Suits/FireBallAbilityAugment1Name]:
   "Fireball Frenzy"
@@ -78919,13 +79039,13 @@
   "Fireball"
 
 [/Lotus/Language/Suits/FireBlastAbilityAugment1Desc]:
-  "Fire Blast Augment - Damage done by Fire Blast has a |PROC_CHANCE|% chance to cause enemies to panic."
+  "Fire Blast Augment: Damage done by Fire Blast has a |PROC_CHANCE|% chance to cause enemies to panic."
 
 [/Lotus/Language/Suits/FireBlastAbilityAugment1Name]:
   "Fire Fright"
 
 [/Lotus/Language/Suits/FireBlastAbilityAugment1PvPDesc]:
-  "Fire Blast Augment - Allies that enter the fire will have up to |NUM_DEBUFF| debuffs removed."
+  "Fire Blast Augment: Allies that enter the fire will have up to |NUM_DEBUFF| debuffs removed."
 
 [/Lotus/Language/Suits/FireBlastAbilityAugment1PvPName]:
   "Purifying Flames"
@@ -78940,7 +79060,7 @@
   "Fire Blast"
 
 [/Lotus/Language/Suits/FreezeAbilityAugment1Desc]:
-  "Freeze Augment - Casting on allies will add |DAMAGE_INCREASE|% Cold damage to their attacks for |DURATION| seconds."
+  "Freeze Augment: Casting on allies will add |DAMAGE_INCREASE|% Cold damage to their attacks for |DURATION| seconds."
 
 [/Lotus/Language/Suits/FreezeAbilityAugment1Name]:
   "Freeze Force"
@@ -78964,7 +79084,7 @@
   "Striking Frost with a melee attack may freeze the attacker."
 
 [/Lotus/Language/Suits/GlaiveAbilityAugment1Desc]:
-  "Shuriken Augment - Hits expose weaknesses on enemies, reducing their armor by |ARMOR_REDUCTION|% for |DURATION| seconds."
+  "Shuriken Augment: Hits expose weaknesses on enemies, reducing their armor by |ARMOR_REDUCTION|% for |DURATION| seconds."
 
 [/Lotus/Language/Suits/GlaiveAbilityAugment1Name]:
   "Seeking Shuriken"
@@ -78982,13 +79102,13 @@
   "Launches a homing blade of pain, dealing Puncture damage."
 
 [/Lotus/Language/Suits/GrandFinaleAbilityAugment1Desc]:
-  "[PH] Prism Augment - Prism has a |CHANCE|% chance to cause a random elemental status effect on every hit."
+  "[PH] Prism Augment: Prism has a |CHANCE|% chance to cause a random elemental status effect on every hit."
 
 [/Lotus/Language/Suits/GrandFinaleAbilityAugment1Name]:
   "[PH] PRISM AUGMENT"
 
 [/Lotus/Language/Suits/GrandFinaleAbilityAugment1PvPDesc]:
-  "Prism Augment - Prism follows above Mirage for |DURATION| seconds."
+  "Prism Augment: Prism follows above Mirage for |DURATION| seconds."
 
 [/Lotus/Language/Suits/GrandFinaleAbilityAugment1PvPName]:
   "Prism Guard"
@@ -79000,7 +79120,7 @@
   "Prism"
 
 [/Lotus/Language/Suits/GrappleHookAbilityAugment1Desc]:
-  "Rip Line Augment - After using Rip Line, the next |RIP_LINES| Rip Lines will have no energy cost while airborne."
+  "Rip Line Augment: After using Rip Line, the next |RIP_LINES| Rip Lines will have no energy cost while airborne."
 
 [/Lotus/Language/Suits/GrappleHookAbilityAugment1Name]:
   "Swing Line"
@@ -79015,7 +79135,7 @@
   "Valkyr hurls forth a hook. If it hits an opponent they are knocked down and damaged. If it hits terrain, she pulls herself to the hook's location."
 
 [/Lotus/Language/Suits/GunFuAbilityAugment1PvPDesc]:
-  "Peacemaker Augment - Dodge roll while Peacemaker is active at the cost of |COST| Energy"
+  "Peacemaker Augment: Dodge roll while Peacemaker is active at the cost of |COST| Energy"
 
 [/Lotus/Language/Suits/GunFuAbilityAugment1PvPName]:
   "Mesa's Waltz"
@@ -79036,7 +79156,7 @@
   "Slam Attacks have a chance to summon a tentacle."
 
 [/Lotus/Language/Suits/IceWaveAbilityAugment1Desc]:
-  "Ice Wave Augment - Leaves a frozen trail for |DURATION| seconds, that will slow down enemies that come into contact with it."
+  "Ice Wave Augment: Leaves a frozen trail for |DURATION| seconds, that will slow down enemies that come into contact with it."
 
 [/Lotus/Language/Suits/IceWaveAbilityAugment1Name]:
   "Ice Wave Impedance"
@@ -79051,7 +79171,7 @@
   "Ice Wave"
 
 [/Lotus/Language/Suits/IllusionAbilityAugment1Desc]:
-  "Hall of Mirrors Augment - The damage of your doppelgangers is increased by |DAMAGE_INCREASE|% every time you kill an enemy."
+  "Hall of Mirrors Augment: The damage of your doppelgangers is increased by |DAMAGE_INCREASE|% every time you kill an enemy."
 
 [/Lotus/Language/Suits/IllusionAbilityAugment1Name]:
   "Hall of Malevolence"
@@ -79072,19 +79192,19 @@
   "While bleeding-out, Inaros becomes entombed in a protective Sarcophagus. He can revive himself by draining the life-force from nearby enemies and allies. "
 
 [/Lotus/Language/Suits/InfestAbilityAugment1Desc]:
-  "Virulence Augment - Reduce armor on hit by |PERCENT|% for each Mutation stack for |DURATION| seconds"
+  "Virulence Augment: Reduce armor on hit by |PERCENT|% for each Mutation stack for |DURATION| seconds"
 
 [/Lotus/Language/Suits/InfestAbilityAugment1Name]:
   "Armor Destroying Mutation"
 
 [/Lotus/Language/Suits/InfestAbilityAugment2Desc]:
-  "Virulence Augment - |PERCENT|% damage ignores shields."
+  "Virulence Augment: |PERCENT|% damage ignores shields."
 
 [/Lotus/Language/Suits/InfestAbilityAugment2Name]:
   "Shield Bypass Mutation"
 
 [/Lotus/Language/Suits/InfestAbilityAugment3Desc]:
-  "Virulence Augment - Heal for |AMOUNT| on hit for each Mutation stack."
+  "Virulence Augment: Heal for |AMOUNT| on hit for each Mutation stack."
 
 [/Lotus/Language/Suits/InfestAbilityAugment3Name]:
   "Restorative Mutation"
@@ -79123,7 +79243,7 @@
   "UNDYING"
 
 [/Lotus/Language/Suits/InvisibilityAbilityAugment1Desc]:
-  "Invisibility Augment - Weapon noise is reduced by |NOISE_REDUC|% while invisible."
+  "Invisibility Augment: Weapon noise is reduced by |NOISE_REDUC|% while invisible."
 
 [/Lotus/Language/Suits/InvisibilityAbilityAugment1Name]:
   "Hushed Invisibility"
@@ -79141,7 +79261,7 @@
   "Loki camouflages himself, becoming invisible to enemies. Camouflage is broken on receiving or dealing damage."
 
 [/Lotus/Language/Suits/IronSkinAbilityAugment1Desc]:
-  "Iron Skin Augment - Recasting Iron Skin will cause it to detonate, dealing |DAMAGE_PERCENT|% of its remaining health as puncture damage, and knocking down enemies."
+  "Iron Skin Augment: Recasting Iron Skin will cause it to detonate, dealing |DAMAGE_PERCENT|% of its remaining health as puncture damage, and knocking down enemies."
 
 [/Lotus/Language/Suits/IronSkinAbilityAugment1Name]:
   "Iron Shrapnel"
@@ -79165,7 +79285,7 @@
   "Senses nearby enemies."
 
 [/Lotus/Language/Suits/KrakenAbilityAugment1Desc]:
-  "Tentacle Swarm Augment - Enemies killed by tentacles have a |DROP_CHANCE|% chance at additional drops."
+  "Tentacle Swarm Augment: Enemies killed by tentacles have a |DROP_CHANCE|% chance at additional drops."
 
 [/Lotus/Language/Suits/KrakenAbilityAugment1Name]:
   "Pilfering Swarm"
@@ -79177,13 +79297,13 @@
   "Tentacle Swarm"
 
 [/Lotus/Language/Suits/LastStandAbilityAugment1Desc]:
-  "Hysteria Augment - Use Secondary Fire to leap onto enemies up to |RANGE|m away."
+  "Hysteria Augment: Use Secondary Fire to leap onto enemies up to |RANGE|m away."
 
 [/Lotus/Language/Suits/LastStandAbilityAugment1Name]:
   "Hysterical Assault"
 
 [/Lotus/Language/Suits/LastStandAbilityAugment1PvPDesc]:
-  "Hysteria Augment - While Hysteria is active, each kill restores |SHIELD_PCT|% max shields."
+  "Hysteria Augment: While Hysteria is active, each kill restores |SHIELD_PCT|% max shields."
 
 [/Lotus/Language/Suits/LastStandAbilityAugment1PvPName]:
   "Hysterical Fixation"
@@ -79195,7 +79315,7 @@
   "Hysteria"
 
 [/Lotus/Language/Suits/LevTrapAbilityAugment1Desc]:
-  "Bastille Augment - When at max capacity, has a |REPEL_PERCENT|% chance to repel new enemies that enter the radius."
+  "Bastille Augment: When at max capacity, has a |REPEL_PERCENT|% chance to repel new enemies that enter the radius."
 
 [/Lotus/Language/Suits/LevTrapAbilityAugment1Name]:
   "Repelling Bastille"
@@ -79219,7 +79339,7 @@
   "Increased movement, reload and holster speed while inside the Rift."
 
 [/Lotus/Language/Suits/LinkAbilityAugment1Desc]:
-  "Link Augment - Reduces armor rating by |ARMOR_REDUCTION|% on enemies targeted by Link."
+  "Link Augment: Reduces armor rating by |ARMOR_REDUCTION|% on enemies targeted by Link."
 
 [/Lotus/Language/Suits/LinkAbilityAugment1Name]:
   "Abating Link"
@@ -79234,7 +79354,7 @@
   "Link"
 
 [/Lotus/Language/Suits/LiquefyAbilityAugment1Desc]:
-  "Undertow Augment - Allies can enter the pool to regain |HEALTH_PERCENT|% health every |HEAL_TICK| seconds, with each ally in the pool increasing energy drain on Hydroid."
+  "Undertow Augment: Allies can enter the pool to regain |HEALTH_PERCENT|% health every |HEAL_TICK| seconds, with each ally in the pool increasing energy drain on Hydroid."
 
 [/Lotus/Language/Suits/LiquefyAbilityAugment1Name]:
   "Curative Undertow"
@@ -79258,7 +79378,7 @@
   "Able to hang from walls for extended durations of time."
 
 [/Lotus/Language/Suits/LuckyDragonAbilityAugment1Desc]:
-  "Elemental Ward Augment - Allies that leave the radius will retain the effect for |DURATION_PCT|% of the remaining duration."
+  "Elemental Ward Augment: Allies that leave the radius will retain the effect for |DURATION_PCT|% of the remaining duration."
 
 [/Lotus/Language/Suits/LuckyDragonAbilityAugment1Name]:
   "Everlasting Ward"
@@ -79279,7 +79399,7 @@
   "With full command of surrounding magnetic energy, Mag is an expert at enemy manipulation."
 
 [/Lotus/Language/Suits/MagHoleAbilityAugment1Desc]:
-  "Vortex Augment - Vortex's duration is increased by |DURATION_INC|% of its max duration for each additional Vortex thrown into it."
+  "Vortex Augment: Vortex's duration is increased by |DURATION_INC|% of its max duration for each additional Vortex thrown into it."
 
 [/Lotus/Language/Suits/MagHoleAbilityAugment1Name]:
   "Perpetual Vortex"
@@ -79309,7 +79429,7 @@
   "Shoot dual-wielded sidearms faster and reload single-handed sidearms more rapidly. Gain bonus health when not using melee weapons."
 
 [/Lotus/Language/Suits/MindControlAbilityAugment1Desc]:
-  "Mind Control Augment - Controlled target does increased damage by |DAMAGE_INCREASE|%."
+  "Mind Control Augment: Controlled target does increased damage by |DAMAGE_INCREASE|%."
 
 [/Lotus/Language/Suits/MindControlAbilityAugment1Name]:
   "Mind Freak"
@@ -79333,7 +79453,7 @@
   "Long-lasting slide and faster acrobatic maneuvers."
 
 [/Lotus/Language/Suits/MolecularPrimeAbilityAugment1Desc]:
-  "[PH] Molecular Prime Augment - Primed enemies within |RADIUS|m will be attracted to each other, exploding for |DAMAGE| damage over |DAMAGE_RADIUS|m on contact."
+  "[PH] Molecular Prime Augment: Primed enemies within |RADIUS|m will be attracted to each other, exploding for |DAMAGE| damage over |DAMAGE_RADIUS|m on contact."
 
 [/Lotus/Language/Suits/MolecularPrimeAbilityAugment1Name]:
   "[PH] MOLECULAR PRIME AUGMENT"
@@ -79345,7 +79465,7 @@
   "Molecular Prime"
 
 [/Lotus/Language/Suits/MonkeyCloudAbilityAugment1Desc]:
-  "[PH] Cloud Walker Augment - Allies within |RANGE|m of the cloud become invisible to enemies."
+  "[PH] Cloud Walker Augment: Allies within |RANGE|m of the cloud become invisible to enemies."
 
 [/Lotus/Language/Suits/MonkeyCloudAbilityAugment1Name]:
   "[PH] CLOUD WALKER AUGMENT"
@@ -79357,7 +79477,7 @@
   "Cloud Walker"
 
 [/Lotus/Language/Suits/MonkeyDeathAbilityAugment1Desc]:
-  "[PH] Defy Augment - While invulnerable, Wukong aggros nearby enemies. When the invulnerability ends, he blinds enemies within |RANGE|m for |DURATION|s."
+  "[PH] Defy Augment: While invulnerable, Wukong aggros nearby enemies. When the invulnerability ends, he blinds enemies within |RANGE|m for |DURATION|s."
 
 [/Lotus/Language/Suits/MonkeyDeathAbilityAugment1Name]:
   "[PH] DEFY AUGMENT"
@@ -79369,7 +79489,7 @@
   "Defy"
 
 [/Lotus/Language/Suits/MonkeyPokeAbilityAugment1Desc]:
-  "Iron Jab Augment - Aiming Iron Jab at the ground launches Wukong into the air. Executing a slam attack increases range by |RANGE|m and applies |DAMAGE|% extra damage."
+  "Iron Jab Augment: Aiming Iron Jab at the ground launches Wukong into the air. Executing a slam attack increases range by |RANGE|m and applies |DAMAGE|% extra damage."
 
 [/Lotus/Language/Suits/MonkeyPokeAbilityAugment1Name]:
   "Iron Vault"
@@ -79381,7 +79501,7 @@
   "Iron Jab"
 
 [/Lotus/Language/Suits/MonkeyStaffAbilityAugment1Desc]:
-  "Primal Fury Augment - Killing an enemy increases Critical Chance by |CHANCE|%. The increase decays by |DECAY|% per second."
+  "Primal Fury Augment: Killing an enemy increases Critical Chance by |CHANCE|%. The increase decays by |DECAY|% per second."
 
 [/Lotus/Language/Suits/MonkeyStaffAbilityAugment1Name]:
   "Primal Rage"
@@ -79411,7 +79531,7 @@
   "Slide faster and go further."
 
 [/Lotus/Language/Suits/NezhaRingAbilityAugment1Desc]:
-  "[PH] Blazing Chakram - The chakram seeks out enemies within |ANGLE| degrees while doing |INCREASE|% more damage and healing per enemy hit."
+  "[PH] Blazing Chakram: The chakram seeks out enemies within |ANGLE| degrees while doing |INCREASE|% more damage and healing per enemy hit."
 
 [/Lotus/Language/Suits/NezhaRingAbilityAugment1Name]:
   "[PH] BLAZING CHAKRAM AUGMENT"
@@ -79423,13 +79543,13 @@
   "Blazing Chakram"
 
 [/Lotus/Language/Suits/NezhaSashAbilityAugment1Desc]:
-  "Warding Halo Augment - Can now be cast on allies with |MULT|% effectiveness."
+  "Warding Halo Augment: Can now be cast on allies with |MULT|% effectiveness."
 
 [/Lotus/Language/Suits/NezhaSashAbilityAugment1Name]:
   "Safeguard"
 
 [/Lotus/Language/Suits/NezhaSashAbilityAugment1PvPDesc]:
-  "Warding Halo Augment - |ENERGY_PCT|% of the casting cost returned based on how much protection is left."
+  "Warding Halo Augment: |ENERGY_PCT|% of the casting cost returned based on how much protection is left."
 
 [/Lotus/Language/Suits/NezhaSashAbilityAugment1PvPName]:
   "Ward Recovery"
@@ -79444,7 +79564,7 @@
   "Create a protective ring of fire that also damages opponents who get too close."
 
 [/Lotus/Language/Suits/NezhaSpearAbilityAugment1Desc]:
-  "[PH] Divine Spears - Hurting impaled enemies will heal |PERCENT|% of the damage dealt up to |CAP| health."
+  "[PH] Divine Spears: Hurting impaled enemies will heal |PERCENT|% of the damage dealt up to |CAP| health."
 
 [/Lotus/Language/Suits/NezhaSpearAbilityAugment1Name]:
   "[PH] DIVINE SPEARS AUGMENT"
@@ -79456,7 +79576,7 @@
   "Divine Spears"
 
 [/Lotus/Language/Suits/NezhaTrailAbilityAugment1Desc]:
-  "[PH] Fire Walker Augment - Accumulate |DAMAGE_PCT|% of the damage Fire Walker deals, unleashing it all in a |RADIUS|m explosive kick upon deactivation."
+  "[PH] Fire Walker Augment: Accumulate |DAMAGE_PCT|% of the damage Fire Walker deals, unleashing it all in a |RADIUS|m explosive kick upon deactivation."
 
 [/Lotus/Language/Suits/NezhaTrailAbilityAugment1Name]:
   "[PH] FIRE WALKER AUGMENT"
@@ -79471,7 +79591,7 @@
   "Blaze a trail of flames, increasing movement speed."
 
 [/Lotus/Language/Suits/NinjaStormAbilityAugment1Desc]:
-  "Blade Storm Augment - Melee multiplier lasts |DURATION|% longer before it resets."
+  "Blade Storm Augment: Melee multiplier lasts |DURATION|% longer before it resets."
 
 [/Lotus/Language/Suits/NinjaStormAbilityAugment1Name]:
   "Rising Storm"
@@ -79492,7 +79612,7 @@
   "When knocked-over, emit a defensive burst that topples attacking enemies."
 
 [/Lotus/Language/Suits/NullstarAbilityAugment1Desc]:
-  "Null Star Augment - Recasting Null Star will make all remaining particles explode, doing |DAMAGE| Blast area damage with guaranteed proc in |RANGE| meters."
+  "Null Star Augment: Recasting Null Star will make all remaining particles explode, doing |DAMAGE| Blast area damage with guaranteed proc in |RANGE| meters."
 
 [/Lotus/Language/Suits/NullstarAbilityAugment1Name]:
   "Neutron Star"
@@ -79525,7 +79645,7 @@
   "Nearby wildlife fight along-side Oberon."
 
 [/Lotus/Language/Suits/OverheatAbilityAugment1Desc]:
-  "Accelerant Augment - Accelerant gives +|SPEED|% casting speed and +|DAMAGE_PCT|% <DT_FIRE> Fire damage to allies within range."
+  "Accelerant Augment: Accelerant gives +|SPEED|% casting speed and +|DAMAGE_PCT|% <DT_FIRE> Fire damage to allies within range."
 
 [/Lotus/Language/Suits/OverheatAbilityAugment1Name]:
   "Flash Accelerant"
@@ -79540,7 +79660,7 @@
   "Accelerant"
 
 [/Lotus/Language/Suits/OverloadAbilityAugment1Desc]:
-  "Discharge Augment - Converts |SHIELD_PCT|% of damage dealt into shields split between Volt and allied Tenno."
+  "Discharge Augment: Converts |SHIELD_PCT|% of damage dealt into shields split between Volt and allied Tenno."
 
 [/Lotus/Language/Suits/OverloadAbilityAugment1Name]:
   "Capacitance"
@@ -79561,7 +79681,7 @@
   "Chosen Energy color dictates the type of Elemental damage dealt by abilities."
 
 [/Lotus/Language/Suits/PhysicDaggerAbilityAugment1Desc]:
-  "Psychic Bolts Augment - Affected enemies will be confused for |DURATION| seconds."
+  "Psychic Bolts Augment: Affected enemies will be confused for |DURATION| seconds."
 
 [/Lotus/Language/Suits/PhysicDaggerAbilityAugment1Name]:
   "Pacifying Bolts"
@@ -79576,7 +79696,7 @@
   "Psychic Bolts"
 
 [/Lotus/Language/Suits/PoisonAbilityAugment1Desc]:
-  "Spores Augment - Casting on allies will add |DAMAGE_INCREASE|% Toxin damage to their attacks for |DURATION| seconds."
+  "Spores Augment: Casting on allies will add |DAMAGE_INCREASE|% Toxin damage to their attacks for |DURATION| seconds."
 
 [/Lotus/Language/Suits/PoisonAbilityAugment1Name]:
   "Venom Dose"
@@ -79591,13 +79711,13 @@
   "Inflicts opponent with <DT_VIRAL> Viral damage over time."
 
 [/Lotus/Language/Suits/PullAbilityAugment1Desc]:
-  "Pull Augment - Adds |PULL_CHANCE|% chance to pull pickups towards Mag."
+  "Pull Augment: Adds |PULL_CHANCE|% chance to pull pickups towards Mag."
 
 [/Lotus/Language/Suits/PullAbilityAugment1Name]:
   "Greedy Pull"
 
 [/Lotus/Language/Suits/PullAbilityAugment1PvPDesc]:
-  "Pull Augment - Steals up to |ENERGY| energy from the target."
+  "Pull Augment: Steals up to |ENERGY| energy from the target."
 
 [/Lotus/Language/Suits/PullAbilityAugment1PvPName]:
   "Sapping Reach"
@@ -79615,7 +79735,7 @@
   "Magnetic force staggers opponents and deals high damage to shields."
 
 [/Lotus/Language/Suits/PushAbilityAugment1Desc]:
-  "Sonic Boom Augment - Enemy armor is reduced by |ARMOUR|% for |DURATION| seconds."
+  "Sonic Boom Augment: Enemy armor is reduced by |ARMOUR|% for |DURATION| seconds."
 
 [/Lotus/Language/Suits/PushAbilityAugment1Name]:
   "Sonic Fracture"
@@ -79630,13 +79750,13 @@
   "Banshee emits a sonic shockwave that knocks down targets in range."
 
 [/Lotus/Language/Suits/RadialBlindAbilityAugment1Desc]:
-  "Radial Blind Augment - Blinded enemies take |DAMAGE_PCT|% more finisher damage."
+  "Radial Blind Augment: Blinded enemies take |DAMAGE_PCT|% more finisher damage."
 
 [/Lotus/Language/Suits/RadialBlindAbilityAugment1Name]:
   "Radiant Finish"
 
 [/Lotus/Language/Suits/RadialBlindAbilityAugment1PvPDesc]:
-  "Radial Blind Augment - Enemies blinded are marked on the minimap for |DURATION| seconds."
+  "Radial Blind Augment: Enemies blinded are marked on the minimap for |DURATION| seconds."
 
 [/Lotus/Language/Suits/RadialBlindAbilityAugment1PvPName]:
   "Signal Flare"
@@ -79651,7 +79771,7 @@
   "Radial Blind"
 
 [/Lotus/Language/Suits/RadialDisarmAbilityAugment1Desc]:
-  "Radial Disarm Augment - Enemies will be affected by Radiation for |DURATION| seconds."
+  "Radial Disarm Augment: Enemies will be affected by Radiation for |DURATION| seconds."
 
 [/Lotus/Language/Suits/RadialDisarmAbilityAugment1Name]:
   "Irradiating Disarm"
@@ -79669,7 +79789,7 @@
   "Lets forth a wave of energy, forcing opponents to equip their melee weapons and depleting their Energy."
 
 [/Lotus/Language/Suits/RadialJavelinAbilityAugment1Desc]:
-  "Radial Javelin Augment - Each enemy hit will increase Excalibur's melee damage by |DAMAGE_INCREASE|% for |DURATION| seconds."
+  "Radial Javelin Augment: Each enemy hit will increase Excalibur's melee damage by |DAMAGE_INCREASE|% for |DURATION| seconds."
 
 [/Lotus/Language/Suits/RadialJavelinAbilityAugment1Name]:
   "Furious Javelin"
@@ -79684,7 +79804,7 @@
   "Radial Javelin"
 
 [/Lotus/Language/Suits/RangerBowAbilityAugment1Desc]:
-  "[PH] Artemis Bow Augment - Fires a single arrow that deals |DAMAGE_MULT|x damage, and knocks down enemies in a small radius."
+  "[PH] Artemis Bow Augment: Fires a single arrow that deals |DAMAGE_MULT|x damage, and knocks down enemies in a small radius."
 
 [/Lotus/Language/Suits/RangerBowAbilityAugment1Name]:
   "[PH] ARTEMIS BOW AUGMENT"
@@ -79696,7 +79816,7 @@
   "Artemis Bow"
 
 [/Lotus/Language/Suits/RangerControlAbilityAugment1Desc]:
-  "[PH] Navigator Augment - Teleports Ivara to the projectile's position upon deactivation, but drains |DRAIN|% more energy while active."
+  "[PH] Navigator Augment: Teleports Ivara to the projectile's position upon deactivation, but drains |DRAIN|% more energy while active."
 
 [/Lotus/Language/Suits/RangerControlAbilityAugment1Name]:
   "[PH] NAVIGATOR AUGMENT"
@@ -79708,13 +79828,13 @@
   "Navigator"
 
 [/Lotus/Language/Suits/RangerQuiverAbilityAugment1Desc]:
-  "[PH] Quiver Augment - Allies within |RADIUS|m of the arrow's impact point will regenerate |HEAL| health over |DURATION|s."
+  "[PH] Quiver Augment: Allies within |RADIUS|m of the arrow's impact point will regenerate |HEAL| health over |DURATION|s."
 
 [/Lotus/Language/Suits/RangerQuiverAbilityAugment1Name]:
   "[PH] QUIVER AUGMENT"
 
 [/Lotus/Language/Suits/RangerQuiverAbilityAugment1PvPDesc]:
-  "Quiver Augment - Quiver fires three arrows and consumes |ENERGY| more energy."
+  "Quiver Augment: Quiver fires three arrows and consumes |ENERGY| more energy."
 
 [/Lotus/Language/Suits/RangerQuiverAbilityAugment1PvPName]:
   "Power of Three"
@@ -79729,7 +79849,7 @@
   "Cycle through and shoot one of three tactical arrows: Cloak (Invisibility), Null-Shield (removes Shields) and Encumbered Arrows (disables Jump)."
 
 [/Lotus/Language/Suits/RangerStealAbilityAugment1Desc]:
-  "Prowl Augment - Ivara is able to bypass laser barriers and gains |SPEED|% movement speed."
+  "Prowl Augment: Ivara is able to bypass laser barriers and gains |SPEED|% movement speed."
 
 [/Lotus/Language/Suits/RangerStealAbilityAugment1Name]:
   "Infiltrate"
@@ -79744,13 +79864,13 @@
   "Become invisible and  take out opponents with deadly headshots."
 
 [/Lotus/Language/Suits/ReckoningAbilityAugment1Desc]:
-  "Reckoning Augment - Enemies affected by Reckoning spawn zones that increase armor by |ARMOUR| for allies and inflicts |DAMAGE| damage to enemies over |DURATION| sec."
+  "Reckoning Augment: Enemies affected by Reckoning spawn zones that increase armor by |ARMOUR| for allies and inflicts |DAMAGE| damage to enemies over |DURATION| sec."
 
 [/Lotus/Language/Suits/ReckoningAbilityAugment1Name]:
   "Hallowed Reckoning"
 
 [/Lotus/Language/Suits/ReckoningAbilityAugment1PvPDesc]:
-  "Reckoning Augment - Health orbs become unusable by enemies for |DURATION| seconds."
+  "Reckoning Augment: Health orbs become unusable by enemies for |DURATION| seconds."
 
 [/Lotus/Language/Suits/ReckoningAbilityAugment1PvPName]:
   "Defiled Reckoning"
@@ -79762,7 +79882,7 @@
   "Reckoning"
 
 [/Lotus/Language/Suits/RegenerationAbilityAugment1Desc]:
-  "Renewal Augment - Taking fatal damage while under the effects of Renewal will instead heal you or allies to |HEAL_PCT|% health. This effect triggers only once for each ally every |COOLDOWN|s."
+  "Renewal Augment: Taking fatal damage while under the effects of Renewal will instead heal you or allies to |HEAL_PCT|% health. This effect triggers only once for each ally every |COOLDOWN|s."
 
 [/Lotus/Language/Suits/RegenerationAbilityAugment1Name]:
   "Phoenix Renewal"
@@ -79786,7 +79906,7 @@
   "Deja Vu"
 
 [/Lotus/Language/Suits/RhinoChargeAbilityAugment1Desc]:
-  "Rhino Charge Augment - Each enemy hit increases Rhino's armor rating by |ARMOR_INCREASE|% for |DURATION| seconds."
+  "Rhino Charge Augment: Each enemy hit increases Rhino's armor rating by |ARMOR_INCREASE|% for |DURATION| seconds."
 
 [/Lotus/Language/Suits/RhinoChargeAbilityAugment1Name]:
   "Ironclad Charge"
@@ -79810,7 +79930,7 @@
   "Emit a shockwave after landing from a great height."
 
 [/Lotus/Language/Suits/RhinoRoarAbilityAugment1Desc]:
-  "Roar Augment - Enemies within |RANGE| meters will suffer from a puncture proc."
+  "Roar Augment: Enemies within |RANGE| meters will suffer from a puncture proc."
 
 [/Lotus/Language/Suits/RhinoRoarAbilityAugment1Name]:
   "Piercing Roar"
@@ -79822,7 +79942,7 @@
   "Roar"
 
 [/Lotus/Language/Suits/RhinoStompAbilityAugment1Desc]:
-  "Rhino Stomp Augment - Iron Skin health is replenished by |AMOUNT| for each enemy affected."
+  "Rhino Stomp Augment: Iron Skin health is replenished by |AMOUNT| for each enemy affected."
 
 [/Lotus/Language/Suits/RhinoStompAbilityAugment1Name]:
   "Reinforcing Stomp"
@@ -79840,7 +79960,7 @@
   "Rhino stomps with force sufficient to disrupt time, slowing all opponents around him."
 
 [/Lotus/Language/Suits/RicochetArmorAbilityAugment1Desc]:
-  "Shatter Shield Augment - Reflected bullets gain a |PROC_PCT|% chance of staggering enemies."
+  "Shatter Shield Augment: Reflected bullets gain a |PROC_PCT|% chance of staggering enemies."
 
 [/Lotus/Language/Suits/RicochetArmorAbilityAugment1Name]:
   "Staggering Shield"
@@ -79864,7 +79984,7 @@
   "Virulence"
 
 [/Lotus/Language/Suits/RussianRouletteAbilityAugment1Desc]:
-  "Shooting Gallery Augment - Does a burst before switching between players, blinding enemies within |RANGE| meters for |DURATION| seconds."
+  "Shooting Gallery Augment: Does a burst before switching between players, blinding enemies within |RANGE| meters for |DURATION| seconds."
 
 [/Lotus/Language/Suits/RussianRouletteAbilityAugment1Name]:
   "Muzzle Flash"
@@ -79879,7 +79999,7 @@
   "Removes ammo from opponent's clip and gives it to Mesa."
 
 [/Lotus/Language/Suits/SandmanBlastAbilityAugment1Desc]:
-  "[PH] Desiccation Augment - Killing a blinded enemy with a finisher has a |CHANCE|% chance of summoning a Sand Shadow."
+  "[PH] Desiccation Augment: Killing a blinded enemy with a finisher has a |CHANCE|% chance of summoning a Sand Shadow."
 
 [/Lotus/Language/Suits/SandmanBlastAbilityAugment1Name]:
   "[PH] DESICCATION AUGMENT"
@@ -79891,7 +80011,7 @@
   "Desiccation"
 
 [/Lotus/Language/Suits/SandmanDevourAbilityAugment1Desc]:
-  "[PH] Devour Augment - |CONVERT_PCT|% of the damage devoured will be stored for Inaros' Sarcophagus, up to a max of |MAX_PCT|% charge."
+  "[PH] Devour Augment: |CONVERT_PCT|% of the damage devoured will be stored for Inaros' Sarcophagus, up to a max of |MAX_PCT|% charge."
 
 [/Lotus/Language/Suits/SandmanDevourAbilityAugment1Name]:
   "[PH] DEVOUR AUGMENT"
@@ -79906,7 +80026,7 @@
   "Hold power to trap target in quicksand rendering them unable to jump. Killing an opponent trapped in Quicksand creates a sand pile that can be devoured for Health."
 
 [/Lotus/Language/Suits/SandmanStormAbilityAugment1Desc]:
-  "Sandstorm Augment - Sandstorm has a |CHANCE|% chance of inflicting status effects based on the damage types and mods on equipped melee weapon."
+  "Sandstorm Augment: Sandstorm has a |CHANCE|% chance of inflicting status effects based on the damage types and mods on equipped melee weapon."
 
 [/Lotus/Language/Suits/SandmanStormAbilityAugment1Name]:
   "Elemental Sandstorm"
@@ -79924,7 +80044,7 @@
   "Scarab Armor"
 
 [/Lotus/Language/Suits/SandmanSwarmAbilityAugment1Desc]:
-  "[PH] Scarab Swarm Augment - Scarab armor protects Inaros from status effects, consuming |PERCENT|% charge for each effect resisted."
+  "[PH] Scarab Swarm Augment: Scarab armor protects Inaros from status effects, consuming |PERCENT|% charge for each effect resisted."
 
 [/Lotus/Language/Suits/SandmanSwarmAbilityAugment1Name]:
   "[PH] SCARAB SWARM AUGMENT"
@@ -79945,7 +80065,7 @@
   "Status Effects inflicted upon enemies last longer."
 
 [/Lotus/Language/Suits/SearchTheDeadAbilityAugment1Desc]:
-  "Desecrate Augment - No longer consumes energy, but consumes |HEALTH_AMOUNT| health per corpse instead."
+  "Desecrate Augment: No longer consumes energy, but consumes |HEALTH_AMOUNT| health per corpse instead."
 
 [/Lotus/Language/Suits/SearchTheDeadAbilityAugment1Name]:
   "Despoil"
@@ -79966,7 +80086,7 @@
   "Effigy"
 
 [/Lotus/Language/Suits/ShedAbilityAugment1Desc]:
-  "Molt Augment - After casting Molt, Saryn regenerates |HEAL_AMMOUNT| health every second for |DURATION| seconds."
+  "Molt Augment: After casting Molt, Saryn regenerates |HEAL_AMMOUNT| health every second for |DURATION| seconds."
 
 [/Lotus/Language/Suits/ShedAbilityAugment1Name]:
   "Regenerative Molt"
@@ -79981,13 +80101,13 @@
   "Shedding her skin like a snake, Saryn leaves a decoy behind that attracts nearby weapon fire."
 
 [/Lotus/Language/Suits/ShieldAbilityAugment1Desc]:
-  "[PH] Electric Shield Augment - Electric Shield follows Volt, but is reduced in size and reduces movement speed by |SLOW_PCT|%."
+  "[PH] Electric Shield Augment: Electric Shield follows Volt, but is reduced in size and reduces movement speed by |SLOW_PCT|%."
 
 [/Lotus/Language/Suits/ShieldAbilityAugment1Name]:
   "[PH] ELECTRIC SHIELD AUGMENT"
 
 [/Lotus/Language/Suits/ShieldAbilityAugment1PvPDesc]:
-  "Electric Shield Augment - Allies that pass through have |SHIELD_INC| shields restored."
+  "Electric Shield Augment: Allies that pass through have |SHIELD_INC| shields restored."
 
 [/Lotus/Language/Suits/ShieldAbilityAugment1PvPName]:
   "Recharge Barrier"
@@ -80002,7 +80122,7 @@
   "Electric Shield"
 
 [/Lotus/Language/Suits/ShieldBashAbilityAugment1Desc]:
-  "Paralysis Augment - Affected enemies are pulled towards Valkyr and the stun duration is increased by |STUN_INCREASE|%."
+  "Paralysis Augment: Affected enemies are pulled towards Valkyr and the stun duration is increased by |STUN_INCREASE|%."
 
 [/Lotus/Language/Suits/ShieldBashAbilityAugment1Name]:
   "Prolonged Paralysis"
@@ -80014,13 +80134,13 @@
   "Paralysis"
 
 [/Lotus/Language/Suits/ShieldRegenAbilityAugment1Desc]:
-  "Polarize Augment - Mag gains |SHIELD_PERCENT|% overshields from depleted enemy shields."
+  "Polarize Augment: Mag gains |SHIELD_PERCENT|% overshields from depleted enemy shields."
 
 [/Lotus/Language/Suits/ShieldRegenAbilityAugment1Name]:
   "Shield Transference"
 
 [/Lotus/Language/Suits/ShieldRegenAbilityAugment1PvPDesc]:
-  "Polarize Augment - Increases the time for the target's shields to regenerate by |SHIELD_DELAY| seconds."
+  "Polarize Augment: Increases the time for the target's shields to regenerate by |SHIELD_DELAY| seconds."
 
 [/Lotus/Language/Suits/ShieldRegenAbilityAugment1PvPName]:
   "Shield Overload"
@@ -80038,7 +80158,7 @@
   "Emit an energy pulse that depletes enemy shields and adds it to Mag."
 
 [/Lotus/Language/Suits/ShockAbilityAugment1Desc]:
-  "Shock Augment - Casting on allies will add |DAMAGE_INCREASE|% Electricity damage to their attacks for |DURATION| seconds."
+  "Shock Augment: Casting on allies will add |DAMAGE_INCREASE|% Electricity damage to their attacks for |DURATION| seconds."
 
 [/Lotus/Language/Suits/ShockAbilityAugment1Name]:
   "Shock Trooper"
@@ -80053,7 +80173,7 @@
   "Shock"
 
 [/Lotus/Language/Suits/SilenceAbilityAugment1Desc]:
-  "Silence Augment - Finisher damage is increased by |DAMAGE_INCREASE|% while Silence is active."
+  "Silence Augment: Finisher damage is increased by |DAMAGE_INCREASE|% while Silence is active."
 
 [/Lotus/Language/Suits/SilenceAbilityAugment1Name]:
   "Savage Silence"
@@ -80068,13 +80188,13 @@
   "Using Silence will cancel any active Abilities of opponents in range and won't allow them to cast for the duration."
 
 [/Lotus/Language/Suits/SlashDashAbilityAugment1Desc]:
-  "Slash Dash Augment - Each enemy hit during Slash Dash further increases your melee counter by |COMBO_COUNT|."
+  "Slash Dash Augment: Each enemy hit during Slash Dash further increases your melee counter by |COMBO_COUNT|."
 
 [/Lotus/Language/Suits/SlashDashAbilityAugment1Name]:
   "Surging Dash"
 
 [/Lotus/Language/Suits/SlashDashAbilityAugment1PvPDesc]:
-  "Slash Dash Augment - Allies in the path of Slash Dash have |NUM_DEBUFF| debuffs removed |SHIELD_INC| shields restored."
+  "Slash Dash Augment: Allies in the path of Slash Dash have |NUM_DEBUFF| debuffs removed |SHIELD_INC| shields restored."
 
 [/Lotus/Language/Suits/SlashDashAbilityAugment1PvPName]:
   "Purging Slash"
@@ -80089,7 +80209,7 @@
   "Slash Dash"
 
 [/Lotus/Language/Suits/SleightOfHandAbilityAugment1Desc]:
-  "Sleight of Hand Augment - Pickups are turned into proximity mines that deal |DAMAGE| damage with a |PROC_CHANCE|% proc chance."
+  "Sleight of Hand Augment: Pickups are turned into proximity mines that deal |DAMAGE| damage with a |PROC_CHANCE|% proc chance."
 
 [/Lotus/Language/Suits/SleightOfHandAbilityAugment1Name]:
   "Explosive Legerdemain"
@@ -80101,7 +80221,7 @@
   "Sleight of Hand"
 
 [/Lotus/Language/Suits/SmiteAbilityAugment1Desc]:
-  "Smite Augment - Casting on allies will add |DAMAGE_INCREASE|% Radiation damage to their attacks for |DURATION| sec."
+  "Smite Augment: Casting on allies will add |DAMAGE_INCREASE|% Radiation damage to their attacks for |DURATION| sec."
 
 [/Lotus/Language/Suits/SmiteAbilityAugment1Name]:
   "Smite Infusion"
@@ -80113,13 +80233,13 @@
   "Smite"
 
 [/Lotus/Language/Suits/SmokeScreenAbilityAugment1Desc]:
-  "Smoke Screen Augment - Conceals allies for |DURATION| seconds."
+  "Smoke Screen Augment: Conceals allies for |DURATION| seconds."
 
 [/Lotus/Language/Suits/SmokeScreenAbilityAugment1Name]:
   "Smoke Shadow"
 
 [/Lotus/Language/Suits/SmokeScreenAbilityAugment1PvPDesc]:
-  "Smoke Screen Augment - Blinds enemies within |RADIUS| meters for |DURATION| seconds."
+  "Smoke Screen Augment: Blinds enemies within |RADIUS| meters for |DURATION| seconds."
 
 [/Lotus/Language/Suits/SmokeScreenAbilityAugment1PvPName]:
   "Tear Gas"
@@ -80134,10 +80254,10 @@
   "Smoke Screen"
 
 [/Lotus/Language/Suits/SmokeScreenAbilityPvPDesc]:
-  "Drops a smoke bomb rendering Ash invisible for a short time. Invisibility is broken on firing any weapon or ability, picking up health/energy/ammo and taking damage."
+  "Drops a smoke bomb rendering Ash invisible for a short time. Invisibility is broken on firing any weapon or using any ability, picking up health/energy/ammo and taking damage."
 
 [/Lotus/Language/Suits/SnowGlobeAbilityAugment1Desc]:
-  "Snow Globe Augment - Enemies that enter have a |FROZEN_PCT|% chance to become frozen solid for |DURATION| seconds."
+  "Snow Globe Augment: Enemies that enter have a |FROZEN_PCT|% chance to become frozen solid for |DURATION| seconds."
 
 [/Lotus/Language/Suits/SnowGlobeAbilityAugment1Name]:
   "Chilling Globe"
@@ -80152,13 +80272,13 @@
   "Snow Globe"
 
 [/Lotus/Language/Suits/SonarAbilityAugment1Desc]:
-  "Sonar Augment - Killing an enemy by shooting the weak spot will trigger another Sonar for |DURATION_PERCENT|% of remaining duration."
+  "Sonar Augment: Killing an enemy by shooting the weak spot will trigger another Sonar for |DURATION_PERCENT|% of remaining duration."
 
 [/Lotus/Language/Suits/SonarAbilityAugment1Name]:
   "Resonance"
 
 [/Lotus/Language/Suits/SonarAbilityAugment1PvPDesc]:
-  "Sonar Augment - Affected enemies also become visible through walls for |DURATION|s."
+  "Sonar Augment: Affected enemies also become visible through walls for |DURATION|s."
 
 [/Lotus/Language/Suits/SonarAbilityAugment1PvPName]:
   "Augmented Sonar"
@@ -80170,13 +80290,13 @@
   "Sonar"
 
 [/Lotus/Language/Suits/SoulPunchAbilityAugment1Desc]:
-  "Soul Punch Augment - Use on a downed ally to revive him with |HEALTH_PERCENT|% of health. Nekros's energy will be consumed."
+  "Soul Punch Augment: Use on a downed ally to revive him with |HEALTH_PERCENT|% of health. Nekros's energy will be consumed."
 
 [/Lotus/Language/Suits/SoulPunchAbilityAugment1Name]:
   "Soul Survivor"
 
 [/Lotus/Language/Suits/SoulPunchAbilityAugment1PvPDesc]:
-  "Soul Punch Augment - depletes up to |ENERGY| energy from the target."
+  "Soul Punch Augment: Depletes up to |ENERGY| energy from the target."
 
 [/Lotus/Language/Suits/SoulPunchAbilityAugment1PvPName]:
   "Discharge Strike"
@@ -80191,7 +80311,7 @@
   "A powerful blow that knocks down opponents."
 
 [/Lotus/Language/Suits/SoundquakeAbilityAugment1Desc]:
-  "Sound Quake Augment - Increase damage by |DAMAGE|, range by |RANGE|m and energy cost by |ENERGY|, for every second this ability is active."
+  "Sound Quake Augment: Increase damage by |DAMAGE|, range by |RANGE|m and energy cost by |ENERGY|, for every second this ability is active."
 
 [/Lotus/Language/Suits/SoundquakeAbilityAugment1Name]:
   "Resonating Quake"
@@ -80203,13 +80323,13 @@
   "Sound Quake"
 
 [/Lotus/Language/Suits/SpeedAbilityAugment1Desc]:
-  "Speed Augment - Enemies touched while sprinting under the effects of speed will take |DAMAGE| electrical damage with guaranteed proc."
+  "Speed Augment: Enemies touched while sprinting under the effects of speed will take |DAMAGE| electrical damage with guaranteed proc."
 
 [/Lotus/Language/Suits/SpeedAbilityAugment1Name]:
   "Shocking Speed"
 
 [/Lotus/Language/Suits/SpeedAbilityAugment1PvPDesc]:
-  "Speed Augment - Running into an opponent increases the duration of Speed by |DURATION_INC| seconds."
+  "Speed Augment: Running into an opponent increases the duration of Speed by |DURATION_INC| seconds."
 
 [/Lotus/Language/Suits/SpeedAbilityAugment1PvPName]:
   "Kinetic Collision"
@@ -80227,7 +80347,7 @@
   "Gain a brief boost of movement and Melee attack speed."
 
 [/Lotus/Language/Suits/StairwayToHeavenAbilityAugment1Desc]:
-  "Hallowed Ground Augment - The next time this ability is cast it will consume the Hallowed Ground, dealing the remaining damage in a burst with |PROC_CHANCE|% chance of Radiation proc."
+  "Hallowed Ground Augment: The next time this ability is cast it will consume the Hallowed Ground, dealing the remaining damage in a burst with |PROC_CHANCE|% chance of Radiation proc."
 
 [/Lotus/Language/Suits/StairwayToHeavenAbilityAugment1Name]:
   "Hallowed Eruption"
@@ -80239,7 +80359,7 @@
   "Hallowed Ground"
 
 [/Lotus/Language/Suits/SwitchTeleportAbilityAugment1Desc]:
-  "Switch Teleport Augment - After teleporting with an ally they will be invulnerable for |DURATION| seconds."
+  "Switch Teleport Augment: After teleporting with an ally they will be invulnerable for |DURATION| seconds."
 
 [/Lotus/Language/Suits/SwitchTeleportAbilityAugment1Name]:
   "Safeguard Switch"
@@ -80263,7 +80383,7 @@
   "Parasitic Link"
 
 [/Lotus/Language/Suits/TearInSpaceAbilityAugment1Desc]:
-  "Cataclysm Augment - Duration increased by |DURATION|s for each enemy killed."
+  "Cataclysm Augment: Duration increased by |DURATION|s for each enemy killed."
 
 [/Lotus/Language/Suits/TearInSpaceAbilityAugment1Name]:
   "Cataclysmic Continuum"
@@ -80275,7 +80395,7 @@
   "Cataclysm"
 
 [/Lotus/Language/Suits/TeleportToAbilityAugment1Desc]:
-  "Teleport Augment - Teleport will perform a finisher on the target, dealing |DAMAGE_MULT|% extra damage. |ENERGY_REIMBURSEMENT|% of energy cost is refunded on a kill."
+  "Teleport Augment: Teleport will perform a finisher on the target, dealing |DAMAGE_MULT|% extra damage. |ENERGY_REIMBURSEMENT|% of energy cost is refunded on a kill."
 
 [/Lotus/Language/Suits/TeleportToAbilityAugment1Name]:
   "Fatal Teleport"
@@ -80299,7 +80419,7 @@
   "Larva"
 
 [/Lotus/Language/Suits/TerrorTotemAbilityAugment1Desc]:
-  "Terrify Augment - Affected enemies have |SLOW_PCT|% reduced movement speed."
+  "Terrify Augment: Affected enemies have |SLOW_PCT|% reduced movement speed."
 
 [/Lotus/Language/Suits/TerrorTotemAbilityAugment1Name]:
   "Creeping Terrify"
@@ -80314,7 +80434,7 @@
   "Cast fear into the hearts of nearby enemies, causing them deal less damage."
 
 [/Lotus/Language/Suits/TidalWaveAbilityAugment1Desc]:
-  "Tidal Surge Augment - Clears status effects and grants |DURATION| seconds of proc immunity for yourself and allies that come in contact with it."
+  "Tidal Surge Augment: Clears status effects and grants |DURATION| seconds of proc immunity for yourself and allies that come in contact with it."
 
 [/Lotus/Language/Suits/TidalWaveAbilityAugment1Name]:
   "Tidal Impunity"
@@ -80368,7 +80488,7 @@
   "Armor increases with each ally nearby."
 
 [/Lotus/Language/Suits/VolatileAbilityAugment1Desc]:
-  "Rift Surge Augment - Damage multiplier is increased by |DAMAGE_INCREASE|% for each enemy in the rift."
+  "Rift Surge Augment: Damage multiplier is increased by |DAMAGE_INCREASE|% for each enemy in the rift."
 
 [/Lotus/Language/Suits/VolatileAbilityAugment1Name]:
   "Rift Torrent"
@@ -80389,7 +80509,7 @@
   "Grounded movement generates an electrical charge that is unleashed with the next attack."
 
 [/Lotus/Language/Suits/WeaponPoisonAbilityAugment1Desc]:
-  "Toxic Lash Augment - Melee kills create |RADIUS|m toxic clouds, dealing |DAMAGE| <DT_POISON>Toxin/s for |DURATION|s."
+  "Toxic Lash Augment: Melee kills create |RADIUS|m toxic clouds, dealing |DAMAGE| <DT_POISON>Toxin/s for |DURATION|s."
 
 [/Lotus/Language/Suits/WeaponPoisonAbilityAugment1Name]:
   "Contagion Cloud"
@@ -80404,7 +80524,7 @@
   "Increases Melee damage."
 
 [/Lotus/Language/Suits/WellOfLifeAbilityAugment1Desc]:
-  "Well of Life Augment - On death, marked enemies will drop |HEALTH_ORBS| health orbs with a |ENERGY_ORB_CHANCE|% chance of dropping an energy orb."
+  "Well of Life Augment: On death, marked enemies will drop |HEALTH_ORBS| health orbs with a |ENERGY_ORB_CHANCE|% chance of dropping an energy orb."
 
 [/Lotus/Language/Suits/WellOfLifeAbilityAugment1Name]:
   "Pool Of Life"
@@ -80419,7 +80539,7 @@
   "Well Of Life"
 
 [/Lotus/Language/Suits/WorldOnFireAbilityAugment1Desc]:
-  "World On Fire Augment - Enemies hit have a |KNOCKDOWN|% chance of being knocked down."
+  "World On Fire Augment: Enemies hit have a |KNOCKDOWN|% chance of being knocked down."
 
 [/Lotus/Language/Suits/WorldOnFireAbilityAugment1Name]:
   "Firequake"
@@ -80434,7 +80554,7 @@
   "World On Fire"
 
 [/Lotus/Language/Suits/WormHoleAbilityAugment1Desc]:
-  "Worm Hole Augment - Allies that travel through wormhole gain a |SPEED|% speed bonus for |DURATION| seconds."
+  "Worm Hole Augment: Allies that travel through wormhole gain a |SPEED|% speed bonus for |DURATION| seconds."
 
 [/Lotus/Language/Suits/WormHoleAbilityAugment1Name]:
   "Escape Velocity"
@@ -80455,7 +80575,7 @@
   "Increased combo duration."
 
 [/Lotus/Language/Suits/YinYangAuraAbilityAugment1Desc]:
-  "Pacify & Provoke Augment - Pacify converts damage done to allies into an aura that slows enemies by |SLOW|%. Provoke converts damage done to enemies into |STRENGTH|% extra Power Strength."
+  "Pacify & Provoke Augment: Pacify converts damage done to allies into an aura that slows enemies by |SLOW|%. Provoke converts damage done to enemies into |STRENGTH|% extra Power Strength."
 
 [/Lotus/Language/Suits/YinYangAuraAbilityAugment1Name]:
   "Peaceful Provocation"
@@ -80467,7 +80587,7 @@
   "Pacify & Provoke"
 
 [/Lotus/Language/Suits/YinYangBurstAbilityAugment1Desc]:
-  "[PH] Mend & Maim Augment - Mend damages enemy shields by |SHIELD_DRAIN|/s and restores ally shields by |SHIELD_REGEN|/s. Maim damages enemy health by |HEALTH_DRAIN|/s and regenerates ally health by |HEALTH_REGEN|/s."
+  "[PH] Mend & Maim Augment: Mend damages enemy shields by |SHIELD_DRAIN|/s and restores ally shields by |SHIELD_REGEN|/s. Maim damages enemy health by |HEALTH_DRAIN|/s and regenerates ally health by |HEALTH_REGEN|/s."
 
 [/Lotus/Language/Suits/YinYangBurstAbilityAugment1Name]:
   "[PH] MEND & MAIM AUGMENT"
@@ -80479,13 +80599,13 @@
   "Mend & Maim"
 
 [/Lotus/Language/Suits/YinYangSwitchAbilityAugment1Desc]:
-  "Metamorphosis Augment - Equinox's other half breaks free for |DURATION| seconds, dealing |DAMAGE_MULT|% damage."
+  "Metamorphosis Augment: Equinox's other half breaks free for |DURATION| seconds, dealing |DAMAGE_MULT|% damage."
 
 [/Lotus/Language/Suits/YinYangSwitchAbilityAugment1Name]:
   "Duality"
 
 [/Lotus/Language/Suits/YinYangSwitchAbilityAugment1PvPDesc]:
-  "Metamorphosis Augment - Switching to Day-form staggers enemies within |RADIUS|m and knocks them down when switching to Night-form."
+  "Metamorphosis Augment: Switching to Day-form staggers enemies within |RADIUS|m and knocks them down when switching to Night-form."
 
 [/Lotus/Language/Suits/YinYangSwitchAbilityAugment1PvPName]:
   "Push & Pull"
@@ -80497,7 +80617,7 @@
   "Metamorphosis"
 
 [/Lotus/Language/Suits/YinYangTargetAbilityAugment1Desc]:
-  "Rest & Rage Augment - Killing an affected enemy causes the effect to spread to enemies within |RADIUS| meters for |DURATION_PCT|% of the remaining duration."
+  "Rest & Rage Augment: Killing an affected enemy causes the effect to spread to enemies within |RADIUS| meters for |DURATION_PCT|% of the remaining duration."
 
 [/Lotus/Language/Suits/YinYangTargetAbilityAugment1Name]:
   "Calm & Frenzy"
@@ -80509,7 +80629,7 @@
   "Rest & Rage"
 
 [/Lotus/Language/Suits/ZapTrapAbilityAugment1Desc]:
-  "Tesla Augment - Every pair of Teslas will connect forming a beam that will cause |DAMAGE| Slash damage when contacted."
+  "Tesla Augment: Every pair of Teslas will connect forming a beam that will cause |DAMAGE| Slash damage when contacted."
 
 [/Lotus/Language/Suits/ZapTrapAbilityAugment1Name]:
   "Tesla Link"
@@ -80524,7 +80644,7 @@
   "Specializing in air attacks and mobility, Zephyr dominates from above."
 
 [/Lotus/Language/Suits/ZephyrDiveBombAbilityAugment1Desc]:
-  "Dive Bomb Augment - Enemies within |DISTANCE| meters of the point of impact are dragged into it."
+  "Dive Bomb Augment: Enemies within |DISTANCE| meters of the point of impact are dragged into it."
 
 [/Lotus/Language/Suits/ZephyrDiveBombAbilityAugment1Name]:
   "Divebomb Vortex"
@@ -80548,7 +80668,7 @@
   "Tail Wind"
 
 [/Lotus/Language/Suits/ZephyrTornadoAbilityAugment1Desc]:
-  "Tornado Augment - Creates |NUM_TORNADOES| additional tornadoes. All tornadoes are |SIZE_MULT|% their original size and won't pick up enemies."
+  "Tornado Augment: Creates |NUM_TORNADOES| additional tornadoes. All tornadoes are |SIZE_MULT|% their original size and won't pick up enemies."
 
 [/Lotus/Language/Suits/ZephyrTornadoAbilityAugment1Name]:
   "Funnel Clouds"
@@ -80560,7 +80680,7 @@
   "Tornado"
 
 [/Lotus/Language/Suits/ZephyrTurbulenceAbilityAugment1Desc]:
-  "Turbulence Augment - Turbulence increases movement speed by |MOVEMENT_SPEED|% and projectile speed by |PROJECTILE_SPEED|% for Zephyr and her allies."
+  "Turbulence Augment: Turbulence increases movement speed by |MOVEMENT_SPEED|% and projectile speed by |PROJECTILE_SPEED|% for Zephyr and her allies."
 
 [/Lotus/Language/Suits/ZephyrTurbulenceAbilityAugment1Name]:
   "Jet Stream"
@@ -81850,7 +81970,7 @@
   "|val|% bonus damage on next hit"
 
 [/Lotus/Language/Upgrades/BowModConvertAmmoModDesc]:
-  "Convert unused ammo drops into Arrows"
+  "Converts unused ammo pickups into Arrows"
 
 [/Lotus/Language/Upgrades/CatbrowSwipePreceptPartA]:
   "|val| enemies."
@@ -82201,7 +82321,7 @@
   "|val|% Counter Chance"
 
 [/Lotus/Language/Upgrades/PistolModConvertAmmoModDesc]:
-  "Convert unused ammo drops into Pistol Ammo"
+  "Converts unused ammo pickups into Pistol Ammo"
 
 [/Lotus/Language/Upgrades/PoisonProcResist]:
   "|val|% chance to resist a Toxin damage effect"
@@ -82234,7 +82354,7 @@
   "|val|% Chance to Resist Knockdown"
 
 [/Lotus/Language/Upgrades/RifleModConvertAmmoModDesc]:
-  "Convert unused ammo drops into Rifle Ammo"
+  "Converts unused ammo pickups into Rifle Ammo"
 
 [/Lotus/Language/Upgrades/RipkasNightwatchModDamage]:
   "Increase Damage by |val|% and"
@@ -82252,7 +82372,7 @@
   "|val|% Chance to deal Electrical Damage when shield struck by melee enemies."
 
 [/Lotus/Language/Upgrades/ShotgunModConvertAmmoModDesc]:
-  "Convert unused ammo drops into Shotgun Ammo"
+  "Converts unused ammo pickups into Shotgun Ammo"
 
 [/Lotus/Language/Upgrades/SlashBias]:
   "Converts |val|% of Damage into <DT_SLASH>Slash"
@@ -82267,7 +82387,7 @@
   "|val|% Recoil and Spread when Sliding"
 
 [/Lotus/Language/Upgrades/SniperModConvertAmmoModDesc]:
-  "Convert unused ammo drops into Sniper Ammo"
+  "Converts unused ammo pickups into Sniper Ammo"
 
 [/Lotus/Language/Upgrades/SobekNightwatchModPartA]:
   "Killing enemies causes them to explode, dealing |val|"
