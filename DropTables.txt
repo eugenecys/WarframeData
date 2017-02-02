@@ -1899,9 +1899,9 @@ DROP_MOD (Drop Chance: 100%)
  - ELITE LANCER (EliteRifleLancerAvatarRare)
  - ELITE ARID LANCER (EliteRifleLancerAvatar)
  - ELITE FRONTIER LANCER (EliteRifleLancerAvatar)
- - DAREK DRAGA (SquidLancerAvatar)
  - SHOCK DRAGA (EelLancerAvatar)
  - DRAGA (FrogLancerAvatar)
+ - DAREK DRAGA (SquidLancerAvatar)
 
 DROP_AMMO (Drop Chance: 70%)
 	20 RIFLE AMMO, COMMON, 25%
