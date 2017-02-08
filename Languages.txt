@@ -9797,7 +9797,7 @@ Warframe Support Team"
 "Take flight, Tenno! Aerial attacks in the Conclave will keep your opponents on their toes. Bring scythes, heavy melees, machetes or polearms to improve in-air combat!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip162]
-"Sniper feeling a bit dull in the Conclave? Visit Teshin in the Relays to get your hands on the Lie in Wait mod to increase Aimed Damage by 60% and decrease Recoil by 200% at max rank!"
+"Sniper feeling a bit dull in the Conclave? Visit Teshin in the Relays to get your hands on the Lie in Wait mod to increase Aimed Damage by 60%, but be careful, it also increases Recoil by 200% at max rank!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip163]
 "Looking for an all-purpose elemental damage? <DT_CORROSIVE>Corrosive and <DT_FREEZE>Cold damage have some effect on each enemy faction!"
@@ -11810,7 +11810,7 @@ You can invite friends into your dojo to trade with them."
 "ACCEPT ITEMS"
 
 [/Lotus/Language/Dojo/PickTradeItemsTitle]
-"Display Items"
+"ITEMS ON SHOP DISPLAY"
 
 [/Lotus/Language/Dojo/PlaceDeco]
 "PLACE DECORATION"
@@ -12555,10 +12555,10 @@ To research additional colors, visit the Tenno Lab."
 "The trade failed: You no longer have all the prints that you offered in the trade."
 
 [/Lotus/Language/Dojo/TRADE_ERR_MISSING_SLOT_BUDDY]
-"The trade failed: Your trade partner does not have enough Weapon slots to accept the Syndicate Weapons offered."
+"The trade failed: Your trade partner does not have enough Weapon slots to accept the Special Weapons offered."
 
 [/Lotus/Language/Dojo/TRADE_ERR_MISSING_SLOT_ME]
-"The trade failed: You do not have enough Weapon slots to accept the Syndicate Weapons offered. Free up some slots or trade other items."
+"The trade failed: You do not have enough Weapon slots to accept the Special Weapons offered. Free up some slots or trade other items."
 
 [/Lotus/Language/Dojo/TRADE_ERR_OFFER_CHANGED]
 "Trade could not be accepted because your trading partner made changes to the offer. Please review the changes and accept, change your offer, or cancel the trade."
@@ -12576,7 +12576,7 @@ To research additional colors, visit the Tenno Lab."
 "Failed to make offer; your trade partner already owns this item and cannot recieve a duplicate."
 
 [/Lotus/Language/Dojo/TRADE_ERR_WEAPON_NOT_UNRANKED]
-"Only Syndicate Weapons with 0 Affinity, no polarizations, and no catalyst installed can be offered for trade."
+"Only Special Weapons with 0 Affinity, no polarizations, and no catalyst installed can be offered for trade."
 
 [/Lotus/Language/Dojo/TRADE_ERR_WEAPON_SKIN_WILL_EXPIRE]
 "Accessories which will expire cannot be offered for trade."
@@ -12716,46 +12716,46 @@ and will receive from |PLAYER_NAME| the following:|GETTING|"
 "TRADE TAX: <CREDITS> |AMOUNT|"
 
 [/Lotus/Language/Dojo/TradeTypeConsumables]
-"Gear"
+"GEAR"
 
 [/Lotus/Language/Dojo/TradeTypeEnhancements]
-"Arcanes"
+"ARCANE ENHANCEMENT"
 
 [/Lotus/Language/Dojo/TradeTypeFocus]
-"Focus Lens"
+"FOCUS LENS"
 
 [/Lotus/Language/Dojo/TradeTypeKeys]
-"Key"
+"KEY"
 
 [/Lotus/Language/Dojo/TradeTypeKubrowPrints]
-"Prints"
+"COMPANION IMPRINT"
 
 [/Lotus/Language/Dojo/TradeTypeMod]
 "MOD"
 
 [/Lotus/Language/Dojo/TradeTypeNone]
-"Clear Slot"
+"CLEAR SLOT"
 
 [/Lotus/Language/Dojo/TradeTypeParts]
-"Blueprint Part"
+"CRAFTING COMPONENT"
 
 [/Lotus/Language/Dojo/TradeTypePlatinum]
-"<PLATINUM_CREDITS>Platinum"
+"<PLATINUM_CREDITS> PLATINUM"
 
 [/Lotus/Language/Dojo/TradeTypeProjections]
-"Relics"
+"RELIC"
 
 [/Lotus/Language/Dojo/TradeTypeSchematic]
-"Blueprint"
+"BLUEPRINT"
 
 [/Lotus/Language/Dojo/TradeTypeTreasures]
-"Ayatan Treasures"
+"AYATAN TREASURE"
 
 [/Lotus/Language/Dojo/TradeTypeWeapons]
-"Special Weapons"
+"SPECIAL WEAPON"
 
 [/Lotus/Language/Dojo/TradeTypeWeaponSkins]
-"Helmet"
+"HELMET"
 
 [/Lotus/Language/Dojo/TradeWithUser]
 "Trade"
@@ -24504,7 +24504,7 @@ Lethal abilities are complemented by powers of distraction."
 "Rare mods require more energy to rank up. They also provide more energy when fused."
 
 [/Lotus/Language/GameTips/Mods_MarooTreasureHunt]
-"Maroo will sometimes have information on where to find Ayatan Sculptures."
+"Maroo will sometimes have information on where to find Ayatan Treasures."
 
 [/Lotus/Language/GameTips/Mods_MeltOmega]
 "Dissolving Riven mods will return 75% of the endo invested into it."
@@ -48597,7 +48597,7 @@ Best: |HIGHSCORE|"
 [/Lotus/Language/Menu/DetailedPurchase_NidusRecipeHelpText]
 "The blueprint is acquired by completing The Glast Gambit Quest.
 
-Component blueprints are acquired by completing the Purify mission in Eris: Oestrus."
+Component blueprints are acquired by completing the Infested Salvage mission in Eris: Oestrus."
 
 [/Lotus/Language/Menu/DetailedPurchase_PackageCompatNotOwned]
 "Several items in this package are cosmetics for the following items which you do not own:
@@ -49153,7 +49153,7 @@ Are you ready to become |RANK_NAME| rank?"
 "You do not own any Ayatan Sculptures or Stars."
 
 [/Lotus/Language/Menu/FusionTreasuresMgr_Title]
-"AYATAN SCULPTURES"
+"AYATAN TREASURES"
 
 [/Lotus/Language/Menu/FusionTreauresMgr_NoItemsForSocket]
 "You do not have any |ITEM| that can be installed into this socket."
@@ -54626,10 +54626,10 @@ Do you wish to enable Recruit Conditioning?"
 "RECRUIT"
 
 [/Lotus/Language/Menu/RelayEndTradeInstruction]
-"Stop trading."
+"Stop trading"
 
 [/Lotus/Language/Menu/RelayTradeInstruction]
-"Offer up items and gear for trade."
+"Offer up items and gear for trade"
 
 [/Lotus/Language/Menu/ReleaseCompanion]
 "CONSIGN |NAME|"
@@ -54945,6 +54945,9 @@ Thank you for your partnership."
 [/Lotus/Language/Menu/Select_Item_To_View]
 "Select item to view details"
 
+[/Lotus/Language/Menu/SelectAyatanTreasure]
+"SELECT AN AYATAN TREASURE"
+
 [/Lotus/Language/Menu/SelectBrandedSuit]
 "CHOOSE THE |ITEM_NAME| TO DISENGAGE THE GRUSTRAG BOLT FROM"
 
@@ -54957,8 +54960,11 @@ Thank you for your partnership."
 [/Lotus/Language/Menu/SelectChallenge_XBone]
 "<WARNING> Select an Achievement to see its details."
 
+[/Lotus/Language/Menu/SelectCompanionImprint]
+"SELECT A COMPANION IMPRINT"
+
 [/Lotus/Language/Menu/SelectConsumableTitle]
-"SELECT A GEAR ITEM"
+"SELECT A GEAR"
 
 [/Lotus/Language/Menu/SelectDroneTitle]
 "Select Extractor"
@@ -54967,7 +54973,7 @@ Thank you for your partnership."
 "SELECT AN ARCANE ENHANCEMENT"
 
 [/Lotus/Language/Menu/SelectFocusLensTitle]
-"SELECT FOCUS LENS"
+"SELECT A FOCUS LENS"
 
 [/Lotus/Language/Menu/SelectGPBind]
 "Select a control to bind to "
@@ -54982,7 +54988,7 @@ Thank you for your partnership."
 "SELECT A KEY"
 
 [/Lotus/Language/Menu/SelectKubrowPrintTitle]
-"SELECT A PRINT"
+"SELECT AN IMPRINT"
 
 [/Lotus/Language/Menu/SelectMod]
 "SELECT MOD"
@@ -55000,7 +55006,7 @@ Thank you for your partnership."
 "SELECT QUANTITY"
 
 [/Lotus/Language/Menu/SelectSchematicPartTitle]
-"SELECT A BLUEPRINT PART"
+"SELECT A CRAFTING COMPONENT"
 
 [/Lotus/Language/Menu/SelectSchematicTitle]
 "SELECT A BLUEPRINT"
@@ -55018,7 +55024,7 @@ Thank you for your partnership."
 "SELECT AN |ITEM_NAME|"
 
 [/Lotus/Language/Menu/SelectSyndicateWeapon]
-"SELECT A SYNDICATE WEAPON"
+"SELECT A SPECIAL WEAPON"
 
 [/Lotus/Language/Menu/SelectWeaponSkinTitle]
 "SELECT A HELMET"
