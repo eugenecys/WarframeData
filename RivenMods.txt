@@ -6,7 +6,6 @@ Number of buffs attenuation: 0, 1, 0.66, 0.5, 0.4, 0.35
 Number of buffs curse attenuation: 0, 1, 0.33, 0.5, 1.25, 1.5
 Curse attenuation: 1.25
 Specific fit attenuation: 1.5
-Mastery rank attenuation: 1-1
 Fusion limit range: 8-8
 Polarities: AP_ATTACK AP_DEFENSE AP_TACTIC 
 
@@ -208,7 +207,7 @@ Available challenges:
 
 Upgrade entries:
 
- - Upgrade: 1.3% Puncture
+ - Upgrade: 1.333% Puncture
    Operation Type: STACKING_MULTIPLY
    Prefix: insi
    Suffix: cak
@@ -216,7 +215,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 1.7% Critical Chance
+ - Upgrade: 1.6666% Critical Chance
    Operation Type: STACKING_MULTIPLY
    Prefix: crita
    Suffix: cron
@@ -224,7 +223,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 1.3% Critical Damage
+ - Upgrade: 1.3333% Critical Damage
    Operation Type: STACKING_MULTIPLY
    Prefix: acri
    Suffix: tis
@@ -248,7 +247,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: No
 
- - Upgrade: 0.7% Fire Rate (x2 for Bows)
+ - Upgrade: 0.667% Fire Rate (x2 for Bows)
    Operation Type: STACKING_MULTIPLY
    Prefix: croni
    Suffix: dra
@@ -264,7 +263,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: No
 
- - Upgrade: 1.3% Impact
+ - Upgrade: 1.3333% Impact
    Operation Type: STACKING_MULTIPLY
    Prefix: magna
    Suffix: ton
@@ -272,7 +271,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 1.1% Status Duration
+ - Upgrade: 1.111% Status Duration
    Operation Type: STACKING_MULTIPLY
    Prefix: deci
    Suffix: des
@@ -280,7 +279,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 1.3% Slash
+ - Upgrade: 1.3333% Slash
    Operation Type: STACKING_MULTIPLY
    Prefix: sci
    Suffix: sus
@@ -304,7 +303,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: No
 
- - Upgrade: 0.6% Ammo Maximum
+ - Upgrade: 0.555% Ammo Maximum
    Operation Type: STACKING_MULTIPLY
    Prefix: ampi
    Suffix: bin
@@ -312,7 +311,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 0.6% Magazine Capacity
+ - Upgrade: 0.5555% Magazine Capacity
    Operation Type: STACKING_MULTIPLY
    Prefix: arma
    Suffix: tin
@@ -320,7 +319,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 1.8% Damage
+ - Upgrade: 1.83333% Damage
    Operation Type: STACKING_MULTIPLY
    Prefix: visi
    Suffix: ata
@@ -360,7 +359,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 0.6% Reload Speed
+ - Upgrade: 0.5555% Reload Speed
    Operation Type: STACKING_MULTIPLY
    Prefix: feva
    Suffix: tak
@@ -392,7 +391,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 0.7% Zoom
+ - Upgrade: 0.6666% Zoom
    Operation Type: STACKING_MULTIPLY
    Prefix: hera
    Suffix: lis
@@ -501,7 +500,6 @@ Number of buffs attenuation: 0, 1, 0.66, 0.5, 0.4, 0.35
 Number of buffs curse attenuation: 0, 1, 0.33, 0.5, 1.25, 1.5
 Curse attenuation: 1.25
 Specific fit attenuation: 1.5
-Mastery rank attenuation: 1-1
 Fusion limit range: 8-8
 Polarities: AP_ATTACK AP_DEFENSE AP_TACTIC 
 
@@ -703,7 +701,7 @@ Available challenges:
 
 Upgrade entries:
 
- - Upgrade: 1.3% Puncture
+ - Upgrade: 1.333% Puncture
    Operation Type: STACKING_MULTIPLY
    Prefix: insi
    Suffix: cak
@@ -711,7 +709,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 1.7% Critical Chance
+ - Upgrade: 1.6666% Critical Chance
    Operation Type: STACKING_MULTIPLY
    Prefix: crita
    Suffix: cron
@@ -743,7 +741,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: No
 
- - Upgrade: 0.8% Fire Rate (x2 for Bows)
+ - Upgrade: 0.83% Fire Rate (x2 for Bows)
    Operation Type: STACKING_MULTIPLY
    Prefix: croni
    Suffix: dra
@@ -759,7 +757,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: No
 
- - Upgrade: 1.3% Impact
+ - Upgrade: 1.3333% Impact
    Operation Type: STACKING_MULTIPLY
    Prefix: magna
    Suffix: ton
@@ -767,7 +765,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 1.1% Status Duration
+ - Upgrade: 1.111% Status Duration
    Operation Type: STACKING_MULTIPLY
    Prefix: deci
    Suffix: des
@@ -775,7 +773,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 1.3% Slash
+ - Upgrade: 1.3333% Slash
    Operation Type: STACKING_MULTIPLY
    Prefix: sci
    Suffix: sus
@@ -807,7 +805,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 0.6% Magazine Capacity
+ - Upgrade: 0.5555% Magazine Capacity
    Operation Type: STACKING_MULTIPLY
    Prefix: arma
    Suffix: tin
@@ -815,7 +813,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 2.4% Damage
+ - Upgrade: 2.44% Damage
    Operation Type: STACKING_MULTIPLY
    Prefix: visi
    Suffix: ata
@@ -823,7 +821,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 1.3% Multishot
+ - Upgrade: 1.33% Multishot
    Operation Type: STACKING_MULTIPLY
    Prefix: sati
    Suffix: can
@@ -855,7 +853,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 0.6% Reload Speed
+ - Upgrade: 0.5555% Reload Speed
    Operation Type: STACKING_MULTIPLY
    Prefix: feva
    Suffix: tak
@@ -887,7 +885,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 0.9% Zoom
+ - Upgrade: 0.89% Zoom
    Operation Type: STACKING_MULTIPLY
    Prefix: hera
    Suffix: lis
@@ -991,7 +989,6 @@ Number of buffs attenuation: 0, 1, 0.66, 0.5, 0.4, 0.35
 Number of buffs curse attenuation: 0, 1, 0.33, 0.5, 1.25, 1.5
 Curse attenuation: 1.25
 Specific fit attenuation: 1.5
-Mastery rank attenuation: 1-1
 Fusion limit range: 8-8
 Polarities: AP_ATTACK AP_DEFENSE AP_TACTIC 
 
@@ -1193,7 +1190,7 @@ Available challenges:
 
 Upgrade entries:
 
- - Upgrade: 1.3% Puncture
+ - Upgrade: 1.333% Puncture
    Operation Type: STACKING_MULTIPLY
    Prefix: insi
    Suffix: cak
@@ -1249,7 +1246,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: No
 
- - Upgrade: 1.3% Impact
+ - Upgrade: 1.3333% Impact
    Operation Type: STACKING_MULTIPLY
    Prefix: magna
    Suffix: ton
@@ -1257,7 +1254,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 1.1% Status Duration
+ - Upgrade: 1.111% Status Duration
    Operation Type: STACKING_MULTIPLY
    Prefix: deci
    Suffix: des
@@ -1265,7 +1262,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 1.3% Slash
+ - Upgrade: 1.3333% Slash
    Operation Type: STACKING_MULTIPLY
    Prefix: sci
    Suffix: sus
@@ -1297,7 +1294,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 0.6% Magazine Capacity
+ - Upgrade: 0.5555% Magazine Capacity
    Operation Type: STACKING_MULTIPLY
    Prefix: arma
    Suffix: tin
@@ -1305,7 +1302,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 1.8% Damage
+ - Upgrade: 1.83% Damage
    Operation Type: STACKING_MULTIPLY
    Prefix: visi
    Suffix: ata
@@ -1313,7 +1310,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 1.3% Multishot
+ - Upgrade: 1.33% Multishot
    Operation Type: STACKING_MULTIPLY
    Prefix: sati
    Suffix: can
@@ -1345,7 +1342,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 0.6% Reload Speed
+ - Upgrade: 0.5555% Reload Speed
    Operation Type: STACKING_MULTIPLY
    Prefix: feva
    Suffix: tak
@@ -1407,7 +1404,6 @@ Number of buffs attenuation: 0, 1, 0.66, 0.5, 0.4, 0.35
 Number of buffs curse attenuation: 0, 1, 0.33, 0.5, 1.25, 1.5
 Curse attenuation: 1.25
 Specific fit attenuation: 1.5
-Mastery rank attenuation: 1-1
 Fusion limit range: 8-8
 Polarities: AP_ATTACK AP_DEFENSE AP_TACTIC 
 
@@ -1649,7 +1645,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 3.8% Critical Damage
+ - Upgrade: 3.75% Critical Damage
    Operation Type: STACKING_MULTIPLY
    Prefix: 
    Suffix: 
@@ -1689,7 +1685,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 1.7% Status Duration
+ - Upgrade: 1.66667% Status Duration
    Operation Type: STACKING_MULTIPLY
    Prefix: 
    Suffix: 
@@ -1697,7 +1693,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 1.2% Damage to Corpus
+ - Upgrade: 1.25% Damage to Corpus
    Operation Type: STACKING_MULTIPLY
    Prefix: 
    Suffix: 
@@ -1705,7 +1701,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 1.2% Damage to Grineer
+ - Upgrade: 1.25% Damage to Grineer
    Operation Type: STACKING_MULTIPLY
    Prefix: 
    Suffix: 
@@ -1713,7 +1709,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 1.2% Damage to Infested
+ - Upgrade: 1.25% Damage to Infested
    Operation Type: STACKING_MULTIPLY
    Prefix: 
    Suffix: 
@@ -1721,7 +1717,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 1.2% Attack Speed
+ - Upgrade: 1.25% Attack Speed
    Operation Type: STACKING_MULTIPLY
    Prefix: 
    Suffix: 
@@ -1729,7 +1725,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 1.2% Status Chance
+ - Upgrade: 1.25% Status Chance
    Operation Type: STACKING_MULTIPLY
    Prefix: 
    Suffix: 
@@ -1761,7 +1757,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 1.9% Status Chance stacks with Combo Multiplier
+ - Upgrade: 1.875% Status Chance stacks with Combo Multiplier
    Operation Type: ADD
    Prefix: 
    Suffix: 
@@ -1769,7 +1765,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 3.8% Critical Chance stacks with Combo Multiplier
+ - Upgrade: 3.75% Critical Chance stacks with Combo Multiplier
    Operation Type: ADD
    Prefix: 
    Suffix: 
@@ -1785,7 +1781,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 3.8% Range
+ - Upgrade: 3.75% Range
    Operation Type: STACKING_MULTIPLY
    Prefix: 
    Suffix: 
@@ -1930,7 +1926,6 @@ Number of buffs attenuation: 0, 1, 0.66, 0.5, 0.4, 0.35
 Number of buffs curse attenuation: 0, 1, 0.33, 0.5, 1.25, 1.5
 Curse attenuation: 1.25
 Specific fit attenuation: 1.5
-Mastery rank attenuation: 1-1
 Fusion limit range: 8-8
 Polarities: AP_ATTACK AP_DEFENSE AP_TACTIC 
 
@@ -2132,7 +2127,7 @@ Available challenges:
 
 Upgrade entries:
 
- - Upgrade: 1.9% Power Range
+ - Upgrade: 1.875% Power Range
    Operation Type: STACKING_MULTIPLY
    Prefix: 
    Suffix: 
@@ -2140,7 +2135,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 1.2% Power Duration
+ - Upgrade: 1.25% Power Duration
    Operation Type: STACKING_MULTIPLY
    Prefix: 
    Suffix: 
@@ -2148,7 +2143,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 1.2% Power Efficiency
+ - Upgrade: 1.25% Power Efficiency
    Operation Type: STACKING_MULTIPLY
    Prefix: 
    Suffix: 
@@ -2156,7 +2151,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 0.8% Power Strength
+ - Upgrade: 0.833333% Power Strength
    Operation Type: STACKING_MULTIPLY
    Prefix: 
    Suffix: 
@@ -2172,7 +2167,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 1.2% Auto Parry Chance
+ - Upgrade: 1.25% Auto Parry Chance
    Operation Type: MULTIPLY
    Prefix: 
    Suffix: 
@@ -2188,7 +2183,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 2.1% Casting Speed
+ - Upgrade: 2.08333% Casting Speed
    Operation Type: STACKING_MULTIPLY
    Prefix: 
    Suffix: 
@@ -2220,7 +2215,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 1.9% Radiation Resist
+ - Upgrade: 1.875% Radiation Resist
    Operation Type: ADD
    Prefix: 
    Suffix: 
@@ -2228,7 +2223,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 1.9% Toxin Resist
+ - Upgrade: 1.875% Toxin Resist
    Operation Type: ADD
    Prefix: 
    Suffix: 
@@ -2236,7 +2231,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 1.2% Damage Resistance on Stun
+ - Upgrade: 1.25% Damage Resistance on Stun
    Operation Type: ADD
    Prefix: 
    Suffix: 
@@ -2244,7 +2239,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: Convert 1.7% of Damage on Health to Energy
+ - Upgrade: Convert 1.66667% of Damage on Health to Energy
    Operation Type: ADD
    Prefix: 
    Suffix: 
@@ -2284,7 +2279,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 6.2% Power Max
+ - Upgrade: 6.25% Power Max
    Operation Type: STACKING_MULTIPLY
    Prefix: 
    Suffix: 
@@ -2300,7 +2295,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: -2.1% Status Duration on Self
+ - Upgrade: -2.08333% Status Duration on Self
    Operation Type: STACKING_MULTIPLY
    Prefix: 
    Suffix: 
@@ -2316,7 +2311,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 3.8% Shield Recharge
+ - Upgrade: 3.75% Shield Recharge
    Operation Type: STACKING_MULTIPLY
    Prefix: 
    Suffix: 
@@ -2388,7 +2383,6 @@ Number of buffs attenuation: 0, 1, 0.66, 0.5, 0.4, 0.35
 Number of buffs curse attenuation: 0, 1, 0.33, 0.5, 1.25, 1.5
 Curse attenuation: 1.25
 Specific fit attenuation: 1.5
-Mastery rank attenuation: 1-1
 Fusion limit range: 8-8
 Polarities: AP_ATTACK AP_DEFENSE AP_TACTIC 
 
@@ -2590,7 +2584,7 @@ Available challenges:
 
 Upgrade entries:
 
- - Upgrade: 0.8% Power Strength
+ - Upgrade: 0.833333% Power Strength
    Operation Type: STACKING_MULTIPLY
    Prefix: 
    Suffix: 
@@ -2598,7 +2592,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 1.9% Power Duration
+ - Upgrade: 1.875% Power Duration
    Operation Type: STACKING_MULTIPLY
    Prefix: 
    Suffix: 
@@ -2606,7 +2600,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 0.8% Power Efficiency
+ - Upgrade: 0.833333% Power Efficiency
    Operation Type: STACKING_MULTIPLY
    Prefix: 
    Suffix: 
@@ -2614,7 +2608,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 1.7% Power Range
+ - Upgrade: 1.66667% Power Range
    Operation Type: STACKING_MULTIPLY
    Prefix: 
    Suffix: 
@@ -2622,7 +2616,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 3.8% Armor
+ - Upgrade: 3.75% Armor
    Operation Type: STACKING_MULTIPLY
    Prefix: 
    Suffix: 
@@ -2630,7 +2624,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 6.2% Health
+ - Upgrade: 6.25% Health
    Operation Type: STACKING_MULTIPLY
    Prefix: 
    Suffix: 
@@ -2654,7 +2648,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 6.2% Shield Recharge
+ - Upgrade: 6.25% Shield Recharge
    Operation Type: STACKING_MULTIPLY
    Prefix: 
    Suffix: 
@@ -2662,7 +2656,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 0.2% Sprint Speed
+ - Upgrade: 0.25% Sprint Speed
    Operation Type: STACKING_MULTIPLY
    Prefix: 
    Suffix: 
@@ -2680,7 +2674,6 @@ Number of buffs attenuation: 0, 1, 0.66, 0.5, 0.4, 0.35
 Number of buffs curse attenuation: 0, 1, 0.33, 0.5, 1.25, 1.5
 Curse attenuation: 1.25
 Specific fit attenuation: 1.5
-Mastery rank attenuation: 1-1
 Fusion limit range: 8-8
 Polarities: AP_ATTACK AP_DEFENSE AP_TACTIC 
 
@@ -2906,7 +2899,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 3.3% Toxin
+ - Upgrade: 3.33333% Toxin
    Operation Type: ADD
    Prefix: 
    Suffix: 
@@ -2914,7 +2907,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 3.1% Charge Rate
+ - Upgrade: 3.125% Charge Rate
    Operation Type: STACKING_MULTIPLY
    Prefix: 
    Suffix: 
@@ -2938,7 +2931,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 3.8% Critical Damage
+ - Upgrade: 3.75% Critical Damage
    Operation Type: STACKING_MULTIPLY
    Prefix: 
    Suffix: 
@@ -2946,7 +2939,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 1.7% Damage
+ - Upgrade: 1.66667% Damage
    Operation Type: STACKING_MULTIPLY
    Prefix: 
    Suffix: 
@@ -2954,7 +2947,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 0.8% Multishot
+ - Upgrade: 0.833333% Multishot
    Operation Type: STACKING_MULTIPLY
    Prefix: 
    Suffix: 
@@ -2962,7 +2955,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 0.8% Fire Rate
+ - Upgrade: 0.75% Fire Rate
    Operation Type: STACKING_MULTIPLY
    Prefix: 
    Suffix: 
@@ -2970,7 +2963,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 0.8% Range
+ - Upgrade: 0.833333% Range
    Operation Type: STACKING_MULTIPLY
    Prefix: 
    Suffix: 
@@ -2996,7 +2989,6 @@ Number of buffs attenuation: 0, 1, 0.66, 0.5, 0.4, 0.35
 Number of buffs curse attenuation: 0, 1, 0.33, 0.5, 1.25, 1.5
 Curse attenuation: 1.25
 Specific fit attenuation: 1.5
-Mastery rank attenuation: 1-1
 Fusion limit range: 8-8
 Polarities: AP_ATTACK AP_DEFENSE AP_TACTIC 
 
@@ -3198,7 +3190,7 @@ Available challenges:
 
 Upgrade entries:
 
- - Upgrade: 3.3% Electricity
+ - Upgrade: 3.33333% Electricity
    Operation Type: ADD
    Prefix: 
    Suffix: 
@@ -3206,7 +3198,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 6.2% Critical Chance
+ - Upgrade: 6.25% Critical Chance
    Operation Type: STACKING_MULTIPLY
    Prefix: 
    Suffix: 
@@ -3222,7 +3214,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 1.7% Melee Damage
+ - Upgrade: 1.66667% Melee Damage
    Operation Type: STACKING_MULTIPLY
    Prefix: 
    Suffix: 
@@ -3230,7 +3222,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 0.6% Attack Speed
+ - Upgrade: 0.625% Attack Speed
    Operation Type: STACKING_MULTIPLY
    Prefix: 
    Suffix: 
@@ -3238,7 +3230,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 3.3% Range
+ - Upgrade: 3.33333% Range
    Operation Type: STACKING_MULTIPLY
    Prefix: 
    Suffix: 
@@ -3288,7 +3280,6 @@ Number of buffs attenuation: 0, 1, 0.66, 0.5, 0.4, 0.35
 Number of buffs curse attenuation: 0, 1, 0.33, 0.5, 1.25, 1.5
 Curse attenuation: 1.25
 Specific fit attenuation: 1.5
-Mastery rank attenuation: 1-1
 Fusion limit range: 8-8
 Polarities: AP_ATTACK AP_DEFENSE AP_TACTIC 
 
@@ -3498,7 +3489,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 3.8% Rare Item Drop Chance On Death
+ - Upgrade: 3.75% Rare Item Drop Chance On Death
    Operation Type: ADD
    Prefix: 
    Suffix: 
@@ -3522,7 +3513,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 1.7% Max Overheat Damage
+ - Upgrade: 1.666667% Max Overheat Damage
    Operation Type: STACKING_MULTIPLY
    Prefix: 
    Suffix: 
@@ -3530,7 +3521,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 6.2% Shield Capacity
+ - Upgrade: 6.25% Shield Capacity
    Operation Type: STACKING_MULTIPLY
    Prefix: 
    Suffix: 
@@ -3538,7 +3529,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 3.8% Shield Recharge
+ - Upgrade: 3.75% Shield Recharge
    Operation Type: STACKING_MULTIPLY
    Prefix: 
    Suffix: 
@@ -3582,7 +3573,6 @@ Number of buffs attenuation: 0, 1, 0.66, 0.5, 0.4, 0.35
 Number of buffs curse attenuation: 0, 1, 0.33, 0.5, 1.25, 1.5
 Curse attenuation: 1.25
 Specific fit attenuation: 1.5
-Mastery rank attenuation: 1-1
 Fusion limit range: 8-8
 Polarities: AP_ATTACK AP_DEFENSE AP_TACTIC 
 
@@ -3792,7 +3782,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: 6.7% Critical Damage
+ - Upgrade: 6.66667% Critical Damage
    Operation Type: STACKING_MULTIPLY
    Prefix: 
    Suffix: 

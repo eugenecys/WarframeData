@@ -1,22 +1,26 @@
-[ArchwingCacheCoordsReward]
+[/Lotus/PVP/WeeklyChallengeRewards/PVPWeeklyChallengeReward]
 Stripped=True
 
 
-[ArchwingExterminateRewards]
+[/Lotus/Types/Game/MissionDecks/ArchwingCacheCoordsReward]
+Stripped=True
+
+
+[/Lotus/Types/Game/MissionDecks/ArchwingExterminateRewards]
  - Mercury, Caduceus, MT_EXTERMINATION, FC_GRINEER, NT_EVENT
  - Venus, Montes, MT_EXTERMINATION, FC_CORPUS, NT_MISSION
  - Mars, Syrtis, MT_EXTERMINATION, FC_GRINEER, NT_MISSION
 Stripped=True
 
 
-[ArchwingMobileDRewards]
+[/Lotus/Types/Game/MissionDecks/ArchwingMobileDRewards]
  - Earth, Erpo, MT_MOBILE_DEFENSE, FC_GRINEER, NT_MISSION
  - Neptune, Salacia, MT_MOBILE_DEFENSE, FC_CORPUS, NT_MISSION
  - Europa, Gamygyn, MT_MOBILE_DEFENSE, FC_GRINEER, NT_EVENT
 Stripped=True
 
 
-[ArchwingPursuitRewards]
+[/Lotus/Types/Game/MissionDecks/ArchwingPursuitRewards]
  - Saturn, Pandora, MT_PURSUIT, FC_GRINEER, NT_MISSION
 
 Rotation A:
@@ -50,97 +54,97 @@ Rotation C:
   1 MESO S3 RELIC, COMMON, 12.5%
 
 
-[ArchwingSabotageRewards]
+[/Lotus/Types/Game/MissionDecks/ArchwingSabotageRewards]
  - Jupiter, Galilea, MT_SABOTAGE, FC_CORPUS, NT_MISSION
 Stripped=True
 
 
-[BossMissionRewards/AtlasRewards]
+[/Lotus/Types/Game/MissionDecks/BossMissionRewards/AtlasRewards]
 Stripped=True
 
 
-[BossMissionRewards/BerserkerRewards]
+[/Lotus/Types/Game/MissionDecks/BossMissionRewards/BerserkerRewards]
  - Jupiter, Themisto, MT_ASSASSINATION, FC_CORPUS, NT_MISSION
 Stripped=True
 
 
-[BossMissionRewards/CowgirlRewards]
+[/Lotus/Types/Game/MissionDecks/BossMissionRewards/CowgirlRewards]
 Stripped=True
 
 
-[BossMissionRewards/EmberRewards]
+[/Lotus/Types/Game/MissionDecks/BossMissionRewards/EmberRewards]
  - Saturn, Tethys, MT_ASSASSINATION, FC_GRINEER, NT_MISSION
 Stripped=True
 
 
-[BossMissionRewards/ExcaliburRewards]
+[/Lotus/Types/Game/MissionDecks/BossMissionRewards/ExcaliburRewards]
  - Pluto, Hades, MT_ASSASSINATION, FC_CORPUS, NT_MISSION
 Stripped=True
 
 
-[BossMissionRewards/FomorianRewards]
+[/Lotus/Types/Game/MissionDecks/BossMissionRewards/FomorianRewards]
 
 
-[BossMissionRewards/FrostRewards]
+[/Lotus/Types/Game/MissionDecks/BossMissionRewards/FrostRewards]
  - Mars, War, MT_ASSASSINATION, FC_GRINEER, NT_MISSION
 Stripped=True
 
 
-[BossMissionRewards/HydroidRewards]
+[/Lotus/Types/Game/MissionDecks/BossMissionRewards/HydroidRewards]
  - Earth, Oro, MT_ASSASSINATION, FC_GRINEER, NT_MISSION
 Stripped=True
 
 
-[BossMissionRewards/LokiRewards]
+[/Lotus/Types/Game/MissionDecks/BossMissionRewards/LokiRewards]
  - Neptune, Psamathe, MT_ASSASSINATION, FC_CORPUS, NT_MISSION
 Stripped=True
 
 
-[BossMissionRewards/MagRewards]
+[/Lotus/Types/Game/MissionDecks/BossMissionRewards/MagRewards]
  - Phobos, Iliad, MT_ASSASSINATION, FC_CORPUS, NT_MISSION
 Stripped=True
 
 
-[BossMissionRewards/MiterGremlinsRewards]
+[/Lotus/Types/Game/MissionDecks/BossMissionRewards/MiterGremlinsRewards]
  - Ceres, Exta, MT_ASSASSINATION, FC_GRINEER, NT_MISSION
 Stripped=True
 
 
-[BossMissionRewards/NovaRewards]
+[/Lotus/Types/Game/MissionDecks/BossMissionRewards/NovaRewards]
  - Europa, Naamah, MT_ASSASSINATION, FC_CORPUS, NT_MISSION
 Stripped=True
 
 
-[BossMissionRewards/NyxRewards]
+[/Lotus/Types/Game/MissionDecks/BossMissionRewards/NyxRewards]
 Stripped=True
 
 
-[BossMissionRewards/RhinoRewards]
+[/Lotus/Types/Game/MissionDecks/BossMissionRewards/RhinoRewards]
  - Venus, Fossa, MT_ASSASSINATION, FC_CORPUS, NT_MISSION
 Stripped=True
 
 
-[BossMissionRewards/SarynRewards]
+[/Lotus/Types/Game/MissionDecks/BossMissionRewards/SarynRewards]
  - Sedna, Merrow, MT_ASSASSINATION, FC_GRINEER, NT_MISSION
 Stripped=True
 
 
-[BossMissionRewards/SeerPistolRewards]
+[/Lotus/Types/Game/MissionDecks/BossMissionRewards/SeerPistolRewards]
  - Mercury, Tolstoj, MT_ASSASSINATION, FC_GRINEER, NT_MISSION
 Stripped=True
 
 
-[BossMissionRewards/TrinityRewards]
+[/Lotus/Types/Game/MissionDecks/BossMissionRewards/TrinityRewards]
  - Ceres, Exta, MT_ASSASSINATION, FC_GRINEER, NT_MISSION
 Stripped=True
 
 
-[BossMissionRewards/YinYangRewards]
+[/Lotus/Types/Game/MissionDecks/BossMissionRewards/YinYangRewards]
  - Uranus, Titania, MT_ASSASSINATION, FC_GRINEER, NT_MISSION
 Stripped=True
 
 
-[CacheRewardsEasy]
+[/Lotus/Types/Game/MissionDecks/CacheRewardsEasy]
  - Mercury, Terminus, MT_SABOTAGE, FC_INFESTATION, NT_MISSION
  - Mercury, Neruda, MT_SABOTAGE, FC_GRINEER, NT_EVENT
  - Venus, Ishtar, MT_SABOTAGE, FC_CORPUS, NT_MISSION
@@ -148,7 +152,7 @@ Stripped=True
 Stripped=True
 
 
-[CacheRewardsHard]
+[/Lotus/Types/Game/MissionDecks/CacheRewardsHard]
  - Uranus, Portia, MT_SABOTAGE, FC_GRINEER, NT_EVENT
  - Neptune, Thalassa, MT_SABOTAGE, FC_CORPUS, NT_EVENT
  - Neptune, Halimede, MT_SABOTAGE, FC_CORPUS, NT_EVENT
@@ -160,7 +164,7 @@ Stripped=True
 Stripped=True
 
 
-[CacheRewardsMedium]
+[/Lotus/Types/Game/MissionDecks/CacheRewardsMedium]
  - Jupiter, Adrastea, MT_SABOTAGE, FC_CORPUS, NT_MISSION
  - Saturn, Pallene, MT_SABOTAGE, FC_GRINEER, NT_EVENT
  - Saturn, Calypso, MT_SABOTAGE, FC_GRINEER, NT_MISSION
@@ -168,13 +172,13 @@ Stripped=True
 Stripped=True
 
 
-[CacheRewardsVoid]
+[/Lotus/Types/Game/MissionDecks/CacheRewardsVoid]
  - Void, Stribog, MT_SABOTAGE, FC_OROKIN, NT_MISSION
  - Void, Marduk, MT_SABOTAGE, FC_OROKIN, NT_MISSION
 Stripped=True
 
 
-[CaptureMissionRewardsA]
+[/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA]
  - Mercury, Elion, MT_CAPTURE, FC_GRINEER, NT_MISSION
  - Venus, Venera, MT_CAPTURE, FC_CORPUS, NT_MISSION
  - Earth, Mantle, MT_CAPTURE, FC_GRINEER, NT_MISSION
@@ -230,7 +234,7 @@ Rotation A:
   1 MESO S3 RELIC, RARE, 0.15%
 
 
-[ClemCloneRewards]
+[/Lotus/Types/Game/MissionDecks/ClemCloneRewards]
 
 Rotation A:
   1 CLEM CLONE BLUEPRINT, COMMON, 100%
@@ -242,7 +246,7 @@ Rotation C:
   1 CLEM CLONE BLUEPRINT, COMMON, 100%
 
 
-[CorpusArenaWagerRewardsEasy]
+[/Lotus/Types/Game/MissionDecks/CorpusArenaWagerRewardsEasy]
  - Neptune, THE INDEX, MT_ARENA, FC_CORPUS, NT_SUB_MISSION
 
 Rotation A:
@@ -255,7 +259,7 @@ Rotation C:
   1 15000 CREDITS, COMMON, 100%
 
 
-[CorpusArenaWagerRewardsHard]
+[/Lotus/Types/Game/MissionDecks/CorpusArenaWagerRewardsHard]
  - Neptune, THE INDEX: ENDURANCE, MT_ARENA, FC_CORPUS, NT_SUB_MISSION
 
 Rotation A:
@@ -268,7 +272,7 @@ Rotation C:
   1 200000 CREDITS, COMMON, 100%
 
 
-[CorpusArenaWagerRewardsMedium]
+[/Lotus/Types/Game/MissionDecks/CorpusArenaWagerRewardsMedium]
  - Neptune, THE INDEX: HIGH RISK, MT_ARENA, FC_CORPUS, NT_SUB_MISSION
 
 Rotation A:
@@ -281,7 +285,7 @@ Rotation C:
   1 85000 CREDITS, COMMON, 100%
 
 
-[CorpusInfestedSabotageRewards]
+[/Lotus/Types/Game/MissionDecks/CorpusInfestedSabotageRewards]
  - Eris, Candiru, MT_HIVE, FC_INFESTATION, NT_EVENT
  - Eris, Lepis, MT_HIVE, FC_INFESTATION, NT_EVENT
  - Eris, Psoro, MT_HIVE, FC_INFESTATION, NT_EVENT
@@ -290,7 +294,7 @@ Rotation C:
 Stripped=True
 
 
-[DefenseMissionRewards/ArchwingDefenceMissionRewardsEasy]
+[/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/ArchwingDefenceMissionRewardsEasy]
  - Phobos, Kepler, MT_RACE, FC_CORPUS, NT_MISSION
 
 Rotation A:
@@ -323,7 +327,7 @@ Rotation C:
   1 LITH K1 RELIC, COMMON, 12.91%
 
 
-[DefenseMissionRewards/BadlandsDefenseMissionRewards]
+[/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/BadlandsDefenseMissionRewards]
  - Venus, Romula, MT_DEFENSE, FC_INFESTATION, NT_CLAN
  - Earth, Coba, MT_DEFENSE, FC_INFESTATION, NT_CLAN
  - Mars, Kadesh, MT_DEFENSE, FC_INFESTATION, NT_CLAN
@@ -405,7 +409,7 @@ Rotation C:
   1 Life Strike, RARE, 0.4%
 
 
-[DefenseMissionRewards/DefenseMissionRewardsEasy]
+[/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsEasy]
  - Mercury, Lares, MT_DEFENSE, FC_INFESTATION, NT_MISSION
  - Venus, Tessera, MT_DEFENSE, FC_CORPUS, NT_MISSION
  - Earth, Lith, MT_DEFENSE, FC_GRINEER, NT_MISSION
@@ -459,7 +463,7 @@ Rotation C:
   1 MESO S3 RELIC, UNCOMMON, 8.33%
 
 
-[DefenseMissionRewards/DefenseMissionRewardsHard]
+[/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsHard]
  - Uranus, Miranda, MT_DEFENSE, FC_GRINEER, NT_EVENT
  - Uranus, Bianca, MT_DEFENSE, FC_GRINEER, NT_EVENT
  - Neptune, Proteus, MT_DEFENSE, FC_CORPUS, NT_MISSION
@@ -525,7 +529,7 @@ Rotation C:
   1 AXI C1 RELIC, COMMON, 7.74%
 
 
-[DefenseMissionRewards/DefenseMissionRewardsMedium]
+[/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsMedium]
  - Jupiter, Io, MT_DEFENSE, FC_CORPUS, NT_MISSION
  - Saturn, Helene, MT_DEFENSE, FC_GRINEER, NT_MISSION
  - Saturn, Birog, MT_DEFENSE, FC_GRINEER, NT_EVENT
@@ -573,7 +577,7 @@ Rotation C:
   1 NEO A1 RELIC, COMMON, 12.91%
 
 
-[DefenseMissionRewards/PurifierDefenseMissionRewards]
+[/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/PurifierDefenseMissionRewards]
  - Eris, Oestrus, MT_PURIFY, FC_INFESTATION, NT_MISSION
 
 Rotation A:
@@ -617,7 +621,7 @@ Rotation C:
   1 80 ENDO, UNCOMMON, 14.29%
 
 
-[DerelictDefenseRewards]
+[/Lotus/Types/Game/MissionDecks/DerelictDefenseRewards]
  - Derelict, OROKIN DERELICT DEFENSE, MT_DEFENSE, FC_INFESTATION, NT_MISSION
 
 Rotation A:
@@ -645,7 +649,7 @@ Rotation C:
   1 MESO S3 RELIC, COMMON, 11.06%
 
 
-[DerelictSurvivalRewards]
+[/Lotus/Types/Game/MissionDecks/DerelictSurvivalRewards]
  - Derelict, OROKIN DERELICT SURVIVAL, MT_SURVIVAL, FC_INFESTATION, NT_MISSION
 
 Rotation A:
@@ -676,7 +680,7 @@ Rotation C:
   1 AXI C1 RELIC, COMMON, 7.74%
 
 
-[ExtractionMissionRewards/ExtractionHighLevelRewards]
+[/Lotus/Types/Game/MissionDecks/ExtractionMissionRewards/ExtractionHighLevelRewards]
  - Neptune, Despina, MT_EXCAVATE, FC_CORPUS, NT_MISSION
  - Pluto, Hieracon, MT_EXCAVATE, FC_INFESTATION, NT_CLAN
  - Europa, Cryotic Front, MT_EXCAVATE, FC_CORPUS, NT_EVENT
@@ -723,7 +727,7 @@ Rotation C:
   1 AXI C1 RELIC, COMMON, 7.74%
 
 
-[ExtractionMissionRewards/ExtractionLowLevelRewards]
+[/Lotus/Types/Game/MissionDecks/ExtractionMissionRewards/ExtractionLowLevelRewards]
  - Venus, Kiliken, MT_EXCAVATE, FC_CORPUS, NT_MISSION
  - Earth, Everest, MT_EXCAVATE, FC_GRINEER, NT_MISSION
  - Earth, Tikal, MT_EXCAVATE, FC_INFESTATION, NT_CLAN
@@ -766,7 +770,7 @@ Rotation C:
   1 Cleanse Grineer, UNCOMMON, 3.76%
 
 
-[ExtractionMissionRewards/ExtractionMidLevelRewards]
+[/Lotus/Types/Game/MissionDecks/ExtractionMissionRewards/ExtractionMidLevelRewards]
  - Europa, Lillith, MT_EXCAVATE, FC_CORPUS, NT_EVENT
  - Europa, Valefor, MT_EXCAVATE, FC_CORPUS, NT_MISSION
 
@@ -809,7 +813,7 @@ Rotation C:
   1 Shotgun Ammo Mutation, UNCOMMON, 3.76%
 
 
-[ExtractionMissionRewards/LimboChassisQuestExcavationRewards]
+[/Lotus/Types/Game/MissionDecks/ExtractionMissionRewards/LimboChassisQuestExcavationRewards]
 
 Rotation A:
   1 1000 CREDITS, COMMON, 48.71%
@@ -827,7 +831,7 @@ Rotation C:
   1 LIMBO CHASSIS BLUEPRINT, COMMON, 33.33%
 
 
-[ExtractionMissionRewards/LimboHelmetQuestExcavationRewards]
+[/Lotus/Types/Game/MissionDecks/ExtractionMissionRewards/LimboHelmetQuestExcavationRewards]
 
 Rotation A:
   1 1000 CREDITS, COMMON, 48.71%
@@ -845,7 +849,7 @@ Rotation C:
   1 LIMBO NEUROPTICS BLUEPRINT, COMMON, 33.33%
 
 
-[ExtractionMissionRewards/LimboSystemsQuestExcavationRewards]
+[/Lotus/Types/Game/MissionDecks/ExtractionMissionRewards/LimboSystemsQuestExcavationRewards]
 
 Rotation A:
   1 1000 CREDITS, COMMON, 48.71%
@@ -863,25 +867,25 @@ Rotation C:
   1 LIMBO SYSTEMS BLUEPRINT, COMMON, 33.33%
 
 
-[ForestSabotageRewards]
+[/Lotus/Types/Game/MissionDecks/ForestSabotageRewards]
  - Earth, Cervantes, MT_SABOTAGE, FC_GRINEER, NT_MISSION
 Stripped=True
 
 
-[FusionCoreRewards]
+[/Lotus/Types/Game/MissionDecks/FusionCoreRewards]
 Stripped=True
 
 
-[GolemMissionRewards]
+[/Lotus/Types/Game/MissionDecks/GolemMissionRewards]
  - Derelict, OROKIN DERELICT ASSASSINATE, MT_ASSASSINATION, FC_INFESTATION, NT_MISSION
 Stripped=True
 
 
-[HalloweenExtermEventRewards]
+[/Lotus/Types/Game/MissionDecks/HalloweenExtermEventRewards]
 Stripped=True
 
 
-[IndexMissionRewardDifficult]
+[/Lotus/Types/Game/MissionDecks/IndexMissionRewardDifficult]
  - Neptune, THE INDEX: HIGH RISK, MT_ARENA, FC_CORPUS, NT_SUB_MISSION
 
 Rotation A:
@@ -897,7 +901,7 @@ Rotation A:
   1 Tether Grenades, 6.5%
 
 
-[IndexMissionRewardEndless]
+[/Lotus/Types/Game/MissionDecks/IndexMissionRewardEndless]
  - Neptune, THE INDEX: ENDURANCE, MT_ARENA, FC_CORPUS, NT_SUB_MISSION
 
 Rotation A:
@@ -913,7 +917,7 @@ Rotation A:
   1 Tether Grenades, 8%
 
 
-[IndexMissionRewardStandard]
+[/Lotus/Types/Game/MissionDecks/IndexMissionRewardStandard]
  - Neptune, THE INDEX, MT_ARENA, FC_CORPUS, NT_SUB_MISSION
 
 Rotation A:
@@ -929,23 +933,23 @@ Rotation A:
   1 Tether Grenades, 5%
 
 
-[IndexQuestFinalMissionRewards]
+[/Lotus/Types/Game/MissionDecks/IndexQuestFinalMissionRewards]
 
 Rotation A:
   1 150000 CREDITS, COMMON, 100%
 
 
-[IndexQuestMissionARewards]
+[/Lotus/Types/Game/MissionDecks/IndexQuestMissionARewards]
 
 Rotation A:
   1 20000 CREDITS, COMMON, 100%
 
 
-[InfestedIncursionsSurvivalRewards]
+[/Lotus/Types/Game/MissionDecks/InfestedIncursionsSurvivalRewards]
 Stripped=True
 
 
-[InterceptionMissionRewards/ArchwingInterceptionMissionRewardsHard]
+[/Lotus/Types/Game/MissionDecks/InterceptionMissionRewards/ArchwingInterceptionMissionRewardsHard]
  - Uranus, Caelus, MT_TERRITORY, FC_GRINEER, NT_MISSION
 
 Rotation A:
@@ -989,7 +993,7 @@ Rotation C:
   1 "", COMMON, 6.45%
 
 
-[InterceptionMissionRewards/InterceptionMissionRewardsEasy]
+[/Lotus/Types/Game/MissionDecks/InterceptionMissionRewards/InterceptionMissionRewardsEasy]
  - Mercury, Odin, MT_TERRITORY, FC_GRINEER, NT_MISSION
  - Venus, Cytherean, MT_TERRITORY, FC_CORPUS, NT_MISSION
  - Earth, Gaia, MT_TERRITORY, FC_GRINEER, NT_MISSION
@@ -1036,7 +1040,7 @@ Rotation C:
   1 Natural Talent, RARE, 2.58%
 
 
-[InterceptionMissionRewards/InterceptionMissionRewardsHard]
+[/Lotus/Types/Game/MissionDecks/InterceptionMissionRewards/InterceptionMissionRewardsHard]
  - Uranus, Stephano, MT_DEFENSE, FC_GRINEER, NT_MISSION
  - Pluto, Cerberus, MT_TERRITORY, FC_CORPUS, NT_MISSION
  - Eris, Sporid, MT_TERRITORY, FC_INFESTATION, NT_EVENT
@@ -1078,7 +1082,7 @@ Rotation C:
   1 AXI C1 RELIC, COMMON, 10.82%
 
 
-[InterceptionMissionRewards/InterceptionMissionRewardsMedium]
+[/Lotus/Types/Game/MissionDecks/InterceptionMissionRewards/InterceptionMissionRewardsMedium]
  - Jupiter, Callisto, MT_TERRITORY, FC_CORPUS, NT_MISSION
  - Saturn, Iapetus, MT_TERRITORY, FC_GRINEER, NT_EVENT
  - Saturn, Rhea, MT_TERRITORY, FC_GRINEER, NT_MISSION
@@ -1123,7 +1127,7 @@ Rotation C:
   1 NEO V3 RELIC, COMMON, 16.67%
 
 
-[InterceptRewardsGrineer]
+[/Lotus/Types/Game/MissionDecks/InterceptRewardsGrineer]
 
 Rotation A:
   1 Vitality, COMMON, 15.18%
@@ -1187,7 +1191,7 @@ Rotation C:
   1 MESO S3 RELIC, COMMON, 12.65%
 
 
-[InvasionRewards]
+[/Lotus/Types/Game/MissionDecks/InvasionRewards]
 
 Rotation A:
   3 DETONITE INJECTOR, COMMON, 75.88%
@@ -1237,23 +1241,23 @@ Rotation C:
   1 MUTALIST ALAD V NAV COORDINATE, RARE, 2.01%
 
 
-[KelaEventRewardsEasy]
+[/Lotus/Types/Game/MissionDecks/KelaEventRewardsEasy]
  - Sedna, Undine, MT_ARENA, FC_GRINEER, NT_EVENT
 Stripped=True
 
 
-[KelaEventRewardsHard]
+[/Lotus/Types/Game/MissionDecks/KelaEventRewardsHard]
  - Sedna, Vodyanoi, MT_ARENA, FC_GRINEER, NT_MISSION
  - Sedna, Yam, MT_ARENA, FC_GRINEER, NT_MISSION
 Stripped=True
 
 
-[KelaEventRewardsMedium]
+[/Lotus/Types/Game/MissionDecks/KelaEventRewardsMedium]
  - Sedna, Nakki, MT_ARENA, FC_GRINEER, NT_MISSION
 Stripped=True
 
 
-[MacheteMayhemBonusRewards]
+[/Lotus/Types/Game/MissionDecks/MacheteMayhemBonusRewards]
 
 Rotation A:
   5 80 ENDO, COMMON, 75.88%
@@ -1270,11 +1274,11 @@ Rotation A:
   1 Shell Shock, UNCOMMON, 5.53%
 
 
-[MirageRewards]
+[/Lotus/Types/Game/MissionDecks/MirageRewards]
 Stripped=True
 
 
-[MissionRewardsCorpus]
+[/Lotus/Types/Game/MissionDecks/MissionRewardsCorpus]
 
 Rotation A:
   1 Vitality, COMMON, 12.65%
@@ -1338,7 +1342,7 @@ Rotation C:
   1 MESO S3 RELIC, COMMON, 10.84%
 
 
-[MissionRewardsGrineer]
+[/Lotus/Types/Game/MissionDecks/MissionRewardsGrineer]
 
 Rotation A:
   1 Vitality, COMMON, 15.18%
@@ -1402,7 +1406,7 @@ Rotation C:
   1 MESO S3 RELIC, COMMON, 10.84%
 
 
-[MissionRewardsInfested]
+[/Lotus/Types/Game/MissionDecks/MissionRewardsInfested]
  - Phobos, Opik, MT_RACE, FC_CORPUS, NT_EVENT
 
 Rotation A:
@@ -1467,46 +1471,90 @@ Rotation C:
   1 MESO S3 RELIC, COMMON, 10.84%
 
 
-[NightmareModeRewards]
+[/Lotus/Types/Game/MissionDecks/NightmareModeRewards]
 Stripped=True
 
 
-[OceanSabotageRewards]
+[/Lotus/Types/Game/MissionDecks/OceanSabotageRewards]
  - Uranus, Desdemona, MT_SABOTAGE, FC_GRINEER, NT_MISSION
  - Uranus, Prospero, MT_SABOTAGE, FC_GRINEER, NT_EVENT
  - Uranus, Setebos, MT_SABOTAGE, FC_GRINEER, NT_EVENT
 Stripped=True
 
 
-[OrokinDerelictSabotageRewards]
+[/Lotus/Types/Game/MissionDecks/OrokinDerelictSabotageRewards]
  - Derelict, OROKIN DERELICT SABOTAGE, MT_SABOTAGE, FC_INFESTATION, NT_MISSION
 Stripped=True
 
 
-[OrokinSabotageEventRewards]
+[/Lotus/Types/Game/MissionDecks/OrokinSabotageEventRewards]
  - Ceres, Gate Crash, MT_SABOTAGE, FC_GRINEER, NT_EVENT
  - Phobos, Shifting Sands, MT_SABOTAGE, FC_GRINEER, NT_EVENT
  - Phobos, Gate Crash, MT_SABOTAGE, FC_GRINEER, NT_EVENT
 Stripped=True
 
 
-[ProjectFriendlyFireRewardsBasic]
+[/Lotus/Types/Game/MissionDecks/ProjectFriendlyFireRewardsBasic]
 Stripped=True
 
 
-[ProjectFriendlyFireRewardsBonus]
+[/Lotus/Types/Game/MissionDecks/ProjectFriendlyFireRewardsBonus]
 Stripped=True
 
 
-[ProjectNightwatchBonusRewards]
+[/Lotus/Types/Game/MissionDecks/ProjectNightwatchBonusRewards]
 Stripped=True
 
 
-[ProjectSinisterRewardsBasic]
+[/Lotus/Types/Game/MissionDecks/ProjectPanaceaBonusRewards]
+
+Rotation A:
+  1 RIFT SIGIL, RARE, 0.25%
+  1 Stunning Speed, RARE, 0.25%
+  1 Hammer Shot, RARE, 0.25%
+  1 Blaze, RARE, 0.25%
+  1 Buzz Kill, RARE, 0.25%
+  1 Maim, RARE, 0.25%
+  1 Fanged Fusillade, RARE, 0.25%
+  1 Sweeping Serration, RARE, 0.25%
+  10 80 ENDO, UNCOMMON, 3.16%
+  5 80 ENDO, COMMON, 18.97%
+  1 3000 CREDITS, COMMON, 18.97%
+  1 4000 CREDITS, UNCOMMON, 3.16%
+  1 4000 CREDITS, UNCOMMON, 3.16%
+  1 DETONITE AMPULE, UNCOMMON, 3.16%
+  1 FIELDRON SAMPLE, COMMON, 18.97%
+  1 MUTAGEN SAMPLE, COMMON, 18.97%
+  2 Madurai Transmute Core, UNCOMMON, 3.16%
+  2 Vazarin Transmute Core, UNCOMMON, 3.16%
+  1 Naramon Transmute Core, UNCOMMON, 3.16%
+
+
+[/Lotus/Types/Game/MissionDecks/ProjectPanaceaRewards]
+
+Rotation A:
+  1 RIFT SIGIL, RARE, 0.5%
+  1 Stunning Speed, RARE, 0.5%
+  1 Hammer Shot, RARE, 0.5%
+  1 Blaze, RARE, 0.5%
+  10 80 ENDO, UNCOMMON, 3.16%
+  5 80 ENDO, COMMON, 18.97%
+  1 3000 CREDITS, COMMON, 18.97%
+  1 4000 CREDITS, UNCOMMON, 3.16%
+  1 4000 CREDITS, COMMON, 18.97%
+  1 DETONITE AMPULE, UNCOMMON, 3.16%
+  1 FIELDRON SAMPLE, UNCOMMON, 3.16%
+  1 MUTAGEN SAMPLE, COMMON, 18.97%
+  2 Madurai Transmute Core, UNCOMMON, 3.16%
+  2 Vazarin Transmute Core, UNCOMMON, 3.16%
+  1 Naramon Transmute Core, UNCOMMON, 3.16%
+
+
+[/Lotus/Types/Game/MissionDecks/ProjectSinisterRewardsBasic]
 Stripped=True
 
 
-[ProjectSinisterRewardsBonus]
+[/Lotus/Types/Game/MissionDecks/ProjectSinisterRewardsBonus]
 
 Rotation A:
   1 Shrapnel Shot, UNCOMMON, 5.61%
@@ -1541,7 +1589,7 @@ Rotation C:
   1 Narrow Barrel, RARE, 0.67%
 
 
-[ProjectSinisterRewardsFinal]
+[/Lotus/Types/Game/MissionDecks/ProjectSinisterRewardsFinal]
 
 Rotation A:
   1 Shrapnel Shot, COMMON, 10.84%
@@ -1566,15 +1614,15 @@ Rotation A:
   1 Focused Defense, COMMON, 10.84%
 
 
-[ProjectUndermineBonusRewards]
+[/Lotus/Types/Game/MissionDecks/ProjectUndermineBonusRewards]
 Stripped=True
 
 
-[ProjectUndermineRewards]
+[/Lotus/Types/Game/MissionDecks/ProjectUndermineRewards]
 Stripped=True
 
 
-[PVPMissionRewards/CTFRewards]
+[/Lotus/Types/Game/MissionDecks/PVPMissionRewards/CTFRewards]
  - Saturn, Cephalon Capture, MT_PVP, FC_GRINEER, NT_PVP
  - Saturn, Cephalon Capture, MT_PVP, FC_GRINEER, NT_PVP
  - Saturn, (VARIANT) Cephalon Capture, MT_PVP, FC_GRINEER, NT_PVP
@@ -1583,7 +1631,7 @@ Stripped=True
 Stripped=True
 
 
-[PVPMissionRewards/DMRewards]
+[/Lotus/Types/Game/MissionDecks/PVPMissionRewards/DMRewards]
  - Saturn, Annihilation, MT_PVP, FC_GRINEER, NT_PVP
  - Saturn, Annihilation, MT_PVP, FC_GRINEER, NT_PVP
  - Saturn, LUNARO ARENA, MT_PVP, FC_GRINEER, NT_PVP
@@ -1593,7 +1641,7 @@ Stripped=True
 Stripped=True
 
 
-[PVPMissionRewards/TDMRewards]
+[/Lotus/Types/Game/MissionDecks/PVPMissionRewards/TDMRewards]
  - Saturn, Team Annihilation, MT_PVP, FC_GRINEER, NT_PVP
  - Saturn, Team Annihilation, MT_PVP, FC_GRINEER, NT_PVP
  - Saturn, (VARIANT) Team Annihilation, MT_PVP, FC_GRINEER, NT_PVP
@@ -1601,23 +1649,23 @@ Stripped=True
 Stripped=True
 
 
-[RaidRewards/GolemRaid]
+[/Lotus/Types/Game/MissionDecks/RaidRewards/GolemRaid]
 Stripped=True
 
 
-[RaidRewards/HekRaid]
+[/Lotus/Types/Game/MissionDecks/RaidRewards/HekRaid]
 Stripped=True
 
 
-[RaidRewards/NightmareHekRaid]
+[/Lotus/Types/Game/MissionDecks/RaidRewards/NightmareHekRaid]
 Stripped=True
 
 
-[RaidRewards/NightmareResourceHekRaid]
+[/Lotus/Types/Game/MissionDecks/RaidRewards/NightmareResourceHekRaid]
 Stripped=True
 
 
-[RescueMissionRewards/RescueMissionRewardsEasy]
+[/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsEasy]
  - Mercury, Caloris, MT_RESCUE, FC_GRINEER, NT_MISSION
  - Venus, Linea, MT_RESCUE, FC_CORPUS, NT_MISSION
  - Earth, Pacific, MT_RESCUE, FC_GRINEER, NT_MISSION
@@ -1629,7 +1677,7 @@ Stripped=True
 Stripped=True
 
 
-[RescueMissionRewards/RescueMissionRewardsHard]
+[/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsHard]
  - Saturn, Anthe, MT_RESCUE, FC_GRINEER, NT_MISSION
  - Uranus, Mab, MT_RESCUE, FC_GRINEER, NT_EVENT
  - Uranus, Caliban, MT_RESCUE, FC_GRINEER, NT_MISSION
@@ -1644,7 +1692,7 @@ Stripped=True
 Stripped=True
 
 
-[RescueMissionRewards/RescueMissionRewardsMedium]
+[/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsMedium]
  - Jupiter, Metis, MT_RESCUE, FC_CORPUS, NT_MISSION
  - Saturn, Mimas, MT_RESCUE, FC_GRINEER, NT_EVENT
  - Saturn, Numa, MT_RESCUE, FC_GRINEER, NT_MISSION
@@ -1655,17 +1703,17 @@ Stripped=True
 Stripped=True
 
 
-[RescueMissionRewards/RescueMissionRewardsNightmare]
+[/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsNightmare]
 Stripped=True
 
 
-[SortieRewards]
+[/Lotus/Types/Game/MissionDecks/SortieRewards]
 
 Rotation A:
   FixedWeights=True
 
   1 Rifle Riven Mod, 8.62%
-  1 "", 28%
+  1 AYATAN ANASA SCULPTURE, 28%
   50 80 ENDO, 12.1%
   1 MADURAI LENS, 3%
   1 GREATER MADURAI LENS, 1%
@@ -1689,7 +1737,7 @@ Rotation A:
   1 Shotgun Riven Mod, 1.62%
 
 
-[SortieRewardsB]
+[/Lotus/Types/Game/MissionDecks/SortieRewardsB]
 
 Rotation A:
   25 80 ENDO, COMMON, 9.44%
@@ -1709,7 +1757,7 @@ Rotation A:
   1 OROKIN REACTOR BLUEPRINT, RARE, 1%
 
 
-[SortieRewardsC]
+[/Lotus/Types/Game/MissionDecks/SortieRewardsC]
 
 Rotation A:
   25 80 ENDO, COMMON, 7.55%
@@ -1732,7 +1780,7 @@ Rotation A:
   1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%
 
 
-[SortieRewardsD]
+[/Lotus/Types/Game/MissionDecks/SortieRewardsD]
 
 Rotation A:
   25 80 ENDO, COMMON, 7.55%
@@ -1755,7 +1803,7 @@ Rotation A:
   1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%
 
 
-[SortieRewardsE]
+[/Lotus/Types/Game/MissionDecks/SortieRewardsE]
 
 Rotation A:
   25 80 ENDO, COMMON, 7.55%
@@ -1778,7 +1826,7 @@ Rotation A:
   1 OROKIN REACTOR BLUEPRINT, RARE, 1%
 
 
-[SortieRewardsF]
+[/Lotus/Types/Game/MissionDecks/SortieRewardsF]
 
 Rotation A:
   25 80 ENDO, COMMON, 7.55%
@@ -1801,7 +1849,7 @@ Rotation A:
   1 OROKIN REACTOR BLUEPRINT, RARE, 1%
 
 
-[SortieRewardsG]
+[/Lotus/Types/Game/MissionDecks/SortieRewardsG]
 
 Rotation A:
   25 80 ENDO, COMMON, 7.55%
@@ -1824,7 +1872,7 @@ Rotation A:
   1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%
 
 
-[SortieRewardsH]
+[/Lotus/Types/Game/MissionDecks/SortieRewardsH]
 
 Rotation A:
   25 80 ENDO, COMMON, 7.55%
@@ -1847,7 +1895,7 @@ Rotation A:
   1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%
 
 
-[SortieRewardsI]
+[/Lotus/Types/Game/MissionDecks/SortieRewardsI]
 
 Rotation A:
   25 80 ENDO, COMMON, 7.55%
@@ -1870,7 +1918,7 @@ Rotation A:
   1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%
 
 
-[SpyMissionRewards/SpyHighMissionRewards]
+[/Lotus/Types/Game/MissionDecks/SpyMissionRewards/SpyHighMissionRewards]
  - Uranus, Rosalind, MT_INTEL, FC_GRINEER, NT_MISSION
  - Neptune, Laomedeia, MT_INTEL, FC_CORPUS, NT_MISSION
  - Pluto, Oceanum, MT_INTEL, FC_CORPUS, NT_MISSION
@@ -1882,7 +1930,7 @@ Rotation A:
 Stripped=True
 
 
-[SpyMissionRewards/SpyLowMissionRewards]
+[/Lotus/Types/Game/MissionDecks/SpyMissionRewards/SpyLowMissionRewards]
  - Mercury, Suisei, MT_INTEL, FC_GRINEER, NT_MISSION
  - Venus, Vesper, MT_INTEL, FC_CORPUS, NT_EVENT
  - Venus, Unda, MT_INTEL, FC_CORPUS, NT_MISSION
@@ -1894,7 +1942,7 @@ Stripped=True
 Stripped=True
 
 
-[SpyMissionRewards/SpyMediumMissionRewards]
+[/Lotus/Types/Game/MissionDecks/SpyMissionRewards/SpyMediumMissionRewards]
  - Jupiter, Amalthea, MT_INTEL, FC_CORPUS, NT_MISSION
  - Saturn, Dione, MT_INTEL, FC_GRINEER, NT_MISSION
  - Saturn, Aegaeon, MT_INTEL, FC_GRINEER, NT_EVENT
@@ -1903,12 +1951,12 @@ Stripped=True
 Stripped=True
 
 
-[SpyMissionRewards/SpyMoonMissionRewards]
+[/Lotus/Types/Game/MissionDecks/SpyMissionRewards/SpyMoonMissionRewards]
  - Lua, Pavlov, MT_INTEL, FC_CORPUS, NT_MISSION
 Stripped=True
 
 
-[SurvivalMissionRewards/SurvivalBadlandsHighLevelRewards]
+[/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalBadlandsHighLevelRewards]
  - Uranus, Assur, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
  - Neptune, Kelashin, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
  - Sedna, Amarna, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
@@ -1950,7 +1998,7 @@ Rotation C:
   1 AXI C1 RELIC, COMMON, 7.74%
 
 
-[SurvivalMissionRewards/SurvivalBadlandsLowLevelRewards]
+[/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalBadlandsLowLevelRewards]
  - Venus, Malva, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
  - Ceres, Gabii, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
 
@@ -1986,7 +2034,7 @@ Rotation C:
   1 Quickening, UNCOMMON, 11.28%
 
 
-[SurvivalMissionRewards/SurvivalBadlandsMidLevelRewards]
+[/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalBadlandsMidLevelRewards]
  - Mars, Wahiba, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
  - Jupiter, Cameria, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
  - Saturn, Piscinas, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
@@ -2027,7 +2075,7 @@ Rotation C:
   1 Enduring Strike, UNCOMMON, 11.28%
 
 
-[SurvivalMissionRewards/SurvivalBadlandsUltraLevelRewards]
+[/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalBadlandsUltraLevelRewards]
  - Eris, Zabala, MT_SURVIVAL, FC_INFESTATION, NT_CLAN
 
 Rotation A:
@@ -2058,7 +2106,7 @@ Rotation C:
   1 AXI C1 RELIC, COMMON, 9.09%
 
 
-[SurvivalMissionRewards/SurvivalGeneticFoundryRewards]
+[/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalGeneticFoundryRewards]
 
 Rotation B:
   1 2000 CREDITS, COMMON, 33.33%
@@ -2071,7 +2119,7 @@ Rotation C:
   1 80 ENDO, COMMON, 33.33%
 
 
-[SurvivalMissionRewards/SurvivalHighLevelRewards]
+[/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalHighLevelRewards]
  - Uranus, Ophelia, MT_SURVIVAL, FC_GRINEER, NT_MISSION
  - Uranus, Cupid, MT_SURVIVAL, FC_GRINEER, NT_EVENT
  - Pluto, Palus, MT_SURVIVAL, FC_CORPUS, NT_MISSION
@@ -2124,7 +2172,7 @@ Rotation C:
   1 AXI C1 RELIC, COMMON, 7.74%
 
 
-[SurvivalMissionRewards/SurvivalLowLevelRewards]
+[/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalLowLevelRewards]
  - Mercury, Apollodorus, MT_SURVIVAL, FC_INFESTATION, NT_MISSION
  - Venus, V Prime, MT_SURVIVAL, FC_CORPUS, NT_MISSION
  - Mars, Arcadia, MT_SURVIVAL, FC_CORPUS, NT_EVENT
@@ -2167,7 +2215,7 @@ Rotation C:
   1 Cleanse Grineer, UNCOMMON, 3.76%
 
 
-[SurvivalMissionRewards/SurvivalMidLevelRewards]
+[/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalMidLevelRewards]
  - Jupiter, Elara, MT_SURVIVAL, FC_CORPUS, NT_MISSION
  - Saturn, Titan, MT_SURVIVAL, FC_GRINEER, NT_MISSION
  - Ceres, Draco, MT_SURVIVAL, FC_GRINEER, NT_MISSION
@@ -2213,7 +2261,7 @@ Rotation C:
   1 Shotgun Ammo Mutation, UNCOMMON, 3.76%
 
 
-[SurvivalMissionRewards/SurvivalUltraLevelRewards]
+[/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalUltraLevelRewards]
  - Void, Mot, MT_SURVIVAL, FC_OROKIN, NT_MISSION
 
 Rotation A:
@@ -2243,11 +2291,11 @@ Rotation C:
   1 AXI C1 RELIC, COMMON, 10%
 
 
-[VaultRewards]
+[/Lotus/Types/Game/MissionDecks/VaultRewards]
 Stripped=True
 
 
-[VoidKeyMissionRewards/AklexPrime]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/AklexPrime]
  - AXI A2 RELIC
 
 Rotation A:
@@ -2259,7 +2307,7 @@ Rotation A:
   1 LEX PRIME BARREL, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
-[VoidKeyMissionRewards/FireAndIceVaultA]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/FireAndIceVaultA]
  - LITH G1 RELIC
 
 Rotation A:
@@ -2271,7 +2319,7 @@ Rotation A:
   1 REAPER PRIME HANDLE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
-[VoidKeyMissionRewards/FireAndIceVaultB]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/FireAndIceVaultB]
  - MESO F2 RELIC
 
 Rotation A:
@@ -2283,7 +2331,7 @@ Rotation A:
   1 SICARUS PRIME BARREL, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
-[VoidKeyMissionRewards/FireAndIceVaultC]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/FireAndIceVaultC]
  - NEO S5 RELIC
 
 Rotation A:
@@ -2295,7 +2343,7 @@ Rotation A:
   1 REAPER PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
-[VoidKeyMissionRewards/FireAndIceVaultD]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/FireAndIceVaultD]
  - AXI E1 RELIC
 
 Rotation A:
@@ -2307,7 +2355,7 @@ Rotation A:
   1 FROST PRIME NEUROPTICS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
-[VoidKeyMissionRewards/MagPrimeVaultA]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/MagPrimeVaultA]
  - LITH M1 RELIC
 
 Rotation A:
@@ -2319,7 +2367,7 @@ Rotation A:
   1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
 
 
-[VoidKeyMissionRewards/MagPrimeVaultB]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/MagPrimeVaultB]
  - MESO B1 RELIC
 
 Rotation A:
@@ -2331,7 +2379,7 @@ Rotation A:
   1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
 
 
-[VoidKeyMissionRewards/MagPrimeVaultC]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/MagPrimeVaultC]
  - NEO D1 RELIC
 
 Rotation A:
@@ -2343,7 +2391,7 @@ Rotation A:
   1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
 
 
-[VoidKeyMissionRewards/MagPrimeVaultD]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/MagPrimeVaultD]
  - AXI V2 RELIC
 
 Rotation A:
@@ -2355,7 +2403,7 @@ Rotation A:
   1 BOAR PRIME BARREL, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
 
 
-[VoidKeyMissionRewards/MagPrimeVaultEnd]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/MagPrimeVaultEnd]
  - AXI V3 RELIC
 
 Rotation A:
@@ -2367,7 +2415,7 @@ Rotation A:
   1 TRINITY PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
-[VoidKeyMissionRewards/NekrosPAA]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/NekrosPAA]
  - AXI N3 RELIC
 
 Rotation A:
@@ -2379,7 +2427,7 @@ Rotation A:
   1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
 
 
-[VoidKeyMissionRewards/NekrosPAB]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/NekrosPAB]
  - NEO N3 RELIC
 
 Rotation A:
@@ -2391,7 +2439,7 @@ Rotation A:
   1 PARIS PRIME STRING, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
-[VoidKeyMissionRewards/NekrosPAC]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/NekrosPAC]
  - AXI T1 RELIC
 
 Rotation A:
@@ -2403,7 +2451,7 @@ Rotation A:
   1 SARYN PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
-[VoidKeyMissionRewards/NekrosPAD]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/NekrosPAD]
  - AXI G1 RELIC
 
 Rotation A:
@@ -2415,7 +2463,7 @@ Rotation A:
   1 PARIS PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
-[VoidKeyMissionRewards/NekrosPAE]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/NekrosPAE]
  - LITH S3 RELIC
 
 Rotation A:
@@ -2427,7 +2475,7 @@ Rotation A:
   1 PARIS PRIME STRING, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
-[VoidKeyMissionRewards/NekrosPAF]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/NekrosPAF]
  - MESO S1 RELIC
 
 Rotation A:
@@ -2439,7 +2487,7 @@ Rotation A:
   1 TIGRIS PRIME STOCK, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
-[VoidKeyMissionRewards/NekrosPAG]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/NekrosPAG]
  - MESO S2 RELIC
 
 Rotation A:
@@ -2451,7 +2499,7 @@ Rotation A:
   1 GALATINE PRIME BLADE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
-[VoidKeyMissionRewards/NekrosPAH]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/NekrosPAH]
  - MESO F1 RELIC
 
 Rotation A:
@@ -2463,7 +2511,7 @@ Rotation A:
   1 SARYN PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
-[VoidKeyMissionRewards/NekrosPAI]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/NekrosPAI]
  - LITH C1 RELIC
 
 Rotation A:
@@ -2475,7 +2523,7 @@ Rotation A:
   1 NOVA PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
-[VoidKeyMissionRewards/NekrosPAJ]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/NekrosPAJ]
  - LITH K1 RELIC
 
 Rotation A:
@@ -2487,7 +2535,7 @@ Rotation A:
   1 ODONATA PRIME HARNESS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
-[VoidKeyMissionRewards/NekrosPAK]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/NekrosPAK]
  - NEO V2 RELIC
 
 Rotation A:
@@ -2499,7 +2547,7 @@ Rotation A:
   1 GALATINE PRIME BLADE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
-[VoidKeyMissionRewards/NekrosPAL]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/NekrosPAL]
  - NEO V3 RELIC
 
 Rotation A:
@@ -2511,7 +2559,7 @@ Rotation A:
   1 CARRIER PRIME SYSTEMS, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
-[VoidKeyMissionRewards/NekrosPAM]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/NekrosPAM]
  - LITH N1 RELIC
 
 Rotation A:
@@ -2523,7 +2571,7 @@ Rotation A:
   1 FANG PRIME BLADE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
-[VoidKeyMissionRewards/OrokinCaptureRewardsA]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinCaptureRewardsA]
  - LITH S1 RELIC
 
 Rotation A:
@@ -2535,7 +2583,7 @@ Rotation A:
   1 BRONCO PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
-[VoidKeyMissionRewards/OrokinCaptureRewardsB]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinCaptureRewardsB]
  - MESO D1 RELIC
 
 Rotation A:
@@ -2547,7 +2595,7 @@ Rotation A:
   1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
 
 
-[VoidKeyMissionRewards/OrokinCaptureRewardsC]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinCaptureRewardsC]
  - NEO S1 RELIC
 
 Rotation A:
@@ -2559,7 +2607,7 @@ Rotation A:
   1 SOMA PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
-[VoidKeyMissionRewards/OrokinCaptureRewardsD]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinCaptureRewardsD]
  - AXI S1 RELIC
 
 Rotation A:
@@ -2571,7 +2619,7 @@ Rotation A:
   1 TRINITY PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
 
 
-[VoidKeyMissionRewards/OrokinDefenseRewardsA]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinDefenseRewardsA]
  - LITH S2 RELIC
 
 Rotation A:
@@ -2586,7 +2634,7 @@ Rotation B:
   1 "", COMMON, I:100%, E:100%, F:100%, R:100%
 
 
-[VoidKeyMissionRewards/OrokinDefenseRewardsB]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinDefenseRewardsB]
  - MESO N1 RELIC
 
 Rotation A:
@@ -2598,7 +2646,7 @@ Rotation A:
   1 DUAL KAMAS PRIME HANDLE, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
 
 
-[VoidKeyMissionRewards/OrokinDefenseRewardsC]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinDefenseRewardsC]
  - NEO S2 RELIC
 
 Rotation A:
@@ -2610,7 +2658,7 @@ Rotation A:
   1 PARIS PRIME UPPER LIMB, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 25 Ducats
 
 
-[VoidKeyMissionRewards/OrokinDefenseRewardsD]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinDefenseRewardsD]
  - AXI V1 RELIC
 
 Rotation A:
@@ -2622,7 +2670,7 @@ Rotation A:
   1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
 
 
-[VoidKeyMissionRewards/OrokinExterminateRewardsA]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinExterminateRewardsA]
  - LITH F1 RELIC
 
 Rotation A:
@@ -2634,7 +2682,7 @@ Rotation A:
   1 FANG PRIME BLADE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
-[VoidKeyMissionRewards/OrokinExterminateRewardsB]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinExterminateRewardsB]
  - MESO C1 RELIC
 
 Rotation A:
@@ -2646,7 +2694,7 @@ Rotation A:
   1 ASH PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
 
 
-[VoidKeyMissionRewards/OrokinExterminateRewardsC]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinExterminateRewardsC]
  - NEO N1 RELIC
 
 Rotation A:
@@ -2658,7 +2706,7 @@ Rotation A:
   1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
 
 
-[VoidKeyMissionRewards/OrokinExterminateRewardsD]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinExterminateRewardsD]
  - AXI K1 RELIC
 
 Rotation A:
@@ -2670,7 +2718,7 @@ Rotation A:
   1 LEX PRIME BARREL, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
-[VoidKeyMissionRewards/OrokinMobileDefenseRewardsA]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinMobileDefenseRewardsA]
  - LITH A1 RELIC
 
 Rotation A:
@@ -2682,7 +2730,7 @@ Rotation A:
   1 VASTO PRIME RECEIVER, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
-[VoidKeyMissionRewards/OrokinMobileDefenseRewardsB]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinMobileDefenseRewardsB]
  - MESO V1 RELIC
 
 Rotation A:
@@ -2694,7 +2742,7 @@ Rotation A:
   1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
 
 
-[VoidKeyMissionRewards/OrokinMobileDefenseRewardsC]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinMobileDefenseRewardsC]
  - NEO S3 RELIC
 
 Rotation A:
@@ -2706,7 +2754,7 @@ Rotation A:
   1 BURSTON PRIME RECEIVER, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
-[VoidKeyMissionRewards/OrokinMobileDefenseRewardsD]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinMobileDefenseRewardsD]
  - AXI N2 RELIC
 
 Rotation A:
@@ -2718,7 +2766,7 @@ Rotation A:
   1 BRONCO PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
-[VoidKeyMissionRewards/OrokinSabotageRewardsA]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinSabotageRewardsA]
  - LITH F2 RELIC
 
 Rotation A:
@@ -2730,7 +2778,7 @@ Rotation A:
   1 FANG PRIME HANDLE, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 25 Ducats
 
 
-[VoidKeyMissionRewards/OrokinSabotageRewardsB]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinSabotageRewardsB]
  - MESO N2 RELIC
 
 Rotation A:
@@ -2742,7 +2790,7 @@ Rotation A:
   1 FANG PRIME HANDLE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 25 Ducats
 
 
-[VoidKeyMissionRewards/OrokinSabotageRewardsC]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinSabotageRewardsC]
  - NEO V1 RELIC
 
 Rotation A:
@@ -2754,7 +2802,7 @@ Rotation A:
   1 NOVA PRIME CHASSIS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
 
 
-[VoidKeyMissionRewards/OrokinSabotageRewardsD]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinSabotageRewardsD]
  - AXI A1 RELIC
 
 Rotation A:
@@ -2766,7 +2814,7 @@ Rotation A:
   1 NIKANA PRIME BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
 
 
-[VoidKeyMissionRewards/OrokinSurvivalRewardsA]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinSurvivalRewardsA]
  - LITH V1 RELIC
 
 Rotation A:
@@ -2778,7 +2826,7 @@ Rotation A:
   1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%
 
 
-[VoidKeyMissionRewards/OrokinSurvivalRewardsB]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinSurvivalRewardsB]
  - MESO V2 RELIC
 
 Rotation A:
@@ -2790,7 +2838,7 @@ Rotation A:
   1 VOLT PRIME CHASSIS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
 
 
-[VoidKeyMissionRewards/OrokinSurvivalRewardsC]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinSurvivalRewardsC]
  - NEO N2 RELIC
 
 Rotation A:
@@ -2802,7 +2850,7 @@ Rotation A:
   1 NOVA PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats
 
 
-[VoidKeyMissionRewards/OrokinSurvivalRewardsD]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinSurvivalRewardsD]
  - AXI N1 RELIC
 
 Rotation A:
@@ -2814,7 +2862,7 @@ Rotation A:
   1 ASH PRIME SYSTEMS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats
 
 
-[VoidKeyMissionRewards/ValkyrPAA]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ValkyrPAA]
  - 
 
 Rotation A:
@@ -2826,7 +2874,7 @@ Rotation A:
   1 PARIS PRIME LOWER LIMB, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
-[VoidKeyMissionRewards/ValkyrPAB]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ValkyrPAB]
  - LITH S4 RELIC
 
 Rotation A:
@@ -2838,7 +2886,7 @@ Rotation A:
   1 PARIS PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
-[VoidKeyMissionRewards/ValkyrPAC]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ValkyrPAC]
  - LITH S5 RELIC
 
 Rotation A:
@@ -2850,7 +2898,7 @@ Rotation A:
   1 FANG PRIME BLADE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
-[VoidKeyMissionRewards/ValkyrPAD]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ValkyrPAD]
  - MESO C2 RELIC
 
 Rotation A:
@@ -2862,7 +2910,7 @@ Rotation A:
   1 GALATINE PRIME BLADE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
-[VoidKeyMissionRewards/ValkyrPAE]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ValkyrPAE]
  - MESO V3 RELIC
 
 Rotation A:
@@ -2874,7 +2922,7 @@ Rotation A:
   1 SPIRA PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
-[VoidKeyMissionRewards/ValkyrPAF]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ValkyrPAF]
  - MESO S3 RELIC
 
 Rotation A:
@@ -2886,7 +2934,7 @@ Rotation A:
   1 AKBRONCO PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
-[VoidKeyMissionRewards/ValkyrPAG]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ValkyrPAG]
  - NEO A1 RELIC
 
 Rotation A:
@@ -2898,7 +2946,7 @@ Rotation A:
   1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
 
 
-[VoidKeyMissionRewards/ValkyrPAH]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ValkyrPAH]
  - NEO V4 RELIC
 
 Rotation A:
@@ -2910,7 +2958,7 @@ Rotation A:
   1 BRONCO PRIME RECEIVER, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
-[VoidKeyMissionRewards/ValkyrPAI]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ValkyrPAI]
  - NEO N4 RELIC
 
 Rotation A:
@@ -2922,7 +2970,7 @@ Rotation A:
   1 BRATON PRIME STOCK, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
-[VoidKeyMissionRewards/ValkyrPAJ]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ValkyrPAJ]
  - AXI V4 RELIC
 
 Rotation A:
@@ -2934,7 +2982,7 @@ Rotation A:
   1 ODONATA PRIME HARNESS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats
 
 
-[VoidKeyMissionRewards/ValkyrPAK]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ValkyrPAK]
  - AXI V5 RELIC
 
 Rotation A:
@@ -2946,7 +2994,7 @@ Rotation A:
   1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%
 
 
-[VoidKeyMissionRewards/ValkyrPAL]
+[/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ValkyrPAL]
  - AXI C1 RELIC
 
 Rotation A:
