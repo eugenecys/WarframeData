@@ -5220,6 +5220,12 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 [/Lotus/Language/Bundles/KavatColorPackHyekkaName]
 "HYEKKA GENE-MASKING KIT"
 
+[/Lotus/Language/Bundles/KintsukuroiSkinBundleDesc]
+"Repaired with golden-alloys, these battle-scarred weapons have been transformed into objects of beauty. Contains skins for the Braton, Paris, Kunai, Lato, Skana and Bo."
+
+[/Lotus/Language/Bundles/KintsukuroiSkinBundleName]
+"KINTSUGI WEAPON SKIN COLLECTION"
+
 [/Lotus/Language/Bundles/KuvaArmorPackDesc]
 "A full set of Kuva Armor."
 
@@ -5240,6 +5246,12 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 
 [/Lotus/Language/Bundles/NidusBundleName]
 "NIDUS COLLECTION"
+
+[/Lotus/Language/Bundles/StarrySkinBundleDesc]
+"Pay homage to the constellations with this brilliant collection. Contains skins for the Braton, Paris, Kunai, Lato, Skana and Bo."
+
+[/Lotus/Language/Bundles/StarrySkinBundleName]
+"NOCTURNE WEAPON SKIN COLLECTION"
 
 [/Lotus/Language/Bundles/TennoGenBundleAName]
 "TENNOGEN BUNDLE I"
@@ -9093,6 +9105,48 @@ Baro Ki’Teer"
 [/Lotus/Language/Cosmetics/KavatColorTertiaryHyekkaName]
 "SLUDGE BROWN"
 
+[/Lotus/Language/Cosmetics/KintsukuroAklatoSkinDesc]
+"Repaired with golden-alloys, this battle-scarred Aklato has been transformed into an object of beauty."
+
+[/Lotus/Language/Cosmetics/KintsukuroAklatoSkinName]
+"AKLATO KINTSUGI SKIN"
+
+[/Lotus/Language/Cosmetics/KintsukuroiBratonSkinDesc]
+"Repaired with golden-alloys, this battle-scarred Braton has been transformed into an object of beauty."
+
+[/Lotus/Language/Cosmetics/KintsukuroiBratonSkinName]
+"BRATON KINTSUGI SKIN"
+
+[/Lotus/Language/Cosmetics/KintsukuroKunaiSkinDesc]
+"Repaired with golden-alloys, this battle-scarred Kunai has been transformed into an object of beauty."
+
+[/Lotus/Language/Cosmetics/KintsukuroKunaiSkinName]
+"KUNAI KINTSUGI SKIN"
+
+[/Lotus/Language/Cosmetics/KintsukuroLatoSkinDesc]
+"Repaired with golden-alloys, this battle-scarred Lato has been transformed into an object of beauty."
+
+[/Lotus/Language/Cosmetics/KintsukuroLatoSkinName]
+"LATO KINTSUGI SKIN"
+
+[/Lotus/Language/Cosmetics/KintsukuroParisSkinDesc]
+"Repaired with golden-alloys, this battle-scarred Paris has been transformed into an object of beauty."
+
+[/Lotus/Language/Cosmetics/KintsukuroParisSkinName]
+"PARIS KINTSUGI SKIN"
+
+[/Lotus/Language/Cosmetics/KintsukuroSkanaSkinDesc]
+"Repaired with golden-alloys, this battle-scarred Skana has been transformed into an object of beauty."
+
+[/Lotus/Language/Cosmetics/KintsukuroSkanaSkinName]
+"SKANA KINTSUGI SKIN"
+
+[/Lotus/Language/Cosmetics/KintsukuroStaffSkinDesc]
+"Repaired with golden-alloys, this battle-scarred Bo has been transformed into an object of beauty."
+
+[/Lotus/Language/Cosmetics/KintsukuroStaffSkinName]
+"BO KINTSUGI SKIN"
+
 [/Lotus/Language/Cosmetics/KubrowArmorGrnQueenDesc]
 "Drahks are outfitted with this armor for the Queens’ royal prisoner hunts."
 
@@ -9302,6 +9356,48 @@ Baro Ki’Teer"
 
 [/Lotus/Language/Cosmetics/SarynPrimeDefaultSkinName]
 "SARYN PRIME SKIN"
+
+[/Lotus/Language/Cosmetics/StarryAklatoSkinDesc]
+"Pay homage to the constellations with this brilliant Aklato skin."
+
+[/Lotus/Language/Cosmetics/StarryAklatoSkinName]
+"AKLATO NOCTURNE SKIN "
+
+[/Lotus/Language/Cosmetics/StarryBratonSkinDesc]
+"Pay homage to the constellations with this brilliant Braton skin."
+
+[/Lotus/Language/Cosmetics/StarryBratonSkinName]
+"BRATON NOCTURNE SKIN"
+
+[/Lotus/Language/Cosmetics/StarryKunaiSkinDesc]
+"Pay homage to the constellations with this brilliant Kunai skin."
+
+[/Lotus/Language/Cosmetics/StarryKunaiSkinName]
+"KUNAI NOCTURNE SKIN"
+
+[/Lotus/Language/Cosmetics/StarryLatoSkinDesc]
+"Pay homage to the constellations with this brilliant Lato skin."
+
+[/Lotus/Language/Cosmetics/StarryLatoSkinName]
+"LATO NOCTURNE SKIN"
+
+[/Lotus/Language/Cosmetics/StarryParisSkinDesc]
+"Pay homage to the constellations with this brilliant Paris skin."
+
+[/Lotus/Language/Cosmetics/StarryParisSkinName]
+"PARIS NOCTURNE SKIN"
+
+[/Lotus/Language/Cosmetics/StarrySkanaSkinDesc]
+"Pay homage to the constellations with this brilliant Skana skin."
+
+[/Lotus/Language/Cosmetics/StarrySkanaSkinName]
+"SKANA NOCTURNE SKIN"
+
+[/Lotus/Language/Cosmetics/StarryStaffSkinDesc]
+"Pay homage to the constellations with this brilliant Bo skin."
+
+[/Lotus/Language/Cosmetics/StarryStaffSkinName]
+"BO NOCTURNE SKIN"
 
 [/Lotus/Language/Cosmetics/TenguDefaultSkinDesc]
 "The standard issue skin for the Zephyr Warframe."
@@ -12591,7 +12687,7 @@ To research additional colors, visit the Tenno Lab."
 "ADD ITEMS TO TRADE ABOVE"
 
 [/Lotus/Language/Dojo/Trade_NotReady]
-"CHECK WHEN READY TO TRADE"
+"CHECK WHEN READY TO TRADE "
 
 [/Lotus/Language/Dojo/TRADE_OFFER_ERR_ITEM_XP_LOCKED]
 "This item is Mastery Rank Locked for |PLAYER_NAME|, please offer a different item."
@@ -15207,6 +15303,20 @@ A Grineer General, Vor, stands over you...
 
 [/Lotus/Language/G1Quests/DragonQuestTitleSimaris]
 "<QUEST> THE NEW STRANGE"
+
+[/Lotus/Language/G1Quests/EarlyGameSentinelInboxMessage]
+"|PLAYER_NAME|
+
+I have something that may be of interest to you.
+
+Recent excavations near Earth have revealed a cache of sentinel technology, once thought lost forever. The Taxon Sentinel is a protector, a mender of shields. During the Old-War it saved countless Tenno lives from certain death.
+
+Construct its blueprint, and you will always have an ally at your side.
+
+-The Lotus"
+
+[/Lotus/Language/G1Quests/EarlyGameSentinelInboxTitle]
+"Lost Ally Found"
 
 [/Lotus/Language/G1Quests/ErgoGlastName]
 "Ergo Glast"
@@ -23900,9 +24010,6 @@ DETONATION IN |TIME|"
 
 [/Lotus/Language/Game/TitaniaDroneName]
 "RAZORFLIES"
-
-[/Lotus/Language/Game/TnSentinelCross]
-"[PH] STARTER PET"
 
 [/Lotus/Language/Game/TORNADOES]
 "TORNADOES"
@@ -40185,10 +40292,12 @@ Blueprint is reusable and will not be consumed."
 "KRONEN"
 
 [/Lotus/Language/Items/TnSentinelCrossDesc]
-"[PH] Description"
+"With 'Retarget' and 'Molecular Conversion' as its default Precepts, Taxon protects its owner with shield restoration. Equipped with the Artax ice-beam.
+
+Note: This item requires two open slots."
 
 [/Lotus/Language/Items/TnSentinelCrossName]
-"[PH] STARTER PET"
+"TAXON"
 
 [/Lotus/Language/Items/TnTAbility]
 "Bloomer"
@@ -45333,6 +45442,15 @@ A Solar Rail is required in order to travel here."
 [/Lotus/Language/Menu/Block]
 "Block"
 
+[/Lotus/Language/Menu/Blueprint_CountedCharge]
+"|COUNT| USES LEFT"
+
+[/Lotus/Language/Menu/Blueprint_SingleCharge]
+"SINGLE USE"
+
+[/Lotus/Language/Menu/Blueprint_UnlimitedCharges]
+"UNLIMITED USES"
+
 [/Lotus/Language/Menu/BonusBounty]
 "BONUS"
 
@@ -46131,6 +46249,125 @@ SPEAK TO CEPHALON SIMARIS"
 
 [/Lotus/Language/Menu/ComponentSettings]
 "COMPONENT SETTINGS"
+
+[/Lotus/Language/Menu/Composition_AddNotes]
+"[PH] ADD NOTES"
+
+[/Lotus/Language/Menu/Composition_ALL]
+"[PH] ALL"
+
+[/Lotus/Language/Menu/Composition_Bar1]
+"[PH] BAR 1"
+
+[/Lotus/Language/Menu/Composition_Bar2]
+"[PH] BAR 2"
+
+[/Lotus/Language/Menu/Composition_Bar3]
+"[PH] BAR 3"
+
+[/Lotus/Language/Menu/Composition_Bar4]
+"[PH] BAR 4"
+
+[/Lotus/Language/Menu/Composition_Bass]
+"[PH] BASS"
+
+[/Lotus/Language/Menu/Composition_ClearNotes]
+"[PH] CLEAR NOTES"
+
+[/Lotus/Language/Menu/Composition_ClearNotesConfirmation]
+"[PH] Are you sure you want to remove all notes?
+This can't be undone."
+
+[/Lotus/Language/Menu/Composition_ClearNotesInBarConfirmation]
+"[PH] Are you sure you want to remove all notes in bar |BAR|?
+This can't be undone."
+
+[/Lotus/Language/Menu/Composition_ConfirmReload]
+"[PH] Are you sure want to reload your song? All changes will be lost."
+
+[/Lotus/Language/Menu/Composition_Copy]
+"[PH] COPY"
+
+[/Lotus/Language/Menu/Composition_CopyFrom]
+"[PH] FROM"
+
+[/Lotus/Language/Menu/Composition_CopyNotes]
+"[PH] COPY NOTES"
+
+[/Lotus/Language/Menu/Composition_CopyStyle]
+"[PH] COPY STYLE"
+
+[/Lotus/Language/Menu/Composition_CopyTo]
+"[PH] TO"
+
+[/Lotus/Language/Menu/Composition_Default]
+"[PH] DEFAULT"
+
+[/Lotus/Language/Menu/Composition_ExitWithoutSaving]
+"[PH] EXIT WITHOUT SAVING"
+
+[/Lotus/Language/Menu/Composition_LoadDefault]
+"[PH] Are you sure want to load default song? All changes will be lost."
+
+[/Lotus/Language/Menu/Composition_Loop]
+"[PH] LOOP"
+
+[/Lotus/Language/Menu/Composition_Melody]
+"[PH] MELODY"
+
+[/Lotus/Language/Menu/Composition_Mute]
+"[PH] MUTE"
+
+[/Lotus/Language/Menu/Composition_NotesInSameBarError]
+"[PH] Can't copy notes within the same bar"
+
+[/Lotus/Language/Menu/Composition_OverNoteLimit]
+"[PH] You are over the |COUNT| node limit for the |SECTION| section."
+
+[/Lotus/Language/Menu/Composition_Pause]
+"[PH] PAUSE"
+
+[/Lotus/Language/Menu/Composition_Percussion]
+"[PH] PERCUSSION"
+
+[/Lotus/Language/Menu/Composition_Play]
+"[PH] PAUSE"
+
+[/Lotus/Language/Menu/Composition_Reload]
+"[PH] RELOAD"
+
+[/Lotus/Language/Menu/Composition_ReplaceNotes]
+"[PH] REPLACE NOTES"
+
+[/Lotus/Language/Menu/Composition_Save]
+"[PH] SAVE"
+
+[/Lotus/Language/Menu/Composition_SaveAndExit]
+"[PH] SAVE AND EXIT"
+
+[/Lotus/Language/Menu/Composition_Section]
+"[PH] SECTION"
+
+[/Lotus/Language/Menu/Composition_SelectNoteType]
+"[PH] SELECT NOTE TYPE TO SWAP"
+
+[/Lotus/Language/Menu/Composition_SoundPack]
+"[PH] SOUND PACK"
+
+[/Lotus/Language/Menu/Composition_SwapBassPack]
+"[PH] SWAP BASS PACK"
+
+[/Lotus/Language/Menu/Composition_SwapMelodyPack]
+"[PH] SWAP MELODY PACK"
+
+[/Lotus/Language/Menu/Composition_SwapPercussionPack]
+"[PH] SWAP PERSCUSSION PACK"
+
+[/Lotus/Language/Menu/Composition_UnsavedChanges]
+"[PH] You have unsaved changes."
+
+[/Lotus/Language/Menu/Composition_Volume]
+"[PH] VOLUME"
 
 [/Lotus/Language/Menu/Conclave_ConsecutiveMatchesBonus]
 "(Consecutive match bonus active (+|PERCENT|%))"
@@ -55369,10 +55606,10 @@ Thank you for your partnership."
 "CLAN MANAGEMENT"
 
 [/Lotus/Language/Menu/SocialOverlay_ClanOnlyOff]
-"Clan Only: Off"
+"CLAN ONLY <CHECKMARK_OUTLINE>"
 
 [/Lotus/Language/Menu/SocialOverlay_ClanOnlyOn]
-"Clan Only: On"
+"CLAN ONLY <CHECKMARK>"
 
 [/Lotus/Language/Menu/SocialOverlay_ClanStatistics]
 "CLAN STATISTICS"
@@ -55597,10 +55834,10 @@ Thank you for your partnership."
 "Your Conclave rank is too high to join this game session"
 
 [/Lotus/Language/Menu/SocialOverlay_PVP_TrainingModeOff]
-"Recruit Conditioning: Off"
+"RECRUIT CONDITIONING <CHECKMARK_OUTLINE>"
 
 [/Lotus/Language/Menu/SocialOverlay_PVP_TrainingModeOn]
-"Recruit Conditioning: On"
+"RECRUIT CONDITIONING <CHECKMARK>"
 
 [/Lotus/Language/Menu/SocialOverlay_Recent]
 "RECENT"
@@ -56854,6 +57091,9 @@ This one is dedicated to you."
 [/Lotus/Language/Menu/UpgradedGeneticLab]
 "NUTRIO INCUBATOR"
 
+[/Lotus/Language/Menu/UpgradeStatsScroll]
+"<MENU_RIGHT_X> TO SCROLL"
+
 [/Lotus/Language/Menu/UpgradeToUnlockCombo]
 "<WARNING> Fuse to unlock additional combos"
 
@@ -57988,6 +58228,9 @@ https://warframe.com/eula"
 [/Lotus/Language/Mods/ShieldsToCritAuraName]
 "Empowered Blades"
 
+[/Lotus/Language/Mods/ShieldVampireName]
+"Molecular Conversion"
+
 [/Lotus/Language/Mods/ShotgunModNoiseReduction]
 "Silent Battery"
 
@@ -58035,6 +58278,9 @@ https://warframe.com/eula"
 
 [/Lotus/Language/Mods/TigrisLargerAmmoPoolMod]
 "Bandolier"
+
+[/Lotus/Language/Mods/TnCrossAttackName]
+"Retarget"
 
 [/Lotus/Language/Mods/TonkorNightwatchMod]
 "[PH] Airstrike"
@@ -61602,6 +61848,30 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 [/Lotus/Language/Seasonal/SolsticeScindoName]
 "SCINDO SOLSTICE SKIN"
 
+[/Lotus/Language/Seasonal/Valentine2017GlyphAName]
+"DONWYN GLYPH I"
+
+[/Lotus/Language/Seasonal/Valentine2017GlyphBName]
+"DONWYN GLYPH II"
+
+[/Lotus/Language/Seasonal/Valentine2017GlyphBundleDesc]
+"A collection of adorable glyphs."
+
+[/Lotus/Language/Seasonal/Valentine2017GlyphBundleName]
+"DONWYN GLYPH PACK"
+
+[/Lotus/Language/Seasonal/Valentine2017GlyphCName]
+"DONWYN GLYPH III"
+
+[/Lotus/Language/Seasonal/Valentine2017GlyphDName]
+"DONWYN GLYPH IV"
+
+[/Lotus/Language/Seasonal/Valentine2017GlyphEName]
+"DONWYN GLYPH V"
+
+[/Lotus/Language/Seasonal/ValentineGlyphDescription]
+"An adorable glyph."
+
 [/Lotus/Language/Seasonal/Winter2016BundleDesc]
 "A festive collection of Solstice skins for the Titania Warframe, Heliocor, Daedalus Armor, Salix Syandana, a Kavat Gene-Masking Kit and a Kubrow Gene-Masking Kit. Includes a 3-day Affinity and Credit booster."
 
@@ -62983,7 +63253,7 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 "This exclusive sigil features prisma color gradients for maximum customization."
 
 [/Lotus/Language/Sigils/PrimeTraderSigilName]
-"PRISMA SIGIL "
+"PRISMA SIGIL"
 
 [/Lotus/Language/Sigils/ProjectSinisterSigilDesc]
 "Never forget those who would defile the Tenno ways."
@@ -82377,6 +82647,9 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 [/Lotus/Language/Upgrades/ShieldRevengeDamageDesc]
 "|val|% Chance to deal Electrical Damage when shield struck by melee enemies."
 
+[/Lotus/Language/Upgrades/ShieldVampireModDesc]
+"Blast enemies within |DISTANCE|m, converting |DAMAGE| damage into shields for the Warframe"
+
 [/Lotus/Language/Upgrades/ShotgunModConvertAmmoModDesc]
 "Converts unused ammo pickups into Shotgun Ammo"
 
@@ -82794,6 +83067,12 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 [/Lotus/Language/Weapons/DjinnMacheteName]
 "GAZAL MACHETE"
 
+[/Lotus/Language/Weapons/FanHammerPistol]
+"[PH] FAN HAMMER PISTOL"
+
+[/Lotus/Language/Weapons/FanHammerPistolDesc]
+"[PH] FAN HAMMER PISTOL"
+
 [/Lotus/Language/Weapons/GrnCannonDesc]
 "Unload a barrage of explosives or a huge shot of flak from this canon’s enormous barrel."
 
@@ -82865,6 +83144,24 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 
 [/Lotus/Language/Weapons/InfVomitGunBuff]
 "FRENZY"
+
+[/Lotus/Language/Weapons/SentinelGremlinDesc]
+"Freeze targets in their tracks with this sentinel mounted ice-beam."
+
+[/Lotus/Language/Weapons/SentinelGremlinName]
+"ARTAX"
+
+[/Lotus/Language/Weapons/SundialRifleDesc]
+"[PH]Sundial Rifle Description"
+
+[/Lotus/Language/Weapons/SundialRifleName]
+"[PH]Sundial Rifle"
+
+[/Lotus/Language/Weapons/TennoRifle]
+"[PH] TENNO RIFLE"
+
+[/Lotus/Language/Weapons/TennoRifleDesc]
+"[PH] TENNO RIFLE DESCRIPTION"
 
 [/Lotus/Language/Weapons/TeshinGlaiveDesc]
 "Turn foes into puppets with Teshin’s versatile throwing disc."
