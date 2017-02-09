@@ -1,22 +1,25 @@
 {
-  "ArchwingCacheCoordsReward": {
+  "/Lotus/PVP/WeeklyChallengeRewards/PVPWeeklyChallengeReward": {
     "Locations": null
   },
-  "ArchwingExterminateRewards": {
+  "/Lotus/Types/Game/MissionDecks/ArchwingCacheCoordsReward": {
+    "Locations": null
+  },
+  "/Lotus/Types/Game/MissionDecks/ArchwingExterminateRewards": {
     "Locations": [
       "Mercury, Caduceus, MT_EXTERMINATION, FC_GRINEER, NT_EVENT",
       "Venus, Montes, MT_EXTERMINATION, FC_CORPUS, NT_MISSION",
       "Mars, Syrtis, MT_EXTERMINATION, FC_GRINEER, NT_MISSION"
     ]
   },
-  "ArchwingMobileDRewards": {
+  "/Lotus/Types/Game/MissionDecks/ArchwingMobileDRewards": {
     "Locations": [
       "Earth, Erpo, MT_MOBILE_DEFENSE, FC_GRINEER, NT_MISSION",
       "Neptune, Salacia, MT_MOBILE_DEFENSE, FC_CORPUS, NT_MISSION",
       "Europa, Gamygyn, MT_MOBILE_DEFENSE, FC_GRINEER, NT_EVENT"
     ]
   },
-  "ArchwingPursuitRewards": {
+  "/Lotus/Types/Game/MissionDecks/ArchwingPursuitRewards": {
     "Locations": [
       "Saturn, Pandora, MT_PURSUIT, FC_GRINEER, NT_MISSION"
     ],
@@ -51,94 +54,94 @@
       "1 MESO S3 RELIC, COMMON, 12.5%"
     ]
   },
-  "ArchwingSabotageRewards": {
+  "/Lotus/Types/Game/MissionDecks/ArchwingSabotageRewards": {
     "Locations": [
       "Jupiter, Galilea, MT_SABOTAGE, FC_CORPUS, NT_MISSION"
     ]
   },
-  "BossMissionRewards/AtlasRewards": {
+  "/Lotus/Types/Game/MissionDecks/BossMissionRewards/AtlasRewards": {
     "Locations": null
   },
-  "BossMissionRewards/BerserkerRewards": {
+  "/Lotus/Types/Game/MissionDecks/BossMissionRewards/BerserkerRewards": {
     "Locations": [
       "Jupiter, Themisto, MT_ASSASSINATION, FC_CORPUS, NT_MISSION"
     ]
   },
-  "BossMissionRewards/CowgirlRewards": {
+  "/Lotus/Types/Game/MissionDecks/BossMissionRewards/CowgirlRewards": {
     "Locations": null
   },
-  "BossMissionRewards/EmberRewards": {
+  "/Lotus/Types/Game/MissionDecks/BossMissionRewards/EmberRewards": {
     "Locations": [
       "Saturn, Tethys, MT_ASSASSINATION, FC_GRINEER, NT_MISSION"
     ]
   },
-  "BossMissionRewards/ExcaliburRewards": {
+  "/Lotus/Types/Game/MissionDecks/BossMissionRewards/ExcaliburRewards": {
     "Locations": [
       "Pluto, Hades, MT_ASSASSINATION, FC_CORPUS, NT_MISSION"
     ]
   },
-  "BossMissionRewards/FomorianRewards": {
+  "/Lotus/Types/Game/MissionDecks/BossMissionRewards/FomorianRewards": {
     "Locations": null
   },
-  "BossMissionRewards/FrostRewards": {
+  "/Lotus/Types/Game/MissionDecks/BossMissionRewards/FrostRewards": {
     "Locations": [
       "Mars, War, MT_ASSASSINATION, FC_GRINEER, NT_MISSION"
     ]
   },
-  "BossMissionRewards/HydroidRewards": {
+  "/Lotus/Types/Game/MissionDecks/BossMissionRewards/HydroidRewards": {
     "Locations": [
       "Earth, Oro, MT_ASSASSINATION, FC_GRINEER, NT_MISSION"
     ]
   },
-  "BossMissionRewards/LokiRewards": {
+  "/Lotus/Types/Game/MissionDecks/BossMissionRewards/LokiRewards": {
     "Locations": [
       "Neptune, Psamathe, MT_ASSASSINATION, FC_CORPUS, NT_MISSION"
     ]
   },
-  "BossMissionRewards/MagRewards": {
+  "/Lotus/Types/Game/MissionDecks/BossMissionRewards/MagRewards": {
     "Locations": [
       "Phobos, Iliad, MT_ASSASSINATION, FC_CORPUS, NT_MISSION"
     ]
   },
-  "BossMissionRewards/MiterGremlinsRewards": {
+  "/Lotus/Types/Game/MissionDecks/BossMissionRewards/MiterGremlinsRewards": {
     "Locations": [
       "Ceres, Exta, MT_ASSASSINATION, FC_GRINEER, NT_MISSION"
     ]
   },
-  "BossMissionRewards/NovaRewards": {
+  "/Lotus/Types/Game/MissionDecks/BossMissionRewards/NovaRewards": {
     "Locations": [
       "Europa, Naamah, MT_ASSASSINATION, FC_CORPUS, NT_MISSION"
     ]
   },
-  "BossMissionRewards/NyxRewards": {
+  "/Lotus/Types/Game/MissionDecks/BossMissionRewards/NyxRewards": {
     "Locations": null
   },
-  "BossMissionRewards/RhinoRewards": {
+  "/Lotus/Types/Game/MissionDecks/BossMissionRewards/RhinoRewards": {
     "Locations": [
       "Venus, Fossa, MT_ASSASSINATION, FC_CORPUS, NT_MISSION"
     ]
   },
-  "BossMissionRewards/SarynRewards": {
+  "/Lotus/Types/Game/MissionDecks/BossMissionRewards/SarynRewards": {
     "Locations": [
       "Sedna, Merrow, MT_ASSASSINATION, FC_GRINEER, NT_MISSION"
     ]
   },
-  "BossMissionRewards/SeerPistolRewards": {
+  "/Lotus/Types/Game/MissionDecks/BossMissionRewards/SeerPistolRewards": {
     "Locations": [
       "Mercury, Tolstoj, MT_ASSASSINATION, FC_GRINEER, NT_MISSION"
     ]
   },
-  "BossMissionRewards/TrinityRewards": {
+  "/Lotus/Types/Game/MissionDecks/BossMissionRewards/TrinityRewards": {
     "Locations": [
       "Ceres, Exta, MT_ASSASSINATION, FC_GRINEER, NT_MISSION"
     ]
   },
-  "BossMissionRewards/YinYangRewards": {
+  "/Lotus/Types/Game/MissionDecks/BossMissionRewards/YinYangRewards": {
     "Locations": [
       "Uranus, Titania, MT_ASSASSINATION, FC_GRINEER, NT_MISSION"
     ]
   },
-  "CacheRewardsEasy": {
+  "/Lotus/Types/Game/MissionDecks/CacheRewardsEasy": {
     "Locations": [
       "Mercury, Terminus, MT_SABOTAGE, FC_INFESTATION, NT_MISSION",
       "Mercury, Neruda, MT_SABOTAGE, FC_GRINEER, NT_EVENT",
@@ -146,7 +149,7 @@
       "Mars, Gradivus, MT_SABOTAGE, FC_CORPUS, NT_MISSION"
     ]
   },
-  "CacheRewardsHard": {
+  "/Lotus/Types/Game/MissionDecks/CacheRewardsHard": {
     "Locations": [
       "Uranus, Portia, MT_SABOTAGE, FC_GRINEER, NT_EVENT",
       "Neptune, Thalassa, MT_SABOTAGE, FC_CORPUS, NT_EVENT",
@@ -158,7 +161,7 @@
       "Kuva Fortress, Dakata, MT_EXTERMINATION, FC_GRINEER, NT_MISSION"
     ]
   },
-  "CacheRewardsMedium": {
+  "/Lotus/Types/Game/MissionDecks/CacheRewardsMedium": {
     "Locations": [
       "Jupiter, Adrastea, MT_SABOTAGE, FC_CORPUS, NT_MISSION",
       "Saturn, Pallene, MT_SABOTAGE, FC_GRINEER, NT_EVENT",
@@ -166,13 +169,13 @@
       "Ceres, Thon, MT_SABOTAGE, FC_GRINEER, NT_MISSION"
     ]
   },
-  "CacheRewardsVoid": {
+  "/Lotus/Types/Game/MissionDecks/CacheRewardsVoid": {
     "Locations": [
       "Void, Stribog, MT_SABOTAGE, FC_OROKIN, NT_MISSION",
       "Void, Marduk, MT_SABOTAGE, FC_OROKIN, NT_MISSION"
     ]
   },
-  "CaptureMissionRewardsA": {
+  "/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA": {
     "Locations": [
       "Mercury, Elion, MT_CAPTURE, FC_GRINEER, NT_MISSION",
       "Venus, Venera, MT_CAPTURE, FC_CORPUS, NT_MISSION",
@@ -229,7 +232,7 @@
       "1 MESO S3 RELIC, RARE, 0.15%"
     ]
   },
-  "ClemCloneRewards": {
+  "/Lotus/Types/Game/MissionDecks/ClemCloneRewards": {
     "Locations": null,
     "Rotation A": [
       "1 CLEM CLONE BLUEPRINT, COMMON, 100%"
@@ -241,7 +244,7 @@
       "1 CLEM CLONE BLUEPRINT, COMMON, 100%"
     ]
   },
-  "CorpusArenaWagerRewardsEasy": {
+  "/Lotus/Types/Game/MissionDecks/CorpusArenaWagerRewardsEasy": {
     "Locations": [
       "Neptune, THE INDEX, MT_ARENA, FC_CORPUS, NT_SUB_MISSION"
     ],
@@ -255,7 +258,7 @@
       "1 15000 CREDITS, COMMON, 100%"
     ]
   },
-  "CorpusArenaWagerRewardsHard": {
+  "/Lotus/Types/Game/MissionDecks/CorpusArenaWagerRewardsHard": {
     "Locations": [
       {
         "Neptune, THE INDEX": "ENDURANCE, MT_ARENA, FC_CORPUS, NT_SUB_MISSION"
@@ -271,7 +274,7 @@
       "1 200000 CREDITS, COMMON, 100%"
     ]
   },
-  "CorpusArenaWagerRewardsMedium": {
+  "/Lotus/Types/Game/MissionDecks/CorpusArenaWagerRewardsMedium": {
     "Locations": [
       {
         "Neptune, THE INDEX": "HIGH RISK, MT_ARENA, FC_CORPUS, NT_SUB_MISSION"
@@ -287,7 +290,7 @@
       "1 85000 CREDITS, COMMON, 100%"
     ]
   },
-  "CorpusInfestedSabotageRewards": {
+  "/Lotus/Types/Game/MissionDecks/CorpusInfestedSabotageRewards": {
     "Locations": [
       "Eris, Candiru, MT_HIVE, FC_INFESTATION, NT_EVENT",
       "Eris, Lepis, MT_HIVE, FC_INFESTATION, NT_EVENT",
@@ -296,7 +299,7 @@
       "Eris, Naeglar, MT_HIVE, FC_INFESTATION, NT_MISSION"
     ]
   },
-  "DefenseMissionRewards/ArchwingDefenceMissionRewardsEasy": {
+  "/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/ArchwingDefenceMissionRewardsEasy": {
     "Locations": [
       "Phobos, Kepler, MT_RACE, FC_CORPUS, NT_MISSION"
     ],
@@ -330,7 +333,7 @@
       "1 LITH K1 RELIC, COMMON, 12.91%"
     ]
   },
-  "DefenseMissionRewards/BadlandsDefenseMissionRewards": {
+  "/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/BadlandsDefenseMissionRewards": {
     "Locations": [
       "Venus, Romula, MT_DEFENSE, FC_INFESTATION, NT_CLAN",
       "Earth, Coba, MT_DEFENSE, FC_INFESTATION, NT_CLAN",
@@ -413,7 +416,7 @@
       "1 Life Strike, RARE, 0.4%"
     ]
   },
-  "DefenseMissionRewards/DefenseMissionRewardsEasy": {
+  "/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsEasy": {
     "Locations": [
       "Mercury, Lares, MT_DEFENSE, FC_INFESTATION, NT_MISSION",
       "Venus, Tessera, MT_DEFENSE, FC_CORPUS, NT_MISSION",
@@ -468,7 +471,7 @@
       "1 MESO S3 RELIC, UNCOMMON, 8.33%"
     ]
   },
-  "DefenseMissionRewards/DefenseMissionRewardsHard": {
+  "/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsHard": {
     "Locations": [
       "Uranus, Miranda, MT_DEFENSE, FC_GRINEER, NT_EVENT",
       "Uranus, Bianca, MT_DEFENSE, FC_GRINEER, NT_EVENT",
@@ -535,7 +538,7 @@
       "1 AXI C1 RELIC, COMMON, 7.74%"
     ]
   },
-  "DefenseMissionRewards/DefenseMissionRewardsMedium": {
+  "/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/DefenseMissionRewardsMedium": {
     "Locations": [
       "Jupiter, Io, MT_DEFENSE, FC_CORPUS, NT_MISSION",
       "Saturn, Helene, MT_DEFENSE, FC_GRINEER, NT_MISSION",
@@ -584,7 +587,7 @@
       "1 NEO A1 RELIC, COMMON, 12.91%"
     ]
   },
-  "DefenseMissionRewards/PurifierDefenseMissionRewards": {
+  "/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/PurifierDefenseMissionRewards": {
     "Locations": [
       "Eris, Oestrus, MT_PURIFY, FC_INFESTATION, NT_MISSION"
     ],
@@ -629,7 +632,7 @@
       "1 80 ENDO, UNCOMMON, 14.29%"
     ]
   },
-  "DerelictDefenseRewards": {
+  "/Lotus/Types/Game/MissionDecks/DerelictDefenseRewards": {
     "Locations": [
       "Derelict, OROKIN DERELICT DEFENSE, MT_DEFENSE, FC_INFESTATION, NT_MISSION"
     ],
@@ -658,7 +661,7 @@
       "1 MESO S3 RELIC, COMMON, 11.06%"
     ]
   },
-  "DerelictSurvivalRewards": {
+  "/Lotus/Types/Game/MissionDecks/DerelictSurvivalRewards": {
     "Locations": [
       "Derelict, OROKIN DERELICT SURVIVAL, MT_SURVIVAL, FC_INFESTATION, NT_MISSION"
     ],
@@ -690,7 +693,7 @@
       "1 AXI C1 RELIC, COMMON, 7.74%"
     ]
   },
-  "ExtractionMissionRewards/ExtractionHighLevelRewards": {
+  "/Lotus/Types/Game/MissionDecks/ExtractionMissionRewards/ExtractionHighLevelRewards": {
     "Locations": [
       "Neptune, Despina, MT_EXCAVATE, FC_CORPUS, NT_MISSION",
       "Pluto, Hieracon, MT_EXCAVATE, FC_INFESTATION, NT_CLAN",
@@ -738,7 +741,7 @@
       "1 AXI C1 RELIC, COMMON, 7.74%"
     ]
   },
-  "ExtractionMissionRewards/ExtractionLowLevelRewards": {
+  "/Lotus/Types/Game/MissionDecks/ExtractionMissionRewards/ExtractionLowLevelRewards": {
     "Locations": [
       "Venus, Kiliken, MT_EXCAVATE, FC_CORPUS, NT_MISSION",
       "Earth, Everest, MT_EXCAVATE, FC_GRINEER, NT_MISSION",
@@ -782,7 +785,7 @@
       "1 Cleanse Grineer, UNCOMMON, 3.76%"
     ]
   },
-  "ExtractionMissionRewards/ExtractionMidLevelRewards": {
+  "/Lotus/Types/Game/MissionDecks/ExtractionMissionRewards/ExtractionMidLevelRewards": {
     "Locations": [
       "Europa, Lillith, MT_EXCAVATE, FC_CORPUS, NT_EVENT",
       "Europa, Valefor, MT_EXCAVATE, FC_CORPUS, NT_MISSION"
@@ -826,7 +829,7 @@
       "1 Shotgun Ammo Mutation, UNCOMMON, 3.76%"
     ]
   },
-  "ExtractionMissionRewards/LimboChassisQuestExcavationRewards": {
+  "/Lotus/Types/Game/MissionDecks/ExtractionMissionRewards/LimboChassisQuestExcavationRewards": {
     "Locations": null,
     "Rotation A": [
       "1 1000 CREDITS, COMMON, 48.71%",
@@ -844,7 +847,7 @@
       "1 LIMBO CHASSIS BLUEPRINT, COMMON, 33.33%"
     ]
   },
-  "ExtractionMissionRewards/LimboHelmetQuestExcavationRewards": {
+  "/Lotus/Types/Game/MissionDecks/ExtractionMissionRewards/LimboHelmetQuestExcavationRewards": {
     "Locations": null,
     "Rotation A": [
       "1 1000 CREDITS, COMMON, 48.71%",
@@ -862,7 +865,7 @@
       "1 LIMBO NEUROPTICS BLUEPRINT, COMMON, 33.33%"
     ]
   },
-  "ExtractionMissionRewards/LimboSystemsQuestExcavationRewards": {
+  "/Lotus/Types/Game/MissionDecks/ExtractionMissionRewards/LimboSystemsQuestExcavationRewards": {
     "Locations": null,
     "Rotation A": [
       "1 1000 CREDITS, COMMON, 48.71%",
@@ -880,23 +883,23 @@
       "1 LIMBO SYSTEMS BLUEPRINT, COMMON, 33.33%"
     ]
   },
-  "ForestSabotageRewards": {
+  "/Lotus/Types/Game/MissionDecks/ForestSabotageRewards": {
     "Locations": [
       "Earth, Cervantes, MT_SABOTAGE, FC_GRINEER, NT_MISSION"
     ]
   },
-  "FusionCoreRewards": {
+  "/Lotus/Types/Game/MissionDecks/FusionCoreRewards": {
     "Locations": null
   },
-  "GolemMissionRewards": {
+  "/Lotus/Types/Game/MissionDecks/GolemMissionRewards": {
     "Locations": [
       "Derelict, OROKIN DERELICT ASSASSINATE, MT_ASSASSINATION, FC_INFESTATION, NT_MISSION"
     ]
   },
-  "HalloweenExtermEventRewards": {
+  "/Lotus/Types/Game/MissionDecks/HalloweenExtermEventRewards": {
     "Locations": null
   },
-  "IndexMissionRewardDifficult": {
+  "/Lotus/Types/Game/MissionDecks/IndexMissionRewardDifficult": {
     "Locations": [
       {
         "Neptune, THE INDEX": "HIGH RISK, MT_ARENA, FC_CORPUS, NT_SUB_MISSION"
@@ -914,7 +917,7 @@
       "1 Tether Grenades, 6.5%"
     ]
   },
-  "IndexMissionRewardEndless": {
+  "/Lotus/Types/Game/MissionDecks/IndexMissionRewardEndless": {
     "Locations": [
       {
         "Neptune, THE INDEX": "ENDURANCE, MT_ARENA, FC_CORPUS, NT_SUB_MISSION"
@@ -932,7 +935,7 @@
       "1 Tether Grenades, 8%"
     ]
   },
-  "IndexMissionRewardStandard": {
+  "/Lotus/Types/Game/MissionDecks/IndexMissionRewardStandard": {
     "Locations": [
       "Neptune, THE INDEX, MT_ARENA, FC_CORPUS, NT_SUB_MISSION"
     ],
@@ -948,22 +951,22 @@
       "1 Tether Grenades, 5%"
     ]
   },
-  "IndexQuestFinalMissionRewards": {
+  "/Lotus/Types/Game/MissionDecks/IndexQuestFinalMissionRewards": {
     "Locations": null,
     "Rotation A": [
       "1 150000 CREDITS, COMMON, 100%"
     ]
   },
-  "IndexQuestMissionARewards": {
+  "/Lotus/Types/Game/MissionDecks/IndexQuestMissionARewards": {
     "Locations": null,
     "Rotation A": [
       "1 20000 CREDITS, COMMON, 100%"
     ]
   },
-  "InfestedIncursionsSurvivalRewards": {
+  "/Lotus/Types/Game/MissionDecks/InfestedIncursionsSurvivalRewards": {
     "Locations": null
   },
-  "InterceptRewardsGrineer": {
+  "/Lotus/Types/Game/MissionDecks/InterceptRewardsGrineer": {
     "Locations": null,
     "Rotation A": [
       "1 Vitality, COMMON, 15.18%",
@@ -1027,7 +1030,7 @@
       "1 MESO S3 RELIC, COMMON, 12.65%"
     ]
   },
-  "InterceptionMissionRewards/ArchwingInterceptionMissionRewardsHard": {
+  "/Lotus/Types/Game/MissionDecks/InterceptionMissionRewards/ArchwingInterceptionMissionRewardsHard": {
     "Locations": [
       "Uranus, Caelus, MT_TERRITORY, FC_GRINEER, NT_MISSION"
     ],
@@ -1072,7 +1075,7 @@
       "1 \"\", COMMON, 6.45%"
     ]
   },
-  "InterceptionMissionRewards/InterceptionMissionRewardsEasy": {
+  "/Lotus/Types/Game/MissionDecks/InterceptionMissionRewards/InterceptionMissionRewardsEasy": {
     "Locations": [
       "Mercury, Odin, MT_TERRITORY, FC_GRINEER, NT_MISSION",
       "Venus, Cytherean, MT_TERRITORY, FC_CORPUS, NT_MISSION",
@@ -1120,7 +1123,7 @@
       "1 Natural Talent, RARE, 2.58%"
     ]
   },
-  "InterceptionMissionRewards/InterceptionMissionRewardsHard": {
+  "/Lotus/Types/Game/MissionDecks/InterceptionMissionRewards/InterceptionMissionRewardsHard": {
     "Locations": [
       "Uranus, Stephano, MT_DEFENSE, FC_GRINEER, NT_MISSION",
       "Pluto, Cerberus, MT_TERRITORY, FC_CORPUS, NT_MISSION",
@@ -1163,7 +1166,7 @@
       "1 AXI C1 RELIC, COMMON, 10.82%"
     ]
   },
-  "InterceptionMissionRewards/InterceptionMissionRewardsMedium": {
+  "/Lotus/Types/Game/MissionDecks/InterceptionMissionRewards/InterceptionMissionRewardsMedium": {
     "Locations": [
       "Jupiter, Callisto, MT_TERRITORY, FC_CORPUS, NT_MISSION",
       "Saturn, Iapetus, MT_TERRITORY, FC_GRINEER, NT_EVENT",
@@ -1209,7 +1212,7 @@
       "1 NEO V3 RELIC, COMMON, 16.67%"
     ]
   },
-  "InvasionRewards": {
+  "/Lotus/Types/Game/MissionDecks/InvasionRewards": {
     "Locations": null,
     "Rotation A": [
       "3 DETONITE INJECTOR, COMMON, 75.88%",
@@ -1259,23 +1262,23 @@
       "1 MUTALIST ALAD V NAV COORDINATE, RARE, 2.01%"
     ]
   },
-  "KelaEventRewardsEasy": {
+  "/Lotus/Types/Game/MissionDecks/KelaEventRewardsEasy": {
     "Locations": [
       "Sedna, Undine, MT_ARENA, FC_GRINEER, NT_EVENT"
     ]
   },
-  "KelaEventRewardsHard": {
+  "/Lotus/Types/Game/MissionDecks/KelaEventRewardsHard": {
     "Locations": [
       "Sedna, Vodyanoi, MT_ARENA, FC_GRINEER, NT_MISSION",
       "Sedna, Yam, MT_ARENA, FC_GRINEER, NT_MISSION"
     ]
   },
-  "KelaEventRewardsMedium": {
+  "/Lotus/Types/Game/MissionDecks/KelaEventRewardsMedium": {
     "Locations": [
       "Sedna, Nakki, MT_ARENA, FC_GRINEER, NT_MISSION"
     ]
   },
-  "MacheteMayhemBonusRewards": {
+  "/Lotus/Types/Game/MissionDecks/MacheteMayhemBonusRewards": {
     "Locations": null,
     "Rotation A": [
       "5 80 ENDO, COMMON, 75.88%",
@@ -1292,10 +1295,10 @@
       "1 Shell Shock, UNCOMMON, 5.53%"
     ]
   },
-  "MirageRewards": {
+  "/Lotus/Types/Game/MissionDecks/MirageRewards": {
     "Locations": null
   },
-  "MissionRewardsCorpus": {
+  "/Lotus/Types/Game/MissionDecks/MissionRewardsCorpus": {
     "Locations": null,
     "Rotation A": [
       "1 Vitality, COMMON, 12.65%",
@@ -1359,7 +1362,7 @@
       "1 MESO S3 RELIC, COMMON, 10.84%"
     ]
   },
-  "MissionRewardsGrineer": {
+  "/Lotus/Types/Game/MissionDecks/MissionRewardsGrineer": {
     "Locations": null,
     "Rotation A": [
       "1 Vitality, COMMON, 15.18%",
@@ -1423,7 +1426,7 @@
       "1 MESO S3 RELIC, COMMON, 10.84%"
     ]
   },
-  "MissionRewardsInfested": {
+  "/Lotus/Types/Game/MissionDecks/MissionRewardsInfested": {
     "Locations": [
       "Phobos, Opik, MT_RACE, FC_CORPUS, NT_EVENT"
     ],
@@ -1489,29 +1492,29 @@
       "1 MESO S3 RELIC, COMMON, 10.84%"
     ]
   },
-  "NightmareModeRewards": {
+  "/Lotus/Types/Game/MissionDecks/NightmareModeRewards": {
     "Locations": null
   },
-  "OceanSabotageRewards": {
+  "/Lotus/Types/Game/MissionDecks/OceanSabotageRewards": {
     "Locations": [
       "Uranus, Desdemona, MT_SABOTAGE, FC_GRINEER, NT_MISSION",
       "Uranus, Prospero, MT_SABOTAGE, FC_GRINEER, NT_EVENT",
       "Uranus, Setebos, MT_SABOTAGE, FC_GRINEER, NT_EVENT"
     ]
   },
-  "OrokinDerelictSabotageRewards": {
+  "/Lotus/Types/Game/MissionDecks/OrokinDerelictSabotageRewards": {
     "Locations": [
       "Derelict, OROKIN DERELICT SABOTAGE, MT_SABOTAGE, FC_INFESTATION, NT_MISSION"
     ]
   },
-  "OrokinSabotageEventRewards": {
+  "/Lotus/Types/Game/MissionDecks/OrokinSabotageEventRewards": {
     "Locations": [
       "Ceres, Gate Crash, MT_SABOTAGE, FC_GRINEER, NT_EVENT",
       "Phobos, Shifting Sands, MT_SABOTAGE, FC_GRINEER, NT_EVENT",
       "Phobos, Gate Crash, MT_SABOTAGE, FC_GRINEER, NT_EVENT"
     ]
   },
-  "PVPMissionRewards/CTFRewards": {
+  "/Lotus/Types/Game/MissionDecks/PVPMissionRewards/CTFRewards": {
     "Locations": [
       "Saturn, Cephalon Capture, MT_PVP, FC_GRINEER, NT_PVP",
       "Saturn, Cephalon Capture, MT_PVP, FC_GRINEER, NT_PVP",
@@ -1520,7 +1523,7 @@
       "Neptune, Cephalon Capture, MT_PVP, FC_CORPUS, NT_PVP"
     ]
   },
-  "PVPMissionRewards/DMRewards": {
+  "/Lotus/Types/Game/MissionDecks/PVPMissionRewards/DMRewards": {
     "Locations": [
       "Saturn, Annihilation, MT_PVP, FC_GRINEER, NT_PVP",
       "Saturn, Annihilation, MT_PVP, FC_GRINEER, NT_PVP",
@@ -1530,7 +1533,7 @@
       "Saturn, (VARIANT) Annihilation, MT_PVP, FC_GRINEER, NT_PVP"
     ]
   },
-  "PVPMissionRewards/TDMRewards": {
+  "/Lotus/Types/Game/MissionDecks/PVPMissionRewards/TDMRewards": {
     "Locations": [
       "Saturn, Team Annihilation, MT_PVP, FC_GRINEER, NT_PVP",
       "Saturn, Team Annihilation, MT_PVP, FC_GRINEER, NT_PVP",
@@ -1538,19 +1541,63 @@
       "Saturn, (VARIANT) Team Annihilation, MT_PVP, FC_GRINEER, NT_PVP"
     ]
   },
-  "ProjectFriendlyFireRewardsBasic": {
+  "/Lotus/Types/Game/MissionDecks/ProjectFriendlyFireRewardsBasic": {
     "Locations": null
   },
-  "ProjectFriendlyFireRewardsBonus": {
+  "/Lotus/Types/Game/MissionDecks/ProjectFriendlyFireRewardsBonus": {
     "Locations": null
   },
-  "ProjectNightwatchBonusRewards": {
+  "/Lotus/Types/Game/MissionDecks/ProjectNightwatchBonusRewards": {
     "Locations": null
   },
-  "ProjectSinisterRewardsBasic": {
+  "/Lotus/Types/Game/MissionDecks/ProjectPanaceaBonusRewards": {
+    "Locations": null,
+    "Rotation A": [
+      "1 RIFT SIGIL, RARE, 0.25%",
+      "1 Stunning Speed, RARE, 0.25%",
+      "1 Hammer Shot, RARE, 0.25%",
+      "1 Blaze, RARE, 0.25%",
+      "1 Buzz Kill, RARE, 0.25%",
+      "1 Maim, RARE, 0.25%",
+      "1 Fanged Fusillade, RARE, 0.25%",
+      "1 Sweeping Serration, RARE, 0.25%",
+      "10 80 ENDO, UNCOMMON, 3.16%",
+      "5 80 ENDO, COMMON, 18.97%",
+      "1 3000 CREDITS, COMMON, 18.97%",
+      "1 4000 CREDITS, UNCOMMON, 3.16%",
+      "1 4000 CREDITS, UNCOMMON, 3.16%",
+      "1 DETONITE AMPULE, UNCOMMON, 3.16%",
+      "1 FIELDRON SAMPLE, COMMON, 18.97%",
+      "1 MUTAGEN SAMPLE, COMMON, 18.97%",
+      "2 Madurai Transmute Core, UNCOMMON, 3.16%",
+      "2 Vazarin Transmute Core, UNCOMMON, 3.16%",
+      "1 Naramon Transmute Core, UNCOMMON, 3.16%"
+    ]
+  },
+  "/Lotus/Types/Game/MissionDecks/ProjectPanaceaRewards": {
+    "Locations": null,
+    "Rotation A": [
+      "1 RIFT SIGIL, RARE, 0.5%",
+      "1 Stunning Speed, RARE, 0.5%",
+      "1 Hammer Shot, RARE, 0.5%",
+      "1 Blaze, RARE, 0.5%",
+      "10 80 ENDO, UNCOMMON, 3.16%",
+      "5 80 ENDO, COMMON, 18.97%",
+      "1 3000 CREDITS, COMMON, 18.97%",
+      "1 4000 CREDITS, UNCOMMON, 3.16%",
+      "1 4000 CREDITS, COMMON, 18.97%",
+      "1 DETONITE AMPULE, UNCOMMON, 3.16%",
+      "1 FIELDRON SAMPLE, UNCOMMON, 3.16%",
+      "1 MUTAGEN SAMPLE, COMMON, 18.97%",
+      "2 Madurai Transmute Core, UNCOMMON, 3.16%",
+      "2 Vazarin Transmute Core, UNCOMMON, 3.16%",
+      "1 Naramon Transmute Core, UNCOMMON, 3.16%"
+    ]
+  },
+  "/Lotus/Types/Game/MissionDecks/ProjectSinisterRewardsBasic": {
     "Locations": null
   },
-  "ProjectSinisterRewardsBonus": {
+  "/Lotus/Types/Game/MissionDecks/ProjectSinisterRewardsBonus": {
     "Locations": null,
     "Rotation A": [
       "1 Shrapnel Shot, UNCOMMON, 5.61%",
@@ -1585,7 +1632,7 @@
       "1 Narrow Barrel, RARE, 0.67%"
     ]
   },
-  "ProjectSinisterRewardsFinal": {
+  "/Lotus/Types/Game/MissionDecks/ProjectSinisterRewardsFinal": {
     "Locations": null,
     "Rotation A": [
       "1 Shrapnel Shot, COMMON, 10.84%",
@@ -1610,25 +1657,25 @@
       "1 Focused Defense, COMMON, 10.84%"
     ]
   },
-  "ProjectUndermineBonusRewards": {
+  "/Lotus/Types/Game/MissionDecks/ProjectUndermineBonusRewards": {
     "Locations": null
   },
-  "ProjectUndermineRewards": {
+  "/Lotus/Types/Game/MissionDecks/ProjectUndermineRewards": {
     "Locations": null
   },
-  "RaidRewards/GolemRaid": {
+  "/Lotus/Types/Game/MissionDecks/RaidRewards/GolemRaid": {
     "Locations": null
   },
-  "RaidRewards/HekRaid": {
+  "/Lotus/Types/Game/MissionDecks/RaidRewards/HekRaid": {
     "Locations": null
   },
-  "RaidRewards/NightmareHekRaid": {
+  "/Lotus/Types/Game/MissionDecks/RaidRewards/NightmareHekRaid": {
     "Locations": null
   },
-  "RaidRewards/NightmareResourceHekRaid": {
+  "/Lotus/Types/Game/MissionDecks/RaidRewards/NightmareResourceHekRaid": {
     "Locations": null
   },
-  "RescueMissionRewards/RescueMissionRewardsEasy": {
+  "/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsEasy": {
     "Locations": [
       "Mercury, Caloris, MT_RESCUE, FC_GRINEER, NT_MISSION",
       "Venus, Linea, MT_RESCUE, FC_CORPUS, NT_MISSION",
@@ -1640,7 +1687,7 @@
       "Phobos, Monolith, MT_RESCUE, FC_CORPUS, NT_MISSION"
     ]
   },
-  "RescueMissionRewards/RescueMissionRewardsHard": {
+  "/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsHard": {
     "Locations": [
       "Saturn, Anthe, MT_RESCUE, FC_GRINEER, NT_MISSION",
       "Uranus, Mab, MT_RESCUE, FC_GRINEER, NT_EVENT",
@@ -1655,7 +1702,7 @@
       "Kuva Fortress, Garus, MT_RESCUE, FC_GRINEER, NT_MISSION"
     ]
   },
-  "RescueMissionRewards/RescueMissionRewardsMedium": {
+  "/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsMedium": {
     "Locations": [
       "Jupiter, Metis, MT_RESCUE, FC_CORPUS, NT_MISSION",
       "Saturn, Mimas, MT_RESCUE, FC_GRINEER, NT_EVENT",
@@ -1666,15 +1713,15 @@
       "Europa, Orias, MT_RESCUE, FC_CORPUS, NT_MISSION"
     ]
   },
-  "RescueMissionRewards/RescueMissionRewardsNightmare": {
+  "/Lotus/Types/Game/MissionDecks/RescueMissionRewards/RescueMissionRewardsNightmare": {
     "Locations": null
   },
-  "SortieRewards": {
+  "/Lotus/Types/Game/MissionDecks/SortieRewards": {
     "Locations": null,
     "Rotation A": [
       "FixedWeights=True",
       "1 Rifle Riven Mod, 8.62%",
-      "1 \"\", 28%",
+      "1 AYATAN ANASA SCULPTURE, 28%",
       "50 80 ENDO, 12.1%",
       "1 MADURAI LENS, 3%",
       "1 GREATER MADURAI LENS, 1%",
@@ -1698,7 +1745,7 @@
       "1 Shotgun Riven Mod, 1.62%"
     ]
   },
-  "SortieRewardsB": {
+  "/Lotus/Types/Game/MissionDecks/SortieRewardsB": {
     "Locations": null,
     "Rotation A": [
       "25 80 ENDO, COMMON, 9.44%",
@@ -1718,7 +1765,7 @@
       "1 OROKIN REACTOR BLUEPRINT, RARE, 1%"
     ]
   },
-  "SortieRewardsC": {
+  "/Lotus/Types/Game/MissionDecks/SortieRewardsC": {
     "Locations": null,
     "Rotation A": [
       "25 80 ENDO, COMMON, 7.55%",
@@ -1741,7 +1788,7 @@
       "1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%"
     ]
   },
-  "SortieRewardsD": {
+  "/Lotus/Types/Game/MissionDecks/SortieRewardsD": {
     "Locations": null,
     "Rotation A": [
       "25 80 ENDO, COMMON, 7.55%",
@@ -1764,7 +1811,7 @@
       "1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%"
     ]
   },
-  "SortieRewardsE": {
+  "/Lotus/Types/Game/MissionDecks/SortieRewardsE": {
     "Locations": null,
     "Rotation A": [
       "25 80 ENDO, COMMON, 7.55%",
@@ -1787,7 +1834,7 @@
       "1 OROKIN REACTOR BLUEPRINT, RARE, 1%"
     ]
   },
-  "SortieRewardsF": {
+  "/Lotus/Types/Game/MissionDecks/SortieRewardsF": {
     "Locations": null,
     "Rotation A": [
       "25 80 ENDO, COMMON, 7.55%",
@@ -1810,7 +1857,7 @@
       "1 OROKIN REACTOR BLUEPRINT, RARE, 1%"
     ]
   },
-  "SortieRewardsG": {
+  "/Lotus/Types/Game/MissionDecks/SortieRewardsG": {
     "Locations": null,
     "Rotation A": [
       "25 80 ENDO, COMMON, 7.55%",
@@ -1833,7 +1880,7 @@
       "1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%"
     ]
   },
-  "SortieRewardsH": {
+  "/Lotus/Types/Game/MissionDecks/SortieRewardsH": {
     "Locations": null,
     "Rotation A": [
       "25 80 ENDO, COMMON, 7.55%",
@@ -1856,7 +1903,7 @@
       "1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%"
     ]
   },
-  "SortieRewardsI": {
+  "/Lotus/Types/Game/MissionDecks/SortieRewardsI": {
     "Locations": null,
     "Rotation A": [
       "25 80 ENDO, COMMON, 7.55%",
@@ -1879,7 +1926,7 @@
       "1 NEZHA SYSTEMS BLUEPRINT, COMMON, 7.55%"
     ]
   },
-  "SpyMissionRewards/SpyHighMissionRewards": {
+  "/Lotus/Types/Game/MissionDecks/SpyMissionRewards/SpyHighMissionRewards": {
     "Locations": [
       "Uranus, Rosalind, MT_INTEL, FC_GRINEER, NT_MISSION",
       "Neptune, Laomedeia, MT_INTEL, FC_CORPUS, NT_MISSION",
@@ -1891,7 +1938,7 @@
       "Kuva Fortress, Pago, MT_INTEL, FC_GRINEER, NT_MISSION"
     ]
   },
-  "SpyMissionRewards/SpyLowMissionRewards": {
+  "/Lotus/Types/Game/MissionDecks/SpyMissionRewards/SpyLowMissionRewards": {
     "Locations": [
       "Mercury, Suisei, MT_INTEL, FC_GRINEER, NT_MISSION",
       "Venus, Vesper, MT_INTEL, FC_CORPUS, NT_EVENT",
@@ -1903,7 +1950,7 @@
       "Phobos, Shklovsky, MT_INTEL, FC_CORPUS, NT_MISSION"
     ]
   },
-  "SpyMissionRewards/SpyMediumMissionRewards": {
+  "/Lotus/Types/Game/MissionDecks/SpyMissionRewards/SpyMediumMissionRewards": {
     "Locations": [
       "Jupiter, Amalthea, MT_INTEL, FC_CORPUS, NT_MISSION",
       "Saturn, Dione, MT_INTEL, FC_GRINEER, NT_MISSION",
@@ -1912,12 +1959,12 @@
       "Europa, Valac, MT_INTEL, FC_CORPUS, NT_MISSION"
     ]
   },
-  "SpyMissionRewards/SpyMoonMissionRewards": {
+  "/Lotus/Types/Game/MissionDecks/SpyMissionRewards/SpyMoonMissionRewards": {
     "Locations": [
       "Lua, Pavlov, MT_INTEL, FC_CORPUS, NT_MISSION"
     ]
   },
-  "SurvivalMissionRewards/SurvivalBadlandsHighLevelRewards": {
+  "/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalBadlandsHighLevelRewards": {
     "Locations": [
       "Uranus, Assur, MT_SURVIVAL, FC_INFESTATION, NT_CLAN",
       "Neptune, Kelashin, MT_SURVIVAL, FC_INFESTATION, NT_CLAN",
@@ -1960,7 +2007,7 @@
       "1 AXI C1 RELIC, COMMON, 7.74%"
     ]
   },
-  "SurvivalMissionRewards/SurvivalBadlandsLowLevelRewards": {
+  "/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalBadlandsLowLevelRewards": {
     "Locations": [
       "Venus, Malva, MT_SURVIVAL, FC_INFESTATION, NT_CLAN",
       "Ceres, Gabii, MT_SURVIVAL, FC_INFESTATION, NT_CLAN"
@@ -1997,7 +2044,7 @@
       "1 Quickening, UNCOMMON, 11.28%"
     ]
   },
-  "SurvivalMissionRewards/SurvivalBadlandsMidLevelRewards": {
+  "/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalBadlandsMidLevelRewards": {
     "Locations": [
       "Mars, Wahiba, MT_SURVIVAL, FC_INFESTATION, NT_CLAN",
       "Jupiter, Cameria, MT_SURVIVAL, FC_INFESTATION, NT_CLAN",
@@ -2039,7 +2086,7 @@
       "1 Enduring Strike, UNCOMMON, 11.28%"
     ]
   },
-  "SurvivalMissionRewards/SurvivalBadlandsUltraLevelRewards": {
+  "/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalBadlandsUltraLevelRewards": {
     "Locations": [
       "Eris, Zabala, MT_SURVIVAL, FC_INFESTATION, NT_CLAN"
     ],
@@ -2071,7 +2118,7 @@
       "1 AXI C1 RELIC, COMMON, 9.09%"
     ]
   },
-  "SurvivalMissionRewards/SurvivalGeneticFoundryRewards": {
+  "/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalGeneticFoundryRewards": {
     "Locations": null,
     "Rotation B": [
       "1 2000 CREDITS, COMMON, 33.33%",
@@ -2084,7 +2131,7 @@
       "1 80 ENDO, COMMON, 33.33%"
     ]
   },
-  "SurvivalMissionRewards/SurvivalHighLevelRewards": {
+  "/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalHighLevelRewards": {
     "Locations": [
       "Uranus, Ophelia, MT_SURVIVAL, FC_GRINEER, NT_MISSION",
       "Uranus, Cupid, MT_SURVIVAL, FC_GRINEER, NT_EVENT",
@@ -2138,7 +2185,7 @@
       "1 AXI C1 RELIC, COMMON, 7.74%"
     ]
   },
-  "SurvivalMissionRewards/SurvivalLowLevelRewards": {
+  "/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalLowLevelRewards": {
     "Locations": [
       "Mercury, Apollodorus, MT_SURVIVAL, FC_INFESTATION, NT_MISSION",
       "Venus, V Prime, MT_SURVIVAL, FC_CORPUS, NT_MISSION",
@@ -2182,7 +2229,7 @@
       "1 Cleanse Grineer, UNCOMMON, 3.76%"
     ]
   },
-  "SurvivalMissionRewards/SurvivalMidLevelRewards": {
+  "/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalMidLevelRewards": {
     "Locations": [
       "Jupiter, Elara, MT_SURVIVAL, FC_CORPUS, NT_MISSION",
       "Saturn, Titan, MT_SURVIVAL, FC_GRINEER, NT_MISSION",
@@ -2229,7 +2276,7 @@
       "1 Shotgun Ammo Mutation, UNCOMMON, 3.76%"
     ]
   },
-  "SurvivalMissionRewards/SurvivalUltraLevelRewards": {
+  "/Lotus/Types/Game/MissionDecks/SurvivalMissionRewards/SurvivalUltraLevelRewards": {
     "Locations": [
       "Void, Mot, MT_SURVIVAL, FC_OROKIN, NT_MISSION"
     ],
@@ -2260,10 +2307,10 @@
       "1 AXI C1 RELIC, COMMON, 10%"
     ]
   },
-  "VaultRewards": {
+  "/Lotus/Types/Game/MissionDecks/VaultRewards": {
     "Locations": null
   },
-  "VoidKeyMissionRewards/AklexPrime": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/AklexPrime": {
     "Locations": [
       "AXI A2 RELIC"
     ],
@@ -2276,7 +2323,7 @@
       "1 LEX PRIME BARREL, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/FireAndIceVaultA": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/FireAndIceVaultA": {
     "Locations": [
       "LITH G1 RELIC"
     ],
@@ -2289,7 +2336,7 @@
       "1 REAPER PRIME HANDLE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/FireAndIceVaultB": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/FireAndIceVaultB": {
     "Locations": [
       "MESO F2 RELIC"
     ],
@@ -2302,7 +2349,7 @@
       "1 SICARUS PRIME BARREL, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/FireAndIceVaultC": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/FireAndIceVaultC": {
     "Locations": [
       "NEO S5 RELIC"
     ],
@@ -2315,7 +2362,7 @@
       "1 REAPER PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/FireAndIceVaultD": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/FireAndIceVaultD": {
     "Locations": [
       "AXI E1 RELIC"
     ],
@@ -2328,7 +2375,7 @@
       "1 FROST PRIME NEUROPTICS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/MagPrimeVaultA": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/MagPrimeVaultA": {
     "Locations": [
       "LITH M1 RELIC"
     ],
@@ -2341,7 +2388,7 @@
       "1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%"
     ]
   },
-  "VoidKeyMissionRewards/MagPrimeVaultB": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/MagPrimeVaultB": {
     "Locations": [
       "MESO B1 RELIC"
     ],
@@ -2354,7 +2401,7 @@
       "1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%"
     ]
   },
-  "VoidKeyMissionRewards/MagPrimeVaultC": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/MagPrimeVaultC": {
     "Locations": [
       "NEO D1 RELIC"
     ],
@@ -2367,7 +2414,7 @@
       "1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%"
     ]
   },
-  "VoidKeyMissionRewards/MagPrimeVaultD": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/MagPrimeVaultD": {
     "Locations": [
       "AXI V2 RELIC"
     ],
@@ -2380,7 +2427,7 @@
       "1 BOAR PRIME BARREL, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/MagPrimeVaultEnd": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/MagPrimeVaultEnd": {
     "Locations": [
       "AXI V3 RELIC"
     ],
@@ -2393,7 +2440,7 @@
       "1 TRINITY PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/NekrosPAA": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/NekrosPAA": {
     "Locations": [
       "AXI N3 RELIC"
     ],
@@ -2406,7 +2453,7 @@
       "1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%"
     ]
   },
-  "VoidKeyMissionRewards/NekrosPAB": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/NekrosPAB": {
     "Locations": [
       "NEO N3 RELIC"
     ],
@@ -2419,7 +2466,7 @@
       "1 PARIS PRIME STRING, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/NekrosPAC": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/NekrosPAC": {
     "Locations": [
       "AXI T1 RELIC"
     ],
@@ -2432,7 +2479,7 @@
       "1 SARYN PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/NekrosPAD": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/NekrosPAD": {
     "Locations": [
       "AXI G1 RELIC"
     ],
@@ -2445,7 +2492,7 @@
       "1 PARIS PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/NekrosPAE": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/NekrosPAE": {
     "Locations": [
       "LITH S3 RELIC"
     ],
@@ -2458,7 +2505,7 @@
       "1 PARIS PRIME STRING, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/NekrosPAF": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/NekrosPAF": {
     "Locations": [
       "MESO S1 RELIC"
     ],
@@ -2471,7 +2518,7 @@
       "1 TIGRIS PRIME STOCK, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/NekrosPAG": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/NekrosPAG": {
     "Locations": [
       "MESO S2 RELIC"
     ],
@@ -2484,7 +2531,7 @@
       "1 GALATINE PRIME BLADE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/NekrosPAH": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/NekrosPAH": {
     "Locations": [
       "MESO F1 RELIC"
     ],
@@ -2497,7 +2544,7 @@
       "1 SARYN PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/NekrosPAI": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/NekrosPAI": {
     "Locations": [
       "LITH C1 RELIC"
     ],
@@ -2510,7 +2557,7 @@
       "1 NOVA PRIME SYSTEMS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/NekrosPAJ": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/NekrosPAJ": {
     "Locations": [
       "LITH K1 RELIC"
     ],
@@ -2523,7 +2570,7 @@
       "1 ODONATA PRIME HARNESS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/NekrosPAK": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/NekrosPAK": {
     "Locations": [
       "NEO V2 RELIC"
     ],
@@ -2536,7 +2583,7 @@
       "1 GALATINE PRIME BLADE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/NekrosPAL": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/NekrosPAL": {
     "Locations": [
       "NEO V3 RELIC"
     ],
@@ -2549,7 +2596,7 @@
       "1 CARRIER PRIME SYSTEMS, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/NekrosPAM": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/NekrosPAM": {
     "Locations": [
       "LITH N1 RELIC"
     ],
@@ -2562,7 +2609,7 @@
       "1 FANG PRIME BLADE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/OrokinCaptureRewardsA": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinCaptureRewardsA": {
     "Locations": [
       "LITH S1 RELIC"
     ],
@@ -2575,7 +2622,7 @@
       "1 BRONCO PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/OrokinCaptureRewardsB": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinCaptureRewardsB": {
     "Locations": [
       "MESO D1 RELIC"
     ],
@@ -2588,7 +2635,7 @@
       "1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%"
     ]
   },
-  "VoidKeyMissionRewards/OrokinCaptureRewardsC": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinCaptureRewardsC": {
     "Locations": [
       "NEO S1 RELIC"
     ],
@@ -2601,7 +2648,7 @@
       "1 SOMA PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/OrokinCaptureRewardsD": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinCaptureRewardsD": {
     "Locations": [
       "AXI S1 RELIC"
     ],
@@ -2614,7 +2661,7 @@
       "1 TRINITY PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/OrokinDefenseRewardsA": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinDefenseRewardsA": {
     "Locations": [
       "LITH S2 RELIC"
     ],
@@ -2630,7 +2677,7 @@
       "1 \"\", COMMON, I:100%, E:100%, F:100%, R:100%"
     ]
   },
-  "VoidKeyMissionRewards/OrokinDefenseRewardsB": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinDefenseRewardsB": {
     "Locations": [
       "MESO N1 RELIC"
     ],
@@ -2643,7 +2690,7 @@
       "1 DUAL KAMAS PRIME HANDLE, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/OrokinDefenseRewardsC": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinDefenseRewardsC": {
     "Locations": [
       "NEO S2 RELIC"
     ],
@@ -2656,7 +2703,7 @@
       "1 PARIS PRIME UPPER LIMB, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 25 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/OrokinDefenseRewardsD": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinDefenseRewardsD": {
     "Locations": [
       "AXI V1 RELIC"
     ],
@@ -2669,7 +2716,7 @@
       "1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%"
     ]
   },
-  "VoidKeyMissionRewards/OrokinExterminateRewardsA": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinExterminateRewardsA": {
     "Locations": [
       "LITH F1 RELIC"
     ],
@@ -2682,7 +2729,7 @@
       "1 FANG PRIME BLADE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/OrokinExterminateRewardsB": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinExterminateRewardsB": {
     "Locations": [
       "MESO C1 RELIC"
     ],
@@ -2695,7 +2742,7 @@
       "1 ASH PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/OrokinExterminateRewardsC": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinExterminateRewardsC": {
     "Locations": [
       "NEO N1 RELIC"
     ],
@@ -2708,7 +2755,7 @@
       "1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%"
     ]
   },
-  "VoidKeyMissionRewards/OrokinExterminateRewardsD": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinExterminateRewardsD": {
     "Locations": [
       "AXI K1 RELIC"
     ],
@@ -2721,7 +2768,7 @@
       "1 LEX PRIME BARREL, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/OrokinMobileDefenseRewardsA": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinMobileDefenseRewardsA": {
     "Locations": [
       "LITH A1 RELIC"
     ],
@@ -2734,7 +2781,7 @@
       "1 VASTO PRIME RECEIVER, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/OrokinMobileDefenseRewardsB": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinMobileDefenseRewardsB": {
     "Locations": [
       "MESO V1 RELIC"
     ],
@@ -2747,7 +2794,7 @@
       "1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%"
     ]
   },
-  "VoidKeyMissionRewards/OrokinMobileDefenseRewardsC": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinMobileDefenseRewardsC": {
     "Locations": [
       "NEO S3 RELIC"
     ],
@@ -2760,7 +2807,7 @@
       "1 BURSTON PRIME RECEIVER, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/OrokinMobileDefenseRewardsD": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinMobileDefenseRewardsD": {
     "Locations": [
       "AXI N2 RELIC"
     ],
@@ -2773,7 +2820,7 @@
       "1 BRONCO PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/OrokinSabotageRewardsA": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinSabotageRewardsA": {
     "Locations": [
       "LITH F2 RELIC"
     ],
@@ -2786,7 +2833,7 @@
       "1 FANG PRIME HANDLE, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 25 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/OrokinSabotageRewardsB": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinSabotageRewardsB": {
     "Locations": [
       "MESO N2 RELIC"
     ],
@@ -2799,7 +2846,7 @@
       "1 FANG PRIME HANDLE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 25 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/OrokinSabotageRewardsC": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinSabotageRewardsC": {
     "Locations": [
       "NEO V1 RELIC"
     ],
@@ -2812,7 +2859,7 @@
       "1 NOVA PRIME CHASSIS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/OrokinSabotageRewardsD": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinSabotageRewardsD": {
     "Locations": [
       "AXI A1 RELIC"
     ],
@@ -2825,7 +2872,7 @@
       "1 NIKANA PRIME BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/OrokinSurvivalRewardsA": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinSurvivalRewardsA": {
     "Locations": [
       "LITH V1 RELIC"
     ],
@@ -2838,7 +2885,7 @@
       "1 FORMA BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%"
     ]
   },
-  "VoidKeyMissionRewards/OrokinSurvivalRewardsB": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinSurvivalRewardsB": {
     "Locations": [
       "MESO V2 RELIC"
     ],
@@ -2851,7 +2898,7 @@
       "1 VOLT PRIME CHASSIS BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/OrokinSurvivalRewardsC": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinSurvivalRewardsC": {
     "Locations": [
       "NEO N2 RELIC"
     ],
@@ -2864,7 +2911,7 @@
       "1 NOVA PRIME BLUEPRINT, UNCOMMON, I:11%, E:13%, F:17%, R:20%, 45 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/OrokinSurvivalRewardsD": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinSurvivalRewardsD": {
     "Locations": [
       "AXI N1 RELIC"
     ],
@@ -2877,7 +2924,7 @@
       "1 ASH PRIME SYSTEMS BLUEPRINT, RARE, I:2%, E:4%, F:6%, R:10%, 100 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/ValkyrPAA": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ValkyrPAA": {
     "Locations": [
       null
     ],
@@ -2890,7 +2937,7 @@
       "1 PARIS PRIME LOWER LIMB, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/ValkyrPAB": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ValkyrPAB": {
     "Locations": [
       "LITH S4 RELIC"
     ],
@@ -2903,7 +2950,7 @@
       "1 PARIS PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/ValkyrPAC": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ValkyrPAC": {
     "Locations": [
       "LITH S5 RELIC"
     ],
@@ -2916,7 +2963,7 @@
       "1 FANG PRIME BLADE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/ValkyrPAD": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ValkyrPAD": {
     "Locations": [
       "MESO C2 RELIC"
     ],
@@ -2929,7 +2976,7 @@
       "1 GALATINE PRIME BLADE, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/ValkyrPAE": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ValkyrPAE": {
     "Locations": [
       "MESO V3 RELIC"
     ],
@@ -2942,7 +2989,7 @@
       "1 SPIRA PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/ValkyrPAF": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ValkyrPAF": {
     "Locations": [
       "MESO S3 RELIC"
     ],
@@ -2955,7 +3002,7 @@
       "1 AKBRONCO PRIME BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/ValkyrPAG": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ValkyrPAG": {
     "Locations": [
       "NEO A1 RELIC"
     ],
@@ -2968,7 +3015,7 @@
       "1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%"
     ]
   },
-  "VoidKeyMissionRewards/ValkyrPAH": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ValkyrPAH": {
     "Locations": [
       "NEO V4 RELIC"
     ],
@@ -2981,7 +3028,7 @@
       "1 BRONCO PRIME RECEIVER, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/ValkyrPAI": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ValkyrPAI": {
     "Locations": [
       "NEO N4 RELIC"
     ],
@@ -2994,7 +3041,7 @@
       "1 BRATON PRIME STOCK, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/ValkyrPAJ": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ValkyrPAJ": {
     "Locations": [
       "AXI V4 RELIC"
     ],
@@ -3007,7 +3054,7 @@
       "1 ODONATA PRIME HARNESS BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%, 15 Ducats"
     ]
   },
-  "VoidKeyMissionRewards/ValkyrPAK": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ValkyrPAK": {
     "Locations": [
       "AXI V5 RELIC"
     ],
@@ -3020,7 +3067,7 @@
       "1 FORMA BLUEPRINT, COMMON, I:25.33%, E:23.33%, F:20%, R:16.67%"
     ]
   },
-  "VoidKeyMissionRewards/ValkyrPAL": {
+  "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ValkyrPAL": {
     "Locations": [
       "AXI C1 RELIC"
     ],
