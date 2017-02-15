@@ -402,7 +402,7 @@ Upgrade entries:
 Item Compatibility:
 
    DETH MACHINE RIFLE, COMMON, Attenuation: 1.455
-   ARTAX, COMMON, Attenuation: 1
+   ARTAX, NONE, Attenuation: 1
    LASER RIFLE, COMMON, Attenuation: 1.21
    DETH MACHINE RIFLE PRIME, NONE, Attenuation: 1.455
    PRIME LASER RIFLE, NONE, Attenuation: 1.21
@@ -742,7 +742,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: No
 
- - Upgrade: 0.83% Fire Rate (x2 for Bows)
+ - Upgrade: 0.83% Fire Rate
    Operation Type: STACKING_MULTIPLY
    Prefix: croni
    Suffix: dra
@@ -1910,7 +1910,7 @@ Item Compatibility:
    NIKANA PRIME, NONE, Attenuation: 1
    LACERA, COMMON, Attenuation: 1
    WAR, COMMON, Attenuation: 1
-   BROKEN-WAR, NONE, Attenuation: 1
+   BROKEN WAR, NONE, Attenuation: 1
    OKINA, COMMON, Attenuation: 1
    DESTREZA, COMMON, Attenuation: 1
    SILVA & AEGIS, COMMON, Attenuation: 1

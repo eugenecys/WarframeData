@@ -9361,7 +9361,7 @@ Baro Ki’Teer"
 "Pay homage to the constellations with this brilliant Aklato skin."
 
 [/Lotus/Language/Cosmetics/StarryAklatoSkinName]
-"AKLATO NOCTURNE SKIN "
+"AKLATO NOCTURNE SKIN"
 
 [/Lotus/Language/Cosmetics/StarryBratonSkinDesc]
 "Pay homage to the constellations with this brilliant Braton skin."
@@ -11419,6 +11419,12 @@ Warframe Support Team"
 [/Lotus/Language/Dojo/DojoTeleportName]
 "Transporter"
 
+[/Lotus/Language/Dojo/DojoWarRoomDesc]
+"[PH] Investigate enemy cells"
+
+[/Lotus/Language/Dojo/DojoWarRoomName]
+"[PH] War Room"
+
 [/Lotus/Language/Dojo/Drum1Deco]
 "DRUM 1"
 
@@ -12638,6 +12644,12 @@ To research additional colors, visit the Tenno Lab."
 [/Lotus/Language/Dojo/TRADE_ERR_ITEM_CHANGED_ME]
 "The trade failed: One or more items in your pending trade no longer matches said item in your account."
 
+[/Lotus/Language/Dojo/TRADE_ERR_MISSING_ARCHWING_SLOT_BUDDY]
+"The trade failed: Your trade partner does not have enough Archwing Weapon slots to accept the weapons offered."
+
+[/Lotus/Language/Dojo/TRADE_ERR_MISSING_ARCHWING_SLOT_ME]
+"The trade failed: You do not have enough Archwing Weapon slots to accept the weapons offered. Free up some slots or trade other items."
+
 [/Lotus/Language/Dojo/TRADE_ERR_MISSING_MOD_BUDDY]
 "The trade failed: Your trade partner no longer has all the mods offered to you in the trade."
 
@@ -12709,6 +12721,9 @@ To research additional colors, visit the Tenno Lab."
 
 [/Lotus/Language/Dojo/Trade_ToggleReady]
 "TOGGLE READY"
+
+[/Lotus/Language/Dojo/Trade_Untradeable]
+"UNTRADEABLE"
 
 [/Lotus/Language/Dojo/TradeBanned]
 "Your account has been restricted from Trading for |TIME| |MESSAGE|"
@@ -18576,6 +18591,21 @@ The notion that some shady individual is slinking through the exhaust system whi
 [/Lotus/Language/G1Quests/TacAlertSnowballFightToolTip]
 "A frosty skirmish of snowballs and minty melee mayhem."
 
+[/Lotus/Language/G1Quests/TacAlertValentinesVariantRewardsBody]
+"|PLAYER_NAME|,
+
+Your dedication to The Conclave is matched only by your devotion to your Tenno brothers and sisters. Let this award be a symbol of your commitment to our cause.
+
+- Teshin"
+
+[/Lotus/Language/G1Quests/TacAlertValentinesVariantRewardsTitle]
+"HEARTS & ARROWS: Conclave Award"
+
+[/Lotus/Language/G1Quests/TacAlertValentinesVariantToolTip]
+"Kill with kindness in this special variant that mixes passion with precision.
+
+Win (Place in top 3) = 3 Points. Loss = 1 Point."
+
 [/Lotus/Language/G1Quests/TenguEventInboxMessage]
 "Tenno,
 
@@ -18935,6 +18965,12 @@ Darvo"
 
 [/Lotus/Language/G1Quests/Update15DarvoDealTitles07]
 "Surplus Merchandise"
+
+[/Lotus/Language/G1Quests/ValentinesVariantTitle]
+"HEARTS & ARROWS"
+
+[/Lotus/Language/G1Quests/ValentinesVariantToolTip]
+"Kill with kindness in this special variant that mixes passion with precision."
 
 [/Lotus/Language/G1Quests/VoidTraderName]
 "Baro Ki'Teer"
@@ -20791,6 +20827,9 @@ Your Battle Cards are ready now... Go!"
 [/Lotus/Language/Game/EMP_RADIUS]
 "EMP RADIUS"
 
+[/Lotus/Language/Game/EmptyAirlock]
+"<USE> EMPTY AIRLOCK"
+
 [/Lotus/Language/Game/EnduranceCenterPlatform]
 "Withstanding Platform"
 
@@ -20970,6 +21009,9 @@ Your Battle Cards are ready now... Go!"
 
 [/Lotus/Language/Game/FerriteContainerDesc]
 "Contains Ferrite"
+
+[/Lotus/Language/Game/FillAirlock]
+"<USE> FILL AIRLOCK"
 
 [/Lotus/Language/Game/FinisherAction_PS4]
 "STEALTH ATTACK"
@@ -23617,6 +23659,9 @@ DETONATION IN |TIME|"
 
 [/Lotus/Language/Game/ScannerObjectDesc]
 "Locates dig sites to deploy Excavators when powered"
+
+[/Lotus/Language/Game/ScannerRequired]
+"<WARNING> REQUIRES SCANNER"
 
 [/Lotus/Language/Game/ScavengerDroneDesc]
 "Collects fallen items on the battlefield"
@@ -39110,7 +39155,7 @@ Once crafted this Specter may be donated to a clan and used by a Tactician to cr
 "A fragment of Stalker's War sword, a symbol of his defeat."
 
 [/Lotus/Language/Items/StalkerTwoSwordName]
-"BROKEN-WAR"
+"BROKEN WAR"
 
 [/Lotus/Language/Items/Stance]
 "STANCE"
@@ -45443,13 +45488,13 @@ A Solar Rail is required in order to travel here."
 "Block"
 
 [/Lotus/Language/Menu/Blueprint_CountedCharge]
-"|COUNT| USES LEFT"
+"|COUNT| BLUEPRINTS LEFT"
 
 [/Lotus/Language/Menu/Blueprint_SingleCharge]
-"SINGLE USE"
+"1 BLUEPRINT LEFT"
 
 [/Lotus/Language/Menu/Blueprint_UnlimitedCharges]
-"UNLIMITED USES"
+"REUSABLE BLUEPRINT"
 
 [/Lotus/Language/Menu/BonusBounty]
 "BONUS"
@@ -62568,6 +62613,12 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 [/Lotus/Language/ShipDecorations/BobbleheadZephyrName]
 "NOGGLE STATUE - ZEPHYR"
 
+[/Lotus/Language/ShipDecorations/ConclaveHeartOroOrnament]
+"EROS ORO ORNAMENT"
+
+[/Lotus/Language/ShipDecorations/ConclaveHeartOroOrnamentDesc]
+"Express love for your fellow Tenno with this heart-shaped ornament."
+
 [/Lotus/Language/ShipDecorations/ConclaveOroMoonOrnament]
 "MOON ORO ORNAMENT"
 
@@ -62644,7 +62695,7 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 "NEUROPTIC MASS DECORATION"
 
 [/Lotus/Language/ShipDecorations/DisplayResourceContainerNeurodeDesc]
-"A Neurpotic Mass resource node to place in your Orbiter."
+"A Neuropotic Mass resource node to place in your Orbiter."
 
 [/Lotus/Language/ShipDecorations/DisplayResourceContainerOrokinCell]
 "OROKIN CELL ARRAY DECORATION"
