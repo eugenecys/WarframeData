@@ -941,14 +941,14 @@ DROP_POWERUP (Drop Chance: 25%)
 
 
 [CorpusModularAgentDropTable]
- - NUL COMBA (ModularSpacemanAvatarWalkingShield)
- - SLO SCRAMBUS (ModularSpacemanAvatarSkatingTesla)
- - SLO COMBA (ModularSpacemanAvatarWalkingTesla)
  - FOG SCRAMBUS (ModularSpacemanAvatarSkatingDetector)
  - FOG COMBA (ModularSpacemanAvatarWalkingDetector)
  - SAP SCRAMBUS (ModularSpacemanAvatarSkatingLaser)
  - SAP COMBA (ModularSpacemanAvatarWalkingLaser)
  - NUL SCRAMBUS (ModularSpacemanAvatarSkatingShield)
+ - NUL COMBA (ModularSpacemanAvatarWalkingShield)
+ - SLO SCRAMBUS (ModularSpacemanAvatarSkatingTesla)
+ - SLO COMBA (ModularSpacemanAvatarWalkingTesla)
  - DATALYST (CorpusArtificerAvatar)
  - Pelna Cade (CCTeamASkateAvatar)
  - Ved Xol (CCTeamASkateBAvatar)
@@ -3170,8 +3170,8 @@ DROP_POWERUP (Drop Chance: 25%)
 
 
 [InfestationNoxiousCrawlerDropTable]
- - TOXIC CRAWLER (NoxiousCrawlerAvatar)
  - LOBBER CRAWLER (GrenadeAvatar)
+ - TOXIC CRAWLER (NoxiousCrawlerAvatar)
 
 DROP_AMMO (Drop Chance: 70%)
 	20 RIFLE AMMO, COMMON, 25%
