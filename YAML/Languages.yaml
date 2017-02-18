@@ -45838,8 +45838,17 @@
 [/Lotus/Language/Menu/Chat_DefaultText]:
   "SEND MESSAGE TO |CHANNEL|"
 
+[/Lotus/Language/Menu/Chat_ExceededMsgIRCLengthLimitError]:
+  "Message length exceeded the character limit."
+
 [/Lotus/Language/Menu/Chat_ExceededMsgLengthLimitError]:
   "Message length exceeded the character limit for the current channel. The character limit for this channel is |LIMIT|."
+
+[/Lotus/Language/Menu/Chat_ExceededOmegaLimitError]:
+  "Message can contain a maximum of |LIMIT| Riven links."
+
+[/Lotus/Language/Menu/Chat_ExceededSongLimitError]:
+  "Message can contain a maximum of |LIMIT| song links."
 
 [/Lotus/Language/Menu/Chat_FriendOffline]:
   "|FRIEND| is currently offline and will not receive this message."
@@ -48937,7 +48946,7 @@
   "You don't have any DNA stabilizers. Purchase a pack of 6 for <CREDITS> |PRICE|?"
 
 [/Lotus/Language/Menu/DetoxifyPetAtFullHealthError]:
-  "Kubrow is already at full DNA integrity."
+  "Pet is already at full DNA integrity."
 
 [/Lotus/Language/Menu/DetoxifySubLabel]:
   "|HOW_MANY| UNITS REMAINING"
@@ -53114,6 +53123,9 @@
 [/Lotus/Language/Menu/Options_Change_XInputBindings]:
   "Customize XInput Controller"
 
+[/Lotus/Language/Menu/Options_ChatScale]:
+  "Chat Scale"
+
 [/Lotus/Language/Menu/Options_ChatTextSize]:
   "Chat Text Size"
 
@@ -53680,6 +53692,9 @@
 
 [/Lotus/Language/Menu/Options_MarkKubrow]:
   "Mark Your Pet"
+
+[/Lotus/Language/Menu/Options_MouseCursorScale]:
+  "Mouse Cursor Scale"
 
 [/Lotus/Language/Menu/Options_PreferOverlayMap]:
   "Prefer Overlay Map"
