@@ -2891,10 +2891,10 @@ DROP_SIGIL (Drop Chance: 100%)
 
 
 [HyenaAgentDropTable]
+ - Hyena PB (HyenaGunAvatar)
  - Hyena TH (HyenaElecAvatar)
  - Hyena NG (HyenaFireAvatar)
  - Hyena LN2 (HyenaIceAvatar)
- - Hyena PB (HyenaGunAvatar)
  - HYENA PACK (MiniRobotAvatar)
 
 DROP_AMMO (Drop Chance: 70%)
@@ -3170,8 +3170,8 @@ DROP_POWERUP (Drop Chance: 25%)
 
 
 [InfestationNoxiousCrawlerDropTable]
- - LOBBER CRAWLER (GrenadeAvatar)
  - TOXIC CRAWLER (NoxiousCrawlerAvatar)
+ - LOBBER CRAWLER (GrenadeAvatar)
 
 DROP_AMMO (Drop Chance: 70%)
 	20 RIFLE AMMO, COMMON, 25%
@@ -4130,6 +4130,7 @@ DROP_POWERUP (Drop Chance: 25%)
 
 
 [OrokinRocketBombardDropTable]
+ - CORRUPTED BOMBARD (OrokinRocketBombardAllyAvatar)
  - CORRUPTED BOMBARD (OrokinRocketBombardAvatar)
 
 DROP_AMMO (Drop Chance: 70%)
@@ -5201,10 +5202,6 @@ DROP_POWERUP (Drop Chance: 25%)
  - Mag Specter (ArenaSpecterMagAvatar)
  - Volt Specter (ArenaSpecterVoltAvatar)
  - Wukong Specter (ArenaSpecterWukongAvatar)
- - LOKI SPECTER (TennoReplicantLokiAvatar)
- - OBERON SPECTER (TennoReplicantPaladinAvatar)
- - SARYN SPECTER (TennoReplicantSarynAvatar)
- - VALKYR SPECTER (TennoReplicantBerserkerAvatar)
  - EMBER SPECTER (TennoReplicantEmberAvatar)
  - EXCALIBUR SPECTER (TennoReplicantExcaliburAvatar)
  - FROST SPECTER (TennoReplicantFrostAvatar)
@@ -5216,6 +5213,10 @@ DROP_POWERUP (Drop Chance: 25%)
  - TRINITY SPECTER (TennoReplicantTrinityAvatar)
  - VOLT SPECTER (TennoReplicantVoltAvatar)
  - EQUINOX SPECTER (TennoReplicantYinYangAvatar)
+ - LOKI SPECTER (TennoReplicantLokiAvatar)
+ - OBERON SPECTER (TennoReplicantPaladinAvatar)
+ - SARYN SPECTER (TennoReplicantSarynAvatar)
+ - VALKYR SPECTER (TennoReplicantBerserkerAvatar)
  - TENNO SPECTER (BaseSyndicateAllyAvatar)
  - Cephalon Suda Operative (CephalonSudaAllyAvatarA)
  - Cephalon Suda Operative (CephalonSudaAllyAvatarB)
