@@ -68,7 +68,7 @@ Favored Warframes: MAG, NEKROS, RHINO, TRINITY, VALKYR, VAUBAN
 Favored Weapons: SCINDO, SCOLIAC, KARYST
 
 Titles:
-	Level 5 Partner, Sacrifice: 1 VOLT PRIME NEUROPTICS + 500000 Credits
+	Level 5 Partner, Sacrifice: 1 VALKYR PRIME NEUROPTICS + 500000 Credits
 	Level 4 Senior Executive, Sacrifice: 1 NIKANA PRIME BLADE + 250000 Credits
 	Level 3 Executive, Sacrifice: 1 OROKIN REACTOR + 100000 Credits
 	Level 2 Senior Associate, Sacrifice: 1 FORMA + 50000 Credits

@@ -3305,6 +3305,9 @@ You will receive an email from your 2K contact when the console has been approve
 [/Lotus/Language/Actions/PickupDataMass]
 "<USE> PICK UP DATAMASS"
 
+[/Lotus/Language/Actions/PickupLargePowercell]
+"<USE> PICK UP LARGE POWERCELL"
+
 [/Lotus/Language/Actions/PickupPowercell]
 "<USE> PICK UP POWERCELL"
 
@@ -3358,6 +3361,9 @@ You will receive an email from your 2K contact when the console has been approve
 
 [/Lotus/Language/Actions/RifleAmmoMutated]
 "<AMMO_MUTATION> RIFLE AMMO"
+
+[/Lotus/Language/Actions/RushSurvivors]
+"<USE> RUSH SURVIVORS"
 
 [/Lotus/Language/Actions/Scan]
 "SCAN"
@@ -5190,6 +5196,12 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 [/Lotus/Language/Bundles/FrostDeluxeBundleName]
 "FROST HARKA BUNDLE"
 
+[/Lotus/Language/Bundles/HarkonarSkinBundleDesc]
+"[PH] A collection of skins forged by the Grineer's leading weapon manufacturer. Includes skins for the Kohm, Grinlok, Marelok and Javlok."
+
+[/Lotus/Language/Bundles/HarkonarSkinBundleName]
+"HARKONAR WEAPON SKIN COLLECTION"
+
 [/Lotus/Language/Bundles/IndexTeamANoggleBundleDesc]
 "A collection of Noggle Statues representing the brokers from the Anyocorp Reclamation Unit."
 
@@ -5258,6 +5270,9 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 
 [/Lotus/Language/Bundles/TennoGenBundleBName]
 "TENNOGEN BUNDLE II"
+
+[/Lotus/Language/Bundles/TennoGenBundleCName]
+"TENNOGEN BUNDLE III"
 
 [/Lotus/Language/Bundles/TennoGenBundleDesc]
 "A collection of helmets and Warframe skins, designed by fellow Tenno"
@@ -8439,7 +8454,7 @@ Your prowess has earned you another Vauban part. I am eager to see how you use t
 "Member can host the Clan Dojo"
 
 [/Lotus/Language/Clan/RoleDescription_Officer]
-"Member can promote other members to <= their own rank"
+"Member can promote other members to their own rank or below."
 
 [/Lotus/Language/Clan/RoleDescription_Recruiter]
 "Member can invite others to Clan"
@@ -8854,22 +8869,22 @@ Baro Ki’Teer"
 "ASH PRIME SKIN"
 
 [/Lotus/Language/Cosmetics/AvatarBansheePrimeBrightDesc]
-"A profile icon depicting Banshee Prime on a bright background."
+"A glyph depicting Banshee Prime on a bright background."
 
 [/Lotus/Language/Cosmetics/AvatarBansheePrimeBrightName]
-"BANSHEE PRIME PROFILE ICON"
+"BANSHEE PRIME GLYPH"
 
 [/Lotus/Language/Cosmetics/AvatarBansheePrimeDarkDesc]
-"A profile icon depicting Banshee Prime on a dark background."
+"A glyph depicting Banshee Prime on a dark background."
 
 [/Lotus/Language/Cosmetics/AvatarBansheePrimeDarkName]
-"BANSHEE PRIME PROFILE ICON"
+"BANSHEE PRIME GLYPH"
 
 [/Lotus/Language/Cosmetics/AvatarBaroKiteerDescription]
-"A profile icon portraying Baro Ki'teer, himself."
+"A glyph depicting Baro Ki'teer, himself."
 
 [/Lotus/Language/Cosmetics/AvatarBaroKiteerName]
-"BARO KI'TEER PROFILE ICON"
+"BARO KI'TEER GLYPH"
 
 [/Lotus/Language/Cosmetics/BansheeDefaultSkinDesc]
 "The standard issue skin for the Banshee Warframe."
@@ -8967,26 +8982,32 @@ Baro Ki’Teer"
 [/Lotus/Language/Cosmetics/CrpModularScarfName]
 "VEXILLUS CLOAK"
 
+[/Lotus/Language/Cosmetics/DefectorRescueEventBadgeDesc]
+"An insignia awarded to the Tenno who proved themselves during The Pacifism Defect event."
+
+[/Lotus/Language/Cosmetics/DefectorRescueEventBadgeName]
+"THE PACIFISM DEFECT EMBLEM"
+
 [/Lotus/Language/Cosmetics/DjinnDeluxeArmArmourDesc]
-"Etched with lyrical designs, this decorative armor has been crafted with meticulous care. "
+"Etched with lyrical designs, this decorative armor has been crafted with meticulous care."
 
 [/Lotus/Language/Cosmetics/DjinnDeluxeArmArmourName]
 "GAZAL SHOULDER GUARD"
 
 [/Lotus/Language/Cosmetics/DjinnDeluxeArmourBundleDesc]
-"An entire set of Gazal armor. "
+"An entire set of Gazal armor."
 
 [/Lotus/Language/Cosmetics/DjinnDeluxeArmourBundleName]
 "GAZAL ARMOR BUNDLE"
 
 [/Lotus/Language/Cosmetics/DjinnDeluxeChestArmourDesc]
-"Etched with lyrical designs, this decorative armor has been crafted with meticulous care. "
+"Etched with lyrical designs, this decorative armor has been crafted with meticulous care."
 
 [/Lotus/Language/Cosmetics/DjinnDeluxeChestArmourName]
 "GAZAL CHEST PLATE"
 
 [/Lotus/Language/Cosmetics/DjinnDeluxeLegArmourDesc]
-"Etched with lyrical designs, this decorative armor has been crafted with meticulous care. "
+"Etched with lyrical designs, this decorative armor has been crafted with meticulous care."
 
 [/Lotus/Language/Cosmetics/DjinnDeluxeLegArmourName]
 "GAZAL LEG PLATES"
@@ -9062,6 +9083,30 @@ Baro Ki’Teer"
 
 [/Lotus/Language/Cosmetics/GrnStrapsScarfName]
 "LADDAK CLOAK"
+
+[/Lotus/Language/Cosmetics/HarkonarGLAPistolDesc]
+"A Harkonar styled Marelok, forged by the leading Grineer weapon manufacturer."
+
+[/Lotus/Language/Cosmetics/HarkonarGLAPistolName]
+"MARELOK HARKONAR SKIN"
+
+[/Lotus/Language/Cosmetics/HarkonarGLARifleDesc]
+"A Harkonar styled Grinlok, forged by the leading Grineer weapon manufacturer."
+
+[/Lotus/Language/Cosmetics/HarkonarGLARifleName]
+"GRINLOK HARKONAR SKIN"
+
+[/Lotus/Language/Cosmetics/HarkonarGrnFlameSpearDesc]
+"A Harkonar styled Javlok, forged by the leading Grineer weapon manufacturer."
+
+[/Lotus/Language/Cosmetics/HarkonarGrnFlameSpearName]
+"JAVLOK HARKONAR SKIN"
+
+[/Lotus/Language/Cosmetics/HarkonarGrnSparkDesc]
+"A Harkonar styled Kohm, forged by the leading Grineer weapon manufacturer."
+
+[/Lotus/Language/Cosmetics/HarkonarGrnSparkName]
+"KOHM HARKONAR SKIN"
 
 [/Lotus/Language/Cosmetics/HydroidDefaultSkinDesc]
 "The standard issue skin for the Hydroid Warframe."
@@ -9447,6 +9492,24 @@ Baro Ki’Teer"
 [/Lotus/Language/Cosmetics/TrinityPrimeDefaultSkinName]
 "TRINITY PRIME SKIN"
 
+[/Lotus/Language/Cosmetics/TwitchAnkyrosSkinDesc]
+"[PH] Description"
+
+[/Lotus/Language/Cosmetics/TwitchAnkyrosSkinName]
+"[PH] ANKYROS TWITCH SKIN"
+
+[/Lotus/Language/Cosmetics/TwitchExcaliburHelmetDesc]
+"[PH] Description"
+
+[/Lotus/Language/Cosmetics/TwitchExcaliburHelmetName]
+"[PH] EXCALIBUR TWITCH HELMET"
+
+[/Lotus/Language/Cosmetics/TwitchExcaliburSkinDesc]
+"[PH] Description"
+
+[/Lotus/Language/Cosmetics/TwitchExcaliburSkinName]
+"[PH] EXCALIBUR TWITCH SKIN"
+
 [/Lotus/Language/Cosmetics/ValkyrPrimeDefaultSkinDesc]
 "The standard issue skin for the Valkyr Prime Warframe."
 
@@ -9464,6 +9527,24 @@ Baro Ki’Teer"
 
 [/Lotus/Language/Cosmetics/VoltPrimeDefaultSkinName]
 "VOLT PRIME SKIN"
+
+[/Lotus/Language/Cosmetics/WraithTurbineArmName]
+"HARKONAR WRAITH ARM ARMOR"
+
+[/Lotus/Language/Cosmetics/WraithTurbineArmourDesc]
+"A blood-red variant of this symbolic Grineer armor. "
+
+[/Lotus/Language/Cosmetics/WraithTurbineChestName]
+"HARKONAR WRAITH CHEST ARMOR"
+
+[/Lotus/Language/Cosmetics/WraithTurbineDesc]
+"A blood-red variant of this symbolic Grineer cloak."
+
+[/Lotus/Language/Cosmetics/WraithTurbineLegName]
+"HARKONAR WRAITH LEG ARMOR"
+
+[/Lotus/Language/Cosmetics/WraithTurbineName]
+"HARKONAR WRAITH CLOAK"
 
 [/Lotus/Language/Cosmetics/YinYangDefaultSkinDesc]
 "The standard issue skin for the Equinox Warframe."
@@ -11435,7 +11516,7 @@ Warframe Support Team"
 "Use Transporter"
 
 [/Lotus/Language/Dojo/DojoTeleportName]
-"Transporter"
+"TRANSPORTER"
 
 [/Lotus/Language/Dojo/DojoWarRoomDesc]
 "[PH] Investigate enemy cells"
@@ -11544,6 +11625,21 @@ Warframe Support Team"
 
 [/Lotus/Language/Dojo/ErrorCantTradeUniqueAbilityMods]
 "|MOD| cannot be traded. Unique copies of abilities cannot be traded."
+
+[/Lotus/Language/Dojo/EvacuationEventBronzeTrophy]
+"[PH] EVACUATION BRONZE TROPHY"
+
+[/Lotus/Language/Dojo/EvacuationEventGoldTrophy]
+"[PH] EVACUATION GOLD TROPHY"
+
+[/Lotus/Language/Dojo/EvacuationEventSilverTrophy]
+"[PH] EVACUATION SILVER TROPHY"
+
+[/Lotus/Language/Dojo/EvacuationEventTerracottaTrophy]
+"[PH] EVACUATION TERRACOTTA TROPHY"
+
+[/Lotus/Language/Dojo/EvacuationEventTrophyDesc]
+"[PH] Awarded to Tenno who demonstrated extreme commitment to the efforts in Operation: Evacuation."
 
 [/Lotus/Language/Dojo/EyesOfBlightTrophyDesc]
 "Awarded to Tenno who demonstrated extreme commitment to the efforts in Operation: Eyes of Blight."
@@ -13555,6 +13651,12 @@ and will receive from |PLAYER_NAME| the following:|GETTING|"
 [/Lotus/Language/Enemies/ReplicantWukong]
 "WUKONG SPECTER"
 
+[/Lotus/Language/Enemies/SteelMeridianColonistDesc]
+"Grineer defectors in search of a better, more peaceful life."
+
+[/Lotus/Language/Enemies/SteelMeridianColonistName]
+"KAVOR DEFECTOR"
+
 [/Lotus/Language/EnemyLeaders/BlastLeaderDesc]
 "Defends itself with a radial Blast Attack"
 
@@ -14934,7 +15036,7 @@ As recognition for your participation in this mission you have been awarded the 
 
 Also, as a reward for your tireless effort, you will receive a collection of Toxin Mods that have been developed by researching the Cicero Toxin.
 
-Finally, for going above and beyond the call of duty, I am bestowing upon you these Wraith Twin Vipers. Take them and continue our fight."
+Finally, for going above and beyond the call of duty, I am bestowing upon you these Twin Vipers Wraith. Take them and continue our fight."
 
 [/Lotus/Language/G1Quests/CiceroCrisisRewardsTierTwo]
 "It is done. Our mission has been accomplished. The Grineer have abandoned the last of Cicero Toxin, leaving the forests of central Earth relatively unscathed. You have all fought bravely and it is now time to celebrate our victory.
@@ -14961,6 +15063,69 @@ Councilor Vay Hek"
 
 [/Lotus/Language/G1Quests/ClemWeeklyMissionDesc]
 "Help Clem"
+
+[/Lotus/Language/G1Quests/ColonistRescueEventCommunityMsgDesc]
+"Tenno,
+
+Time is running out, so I’ll keep this quick. The Infestation has overrun a convoy of allied ships and forced the surviving crew into emergency safe rooms. They’re holding on for now, but without your support, they’ll die on those ships.
+
+Before you go, you should know something; the crew is Grineer. But not just any Grineer, they’re Kavor Defectors, pacifists who deserted Sargas Ruk’s army when they could no longer bring themselves to kill for him. They don’t want to fight anymore, not for the Grineer, and not for Steel Meridian. All they desire is a peaceful life, but that won’t come easy; Sargas Ruk is hot on their trail and desperate to make an example of them.
+
+The Kavor need evacuation, will you answer this call?
+
+Cressa Tal"
+
+[/Lotus/Language/G1Quests/ColonistRescueEventCommunityMsgTitle]
+"THE PACIFISM DEFECT: Emergency Evacuation "
+
+[/Lotus/Language/G1Quests/ColonistRescueEventMissionDescEasy]
+"Evacuate Kavor Defectors from their Infested ships"
+
+[/Lotus/Language/G1Quests/ColonistRescueEventMissionDescHard]
+"Evacuate Kavor Defectors from their Infested ships"
+
+[/Lotus/Language/G1Quests/ColonistRescueEventMissionDescMedium]
+"Evacuate Kavor Defectors from their Infested ships"
+
+[/Lotus/Language/G1Quests/ColonistRescueEventMissionTitleEasy]
+"THE PACIFISM DEFECT: Mild Infestation"
+
+[/Lotus/Language/G1Quests/ColonistRescueEventMissionTitleHard]
+"THE PACIFISM DEFECT: Extreme Infestation"
+
+[/Lotus/Language/G1Quests/ColonistRescueEventMissionTitleMedium]
+"THE PACIFISM DEFECT: Aggressive Infestation"
+
+[/Lotus/Language/G1Quests/ColonistRescueEventRewardInterimMsgBody]
+"Don’t stop now Tenno. You’re fighting hard but this is not an easy battle, and there’s still so many Kavor who need to be pulled from those ships.
+
+To aid their rescue, I have sent the Tenno clans a series blueprints. These items will help you keep the Kavor, and any other civilians alive.
+
+Cressa Tal"
+
+[/Lotus/Language/G1Quests/ColonistRescueEventRewardInterimMsgTitle]
+"THE PACIFISM DEFECT: Don’t Stop"
+
+[/Lotus/Language/G1Quests/ColonistRescueEventRewardInterimTwoMsgBody]
+"The survivors you pulled out of that Infested mess know that Tenno don’t usually risk your lives for Grineer, this means much to them. To strengthen your spirits in the coming battles, the Kavor have sent you this gift.
+
+Cressa Tal"
+
+[/Lotus/Language/G1Quests/ColonistRescueEventRewardInterimTwoMsgTitle]
+"THE PACIFISM DEFECT: The Kavor are Rooting for You"
+
+[/Lotus/Language/G1Quests/ColonistRescueEventRewardMsgBody]
+"Tenno,
+
+The Kavor are more than gracious for your help, they know they’d be dead without you. As a small token of their gratitude, they wanted you to have this gift.
+
+Cressa Tal"
+
+[/Lotus/Language/G1Quests/ColonistRescueEventRewardMsgTitle]
+"THE PACIFISM DEFECT: The Kavor Salute You"
+
+[/Lotus/Language/G1Quests/ColonistRescueEventTitle]
+"THE PACIFISM DEFECT"
 
 [/Lotus/Language/G1Quests/ConfirmAbandonDailySimarisTask]
 "Are you sure you want to abandon this synthesis task?"
@@ -15676,6 +15841,9 @@ Our arrangement has been fruitful Tenno. Take this gift as a symbol of my apprec
 [/Lotus/Language/G1Quests/GasCityParticipationRewardSubject]
 "Problem Eliminated"
 
+[/Lotus/Language/G1Quests/GenericEventRewardBody]
+""
+
 [/Lotus/Language/G1Quests/GenericEventRewardMsgDesc]
 "You went above the call of duty today, Tenno. The skill you displayed will inspire your fellow warriors. 
 
@@ -15683,6 +15851,9 @@ Our arrangement has been fruitful Tenno. Take this gift as a symbol of my apprec
 
 [/Lotus/Language/G1Quests/GenericEventRewardMsgTitle]
 "Mission Accomplished"
+
+[/Lotus/Language/G1Quests/GenericEventRewardTitle]
+"THE PACIFISM DEFECT: Rewards Delivered"
 
 [/Lotus/Language/G1Quests/GenericGiftDesc]
 "Attention Tenno,
@@ -20920,6 +21091,12 @@ Your Battle Cards are ready now... Go!"
 [/Lotus/Language/Game/EuropaDesc]
 "This deep space outpost is traditionally home to The Corpus. "
 
+[/Lotus/Language/Game/EvacuationDefectorsEvacuated]
+"EVACUATED:"
+
+[/Lotus/Language/Game/EvacuationDefectorsKilled]
+"KILLED:"
+
 [/Lotus/Language/Game/EventWavesRemaining]
 "Waves Remaining"
 
@@ -21781,6 +21958,9 @@ Your Battle Cards are ready now... Go!"
 [/Lotus/Language/Game/InfestedAncientPussDesc]
 "Riddled with boils that erupt into spawn pods when hit "
 
+[/Lotus/Language/Game/InfestedAttackDroneBName]
+"VENIN MUTALIST"
+
 [/Lotus/Language/Game/InfestedDebris]
 "INFESTED SPORE"
 
@@ -22410,6 +22590,9 @@ A call echoes across the stars - as a menace approaches..."
 [/Lotus/Language/Game/MissionName_Defense]
 "DEFENSE"
 
+[/Lotus/Language/Game/MissionName_Evacuation]
+"EVACUATION"
+
 [/Lotus/Language/Game/MissionName_Excavation]
 "EXCAVATION"
 
@@ -22550,6 +22733,9 @@ A call echoes across the stars - as a menace approaches..."
 
 [/Lotus/Language/Game/MOTES]
 "MOTES"
+
+[/Lotus/Language/Game/MoveOut]
+"<USE> MOVE OUT"
 
 [/Lotus/Language/Game/MULTIPLIER_GROWTH]
 "MULTIPLIER GROWTH"
@@ -23067,6 +23253,9 @@ A call echoes across the stars - as a menace approaches..."
 
 [/Lotus/Language/Game/Presence_Dojo]
 "Dojo"
+
+[/Lotus/Language/Game/Presence_DojoDuel]
+"Dojo Duel"
 
 [/Lotus/Language/Game/Presence_InGame]
 "Playing"
@@ -24785,6 +24974,114 @@ Very effective against flesh."
 "Volt can create and harness electrical elements.
 This is a high-damage Warframe perfect for players who want a potent alternative to gun-play."
 
+[/Lotus/Language/Glyphs/AnnoyingKillahGlyphName]
+"ANNOYING KILLAH GLYPH"
+
+[/Lotus/Language/Glyphs/CASTiELiXGlyphName]
+"CASTIELIX GLYPH"
+
+[/Lotus/Language/Glyphs/D4NK3RGlyphName]
+"D4NK3R GLYPH"
+
+[/Lotus/Language/Glyphs/DarkfreackGlyphName]
+"DARKFREACK GLYPH"
+
+[/Lotus/Language/Glyphs/DarkSlayerGlyphName]
+"DARKSLAYER313 GLYPH"
+
+[/Lotus/Language/Glyphs/DentwGlyphName]
+"DEN TW GLYPH"
+
+[/Lotus/Language/Glyphs/DesRPGGlyphName]
+"DESRPG GLYPH"
+
+[/Lotus/Language/Glyphs/DistantObserverGlyphName]
+"DISTANT OBSERVER GLYPH"
+
+[/Lotus/Language/Glyphs/EduiyGlyphName]
+"EDUIY16 GLYPH"
+
+[/Lotus/Language/Glyphs/Esp4himGlyphName]
+"ESP4HIM GLYPH"
+
+[/Lotus/Language/Glyphs/FrozenbawzGlyphName]
+"FROZENBAWZ GLYPH"
+
+[/Lotus/Language/Glyphs/GaraGlyphName]
+"GARA GLYPH"
+
+[/Lotus/Language/Glyphs/GorillaWolfGamingGlyphName]
+"GORILLAWOLFGAMING GLYPH"
+
+[/Lotus/Language/Glyphs/HydroxateGlyphName]
+"HYDROXATE GLYPH"
+
+[/Lotus/Language/Glyphs/KingKongDonkGlyphName]
+"KINGKONGDONK GLYPH"
+
+[/Lotus/Language/Glyphs/LifeOfRioGlyphName]
+"LIFEOF RIO GLYPH"
+
+[/Lotus/Language/Glyphs/MashedAladVGlyphName]
+"ALAD V MASHED GLYPH"
+
+[/Lotus/Language/Glyphs/MashedExcaliburGlyphName]
+"EXCALIBUR MASHED GLYPH"
+
+[/Lotus/Language/Glyphs/MashedFrostPrimeGlyphName]
+"FROST PRIME MASHED GLYPH"
+
+[/Lotus/Language/Glyphs/MashedMirageGlyphName]
+"MIRAGE MASHED GLYPH"
+
+[/Lotus/Language/Glyphs/MashedNyxPrimeGlyphName]
+"NYX PRIME MASHED GLYPH"
+
+[/Lotus/Language/Glyphs/MashedOberonGlyphName]
+"OBERON MASHED GLYPH"
+
+[/Lotus/Language/Glyphs/MashedStalkerGlyphName]
+"STALKER MASHED GLYPH"
+
+[/Lotus/Language/Glyphs/MCIKGlyphName]
+"M C I K GLYPH"
+
+[/Lotus/Language/Glyphs/MrBearGamingGlyphName]
+"MRBEARGAMING GLYPH"
+
+[/Lotus/Language/Glyphs/RLCGamingGlyphName]
+"RLCGAMING GLYPH"
+
+[/Lotus/Language/Glyphs/RoyGamingGlyphName]
+"ROY GAMING GLYPH"
+
+[/Lotus/Language/Glyphs/RundasGlyphName]
+"RUNDAS342 GLYPH"
+
+[/Lotus/Language/Glyphs/ShulGamingGlyphName]
+"SHULGAMING GLYPH"
+
+[/Lotus/Language/Glyphs/SmashleyGlyphName]
+"SMASHLEY GLYPH"
+
+[/Lotus/Language/Glyphs/TrainsyTvGlyphName]
+"TRAINSYTV GLYPH"
+
+[/Lotus/Language/Glyphs/TygastripeGlyphName]
+"TYGASTRIPE GLYPH"
+
+[/Lotus/Language/Glyphs/VernocGlyphName]
+"VERNOC GLYPH"
+
+[/Lotus/Language/Glyphs/VGWFRGlyphName]
+"VGWFR GLYPH"
+
+[/Lotus/Language/Glyphs/WarframeMadnessGlyphName]
+"WARFRAME MADNESS GLYPH"
+
+[/Lotus/Language/Glyphs/XiaRoseGlyphName]
+"XIAROSE GLYPH"
+
 [/Lotus/Language/Hints/HeliocorRecipeHint]
 "Blueprint can be found among the offerings extended by Cephalon Simaris."
 
@@ -25407,10 +25704,10 @@ This bundle of 1500 Alloy Plates can be used for crafting items in your Foundry.
 "KYROPTERA SYANDANA"
 
 [/Lotus/Language/Items/ArbitersHexisProfileIconDesc]
-"A profile icon of the Arbiters of Hexis"
+"A glyph of the Arbiters of Hexis"
 
 [/Lotus/Language/Items/ArbitersHexisProfileIconName]
-"ARBITERS OF HEXIS PROFILE ICON"
+"ARBITERS OF HEXIS GLYPH"
 
 [/Lotus/Language/Items/ArcaneAshAltHelmet2Desc]
 "This helmet is worn by Ash, and adds Energy Capacity, with a reduction to Speed."
@@ -25967,1777 +26264,1777 @@ Note: This item requires two open slots."
 "BOAR"
 
 [/Lotus/Language/Items/AvatarAshBrightDescription]
-"A profile icon depicting Ash on a bright background."
+"A glyph depicting Ash on a bright background."
 
 [/Lotus/Language/Items/AvatarAshBrightName]
-"ASH PROFILE ICON"
+"ASH GLYPH"
 
 [/Lotus/Language/Items/AvatarAshDarkDescription]
-"A profile icon depicting Ash on a dark background."
+"A glyph depicting Ash on a dark background."
 
 [/Lotus/Language/Items/AvatarAshDarkName]
-"ASH PROFILE ICON"
+"ASH GLYPH"
 
 [/Lotus/Language/Items/AvatarAshDeluxeDesc]
-"A profile icon depicting Ash Koga skin."
+"A glyph depicting Ash Koga skin."
 
 [/Lotus/Language/Items/AvatarAshDeluxeName]
-"ASH KOGA PROFILE ICON"
+"ASH KOGA GLYPH"
 
 [/Lotus/Language/Items/AvatarAshLocustBrightDescription]
-"A profile icon depicting Ash Locust on a bright background."
+"A glyph depicting Ash Locust on a bright background."
 
 [/Lotus/Language/Items/AvatarAshLocustBrightName]
-"ASH LOCUST PROFILE ICON"
+"ASH LOCUST GLYPH"
 
 [/Lotus/Language/Items/AvatarAshLocustDarkDescription]
-"A profile icon depicting Ash Locust on a dark background."
+"A glyph depicting Ash Locust on a dark background."
 
 [/Lotus/Language/Items/AvatarAshLocustDarkName]
-"ASH LOCUST PROFILE ICON"
+"ASH LOCUST GLYPH"
 
 [/Lotus/Language/Items/AvatarAshPrimeBrightDesc]
-"A profile icon depicting Ash Prime on a bright background."
+"A glyph depicting Ash Prime on a bright background."
 
 [/Lotus/Language/Items/AvatarAshPrimeBrightName]
-"ASH PRIME PROFILE ICON"
+"ASH PRIME GLYPH"
 
 [/Lotus/Language/Items/AvatarAshPrimeDarkDesc]
-"A profile icon depicting Ash Prime on a dark background."
+"A glyph depicting Ash Prime on a dark background."
 
 [/Lotus/Language/Items/AvatarAshPrimeDarkName]
-"ASH PRIME PROFILE ICON"
+"ASH PRIME GLYPH"
 
 [/Lotus/Language/Items/AvatarAshScorpionBrightDescription]
-"A profile icon depicting Ash Scorpion on a bright background."
+"A glyph depicting Ash Scorpion on a bright background."
 
 [/Lotus/Language/Items/AvatarAshScorpionBrightName]
-"ASH SCORPION PROFILE ICON"
+"ASH SCORPION GLYPH"
 
 [/Lotus/Language/Items/AvatarAshScorpionDarkDescription]
-"A profile icon depicting Ash Scorpion on a dark background."
+"A glyph depicting Ash Scorpion on a dark background."
 
 [/Lotus/Language/Items/AvatarAshScorpionDarkName]
-"ASH SCORPION PROFILE ICON"
+"ASH SCORPION GLYPH"
 
 [/Lotus/Language/Items/AvatarBansheeBrightDescription]
-"A profile icon depicting Banshee on a bright background."
+"A glyph depicting Banshee on a bright background."
 
 [/Lotus/Language/Items/AvatarBansheeBrightName]
-"BANSHEE PROFILE ICON"
+"BANSHEE GLYPH"
 
 [/Lotus/Language/Items/AvatarBansheeChorusBrightDescription]
-"A profile icon depicting Banshee Chorus on a bright background."
+"A glyph depicting Banshee Chorus on a bright background."
 
 [/Lotus/Language/Items/AvatarBansheeChorusBrightName]
-"BANSHEE CHORUS PROFILE ICON"
+"BANSHEE CHORUS GLYPH"
 
 [/Lotus/Language/Items/AvatarBansheeChorusDarkDescription]
-"A profile icon depicting Banshee Chorus on a dark background."
+"A glyph depicting Banshee Chorus on a dark background."
 
 [/Lotus/Language/Items/AvatarBansheeChorusDarkName]
-"BANSHEE CHORUS PROFILE ICON"
+"BANSHEE CHORUS GLYPH"
 
 [/Lotus/Language/Items/AvatarBansheeDarkDescription]
-"A profile icon depicting Banshee on a dark background."
+"A glyph depicting Banshee on a dark background."
 
 [/Lotus/Language/Items/AvatarBansheeDarkName]
-"BANSHEE PROFILE ICON"
+"BANSHEE GLYPH"
 
 [/Lotus/Language/Items/AvatarBansheeDeluxeDesc]
-"A profile icon depicting Banshee Soprana skin."
+"A glyph depicting Banshee Soprana skin."
 
 [/Lotus/Language/Items/AvatarBansheeDeluxeName]
-"BANSHEE SOPRANA PROFILE ICON"
+"BANSHEE SOPRANA GLYPH"
 
 [/Lotus/Language/Items/AvatarBansheeReverbBrightDescription]
-"A profile icon depicting Banshee Reverb on a bright background."
+"A glyph depicting Banshee Reverb on a bright background."
 
 [/Lotus/Language/Items/AvatarBansheeReverbBrightName]
-"BANSHEE REVERB PROFILE ICON"
+"BANSHEE REVERB GLYPH"
 
 [/Lotus/Language/Items/AvatarBansheeReverbDarkDescription]
-"A profile icon depicting Banshee Reverb on a dark background."
+"A glyph depicting Banshee Reverb on a dark background."
 
 [/Lotus/Language/Items/AvatarBansheeReverbDarkName]
-"BANSHEE REVERB PROFILE ICON"
+"BANSHEE REVERB GLYPH"
 
 [/Lotus/Language/Items/AvatarBrawlerAltBrightDesc]
-"A profile icon depicting Atlas Tartarus on a bright background."
+"A glyph depicting Atlas Tartarus on a bright background."
 
 [/Lotus/Language/Items/AvatarBrawlerAltBrightName]
-"ATLAS TARTARUS PROFILE ICON"
+"ATLAS TARTARUS GLYPH"
 
 [/Lotus/Language/Items/AvatarBrawlerAltDarkDesc]
-"A profile icon depicting Atlas Tartarus on a dark background."
+"A glyph depicting Atlas Tartarus on a dark background."
 
 [/Lotus/Language/Items/AvatarBrawlerAltDarkName]
-"ATLAS TARTARUS PROFILE ICON"
+"ATLAS TARTARUS GLYPH"
 
 [/Lotus/Language/Items/AvatarBrawlerAltTwoBrightDescription]
-"A profile icon depicting Atlas Shikoro on a bright background."
+"A glyph depicting Atlas Shikoro on a bright background."
 
 [/Lotus/Language/Items/AvatarBrawlerAltTwoBrightName]
-"ATLAS SHIKORO PROFILE ICON"
+"ATLAS SHIKORO GLYPH"
 
 [/Lotus/Language/Items/AvatarBrawlerAltTwoDarkDescription]
-"A profile icon depicting Atlas Shikoro on a dark background."
+"A glyph depicting Atlas Shikoro on a dark background."
 
 [/Lotus/Language/Items/AvatarBrawlerAltTwoDarkName]
-"ATLAS SHIKORO PROFILE ICON"
+"ATLAS SHIKORO GLYPH"
 
 [/Lotus/Language/Items/AvatarBrawlerBrightDesc]
-"A profile icon depicting Atlas on a bright background."
+"A glyph depicting Atlas on a bright background."
 
 [/Lotus/Language/Items/AvatarBrawlerBrightName]
-"ATLAS PROFILE ICON"
+"ATLAS GLYPH"
 
 [/Lotus/Language/Items/AvatarBrawlerDarkDesc]
-"A profile icon depicting Atlas on a dark background."
+"A glyph depicting Atlas on a dark background."
 
 [/Lotus/Language/Items/AvatarBrawlerDarkName]
-"ATLAS PROFILE ICON"
+"ATLAS GLYPH"
 
 [/Lotus/Language/Items/AvatarChromaAmaruBrightDesc]
-"A profile icon depicting Chroma Amaru on a bright background."
+"A glyph depicting Chroma Amaru on a bright background."
 
 [/Lotus/Language/Items/AvatarChromaAmaruBrightName]
-"CHROMA AMARU PROFILE ICON"
+"CHROMA AMARU GLYPH"
 
 [/Lotus/Language/Items/AvatarChromaAmaruDarkDesc]
-"A profile icon depicting Chroma Amaru on a dark background."
+"A glyph depicting Chroma Amaru on a dark background."
 
 [/Lotus/Language/Items/AvatarChromaAmaruDarkName]
-"CHROMA AMARU PROFILE ICON"
+"CHROMA AMARU GLYPH"
 
 [/Lotus/Language/Items/AvatarChromaBrightDesc]
-"A profile icon depicting Chroma on a bright background."
+"A glyph depicting Chroma on a bright background."
 
 [/Lotus/Language/Items/AvatarChromaBrightName]
-"CHROMA PROFILE ICON"
+"CHROMA GLYPH"
 
 [/Lotus/Language/Items/AvatarChromaDarkDesc]
-"A profile icon depicting Chroma on a dark background."
+"A glyph depicting Chroma on a dark background."
 
 [/Lotus/Language/Items/AvatarChromaDarkName]
-"CHROMA PROFILE ICON"
+"CHROMA GLYPH"
 
 [/Lotus/Language/Items/AvatarChromaDracBrightDesc]
-"A profile icon depicting Chroma Drac on a bright background."
+"A glyph depicting Chroma Drac on a bright background."
 
 [/Lotus/Language/Items/AvatarChromaDracBrightName]
-"CHROMA DRAC PROFILE ICON"
+"CHROMA DRAC GLYPH"
 
 [/Lotus/Language/Items/AvatarChromaDracDarkDesc]
-"A profile icon depicting Chroma Drac on a dark background."
+"A glyph depicting Chroma Drac on a dark background."
 
 [/Lotus/Language/Items/AvatarChromaDracDarkName]
-"CHROMA DRAC PROFILE ICON"
+"CHROMA DRAC GLYPH"
 
 [/Lotus/Language/Items/AvatarDynlineDesc]
-"A prize-winning profile icon, designed by Dynline
+"A prize-winning glyph, designed by Dynline
 
 
 <UGC> TennoGen"
 
 [/Lotus/Language/Items/AvatarDynlineName]
-"THE BEAST PROFILE ICON"
+"THE BEAST GLYPH"
 
 [/Lotus/Language/Items/AvatarEmberBackdraftBrightDescription]
-"A profile icon depicting Ember Backdraft on a bright background."
+"A glyph depicting Ember Backdraft on a bright background."
 
 [/Lotus/Language/Items/AvatarEmberBackdraftBrightName]
-"EMBER BACKDRAFT PROFILE ICON"
+"EMBER BACKDRAFT GLYPH"
 
 [/Lotus/Language/Items/AvatarEmberBackdraftDarkDescription]
-"A profile icon depicting Ember Backdraft on a dark background."
+"A glyph depicting Ember Backdraft on a dark background."
 
 [/Lotus/Language/Items/AvatarEmberBackdraftDarkName]
-"EMBER BACKDRAFT PROFILE ICON"
+"EMBER BACKDRAFT GLYPH"
 
 [/Lotus/Language/Items/AvatarEmberBrightDescription]
-"A profile icon depicting Ember on a bright background."
+"A glyph depicting Ember on a bright background."
 
 [/Lotus/Language/Items/AvatarEmberBrightName]
-"EMBER PROFILE ICON"
+"EMBER GLYPH"
 
 [/Lotus/Language/Items/AvatarEmberDarkDescription]
-"A profile icon depicting Ember on a dark background."
+"A glyph depicting Ember on a dark background."
 
 [/Lotus/Language/Items/AvatarEmberDarkName]
-"EMBER PROFILE ICON"
+"EMBER GLYPH"
 
 [/Lotus/Language/Items/AvatarEmberPheonixBrightDescription]
-"A profile icon depicting Ember Phoenix on a bright background."
+"A glyph depicting Ember Phoenix on a bright background."
 
 [/Lotus/Language/Items/AvatarEmberPheonixBrightName]
-"PHOENIX EMBER PROFILE ICON"
+"PHOENIX EMBER GLYPH"
 
 [/Lotus/Language/Items/AvatarEmberPheonixDarkDescription]
-"A profile icon depicting Ember Phoenix on a dark background."
+"A glyph depicting Ember Phoenix on a dark background."
 
 [/Lotus/Language/Items/AvatarEmberPheonixDarkName]
-"PHOENIX EMBER PROFILE ICON"
+"PHOENIX EMBER GLYPH"
 
 [/Lotus/Language/Items/AvatarEmberPrimeBrightDesc]
-"A profile icon depicting Ember Prime on a bright background."
+"A glyph depicting Ember Prime on a bright background."
 
 [/Lotus/Language/Items/AvatarEmberPrimeBrightName]
-"EMBER PRIME PROFILE ICON"
+"EMBER PRIME GLYPH"
 
 [/Lotus/Language/Items/AvatarEmberPrimeDarkDesc]
-"A profile icon depicting Ember Prime on a dark background."
+"A glyph depicting Ember Prime on a dark background."
 
 [/Lotus/Language/Items/AvatarEmberPrimeDarkName]
-"EMBER PRIME PROFILE ICON"
+"EMBER PRIME GLYPH"
 
 [/Lotus/Language/Items/AvatarEpsilonDesc]
-"A prize-winning profile icon, designed by NaturallySelected
+"A prize-winning glyph, designed by NaturallySelected
 
 
 <UGC> TennoGen"
 
 [/Lotus/Language/Items/AvatarEpsilonName]
-"MOON AND SUN PROFILE ICON"
+"MOON AND SUN GLYPH"
 
 [/Lotus/Language/Items/AvatarEquinoxBrightDesc]
-"A profile icon depicting Equinox on a bright background."
+"A glyph depicting Equinox on a bright background."
 
 [/Lotus/Language/Items/AvatarEquinoxBrightName]
-"EQUINOX PROFILE ICON"
+"EQUINOX GLYPH"
 
 [/Lotus/Language/Items/AvatarEquinoxDarkDesc]
-"A profile icon depicting Equinox Solstice on a dark background."
+"A glyph depicting Equinox Solstice on a dark background."
 
 [/Lotus/Language/Items/AvatarEquinoxDarkName]
-"EQUINOX PROFILE ICON"
+"EQUINOX GLYPH"
 
 [/Lotus/Language/Items/AvatarEquinoxSolsticeBrightDesc]
-"A profile icon depicting Equinox Solstice on a bright background."
+"A glyph depicting Equinox Solstice on a bright background."
 
 [/Lotus/Language/Items/AvatarEquinoxSolsticeBrightName]
-"EQUINOX SOLSTICE PROFILE ICON"
+"EQUINOX SOLSTICE GLYPH"
 
 [/Lotus/Language/Items/AvatarEquinoxSolsticeDarkDesc]
-"A profile icon depicting Equinox on a dark background."
+"A glyph depicting Equinox on a dark background."
 
 [/Lotus/Language/Items/AvatarEquinoxSolsticeDarkName]
-"EQUINOX SOLSTICE PROFILE ICON"
+"EQUINOX SOLSTICE GLYPH"
 
 [/Lotus/Language/Items/AvatarExcaliburAvalonBrightDescription]
-"A profile icon depicting Excalibur Avalon on a bright background."
+"A glyph depicting Excalibur Avalon on a bright background."
 
 [/Lotus/Language/Items/AvatarExcaliburAvalonBrightName]
-"EXCALIBUR AVALON PROFILE ICON"
+"EXCALIBUR AVALON GLYPH"
 
 [/Lotus/Language/Items/AvatarExcaliburAvalonDarkDescription]
-"A profile icon depicting Excalibur Avalon on a dark background."
+"A glyph depicting Excalibur Avalon on a dark background."
 
 [/Lotus/Language/Items/AvatarExcaliburAvalonDarkName]
-"EXCALIBUR AVALON PROFILE ICON"
+"EXCALIBUR AVALON GLYPH"
 
 [/Lotus/Language/Items/AvatarExcaliburBrightDescription]
-"A profile icon depicting Excalibur on a bright background."
+"A glyph depicting Excalibur on a bright background."
 
 [/Lotus/Language/Items/AvatarExcaliburBrightName]
-"EXCALIBUR PROFILE ICON"
+"EXCALIBUR GLYPH"
 
 [/Lotus/Language/Items/AvatarExcaliburDarkDescription]
-"A profile icon depicting Excalibur on a dark background."
+"A glyph depicting Excalibur on a dark background."
 
 [/Lotus/Language/Items/AvatarExcaliburDarkName]
-"EXCALIBUR PROFILE ICON"
+"EXCALIBUR GLYPH"
 
 [/Lotus/Language/Items/AvatarExcaliburMordredBrightDescription]
-"A profile icon depicting Excalibur Mordred on a bright background."
+"A glyph depicting Excalibur Mordred on a bright background."
 
 [/Lotus/Language/Items/AvatarExcaliburMordredBrightName]
-"EXCALIBUR MORDRED PROFILE ICON"
+"EXCALIBUR MORDRED GLYPH"
 
 [/Lotus/Language/Items/AvatarExcaliburMordredDarkDescription]
-"A profile icon depicting Excalibur Mordred on a dark background."
+"A glyph depicting Excalibur Mordred on a dark background."
 
 [/Lotus/Language/Items/AvatarExcaliburMordredDarkName]
-"EXCALIBUR MORDRED PROFILE ICON"
+"EXCALIBUR MORDRED GLYPH"
 
 [/Lotus/Language/Items/AvatarExcaliburPendragonBrightDescription]
-"A profile icon depicting Excalibur Pendragon on a bright background."
+"A glyph depicting Excalibur Pendragon on a bright background."
 
 [/Lotus/Language/Items/AvatarExcaliburPendragonBrightName]
-"EXCALIBUR PENDRAGON PROFILE ICON"
+"EXCALIBUR PENDRAGON GLYPH"
 
 [/Lotus/Language/Items/AvatarExcaliburPendragonDarkDescription]
-"A profile icon depicting Excalibur Pendragon on a dark background."
+"A glyph depicting Excalibur Pendragon on a dark background."
 
 [/Lotus/Language/Items/AvatarExcaliburPendragonDarkName]
-"EXCALIBUR PENDRAGON PROFILE ICON"
+"EXCALIBUR PENDRAGON GLYPH"
 
 [/Lotus/Language/Items/AvatarExcaliburPrimeBrightDescription]
-"A profile icon depicting Excalibur Prime on a bright background."
+"A glyph depicting Excalibur Prime on a bright background."
 
 [/Lotus/Language/Items/AvatarExcaliburPrimeBrightName]
-"EXCALIBUR PRIME PROFILE ICON"
+"EXCALIBUR PRIME GLYPH"
 
 [/Lotus/Language/Items/AvatarExcaliburPrimeDarkDescription]
-"A profile icon depicting Excalibur Prime on a dark background."
+"A glyph depicting Excalibur Prime on a dark background."
 
 [/Lotus/Language/Items/AvatarExcaliburPrimeDarkName]
-"EXCALIBUR PRIME PROFILE ICON"
+"EXCALIBUR PRIME GLYPH"
 
 [/Lotus/Language/Items/AvatarExcaliburProtoDescription]
-"A profile icon depicting the Excalibur Proto-suit."
+"A glyph depicting the Excalibur Proto-suit."
 
 [/Lotus/Language/Items/AvatarExcaliburProtoName]
-"EXCALIBUR PROTO-SUIT PROFILE ICON"
+"EXCALIBUR PROTO-SUIT GLYPH"
 
 [/Lotus/Language/Items/AvatarFabpsiDesc]
-"A prize-winning profile icon, designed by Fabpsi
+"A prize-winning glyph, designed by Fabpsi
 
 
 <UGC> TennoGen"
 
 [/Lotus/Language/Items/AvatarFabpsiName]
-"TRANSFIGURE PROFILE ICON"
+"TRANSFIGURE GLYPH"
 
 [/Lotus/Language/Items/AvatarFrostAuroraBrightDescription]
-"A profile icon depicting Frost Aurora on a bright background."
+"A glyph depicting Frost Aurora on a bright background."
 
 [/Lotus/Language/Items/AvatarFrostAuroraBrightName]
-"FROST AURORA PROFILE ICON"
+"FROST AURORA GLYPH"
 
 [/Lotus/Language/Items/AvatarFrostAuroraDarkDescription]
-"A profile icon depicting Frost Aurora on a dark background."
+"A glyph depicting Frost Aurora on a dark background."
 
 [/Lotus/Language/Items/AvatarFrostAuroraDarkName]
-"FROST AURORA PROFILE ICON"
+"FROST AURORA GLYPH"
 
 [/Lotus/Language/Items/AvatarFrostBrightDescription]
-"A profile icon depicting Frost on a bright background."
+"A glyph depicting Frost on a bright background."
 
 [/Lotus/Language/Items/AvatarFrostBrightName]
-"FROST PROFILE ICON"
+"FROST GLYPH"
 
 [/Lotus/Language/Items/AvatarFrostDarkDescription]
-"A profile icon depicting Frost on a dark background."
+"A glyph depicting Frost on a dark background."
 
 [/Lotus/Language/Items/AvatarFrostDarkName]
-"FROST PROFILE ICON"
+"FROST GLYPH"
 
 [/Lotus/Language/Items/AvatarFrostDeluxeDesc]
-"A profile icon depicting Frost Harka."
+"A glyph depicting Frost Harka."
 
 [/Lotus/Language/Items/AvatarFrostDeluxeName]
-"FROST HARKA PROFILE ICON"
+"FROST HARKA GLYPH"
 
 [/Lotus/Language/Items/AvatarFrostPrimeBrightDescription]
-"A profile icon depicting Frost Prime on a bright background."
+"A glyph depicting Frost Prime on a bright background."
 
 [/Lotus/Language/Items/AvatarFrostPrimeBrightName]
-"FROST PRIME PROFILE ICON"
+"FROST PRIME GLYPH"
 
 [/Lotus/Language/Items/AvatarFrostPrimeDarkDescription]
-"A profile icon depicting Frost Prime on a dark background."
+"A glyph depicting Frost Prime on a dark background."
 
 [/Lotus/Language/Items/AvatarFrostPrimeDarkName]
-"FROST PRIME PROFILE ICON"
+"FROST PRIME GLYPH"
 
 [/Lotus/Language/Items/AvatarFrostSquallBrightDescription]
-"A profile icon depicting Frost Squall on a bright background."
+"A glyph depicting Frost Squall on a bright background."
 
 [/Lotus/Language/Items/AvatarFrostSquallBrightName]
-"FROST SQUALL PROFILE ICON"
+"FROST SQUALL GLYPH"
 
 [/Lotus/Language/Items/AvatarFrostSquallDarkDescription]
-"A profile icon depicting Frost Squall on a dark background."
+"A glyph depicting Frost Squall on a dark background."
 
 [/Lotus/Language/Items/AvatarFrostSquallDarkName]
-"FROST SQUALL PROFILE ICON"
+"FROST SQUALL GLYPH"
 
 [/Lotus/Language/Items/AvatarGunslingerAltBrightDesc]
-"A profile icon depicting Mesa Longhorn on a bright background."
+"A glyph depicting Mesa Longhorn on a bright background."
 
 [/Lotus/Language/Items/AvatarGunslingerAltBrightName]
-"MESA LONGHORN PROFILE ICON"
+"MESA LONGHORN GLYPH"
 
 [/Lotus/Language/Items/AvatarGunslingerAltDarkDesc]
-"A profile icon depicting Mesa Longhorn on a dark background."
+"A glyph depicting Mesa Longhorn on a dark background."
 
 [/Lotus/Language/Items/AvatarGunslingerAltDarkName]
-"MESA LONGHORN PROFILE ICON"
+"MESA LONGHORN GLYPH"
 
 [/Lotus/Language/Items/AvatarGunslingerBrightDesc]
-"A profile icon depicting Mesa on a bright background."
+"A glyph depicting Mesa on a bright background."
 
 [/Lotus/Language/Items/AvatarGunslingerBrightName]
-"MESA PROFILE ICON"
+"MESA GLYPH"
 
 [/Lotus/Language/Items/AvatarGunslingerDarkDesc]
-"A profile icon depicting Mesa on a dark background."
+"A glyph depicting Mesa on a dark background."
 
 [/Lotus/Language/Items/AvatarGunslingerDarkName]
-"MESA PROFILE ICON"
+"MESA GLYPH"
 
 [/Lotus/Language/Items/AvatarHydroidKetosBrightDesc]
-"A profile icon depicting Hydroid Ketos on a bright background."
+"A glyph depicting Hydroid Ketos on a bright background."
 
 [/Lotus/Language/Items/AvatarHydroidKetosBrightName]
-"HYDROID KETOS PROFILE ICON"
+"HYDROID KETOS GLYPH"
 
 [/Lotus/Language/Items/AvatarHydroidKetosDarkDesc]
-"A profile icon depicting Hydroid Ketos on a dark background."
+"A glyph depicting Hydroid Ketos on a dark background."
 
 [/Lotus/Language/Items/AvatarHydroidKetosDarkName]
-"HYDROID KETOS PROFILE ICON"
+"HYDROID KETOS GLYPH"
 
 [/Lotus/Language/Items/AvatarImage1Description]
-"EXCALIBUR PROFILE ICON"
+"EXCALIBUR GLYPH"
 
 [/Lotus/Language/Items/AvatarImage1Name]
-"EXCALIBUR PROFILE ICON"
+"EXCALIBUR GLYPH"
 
 [/Lotus/Language/Items/AvatarImage2Description]
-"VOLT PROFILE ICON"
+"VOLT GLYPH"
 
 [/Lotus/Language/Items/AvatarImage2Name]
-"VOLT PROFILE ICON"
+"VOLT GLYPH"
 
 [/Lotus/Language/Items/AvatarImage3Description]
-"TRINITY PROFILE ICON"
+"TRINITY GLYPH"
 
 [/Lotus/Language/Items/AvatarImage3Name]
-"TRINITY PROFILE ICON"
+"TRINITY GLYPH"
 
 [/Lotus/Language/Items/AvatarImage4Description]
-"RHINO PROFILE ICON"
+"RHINO GLYPH"
 
 [/Lotus/Language/Items/AvatarImage4Name]
-"RHINO PROFILE ICON"
+"RHINO GLYPH"
 
 [/Lotus/Language/Items/AvatarImage5Description]
-"MAG PROFILE ICON"
+"MAG GLYPH"
 
 [/Lotus/Language/Items/AvatarImage5Name]
-"MAG PROFILE ICON"
+"MAG GLYPH"
 
 [/Lotus/Language/Items/AvatarImage6Description]
-"ASH PROFILE ICON"
+"ASH GLYPH"
 
 [/Lotus/Language/Items/AvatarImage6Name]
-"ASH PROFILE ICON"
+"ASH GLYPH"
 
 [/Lotus/Language/Items/AvatarImage7Description]
-"EMBER PROFILE ICON"
+"EMBER GLYPH"
 
 [/Lotus/Language/Items/AvatarImage7Name]
-"EMBER PROFILE ICON"
+"EMBER GLYPH"
 
 [/Lotus/Language/Items/AvatarImage8Description]
-"LOKI PROFILE ICON"
+"LOKI GLYPH"
 
 [/Lotus/Language/Items/AvatarImage8Name]
-"LOKI PROFILE ICON"
+"LOKI GLYPH"
 
 [/Lotus/Language/Items/AvatarImageDefaultDescription]
 "The symbol of the Lotus"
 
 [/Lotus/Language/Items/AvatarImageDefaultName]
-"LOTUS SYMBOL PROFILE ICON"
+"LOTUS SYMBOL GLYPH"
 
 [/Lotus/Language/Items/AvatarImagePack1Description]
-"Contains 2 unique profile icon images."
+"Contains 2 unique glyph images."
 
 [/Lotus/Language/Items/AvatarImagePack1Name]
-"PROFILE ICON PACK 1"
+"GLYPH PACK 1"
 
 [/Lotus/Language/Items/AvatarImagePack2Description]
-"Contains 2 unique profile icon images."
+"Contains 2 unique glyph images."
 
 [/Lotus/Language/Items/AvatarImagePack2Name]
-"PROFILE ICON PACK 2"
+"GLYPH PACK 2"
 
 [/Lotus/Language/Items/AvatarInkaryDesc]
-"A prize-winning profile icon, designed by Inkary
+"A prize-winning glyph, designed by Inkary
 
 
 <UGC> TennoGen"
 
 [/Lotus/Language/Items/AvatarInkaryName]
-"THE LOTUS PROFILE ICON"
+"THE LOTUS GLYPH"
 
 [/Lotus/Language/Items/AvatarLimboAristeasBrightDescription]
-"A profile icon depicting Limbo Aristeas on a bright background."
+"A glyph depicting Limbo Aristeas on a bright background."
 
 [/Lotus/Language/Items/AvatarLimboAristeasBrightName]
-"LIMBO ARISTEAS PROFILE ICON"
+"LIMBO ARISTEAS GLYPH"
 
 [/Lotus/Language/Items/AvatarLimboAristeasDarkDescription]
-"A profile icon depicting Limbo Aristeas on a dark background."
+"A glyph depicting Limbo Aristeas on a dark background."
 
 [/Lotus/Language/Items/AvatarLimboAristeasDarkName]
-"LIMBO ARISTEAS PROFILE ICON"
+"LIMBO ARISTEAS GLYPH"
 
 [/Lotus/Language/Items/AvatarLimboBrightDescription]
-"A profile icon depicting Limbo on a bright background."
+"A glyph depicting Limbo on a bright background."
 
 [/Lotus/Language/Items/AvatarLimboBrightName]
-"LIMBO PROFILE ICON"
+"LIMBO GLYPH"
 
 [/Lotus/Language/Items/AvatarLimboDarkDescription]
-"A profile icon depicting Limbo on a dark background."
+"A glyph depicting Limbo on a dark background."
 
 [/Lotus/Language/Items/AvatarLimboDarkName]
-"LIMBO PROFILE ICON"
+"LIMBO GLYPH"
 
 [/Lotus/Language/Items/AvatarLimboGraeaeBrightDesc]
-"A profile icon depicting Limbo Magrite on a bright background."
+"A glyph depicting Limbo Magrite on a bright background."
 
 [/Lotus/Language/Items/AvatarLimboGraeaeBrightName]
-"LIMBO MAGRITE PROFILE ICON"
+"LIMBO MAGRITE GLYPH"
 
 [/Lotus/Language/Items/AvatarLimboGraeaeDarkDesc]
-"A profile icon depicting Limbo Magrite on a dark background."
+"A glyph depicting Limbo Magrite on a dark background."
 
 [/Lotus/Language/Items/AvatarLimboGraeaeDarkName]
-"LIMBO MAGRITE PROFILE ICON"
+"LIMBO MAGRITE GLYPH"
 
 [/Lotus/Language/Items/AvatarLocoCrazyDesc]
-"A prize-winning profile icon, designed by LocoCrazy
+"A prize-winning glyph, designed by LocoCrazy
 
 
 <UGC> TennoGen"
 
 [/Lotus/Language/Items/AvatarLocoCrazyName]
-"MESA X PROFILE ICON"
+"MESA X GLYPH"
 
 [/Lotus/Language/Items/AvatarLokiBrightDescription]
-"A profile icon depicting Loki on a bright background."
+"A glyph depicting Loki on a bright background."
 
 [/Lotus/Language/Items/AvatarLokiBrightName]
-"LOKI PROFILE ICON"
+"LOKI GLYPH"
 
 [/Lotus/Language/Items/AvatarLokiDarkDescription]
-"A profile icon depicting Loki on a dark background."
+"A glyph depicting Loki on a dark background."
 
 [/Lotus/Language/Items/AvatarLokiDarkName]
-"LOKI PROFILE ICON"
+"LOKI GLYPH"
 
 [/Lotus/Language/Items/AvatarLokiDeluxeDesc]
-"A profile icon depicting Loki Knave."
+"A glyph depicting Loki Knave."
 
 [/Lotus/Language/Items/AvatarLokiDeluxeName]
-"LOKI KNAVE PROFILE ICON"
+"LOKI KNAVE GLYPH"
 
 [/Lotus/Language/Items/AvatarLokiEnigmaBrightDesc]
-"A profile icon depicting Loki Enigma on a bright background."
+"A glyph depicting Loki Enigma on a bright background."
 
 [/Lotus/Language/Items/AvatarLokiEnigmaBrightName]
-"LOKI ENIGMA PROFILE ICON"
+"LOKI ENIGMA GLYPH"
 
 [/Lotus/Language/Items/AvatarLokiEnigmaDarkDesc]
-"A profile icon depicting Loki Enigma on a dark background."
+"A glyph depicting Loki Enigma on a dark background."
 
 [/Lotus/Language/Items/AvatarLokiEnigmaDarkName]
-"LOKI ENIGMA PROFILE ICON"
+"LOKI ENIGMA GLYPH"
 
 [/Lotus/Language/Items/AvatarLokiEssenceBrightDescription]
-"A profile icon depicting Loki Essence on a bright background."
+"A glyph depicting Loki Essence on a bright background."
 
 [/Lotus/Language/Items/AvatarLokiEssenceBrightName]
-"LOKI ESSENCE PROFILE ICON"
+"LOKI ESSENCE GLYPH"
 
 [/Lotus/Language/Items/AvatarLokiEssenceDarkDescription]
-"A profile icon depicting Loki Essence on a dark background."
+"A glyph depicting Loki Essence on a dark background."
 
 [/Lotus/Language/Items/AvatarLokiEssenceDarkName]
-"LOKI ESSENCE PROFILE ICON"
+"LOKI ESSENCE GLYPH"
 
 [/Lotus/Language/Items/AvatarLokiPrimeBrightDescription]
-"A profile icon depicting Loki Prime on a bright background."
+"A glyph depicting Loki Prime on a bright background."
 
 [/Lotus/Language/Items/AvatarLokiPrimeBrightName]
-"LOKI PRIME PROFILE ICON"
+"LOKI PRIME GLYPH"
 
 [/Lotus/Language/Items/AvatarLokiPrimeDarkDescription]
-"A profile icon depicting Loki Prime on a dark background."
+"A glyph depicting Loki Prime on a dark background."
 
 [/Lotus/Language/Items/AvatarLokiPrimeDarkName]
-"LOKI PRIME PROFILE ICON"
+"LOKI PRIME GLYPH"
 
 [/Lotus/Language/Items/AvatarLokiSwindleBrightDescription]
-"A profile icon depicting Loki Swindle on a bright background."
+"A glyph depicting Loki Swindle on a bright background."
 
 [/Lotus/Language/Items/AvatarLokiSwindleBrightName]
-"LOKI SWINDLE PROFILE ICON"
+"LOKI SWINDLE GLYPH"
 
 [/Lotus/Language/Items/AvatarLokiSwindleDarkDescription]
-"A profile icon depicting Loki Swindle on a dark background."
+"A glyph depicting Loki Swindle on a dark background."
 
 [/Lotus/Language/Items/AvatarLokiSwindleDarkName]
-"LOKI SWINDLE PROFILE ICON"
+"LOKI SWINDLE GLYPH"
 
 [/Lotus/Language/Items/AvatarMagBrightDescription]
-"A profile icon depicting Mag on a bright background."
+"A glyph depicting Mag on a bright background."
 
 [/Lotus/Language/Items/AvatarMagBrightName]
-"MAG PROFILE ICON"
+"MAG GLYPH"
 
 [/Lotus/Language/Items/AvatarMagCoilBrightDescription]
-"A profile icon depicting Mag Coil on a bright background."
+"A glyph depicting Mag Coil on a bright background."
 
 [/Lotus/Language/Items/AvatarMagCoilBrightName]
-"MAG COIL PROFILE ICON"
+"MAG COIL GLYPH"
 
 [/Lotus/Language/Items/AvatarMagCoilDarkDescription]
-"A profile icon depicting Mag Coil on a dark background."
+"A glyph depicting Mag Coil on a dark background."
 
 [/Lotus/Language/Items/AvatarMagCoilDarkName]
-"MAG COIL PROFILE ICON"
+"MAG COIL GLYPH"
 
 [/Lotus/Language/Items/AvatarMagDarkDescription]
-"A profile icon depicting Mag on a dark background."
+"A glyph depicting Mag on a dark background."
 
 [/Lotus/Language/Items/AvatarMagDarkName]
-"MAG PROFILE ICON"
+"MAG GLYPH"
 
 [/Lotus/Language/Items/AvatarMagGaussBrightDescription]
-"A profile icon depicting Mag Gauss on a bright background."
+"A glyph depicting Mag Gauss on a bright background."
 
 [/Lotus/Language/Items/AvatarMagGaussBrightName]
-"MAG GAUSS PROFILE ICON"
+"MAG GAUSS GLYPH"
 
 [/Lotus/Language/Items/AvatarMagGaussDarkDescription]
-"A profile icon depicting Mag Gauss on a dark background."
+"A glyph depicting Mag Gauss on a dark background."
 
 [/Lotus/Language/Items/AvatarMagGaussDarkName]
-"MAG GAUSS PROFILE ICON"
+"MAG GAUSS GLYPH"
 
 [/Lotus/Language/Items/AvatarMagPrimeBrightDescription]
-"A profile icon depicting Mag Prime on a bright background."
+"A glyph depicting Mag Prime on a bright background."
 
 [/Lotus/Language/Items/AvatarMagPrimeBrightName]
-"MAG PRIME PROFILE ICON"
+"MAG PRIME GLYPH"
 
 [/Lotus/Language/Items/AvatarMagPrimeDarkDescription]
-"A profile icon depicting Mag Prime on a dark background."
+"A glyph depicting Mag Prime on a dark background."
 
 [/Lotus/Language/Items/AvatarMagPrimeDarkName]
-"MAG PRIME PROFILE ICON"
+"MAG PRIME GLYPH"
 
 [/Lotus/Language/Items/AvatarMesaCortesBrightDesc]
-"A profile icon depicting Mesa Ovis on a bright background."
+"A glyph depicting Mesa Ovis on a bright background."
 
 [/Lotus/Language/Items/AvatarMesaCortesBrightName]
-"MESA OVIS PROFILE ICON"
+"MESA OVIS GLYPH"
 
 [/Lotus/Language/Items/AvatarMesaCortesDarkDesc]
-"A profile icon depicting Mesa Ovis on a dark background."
+"A glyph depicting Mesa Ovis on a dark background."
 
 [/Lotus/Language/Items/AvatarMesaCortesDarkName]
-"MESA OVIS PROFILE ICON"
+"MESA OVIS GLYPH"
 
 [/Lotus/Language/Items/AvatarMirageBrightDesc]
-"A profile icon depicting Mirage on a bright background."
+"A glyph depicting Mirage on a bright background."
 
 [/Lotus/Language/Items/AvatarMirageBrightName]
-"MIRAGE PROFILE ICON"
+"MIRAGE GLYPH"
 
 [/Lotus/Language/Items/AvatarMirageDarkDesc]
-"A profile icon depicting Mirage on a dark background."
+"A glyph depicting Mirage on a dark background."
 
 [/Lotus/Language/Items/AvatarMirageDarkName]
-"MIRAGE PROFILE ICON"
+"MIRAGE GLYPH"
 
 [/Lotus/Language/Items/AvatarMirageHarlequinBrightDesc]
-"A profile icon depicting Mirage Harlequin on a bright background."
+"A glyph depicting Mirage Harlequin on a bright background."
 
 [/Lotus/Language/Items/AvatarMirageHarlequinBrightName]
-"MIRAGE HARLEQUIN PROFILE ICON"
+"MIRAGE HARLEQUIN GLYPH"
 
 [/Lotus/Language/Items/AvatarMirageHarlequinDarkDesc]
-"A profile icon depicting Mirage Harlequin on a dark background."
+"A glyph depicting Mirage Harlequin on a dark background."
 
 [/Lotus/Language/Items/AvatarMirageHarlequinDarkName]
-"MIRAGE HARLEQUIN PROFILE ICON"
+"MIRAGE HARLEQUIN GLYPH"
 
 [/Lotus/Language/Items/AvatarMirageTrivelinBrightDesc]
-"A profile icon depicting Mirage Trivelin on a bright background."
+"A glyph depicting Mirage Trivelin on a bright background."
 
 [/Lotus/Language/Items/AvatarMirageTrivelinBrightName]
-"MIRAGE TRIVELIN PROFILE ICON"
+"MIRAGE TRIVELIN GLYPH"
 
 [/Lotus/Language/Items/AvatarMirageTrivelinDarkDesc]
-"A profile icon depicting Mirage Trivelin on a dark background."
+"A glyph depicting Mirage Trivelin on a dark background."
 
 [/Lotus/Language/Items/AvatarMirageTrivelinDarkName]
-"MIRAGE TRIVELIN PROFILE ICON"
+"MIRAGE TRIVELIN GLYPH"
 
 [/Lotus/Language/Items/AvatarMonkeyKingAltBrightDescription]
-"A profile icon depicting Wukong Dasheng on a bright background."
+"A glyph depicting Wukong Dasheng on a bright background."
 
 [/Lotus/Language/Items/AvatarMonkeyKingAltBrightName]
-"WUKONG DASHENG PROFILE ICON"
+"WUKONG DASHENG GLYPH"
 
 [/Lotus/Language/Items/AvatarMonkeyKingAltDarkDescription]
-"A profile icon depicting Wukong Dasheng on a dark background."
+"A glyph depicting Wukong Dasheng on a dark background."
 
 [/Lotus/Language/Items/AvatarMonkeyKingAltDarkName]
-"WUKONG DASHENG PROFILE ICON"
+"WUKONG DASHENG GLYPH"
 
 [/Lotus/Language/Items/AvatarMonkeyKingBrightDescription]
-"A profile icon depicting Wukong on a bright background."
+"A glyph depicting Wukong on a bright background."
 
 [/Lotus/Language/Items/AvatarMonkeyKingBrightName]
-"WUKONG PROFILE ICON"
+"WUKONG GLYPH"
 
 [/Lotus/Language/Items/AvatarMonkeyKingDarkDescription]
-"A profile icon depicting Wukong on a dark background."
+"A glyph depicting Wukong on a dark background."
 
 [/Lotus/Language/Items/AvatarMonkeyKingDarkName]
-"WUKONG PROFILE ICON"
+"WUKONG GLYPH"
 
 [/Lotus/Language/Items/AvatarNekrosAraknidBrightDescription]
-"A profile icon depicting Nekros Raknis on a bright background."
+"A glyph depicting Nekros Raknis on a bright background."
 
 [/Lotus/Language/Items/AvatarNekrosAraknidBrightName]
-"NEKROS RAKNIS PROFILE ICON"
+"NEKROS RAKNIS GLYPH"
 
 [/Lotus/Language/Items/AvatarNekrosAraknidDarkDescription]
-"A profile icon depicting Nekros Raknis on a dark background."
+"A glyph depicting Nekros Raknis on a dark background."
 
 [/Lotus/Language/Items/AvatarNekrosAraknidDarkName]
-"NEKROS RAKNIS PROFILE ICON"
+"NEKROS RAKNIS GLYPH"
 
 [/Lotus/Language/Items/AvatarNekrosBrightDescription]
-"A profile icon depicting Nekros on a bright background."
+"A glyph depicting Nekros on a bright background."
 
 [/Lotus/Language/Items/AvatarNekrosBrightName]
-"NEKROS PROFILE ICON"
+"NEKROS GLYPH"
 
 [/Lotus/Language/Items/AvatarNekrosDarkDescription]
-"A profile icon depicting Nekros on a dark background."
+"A glyph depicting Nekros on a dark background."
 
 [/Lotus/Language/Items/AvatarNekrosDarkName]
-"NEKROS PROFILE ICON"
+"NEKROS GLYPH"
 
 [/Lotus/Language/Items/AvatarNekrosPrimeBrightDesc]
-"A profile icon depicting Nekros Prime on a bright background."
+"A glyph depicting Nekros Prime on a bright background."
 
 [/Lotus/Language/Items/AvatarNekrosPrimeBrightName]
-"NEKROS PRIME PROFILE ICON"
+"NEKROS PRIME GLYPH"
 
 [/Lotus/Language/Items/AvatarNekrosPrimeDarkDesc]
-"A profile icon depicting Nekros Prime on a dark background."
+"A glyph depicting Nekros Prime on a dark background."
 
 [/Lotus/Language/Items/AvatarNekrosPrimeDarkName]
-"NEKROS PRIME PROFILE ICON"
+"NEKROS PRIME GLYPH"
 
 [/Lotus/Language/Items/AvatarNekrosShroudBrightDesc]
-"A profile icon depicting Nekros Shroud on a bright background."
+"A glyph depicting Nekros Shroud on a bright background."
 
 [/Lotus/Language/Items/AvatarNekrosShroudBrightName]
-"NEKROS SHROUD PROFILE ICON"
+"NEKROS SHROUD GLYPH"
 
 [/Lotus/Language/Items/AvatarNekrosShroudDarkDesc]
-"A profile icon depicting Nekros Shroud on a dark background."
+"A glyph depicting Nekros Shroud on a dark background."
 
 [/Lotus/Language/Items/AvatarNekrosShroudDarkName]
-"NEKROS SHROUD PROFILE ICON"
+"NEKROS SHROUD GLYPH"
 
 [/Lotus/Language/Items/AvatarNextPromoWarframeBrightDescription]
-"A profile icon depicting Nyx Prime on a bright background."
+"A glyph depicting Nyx Prime on a bright background."
 
 [/Lotus/Language/Items/AvatarNextPromoWarframeBrightName]
-"NYX PRIME PROFILE ICON"
+"NYX PRIME GLYPH"
 
 [/Lotus/Language/Items/AvatarNextPromoWarframeDarkDescription]
-"A profile icon depicting Nyx Prime on a dark background."
+"A glyph depicting Nyx Prime on a dark background."
 
 [/Lotus/Language/Items/AvatarNextPromoWarframeDarkName]
-"NYX PRIME PROFILE ICON"
+"NYX PRIME GLYPH"
 
 [/Lotus/Language/Items/AvatarNezhaAltBrightDescription]
-"A profile icon depicting Nezha Circa on a bright background."
+"A glyph depicting Nezha Circa on a bright background."
 
 [/Lotus/Language/Items/AvatarNezhaAltBrightName]
-"NEZHA CIRCA PROFILE ICON"
+"NEZHA CIRCA GLYPH"
 
 [/Lotus/Language/Items/AvatarNezhaAltDarkDescription]
-"A profile icon depicting Nezha Circa on a dark background."
+"A glyph depicting Nezha Circa on a dark background."
 
 [/Lotus/Language/Items/AvatarNezhaAltDarkName]
-"NEZHA CIRCA PROFILE ICON"
+"NEZHA CIRCA GLYPH"
 
 [/Lotus/Language/Items/AvatarNezhaBrightDescription]
-"A profile icon depicting Nezha on a bright background."
+"A glyph depicting Nezha on a bright background."
 
 [/Lotus/Language/Items/AvatarNezhaBrightName]
-"NEZHA PROFILE ICON"
+"NEZHA GLYPH"
 
 [/Lotus/Language/Items/AvatarNezhaDarkDescription]
-"A profile icon depicting Nezha on a dark background."
+"A glyph depicting Nezha on a dark background."
 
 [/Lotus/Language/Items/AvatarNezhaDarkName]
-"NEZHA PROFILE ICON"
+"NEZHA GLYPH"
 
 [/Lotus/Language/Items/AvatarNidusBrightDesc]
-"A profile icon depicting Nidus on a bright background."
+"A glyph depicting Nidus on a bright background."
 
 [/Lotus/Language/Items/AvatarNidusBrightName]
-"NIDUS PROFILE ICON"
+"NIDUS GLYPH"
 
 [/Lotus/Language/Items/AvatarNidusDarkDesc]
-"A profile icon depicting Nidus on a dark background."
+"A glyph depicting Nidus on a dark background."
 
 [/Lotus/Language/Items/AvatarNidusDarkName]
-"NIDUS PROFILE ICON"
+"NIDUS GLYPH"
 
 [/Lotus/Language/Items/AvatarNidusPrionBrightDesc]
-"A profile icon depicting Nidus Prion on a bright background."
+"A glyph depicting Nidus Prion on a bright background."
 
 [/Lotus/Language/Items/AvatarNidusPrionBrightName]
-"NIDUS PRION PROFILE ICON"
+"NIDUS PRION GLYPH"
 
 [/Lotus/Language/Items/AvatarNidusPrionDarkDesc]
-"A profile icon depicting Nidus Prion on a dark background."
+"A glyph depicting Nidus Prion on a dark background."
 
 [/Lotus/Language/Items/AvatarNidusPrionDarkName]
-"NIDUS PRION PROFILE ICON"
+"NIDUS PRION GLYPH"
 
 [/Lotus/Language/Items/AvatarNovaAltBrightDescription]
-"A profile icon depicting Nova Flux on a bright background."
+"A glyph depicting Nova Flux on a bright background."
 
 [/Lotus/Language/Items/AvatarNovaAltBrightName]
-"NOVA FLUX PROFILE ICON"
+"NOVA FLUX GLYPH"
 
 [/Lotus/Language/Items/AvatarNovaAltDarkDescription]
-"A profile icon depicting Nova Flux on a dark background."
+"A glyph depicting Nova Flux on a dark background."
 
 [/Lotus/Language/Items/AvatarNovaAltDarkName]
-"NOVA FLUX PROFILE ICON"
+"NOVA FLUX GLYPH"
 
 [/Lotus/Language/Items/AvatarNovaBrightDescription]
-"A profile icon depicting Nova on a bright background."
+"A glyph depicting Nova on a bright background."
 
 [/Lotus/Language/Items/AvatarNovaBrightName]
-"NOVA PROFILE ICON"
+"NOVA GLYPH"
 
 [/Lotus/Language/Items/AvatarNovaDarkDescription]
-"A profile icon depicting Nova on a dark background."
+"A glyph depicting Nova on a dark background."
 
 [/Lotus/Language/Items/AvatarNovaDarkName]
-"NOVA PROFILE ICON"
+"NOVA GLYPH"
 
 [/Lotus/Language/Items/AvatarNovaDeluxeDesc]
-"A profile icon depicting Nova Asuri."
+"A glyph depicting Nova Asuri."
 
 [/Lotus/Language/Items/AvatarNovaDeluxeName]
-"NOVA ASURI PROFILE ICON"
+"NOVA ASURI GLYPH"
 
 [/Lotus/Language/Items/AvatarNovaPrimeBrightDescription]
-"A profile icon depicting Nova Prime on a bright background."
+"A glyph depicting Nova Prime on a bright background."
 
 [/Lotus/Language/Items/AvatarNovaPrimeBrightName]
-"NOVA PRIME PROFILE ICON"
+"NOVA PRIME GLYPH"
 
 [/Lotus/Language/Items/AvatarNovaPrimeDarkDescription]
-"A profile icon depicting Nova Prime on a dark background."
+"A glyph depicting Nova Prime on a dark background."
 
 [/Lotus/Language/Items/AvatarNovaPrimeDarkName]
-"NOVA PRIME PROFILE ICON"
+"NOVA PRIME GLYPH"
 
 [/Lotus/Language/Items/AvatarNovaQuantumBrightDesc]
-"A profile icon depicting Nova Quantum on a bright background."
+"A glyph depicting Nova Quantum on a bright background."
 
 [/Lotus/Language/Items/AvatarNovaQuantumBrightName]
-"NOVA QUANTUM PROFILE ICON"
+"NOVA QUANTUM GLYPH"
 
 [/Lotus/Language/Items/AvatarNovaQuantumDarkDesc]
-"A profile icon depicting Nova Quantum on a dark background."
+"A glyph depicting Nova Quantum on a dark background."
 
 [/Lotus/Language/Items/AvatarNovaQuantumDarkName]
-"NOVA QUANTUM PROFILE ICON"
+"NOVA QUANTUM GLYPH"
 
 [/Lotus/Language/Items/AvatarNovaSlipstreamBrightDesc]
-"A profile icon depicting Nova Slipstream on a bright background."
+"A glyph depicting Nova Slipstream on a bright background."
 
 [/Lotus/Language/Items/AvatarNovaSlipstreamBrightName]
-"NOVA SLIPSTREAM PROFILE ICON"
+"NOVA SLIPSTREAM GLYPH"
 
 [/Lotus/Language/Items/AvatarNovaSlipstreamDarkDesc]
-"A profile icon depicting Nova Slipstream on a dark background."
+"A glyph depicting Nova Slipstream on a dark background."
 
 [/Lotus/Language/Items/AvatarNovaSlipstreamDarkName]
-"NOVA SLIPSTREAM PROFILE ICON"
+"NOVA SLIPSTREAM GLYPH"
 
 [/Lotus/Language/Items/AvatarNyxBrightDescription]
-"A profile icon depicting Nyx on a bright background."
+"A glyph depicting Nyx on a bright background."
 
 [/Lotus/Language/Items/AvatarNyxBrightName]
-"NYX PROFILE ICON"
+"NYX GLYPH"
 
 [/Lotus/Language/Items/AvatarNyxDarkDescription]
-"A profile icon depicting Nyx on a dark background."
+"A glyph depicting Nyx on a dark background."
 
 [/Lotus/Language/Items/AvatarNyxDarkName]
-"NYX PROFILE ICON"
+"NYX GLYPH"
 
 [/Lotus/Language/Items/AvatarNyxMenticideBrightDescription]
-"A profile icon depicting Nyx Menticide on a bright background."
+"A glyph depicting Nyx Menticide on a bright background."
 
 [/Lotus/Language/Items/AvatarNyxMenticideBrightName]
-"NYX MENTICIDE PROFILE ICON"
+"NYX MENTICIDE GLYPH"
 
 [/Lotus/Language/Items/AvatarNyxMenticideDarkDescription]
-"A profile icon depicting Nyx Menticide on a dark background."
+"A glyph depicting Nyx Menticide on a dark background."
 
 [/Lotus/Language/Items/AvatarNyxMenticideDarkName]
-"NYX MENTICIDE PROFILE ICON"
+"NYX MENTICIDE GLYPH"
 
 [/Lotus/Language/Items/AvatarNyxNemesisDesc]
-"A profile icon depicting Nyx Nemesis."
+"A glyph depicting Nyx Nemesis."
 
 [/Lotus/Language/Items/AvatarNyxNemesisName]
-"NYX NEMESIS PROFILE ICON"
+"NYX NEMESIS GLYPH"
 
 [/Lotus/Language/Items/AvatarNyxVespaBrightDescription]
-"A profile icon depicting Nyx Vespa on a bright background."
+"A glyph depicting Nyx Vespa on a bright background."
 
 [/Lotus/Language/Items/AvatarNyxVespaBrightName]
-"NYX VESPA PROFILE ICON"
+"NYX VESPA GLYPH"
 
 [/Lotus/Language/Items/AvatarNyxVespaDarkDescription]
-"A profile icon depicting Nyx Vespa on a dark background."
+"A glyph depicting Nyx Vespa on a dark background."
 
 [/Lotus/Language/Items/AvatarNyxVespaDarkName]
-"NYX VESPA PROFILE ICON"
+"NYX VESPA GLYPH"
 
 [/Lotus/Language/Items/AvatarOberonBrightDescription]
-"A profile icon depicting Oberon on a bright background."
+"A glyph depicting Oberon on a bright background."
 
 [/Lotus/Language/Items/AvatarOberonBrightName]
-"OBERON PROFILE ICON"
+"OBERON GLYPH"
 
 [/Lotus/Language/Items/AvatarOberonDarkDescription]
-"A profile icon depicting Oberon on a dark background."
+"A glyph depicting Oberon on a dark background."
 
 [/Lotus/Language/Items/AvatarOberonDarkName]
-"OBERON PROFILE ICON"
+"OBERON GLYPH"
 
 [/Lotus/Language/Items/AvatarOberonDeluxeDesc]
-"A profile icon depicting Oberon Feyarch."
+"A glyph depicting Oberon Feyarch."
 
 [/Lotus/Language/Items/AvatarOberonDeluxeName]
-"OBERON FEYARCH PROFILE ICON"
+"OBERON FEYARCH GLYPH"
 
 [/Lotus/Language/Items/AvatarOberonMarkhorBrightDescription]
-"A profile icon depicting Oberon Markhor on a bright background."
+"A glyph depicting Oberon Markhor on a bright background."
 
 [/Lotus/Language/Items/AvatarOberonMarkhorBrightName]
-"OBERON MARKHOR PROFILE ICON"
+"OBERON MARKHOR GLYPH"
 
 [/Lotus/Language/Items/AvatarOberonMarkhorDarkDescription]
-"A profile icon depicting Oberon Markhor on a dark background."
+"A glyph depicting Oberon Markhor on a dark background."
 
 [/Lotus/Language/Items/AvatarOberonMarkhorDarkName]
-"OBERON MARKHOR PROFILE ICON"
+"OBERON MARKHOR GLYPH"
 
 [/Lotus/Language/Items/AvatarOberonOryxBrightDescription]
-"A profile icon depicting Oberon Oryx on a bright background."
+"A glyph depicting Oberon Oryx on a bright background."
 
 [/Lotus/Language/Items/AvatarOberonOryxBrightName]
-"OBERON ORYX PROFILE ICON"
+"OBERON ORYX GLYPH"
 
 [/Lotus/Language/Items/AvatarOberonOryxDarkDescription]
-"A profile icon depicting Oberon Oryx on a dark background."
+"A glyph depicting Oberon Oryx on a dark background."
 
 [/Lotus/Language/Items/AvatarOberonOryxDarkName]
-"OBERON ORYX PROFILE ICON"
+"OBERON ORYX GLYPH"
 
 [/Lotus/Language/Items/AvatarPackAshDescription]
-"Contains four variations of Ash and Ash Scorpion profile icons."
+"Contains four variations of Ash and Ash Scorpion glyphs."
 
 [/Lotus/Language/Items/AvatarPackAshLocustDescription]
-"Contains two variations of the Ash Locust profile icon."
+"Contains two variations of the Ash Locust glyph."
 
 [/Lotus/Language/Items/AvatarPackAshLocustName]
-"ASH LOCUST PROFILE ICON PACK"
+"ASH LOCUST GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackAshName]
-"ASH PROFILE ICON PACK"
+"ASH GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackBansheeChorusDescription]
-"Contains two variations of the Banshee Chorus profile icon."
+"Contains two variations of the Banshee Chorus glyph."
 
 [/Lotus/Language/Items/AvatarPackBansheeChorusName]
-"BANSHEE CHORUS PROFILE ICON PACK"
+"BANSHEE CHORUS GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackBansheeDescription]
-"Contains four variations of Banshee and Banshee Reverb profile icons."
+"Contains four variations of Banshee and Banshee Reverb glyphs."
 
 [/Lotus/Language/Items/AvatarPackBansheeName]
-"BANSHEE PROFILE ICON PACK"
+"BANSHEE GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackChromaAmaruDesc]
-"Contains two variations of Chroma Amaru profile icons."
+"Contains two variations of Chroma Amaru glyphs."
 
 [/Lotus/Language/Items/AvatarPackChromaAmaruName]
-"CHROMA AMARU PROFILE ICON PACK"
+"CHROMA AMARU GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackChromaDesc]
-"Contains four variations of Chroma and Chroma Drac profile icons."
+"Contains four variations of Chroma and Chroma Drac glyphs."
 
 [/Lotus/Language/Items/AvatarPackChromaName]
-"CHROMA PROFILE ICON PACK"
+"CHROMA GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackEmberBackdraftDescription]
-"Contains two variations of the Ember Backdraft profile icon."
+"Contains two variations of the Ember Backdraft glyph."
 
 [/Lotus/Language/Items/AvatarPackEmberBackdraftName]
-"EMBER BACKDRAFT PROFILE ICON PACK"
+"EMBER BACKDRAFT GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackEmberDescription]
-"Contains four variations of Ember and Ember Phoenix profile icons."
+"Contains four variations of Ember and Ember Phoenix glyphs."
 
 [/Lotus/Language/Items/AvatarPackEmberName]
-"EMBER PROFILE ICON PACK"
+"EMBER GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackExcaliburDescription]
-"Contains four variations of Excalibur and Excalibur Avalon profile icons."
+"Contains four variations of Excalibur and Excalibur Avalon glyphs."
 
 [/Lotus/Language/Items/AvatarPackExcaliburMordredDescription]
-"Contains two variations of the Excalibur Mordred profile icon."
+"Contains two variations of the Excalibur Mordred glyph."
 
 [/Lotus/Language/Items/AvatarPackExcaliburMordredName]
-"EXCALIBUR MORDRED PROFILE ICON PACK"
+"EXCALIBUR MORDRED GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackExcaliburName]
-"EXCALIBUR PROFILE ICON PACK"
+"EXCALIBUR GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackExcaliburPendragonDescription]
-"Contains two variations of the Excalibur Pendragon profile icon."
+"Contains two variations of the Excalibur Pendragon glyph."
 
 [/Lotus/Language/Items/AvatarPackExcaliburPendragonName]
-"EXCALIBUR PENDRAGON PROFILE ICON PACK"
+"EXCALIBUR PENDRAGON GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackFrostDescription]
-"Contains four variations of Frost and Frost Aurora profile icons."
+"Contains four variations of Frost and Frost Aurora glyphs."
 
 [/Lotus/Language/Items/AvatarPackFrostName]
-"FROST PROFILE ICON PACK"
+"FROST GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackFrostPrimeDesc]
-"Contains two variations of the Frost Prime profile icon."
+"Contains two variations of the Frost Prime glyph."
 
 [/Lotus/Language/Items/AvatarPackFrostPrimeName]
-"FROST PRIME PROFILE ICON PACK"
+"FROST PRIME GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackFrostSquallDescription]
-"Contains two variations of the Frost Squall profile icon."
+"Contains two variations of the Frost Squall glyph."
 
 [/Lotus/Language/Items/AvatarPackFrostSquallName]
-"FROST SQUALL PROFILE ICON PACK"
+"FROST SQUALL GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackGunslingerDesc]
-"Contains four variations of Mesa and Mesa Longhorn profile icons."
+"Contains four variations of Mesa and Mesa Longhorn glyphs."
 
 [/Lotus/Language/Items/AvatarPackGunslingerName]
-"MESA PROFILE ICON PACK"
+"MESA GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackHydroidKetosDesc]
-"Contains two variations of the Hydroid Ketos profile icon."
+"Contains two variations of the Hydroid Ketos glyph."
 
 [/Lotus/Language/Items/AvatarPackHydroidKetosName]
-"HYDROID KETOS PROFILE ICON PACK"
+"HYDROID KETOS GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackLimboDescription]
-"Contains four variations of Limbo and Limbo Aristeas profile icons."
+"Contains four variations of Limbo and Limbo Aristeas glyphs."
 
 [/Lotus/Language/Items/AvatarPackLimboGraeaeDesc]
-"Contains two variations of Limbo Magrite profile icons."
+"Contains two variations of Limbo Magrite glyphs."
 
 [/Lotus/Language/Items/AvatarPackLimboGraeaeName]
-"LIMBO MAGRITE PROFILE ICON PACK"
+"LIMBO MAGRITE GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackLimboName]
-"LIMBO PROFILE ICON PACK"
+"LIMBO GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackLokiDescription]
-"Contains four variations of Loki and Loki Essence profile icons."
+"Contains four variations of Loki and Loki Essence glyphs."
 
 [/Lotus/Language/Items/AvatarPackLokiEnigmaDesc]
-"Contains two variations of the Loki Enigma profile icon."
+"Contains two variations of the Loki Enigma glyph."
 
 [/Lotus/Language/Items/AvatarPackLokiEnigmaName]
-"LOKI ENIGMA PROFILE ICON PACK"
+"LOKI ENIGMA GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackLokiName]
-"LOKI PROFILE ICON PACK"
+"LOKI GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackLokiSwindleDescription]
-"Contains two variations of the Loki Swindle profile icon."
+"Contains two variations of the Loki Swindle glyph."
 
 [/Lotus/Language/Items/AvatarPackLokiSwindleName]
-"LOKI SWINDLE PROFILE ICON PACK"
+"LOKI SWINDLE GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackMagDescription]
-"Contains four variations of Mag and Mag Coil profile icons."
+"Contains four variations of Mag and Mag Coil glyphs."
 
 [/Lotus/Language/Items/AvatarPackMagGaussName]
-"MAG GAUSS PROFILE ICON PACK"
+"MAG GAUSS GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackMagGuassDescription]
-"Contains two variations of the Mag Gauss profile icon."
+"Contains two variations of the Mag Gauss glyph."
 
 [/Lotus/Language/Items/AvatarPackMagName]
-"MAG PROFILE ICON PACK"
+"MAG GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackMagPrimeDesc]
-"Contains two variations of the Mag Prime profile icon."
+"Contains two variations of the Mag Prime glyph."
 
 [/Lotus/Language/Items/AvatarPackMagPrimeName]
-"MAG PRIME PROFILE ICON PACK"
+"MAG PRIME GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackMesaCortesDesc]
-"Contains two variations of Mesa Ovis profile icons."
+"Contains two variations of Mesa Ovis glyphs."
 
 [/Lotus/Language/Items/AvatarPackMesaCortesName]
-"MESA OVIS PROFILE ICON PACK"
+"MESA OVIS GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackMirageDesc]
-"Contains four variations of Mirage and Mirage Harlequin profile icons."
+"Contains four variations of Mirage and Mirage Harlequin glyphs."
 
 [/Lotus/Language/Items/AvatarPackMirageName]
-"MIRAGE PROFILE ICON PACK"
+"MIRAGE GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackMirageTrivelinDesc]
-"Contains two variations of Mirage Trivelin profile icons."
+"Contains two variations of Mirage Trivelin glyphs."
 
 [/Lotus/Language/Items/AvatarPackMirageTrivelinName]
-"MIRAGE TRIVELIN PROFILE ICON PACK"
+"MIRAGE TRIVELIN GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackNekrosDescription]
-"Contains four variations of Nekros and Nekros Raknis profile icons."
+"Contains four variations of Nekros and Nekros Raknis glyphs."
 
 [/Lotus/Language/Items/AvatarPackNekrosName]
-"NEKROS PROFILE ICON PACK"
+"NEKROS GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackNekrosShroudDesc]
-"Contains two variations of the Nekros Shroud profile icon."
+"Contains two variations of the Nekros Shroud glyph."
 
 [/Lotus/Language/Items/AvatarPackNekrosShroudName]
-"NEKROS SHROUD PROFILE ICON PACK"
+"NEKROS SHROUD GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackNovaDescription]
-"Contains four variations of Nova and Nova Flux profile icons."
+"Contains four variations of Nova and Nova Flux glyphs."
 
 [/Lotus/Language/Items/AvatarPackNovaName]
-"NOVA PROFILE ICON PACK"
+"NOVA GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackNovaQuantumDesc]
-"Contains two variations of the Nova Quantum profile icon."
+"Contains two variations of the Nova Quantum glyph."
 
 [/Lotus/Language/Items/AvatarPackNovaQuantumName]
-"NOVA QUANTUM PROFILE ICON PACK"
+"NOVA QUANTUM GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackNovaSlipstreamDesc]
-"Contains two variations of the Nova Slipstream profile icon."
+"Contains two variations of the Nova Slipstream glyph."
 
 [/Lotus/Language/Items/AvatarPackNovaSlipstreamName]
-"NOVA SLIPSTREAM PROFILE ICON PACK"
+"NOVA SLIPSTREAM GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackNyxDescription]
-"Contains four variations of Nyx and Nyx Menticide profile icons."
+"Contains four variations of Nyx and Nyx Menticide glyphs."
 
 [/Lotus/Language/Items/AvatarPackNyxName]
-"NYX PROFILE ICON PACK"
+"NYX GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackNyxVespaDescription]
-"Contains two variations of the Nyx Vespa profile icon."
+"Contains two variations of the Nyx Vespa glyph."
 
 [/Lotus/Language/Items/AvatarPackNyxVespaName]
-"NYX VESPA PROFILE ICON PACK"
+"NYX VESPA GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackOberonDesc]
-"Contains four variations of Oberon and Oberon Oryx profile icons."
+"Contains four variations of Oberon and Oberon Oryx glyphs."
 
 [/Lotus/Language/Items/AvatarPackOberonMarkhorDescription]
-"Contains two variations of the Oberon Markhor profile icon."
+"Contains two variations of the Oberon Markhor glyph."
 
 [/Lotus/Language/Items/AvatarPackOberonMarkhorName]
-"OBERON MARKHOR PROFILE ICON PACK"
+"OBERON MARKHOR GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackOberonName]
-"OBERON PROFILE ICON PACK"
+"OBERON GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackPirateDescription]
-"Contains four variations of Hydroid and Hydroid Triton profile icons."
+"Contains four variations of Hydroid and Hydroid Triton glyphs."
 
 [/Lotus/Language/Items/AvatarPackPirateName]
-"HYDROID PROFILE ICON PACK"
+"HYDROID GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackPrimeDescription]
-"Contains four variations of Excalibur Prime and Frost Prime profile icons."
+"Contains four variations of Excalibur Prime and Frost Prime glyphs."
 
 [/Lotus/Language/Items/AvatarPackPrimeName]
-"PRIME PROFILE ICON PACK"
+"PRIME GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackRhinoDescription]
-"Contains four variations of Rhino and Rhino Thrak profile icons."
+"Contains four variations of Rhino and Rhino Thrak glyphs."
 
 [/Lotus/Language/Items/AvatarPackRhinoName]
-"RHINO PROFILE ICON PACK"
+"RHINO GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackRhinoVanguardDescription]
-"Contains two variations of the Rhino Vanguard profile icon."
+"Contains two variations of the Rhino Vanguard glyph."
 
 [/Lotus/Language/Items/AvatarPackRhinoVanguardName]
-"RHINO VANGUARD PROFILE ICON PACK"
+"RHINO VANGUARD GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackSarynChloraDescription]
-"Contains two variations of the Saryn Chlora profile icon."
+"Contains two variations of the Saryn Chlora glyph."
 
 [/Lotus/Language/Items/AvatarPackSarynChloraName]
-"SARYN CHLORA PROFILE ICON PACK"
+"SARYN CHLORA GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackSarynDescription]
-"Contains four variations of Saryn and Saryn Hemlock profile icons."
+"Contains four variations of Saryn and Saryn Hemlock glyphs."
 
 [/Lotus/Language/Items/AvatarPackSarynName]
-"SARYN PROFILE ICON PACK"
+"SARYN GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackTrapperDescription]
-"Contains four variations of Vauban and Vauban Esprit profile icons."
+"Contains four variations of Vauban and Vauban Esprit glyphs."
 
 [/Lotus/Language/Items/AvatarPackTrapperGambitDescription]
-"Contains two variations of the Vauban Gambit profile icon."
+"Contains two variations of the Vauban Gambit glyph."
 
 [/Lotus/Language/Items/AvatarPackTrapperGambitName]
-"VAUBAN GAMBIT PROFILE ICON PACK"
+"VAUBAN GAMBIT GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackTrapperName]
-"VAUBAN PROFILE ICON PACK"
+"VAUBAN GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackTrapperSoldierDescription]
-"Contains two variations of the Vauban Armistice profile icon."
+"Contains two variations of the Vauban Armistice glyph."
 
 [/Lotus/Language/Items/AvatarPackTrapperSoldierName]
-"VAUBAN ARMISTICE PROFILE ICON PACK"
+"VAUBAN ARMISTICE GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackTrinityDescription]
-"Contains four variations of Trinity and Trinity Aura profile icons."
+"Contains four variations of Trinity and Trinity Aura glyphs."
 
 [/Lotus/Language/Items/AvatarPackTrinityMeridianDescription]
-"Contains two variations of the Trinity Meridian profile icon."
+"Contains two variations of the Trinity Meridian glyph."
 
 [/Lotus/Language/Items/AvatarPackTrinityMeridianName]
-"TRINITY MERIDIAN PROFILE ICON PACK"
+"TRINITY MERIDIAN GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackTrinityName]
-"TRINITY PROFILE ICON PACK"
+"TRINITY GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackValkyrDesc]
-"Contains four variations of Valkyr and Valkyr Bastet profile icons."
+"Contains four variations of Valkyr and Valkyr Bastet glyphs."
 
 [/Lotus/Language/Items/AvatarPackValkyrKaraDescription]
-"Contains two variations of the Valkyr Kara profile icon."
+"Contains two variations of the Valkyr Kara glyph."
 
 [/Lotus/Language/Items/AvatarPackValkyrKaraName]
-"VALKYR KARA PROFILE ICON PACK"
+"VALKYR KARA GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackValkyrName]
-"VALKYR PROFILE ICON PACK"
+"VALKYR GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackVoltDescription]
-"Contains four variations of Volt and Volt Storm profile icons."
+"Contains four variations of Volt and Volt Storm glyphs."
 
 [/Lotus/Language/Items/AvatarPackVoltName]
-"VOLT PROFILE ICON PACK"
+"VOLT GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackVoltPulseDescription]
-"Contains two variations of the Volt Pulse profile icon."
+"Contains two variations of the Volt Pulse glyph."
 
 [/Lotus/Language/Items/AvatarPackVoltPulseName]
-"VOLT PULSE PROFILE ICON PACK"
+"VOLT PULSE GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackZephyrDesc]
-"Contains four variations of Zephyr and Zephyr Cierzo profile icons."
+"Contains four variations of Zephyr and Zephyr Cierzo glyphs."
 
 [/Lotus/Language/Items/AvatarPackZephyrName]
-"ZEPHYR PROFILE ICON PACK"
+"ZEPHYR GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPackZephyrTenguDesc]
-"Contains two variations of the Zephyr Tengu profile icon."
+"Contains two variations of the Zephyr Tengu glyph."
 
 [/Lotus/Language/Items/AvatarPackZephyrTenguName]
-"ZEPHYR TENGU PROFILE ICON PACK"
+"ZEPHYR TENGU GLYPH PACK"
 
 [/Lotus/Language/Items/AvatarPirateBrightDescription]
-"A profile icon depicting Hydroid on a bright background."
+"A glyph depicting Hydroid on a bright background."
 
 [/Lotus/Language/Items/AvatarPirateBrightName]
-"HYDROID PROFILE ICON"
+"HYDROID GLYPH"
 
 [/Lotus/Language/Items/AvatarPirateDarkDescription]
-"A profile icon depicting Hydroid on a dark background."
+"A glyph depicting Hydroid on a dark background."
 
 [/Lotus/Language/Items/AvatarPirateDarkName]
-"HYDROID PROFILE ICON"
+"HYDROID GLYPH"
 
 [/Lotus/Language/Items/AvatarPirateTritonBrightDescription]
-"A profile icon depicting Hydroid Triton on a bright background."
+"A glyph depicting Hydroid Triton on a bright background."
 
 [/Lotus/Language/Items/AvatarPirateTritonBrightName]
-"HYDROID TRITON PROFILE ICON"
+"HYDROID TRITON GLYPH"
 
 [/Lotus/Language/Items/AvatarPirateTritonDarkDescription]
-"A profile icon depicting Hydroid Triton on a dark background."
+"A glyph depicting Hydroid Triton on a dark background."
 
 [/Lotus/Language/Items/AvatarPirateTritonDarkName]
-"HYDROID TRITON PROFILE ICON"
+"HYDROID TRITON GLYPH"
 
 [/Lotus/Language/Items/AvatarProcTimeMod]
 "Rapid Resilience"
 
 [/Lotus/Language/Items/AvatarRangerBrightDescription]
-"A profile icon depicting Ivara on a bright background."
+"A glyph depicting Ivara on a bright background."
 
 [/Lotus/Language/Items/AvatarRangerBrightName]
-"IVARA PROFILE ICON"
+"IVARA GLYPH"
 
 [/Lotus/Language/Items/AvatarRangerDarkDescription]
-"A profile icon depicting Ivara on a dark background."
+"A glyph depicting Ivara on a dark background."
 
 [/Lotus/Language/Items/AvatarRangerDarkName]
-"IVARA PROFILE ICON"
+"IVARA GLYPH"
 
 [/Lotus/Language/Items/AvatarRangerLoxleyBrightDescription]
-"A profile icon depicting Ivara Loxley on a bright background."
+"A glyph depicting Ivara Loxley on a bright background."
 
 [/Lotus/Language/Items/AvatarRangerLoxleyBrightName]
-"IVARA LOXLEY PROFILE ICON"
+"IVARA LOXLEY GLYPH"
 
 [/Lotus/Language/Items/AvatarRangerLoxleyDarkDescription]
-"A profile icon depicting Ivara Loxley on a dark background."
+"A glyph depicting Ivara Loxley on a dark background."
 
 [/Lotus/Language/Items/AvatarRangerLoxleyDarkName]
-"IVARA LOXLEY PROFILE ICON"
+"IVARA LOXLEY GLYPH"
 
 [/Lotus/Language/Items/AvatarRhinoBrightDescription]
-"A profile icon depicting Rhino on a bright background."
+"A glyph depicting Rhino on a bright background."
 
 [/Lotus/Language/Items/AvatarRhinoBrightName]
-"RHINO PROFILE ICON"
+"RHINO GLYPH"
 
 [/Lotus/Language/Items/AvatarRhinoDarkDescription]
-"A profile icon depicting Rhino on a dark background."
+"A glyph depicting Rhino on a dark background."
 
 [/Lotus/Language/Items/AvatarRhinoDarkName]
-"RHINO PROFILE ICON"
+"RHINO GLYPH"
 
 [/Lotus/Language/Items/AvatarRhinoDeluxeDesc]
-"A profile icon depicting Rhino Palatine."
+"A glyph depicting Rhino Palatine."
 
 [/Lotus/Language/Items/AvatarRhinoDeluxeName]
-"RHINO PALATINE PROFILE ICON"
+"RHINO PALATINE GLYPH"
 
 [/Lotus/Language/Items/AvatarRhinoPrimeBrightDescription]
-"A profile icon depicting Rhino Prime on a bright background."
+"A glyph depicting Rhino Prime on a bright background."
 
 [/Lotus/Language/Items/AvatarRhinoPrimeBrightName]
-"RHINO PRIME PROFILE ICON"
+"RHINO PRIME GLYPH"
 
 [/Lotus/Language/Items/AvatarRhinoPrimeDarkDescription]
-"A profile icon depicting Rhino Prime on a dark background."
+"A glyph depicting Rhino Prime on a dark background."
 
 [/Lotus/Language/Items/AvatarRhinoPrimeDarkName]
-"RHINO PRIME PROFILE ICON"
+"RHINO PRIME GLYPH"
 
 [/Lotus/Language/Items/AvatarRhinoThrakBrightDescription]
-"A profile icon depicting Rhino Thrak on a bright background."
+"A glyph depicting Rhino Thrak on a bright background."
 
 [/Lotus/Language/Items/AvatarRhinoThrakBrightName]
-"RHINO THRAK PROFILE ICON"
+"RHINO THRAK GLYPH"
 
 [/Lotus/Language/Items/AvatarRhinoThrakDarkDescription]
-"A profile icon depicting Rhino Thrak on a dark background."
+"A glyph depicting Rhino Thrak on a dark background."
 
 [/Lotus/Language/Items/AvatarRhinoThrakDarkName]
-"RHINO THRAK PROFILE ICON"
+"RHINO THRAK GLYPH"
 
 [/Lotus/Language/Items/AvatarRhinoVanguardBrightDescription]
-"A profile icon depicting Rhino Vanguard on a bright background."
+"A glyph depicting Rhino Vanguard on a bright background."
 
 [/Lotus/Language/Items/AvatarRhinoVanguardBrightName]
-"RHINO VANGUARD PROFILE ICON"
+"RHINO VANGUARD GLYPH"
 
 [/Lotus/Language/Items/AvatarRhinoVanguardDarkDescription]
-"A profile icon depicting Rhino Vanguard on a dark background."
+"A glyph depicting Rhino Vanguard on a dark background."
 
 [/Lotus/Language/Items/AvatarRhinoVanguardDarkName]
-"RHINO VANGUARD PROFILE ICON"
+"RHINO VANGUARD GLYPH"
 
 [/Lotus/Language/Items/AvatarSandmanAnubisBrightDescription]
-"A profile icon depicting Inaros Anubis on a bright background."
+"A glyph depicting Inaros Anubis on a bright background."
 
 [/Lotus/Language/Items/AvatarSandmanAnubisBrightName]
-"INAROS ANUBIS PROFILE ICON"
+"INAROS ANUBIS GLYPH"
 
 [/Lotus/Language/Items/AvatarSandmanAnubisDarkDescription]
-"A profile icon depicting Inaros Anubis on a dark background."
+"A glyph depicting Inaros Anubis on a dark background."
 
 [/Lotus/Language/Items/AvatarSandmanAnubisDarkName]
-"INAROS ANUBIS PROFILE ICON"
+"INAROS ANUBIS GLYPH"
 
 [/Lotus/Language/Items/AvatarSandmanBrightDescription]
-"A profile icon depicting Inaros on a bright background."
+"A glyph depicting Inaros on a bright background."
 
 [/Lotus/Language/Items/AvatarSandmanBrightName]
-"INAROS PROFILE ICON"
+"INAROS GLYPH"
 
 [/Lotus/Language/Items/AvatarSandmanDarkDescription]
-"A profile icon depicting Inaros on a dark background."
+"A glyph depicting Inaros on a dark background."
 
 [/Lotus/Language/Items/AvatarSandmanDarkName]
-"INAROS PROFILE ICON"
+"INAROS GLYPH"
 
 [/Lotus/Language/Items/AvatarSarynBrightDescription]
-"A profile icon depicting Saryn on a bright background."
+"A glyph depicting Saryn on a bright background."
 
 [/Lotus/Language/Items/AvatarSarynBrightName]
-"SARYN PROFILE ICON"
+"SARYN GLYPH"
 
 [/Lotus/Language/Items/AvatarSarynChloraBrightDescription]
-"A profile icon depicting Saryn Chlora on a bright background."
+"A glyph depicting Saryn Chlora on a bright background."
 
 [/Lotus/Language/Items/AvatarSarynChloraBrightName]
-"SARYN CHLORA PROFILE ICON"
+"SARYN CHLORA GLYPH"
 
 [/Lotus/Language/Items/AvatarSarynChloraDarkDescription]
-"A profile icon depicting Saryn Chlora on a dark background."
+"A glyph depicting Saryn Chlora on a dark background."
 
 [/Lotus/Language/Items/AvatarSarynChloraDarkName]
-"SARYN CHLORA PROFILE ICON"
+"SARYN CHLORA GLYPH"
 
 [/Lotus/Language/Items/AvatarSarynDarkDescription]
-"A profile icon depicting Saryn on a dark background."
+"A glyph depicting Saryn on a dark background."
 
 [/Lotus/Language/Items/AvatarSarynDarkName]
-"SARYN PROFILE ICON"
+"SARYN GLYPH"
 
 [/Lotus/Language/Items/AvatarSarynDeluxeDesc]
-"A profile icon depicting Saryn Orphid skin."
+"A glyph depicting Saryn Orphid skin."
 
 [/Lotus/Language/Items/AvatarSarynDeluxeName]
-"SARYN ORPHID PROFILE ICON"
+"SARYN ORPHID GLYPH"
 
 [/Lotus/Language/Items/AvatarSarynHemlockBrightDescription]
-"A profile icon depicting Saryn Hemlock on a bright background."
+"A glyph depicting Saryn Hemlock on a bright background."
 
 [/Lotus/Language/Items/AvatarSarynHemlockBrightName]
-"SARYN HEMLOCK PROFILE ICON"
+"SARYN HEMLOCK GLYPH"
 
 [/Lotus/Language/Items/AvatarSarynHemlockDarkDescription]
-"A profile icon depicting Saryn Hemlock on a dark background."
+"A glyph depicting Saryn Hemlock on a dark background."
 
 [/Lotus/Language/Items/AvatarSarynHemlockDarkName]
-"SARYN HEMLOCK PROFILE ICON"
+"SARYN HEMLOCK GLYPH"
 
 [/Lotus/Language/Items/AvatarSarynPrimeBrightDesc]
-"A profile icon depicting Saryn Prime on a bright background."
+"A glyph depicting Saryn Prime on a bright background."
 
 [/Lotus/Language/Items/AvatarSarynPrimeBrightName]
-"SARYN PRIME PROFILE ICON"
+"SARYN PRIME GLYPH"
 
 [/Lotus/Language/Items/AvatarSarynPrimeDarkDesc]
-"A profile icon depicting Saryn Prime on a dark background."
+"A glyph depicting Saryn Prime on a dark background."
 
 [/Lotus/Language/Items/AvatarSarynPrimeDarkName]
-"SARYN PRIME PROFILE ICON"
+"SARYN PRIME GLYPH"
 
 [/Lotus/Language/Items/AvatarSharksteethDesc]
-"A prize-winning profile icon, designed by Sharksteeth
+"A prize-winning glyph, designed by Sharksteeth
 
 
 <UGC> TennoGen"
 
 [/Lotus/Language/Items/AvatarSkarksteethName]
-"THE STALKER PROFILE ICON"
+"THE STALKER GLYPH"
 
 [/Lotus/Language/Items/AvatarTitaniaAltBrightDesc]
-"A profile icon depicting Titania Aurai on a bright background."
+"A glyph depicting Titania Aurai on a bright background."
 
 [/Lotus/Language/Items/AvatarTitaniaAltBrightName]
-"TITANIA AURAI PROFILE ICON"
+"TITANIA AURAI GLYPH"
 
 [/Lotus/Language/Items/AvatarTitaniaAltDarkDesc]
-"A profile icon depicting Titania Aurai on a dark background."
+"A glyph depicting Titania Aurai on a dark background."
 
 [/Lotus/Language/Items/AvatarTitaniaAltDarkName]
-"TITANIA AURAI PROFILE ICON"
+"TITANIA AURAI GLYPH"
 
 [/Lotus/Language/Items/AvatarTitaniaBrightDesc]
-"A profile icon depicting Titania on a bright background."
+"A glyph depicting Titania on a bright background."
 
 [/Lotus/Language/Items/AvatarTitaniaBrightName]
-"TITANIA PROFILE ICON"
+"TITANIA GLYPH"
 
 [/Lotus/Language/Items/AvatarTitaniaDarkDesc]
-"A profile icon depicting Titania on a dark background."
+"A glyph depicting Titania on a dark background."
 
 [/Lotus/Language/Items/AvatarTitaniaDarkName]
-"TITANIA PROFILE ICON"
+"TITANIA GLYPH"
 
 [/Lotus/Language/Items/AvatarTrapperAltBrightDescription]
-"A profile icon depicting Vauban Esprit on a bright background."
+"A glyph depicting Vauban Esprit on a bright background."
 
 [/Lotus/Language/Items/AvatarTrapperAltBrightName]
-"VAUBAN ESPRIT PROFILE ICON"
+"VAUBAN ESPRIT GLYPH"
 
 [/Lotus/Language/Items/AvatarTrapperAltDarkDescription]
-"A profile icon depicting Vauban Esprit on a dark background."
+"A glyph depicting Vauban Esprit on a dark background."
 
 [/Lotus/Language/Items/AvatarTrapperAltDarkName]
-"VAUBAN ESPRIT PROFILE ICON"
+"VAUBAN ESPRIT GLYPH"
 
 [/Lotus/Language/Items/AvatarTrapperBrightDescription]
-"A profile icon depicting Vauban on a bright background."
+"A glyph depicting Vauban on a bright background."
 
 [/Lotus/Language/Items/AvatarTrapperBrightName]
-"VAUBAN PROFILE ICON"
+"VAUBAN GLYPH"
 
 [/Lotus/Language/Items/AvatarTrapperDarkDescription]
-"A profile icon depicting Vauban on a dark background."
+"A glyph depicting Vauban on a dark background."
 
 [/Lotus/Language/Items/AvatarTrapperDarkName]
-"VAUBAN PROFILE ICON"
+"VAUBAN GLYPH"
 
 [/Lotus/Language/Items/AvatarTrapperGambitBrightDescription]
-"A profile icon depicting Vauban Gambit on a bright background."
+"A glyph depicting Vauban Gambit on a bright background."
 
 [/Lotus/Language/Items/AvatarTrapperGambitBrightName]
-"VAUBAN GAMBIT PROFILE ICON"
+"VAUBAN GAMBIT GLYPH"
 
 [/Lotus/Language/Items/AvatarTrapperGambitDarkDescription]
-"A profile icon depicting Vauban Gambit on a dark background."
+"A glyph depicting Vauban Gambit on a dark background."
 
 [/Lotus/Language/Items/AvatarTrapperGambitDarkName]
-"VAUBAN GAMBIT PROFILE ICON"
+"VAUBAN GAMBIT GLYPH"
 
 [/Lotus/Language/Items/AvatarTrapperSoldierBrightDescription]
-"A profile icon depicting Vauban Armistice on a bright background."
+"A glyph depicting Vauban Armistice on a bright background."
 
 [/Lotus/Language/Items/AvatarTrapperSoldierBrightName]
-"VAUBAN ARMISTICE PROFILE ICON"
+"VAUBAN ARMISTICE GLYPH"
 
 [/Lotus/Language/Items/AvatarTrapperSoldierDarkDescription]
-"A profile icon depicting Vauban Armistice on a dark background."
+"A glyph depicting Vauban Armistice on a dark background."
 
 [/Lotus/Language/Items/AvatarTrapperSoldierDarkName]
-"VAUBAN ARMISTICE PROFILE ICON"
+"VAUBAN ARMISTICE GLYPH"
 
 [/Lotus/Language/Items/AvatarTrinityAuraBrightDescription]
-"A profile icon depicting Trinity Aura on a bright background."
+"A glyph depicting Trinity Aura on a bright background."
 
 [/Lotus/Language/Items/AvatarTrinityAuraBrightName]
-"TRINITY AURA PROFILE ICON"
+"TRINITY AURA GLYPH"
 
 [/Lotus/Language/Items/AvatarTrinityAuraDarkDescription]
-"A profile icon depicting Trinity Aura on a dark background."
+"A glyph depicting Trinity Aura on a dark background."
 
 [/Lotus/Language/Items/AvatarTrinityAuraDarkName]
-"TRINITY AURA PROFILE ICON"
+"TRINITY AURA GLYPH"
 
 [/Lotus/Language/Items/AvatarTrinityBrightDescription]
-"A profile icon depicting Trinity on a bright background."
+"A glyph depicting Trinity on a bright background."
 
 [/Lotus/Language/Items/AvatarTrinityBrightName]
-"TRINITY PROFILE ICON"
+"TRINITY GLYPH"
 
 [/Lotus/Language/Items/AvatarTrinityDarkDescription]
-"A profile icon depicting Trinity on a dark background."
+"A glyph depicting Trinity on a dark background."
 
 [/Lotus/Language/Items/AvatarTrinityDarkName]
-"TRINITY PROFILE ICON"
+"TRINITY GLYPH"
 
 [/Lotus/Language/Items/AvatarTrinityDeluxeDesc]
-"A profile icon depicting Trinity Strega skin."
+"A glyph depicting Trinity Strega skin."
 
 [/Lotus/Language/Items/AvatarTrinityDeluxeName]
-"TRINITY STREGA PROFILE ICON"
+"TRINITY STREGA GLYPH"
 
 [/Lotus/Language/Items/AvatarTrinityMeridianBrightDescription]
-"A profile icon depicting Trinity Meridian on a bright background."
+"A glyph depicting Trinity Meridian on a bright background."
 
 [/Lotus/Language/Items/AvatarTrinityMeridianBrightName]
-"TRINITY MERIDIAN PROFILE ICON"
+"TRINITY MERIDIAN GLYPH"
 
 [/Lotus/Language/Items/AvatarTrinityMeridianDarkDescription]
-"A profile icon depicting Trinity Meridian on a dark background."
+"A glyph depicting Trinity Meridian on a dark background."
 
 [/Lotus/Language/Items/AvatarTrinityMeridianDarkName]
-"TRINITY MERIDIAN PROFILE ICON"
+"TRINITY MERIDIAN GLYPH"
 
 [/Lotus/Language/Items/AvatarTrinityPrimeBrightDesc]
-"A profile icon depicting Trinity Prime on a bright background."
+"A glyph depicting Trinity Prime on a bright background."
 
 [/Lotus/Language/Items/AvatarTrinityPrimeBrightName]
-"TRINITY PRIME PROFILE ICON"
+"TRINITY PRIME GLYPH"
 
 [/Lotus/Language/Items/AvatarTrinityPrimeDarkDesc]
-"A profile icon depicting Trinity Prime on a dark background."
+"A glyph depicting Trinity Prime on a dark background."
 
 [/Lotus/Language/Items/AvatarTrinityPrimeDarkName]
-"TRINITY PRIME PROFILE ICON"
+"TRINITY PRIME GLYPH"
 
 [/Lotus/Language/Items/AvatarValkyrBastetBrightDesc]
-"A profile icon depicting Valkyr Bastet on a bright background."
+"A glyph depicting Valkyr Bastet on a bright background."
 
 [/Lotus/Language/Items/AvatarValkyrBastetBrightName]
-"VALKYR BASTET PROFILE ICON"
+"VALKYR BASTET GLYPH"
 
 [/Lotus/Language/Items/AvatarValkyrBastetDarkDesc]
-"A profile icon depicting Valkyr Bastet on a dark background."
+"A glyph depicting Valkyr Bastet on a dark background."
 
 [/Lotus/Language/Items/AvatarValkyrBastetDarkName]
-"VALKYR BASTET PROFILE ICON"
+"VALKYR BASTET GLYPH"
 
 [/Lotus/Language/Items/AvatarValkyrBrightDesc]
-"A profile icon depicting Valkyr on a bright background."
+"A glyph depicting Valkyr on a bright background."
 
 [/Lotus/Language/Items/AvatarValkyrBrightName]
-"VALKYR PROFILE ICON"
+"VALKYR GLYPH"
 
 [/Lotus/Language/Items/AvatarValkyrDarkDesc]
-"A profile icon depicting Valkyr on a dark background."
+"A glyph depicting Valkyr on a dark background."
 
 [/Lotus/Language/Items/AvatarValkyrDarkName]
-"VALKYR PROFILE ICON"
+"VALKYR GLYPH"
 
 [/Lotus/Language/Items/AvatarValkyrDeluxeDesc]
-"A profile icon depicting the Valkyr Gersemi skin."
+"A glyph depicting the Valkyr Gersemi skin."
 
 [/Lotus/Language/Items/AvatarValkyrDeluxeName]
-"VALKYR GERSEMI PROFILE ICON"
+"VALKYR GERSEMI GLYPH"
 
 [/Lotus/Language/Items/AvatarValkyrKaraBrightDescription]
-"A profile icon depicting Valkyr Kara on a bright background."
+"A glyph depicting Valkyr Kara on a bright background."
 
 [/Lotus/Language/Items/AvatarValkyrKaraBrightName]
-"VALKYR KARA PROFILE ICON"
+"VALKYR KARA GLYPH"
 
 [/Lotus/Language/Items/AvatarValkyrKaraDarkDescription]
-"A profile icon depicting Valkyr Kara on a dark background."
+"A glyph depicting Valkyr Kara on a dark background."
 
 [/Lotus/Language/Items/AvatarValkyrKaraDarkName]
-"VALKYR KARA PROFILE ICON"
+"VALKYR KARA GLYPH"
 
 [/Lotus/Language/Items/AvatarValkyrPrimeBrightDesc]
-"A profile icon depicting Valkyr Prime on a bright background."
+"A glyph depicting Valkyr Prime on a bright background."
 
 [/Lotus/Language/Items/AvatarValkyrPrimeBrightName]
-"VALKYR PRIME PROFILE ICON"
+"VALKYR PRIME GLYPH"
 
 [/Lotus/Language/Items/AvatarValkyrPrimeDarkDesc]
-"A profile icon depicting Valkyr Prime on a dark background."
+"A glyph depicting Valkyr Prime on a dark background."
 
 [/Lotus/Language/Items/AvatarValkyrPrimeDarkName]
-"VALKYR PRIME PROFILE ICON"
+"VALKYR PRIME GLYPH"
 
 [/Lotus/Language/Items/AvatarVaubanPrimeBrightDesc]
-"A profile icon depicting Vauban Prime on a bright background."
+"A glyph depicting Vauban Prime on a bright background."
 
 [/Lotus/Language/Items/AvatarVaubanPrimeBrightName]
-"VAUBAN PRIME PROFILE ICON"
+"VAUBAN PRIME GLYPH"
 
 [/Lotus/Language/Items/AvatarVaubanPrimeDarkDesc]
-"A profile icon depicting Vauban Prime on a dark background."
+"A glyph depicting Vauban Prime on a dark background."
 
 [/Lotus/Language/Items/AvatarVaubanPrimeDarkName]
-"VAUBAN PRIME PROFILE ICON"
+"VAUBAN PRIME GLYPH"
 
 [/Lotus/Language/Items/AvatarVoltBrightDescription]
-"A profile icon depicting Volt on a bright background."
+"A glyph depicting Volt on a bright background."
 
 [/Lotus/Language/Items/AvatarVoltBrightName]
-"VOLT PROFILE ICON"
+"VOLT GLYPH"
 
 [/Lotus/Language/Items/AvatarVoltDarkDescription]
-"A profile icon depicting Volt on a dark background."
+"A glyph depicting Volt on a dark background."
 
 [/Lotus/Language/Items/AvatarVoltDarkName]
-"VOLT PROFILE ICON"
+"VOLT GLYPH"
 
 [/Lotus/Language/Items/AvatarVoltPrimeWarframeBrightDescription]
-"A profile icon depicting Volt Prime on a bright background."
+"A glyph depicting Volt Prime on a bright background."
 
 [/Lotus/Language/Items/AvatarVoltPrimeWarframeBrightName]
-"VOLT PRIME PROFILE ICON"
+"VOLT PRIME GLYPH"
 
 [/Lotus/Language/Items/AvatarVoltPrimeWarframeDarkDescription]
-"A profile icon depicting Volt Prime on a dark background."
+"A glyph depicting Volt Prime on a dark background."
 
 [/Lotus/Language/Items/AvatarVoltPrimeWarframeDarkName]
-"VOLT PRIME PROFILE ICON"
+"VOLT PRIME GLYPH"
 
 [/Lotus/Language/Items/AvatarVoltPulseBrightDescription]
-"A profile icon depicting Volt Pulse on a bright background."
+"A glyph depicting Volt Pulse on a bright background."
 
 [/Lotus/Language/Items/AvatarVoltPulseBrightName]
-"VOLT PULSE PROFILE ICON"
+"VOLT PULSE GLYPH"
 
 [/Lotus/Language/Items/AvatarVoltPulseDarkDescription]
-"A profile icon depicting Volt Pulse on a dark background."
+"A glyph depicting Volt Pulse on a dark background."
 
 [/Lotus/Language/Items/AvatarVoltPulseDarkName]
-"VOLT PULSE PROFILE ICON"
+"VOLT PULSE GLYPH"
 
 [/Lotus/Language/Items/AvatarVoltStormBrightDescription]
-"A profile icon depicting Volt Storm on a bright background."
+"A glyph depicting Volt Storm on a bright background."
 
 [/Lotus/Language/Items/AvatarVoltStormBrightName]
-"VOLT STORM PROFILE ICON"
+"VOLT STORM GLYPH"
 
 [/Lotus/Language/Items/AvatarVoltStormDarkDescription]
-"A profile icon depicting Volt Storm on a dark background."
+"A glyph depicting Volt Storm on a dark background."
 
 [/Lotus/Language/Items/AvatarVoltStormDarkName]
-"VOLT STORM PROFILE ICON"
+"VOLT STORM GLYPH"
 
 [/Lotus/Language/Items/AvatarZephyrBrightDescription]
-"A profile icon depicting Zephyr on a bright background."
+"A glyph depicting Zephyr on a bright background."
 
 [/Lotus/Language/Items/AvatarZephyrBrightName]
-"ZEPHYR PROFILE ICON"
+"ZEPHYR GLYPH"
 
 [/Lotus/Language/Items/AvatarZephyrCierzoBrightDescription]
-"A profile icon depicting Zephyr Cierzo on a bright background."
+"A glyph depicting Zephyr Cierzo on a bright background."
 
 [/Lotus/Language/Items/AvatarZephyrCierzoBrightName]
-"ZEPHYR CIERZO PROFILE ICON"
+"ZEPHYR CIERZO GLYPH"
 
 [/Lotus/Language/Items/AvatarZephyrCierzoDarkDescription]
-"A profile icon depicting Zephyr Cierzo on a dark background."
+"A glyph depicting Zephyr Cierzo on a dark background."
 
 [/Lotus/Language/Items/AvatarZephyrCierzoDarkName]
-"ZEPHYR CIERZO PROFILE ICON"
+"ZEPHYR CIERZO GLYPH"
 
 [/Lotus/Language/Items/AvatarZephyrDarkDescription]
-"A profile icon depicting Zephyr on a dark background."
+"A glyph depicting Zephyr on a dark background."
 
 [/Lotus/Language/Items/AvatarZephyrDarkName]
-"ZEPHYR PROFILE ICON"
+"ZEPHYR GLYPH"
 
 [/Lotus/Language/Items/AvatarZephyrTenguBrightDesc]
-"A profile icon depicting Zephyr Tengu on a bright background."
+"A glyph depicting Zephyr Tengu on a bright background."
 
 [/Lotus/Language/Items/AvatarZephyrTenguBrightName]
-"ZEPHYR TENGU PROFILE ICON"
+"ZEPHYR TENGU GLYPH"
 
 [/Lotus/Language/Items/AvatarZephyrTenguDarkDesc]
-"A profile icon depicting Zephyr Tengu on a dark background."
+"A glyph depicting Zephyr Tengu on a dark background."
 
 [/Lotus/Language/Items/AvatarZephyrTenguDarkName]
-"ZEPHYR TENGU PROFILE ICON"
+"ZEPHYR TENGU GLYPH"
 
 [/Lotus/Language/Items/AxeBranchADefaults]
 "Landing Dragon"
@@ -27785,10 +28082,10 @@ Note: This item requires two open slots."
 "Fatal Attraction"
 
 [/Lotus/Language/Items/BallistaProfileIconDesc]
-"A profile icon of a Grineer Ballista"
+"A glyph of a Grineer Ballista"
 
 [/Lotus/Language/Items/BallistaProfileIconName]
-"GRINEER BALLISTA PROFILE ICON"
+"GRINEER BALLISTA GLYPH"
 
 [/Lotus/Language/Items/BansheeActionGlyphName]
 "BANSHEE IN ACTION GLYPH"
@@ -28298,10 +28595,10 @@ Once crafted this Specter may be donated to a clan and used by a Tactician to cr
 "CAPSULE SENTINEL TAIL"
 
 [/Lotus/Language/Items/CaptainVorProfileIconDesc]
-"A profile icon of Captain Vor."
+"A glyph of Captain Vor."
 
 [/Lotus/Language/Items/CaptainVorProfileIconName]
-"CAPTAIN VOR PROFILE ICON"
+"CAPTAIN VOR GLYPH"
 
 [/Lotus/Language/Items/CarrierPrimaryPreceptDesc]
 "Carrier will attack the first visible enemy within |RANGE|m"
@@ -28438,10 +28735,10 @@ Note: This item requires two open slots."
 "CENTURIA SYANDANA"
 
 [/Lotus/Language/Items/CephalonSudaProfileIconDesc]
-"A profile icon of the Cephalon Suda"
+"A glyph of the Cephalon Suda"
 
 [/Lotus/Language/Items/CephalonSudaProfileIconName]
-"CEPHALON SUDA PROFILE ICON"
+"CEPHALON SUDA GLYPH"
 
 [/Lotus/Language/Items/CephHammerDesc]
 "Obtain enlightenment with this massive hammer that performs a Codex scan on each fatal strike. Scans require an equipped Codex Scanner and an available charge."
@@ -29443,46 +29740,46 @@ This bundle of 1 Control Module can be used for crafting items in your Foundry."
 "SERRO"
 
 [/Lotus/Language/Items/CorpusProfileIconAladVDesc]
-"A profile icon of Alad V"
+"A glyph of Alad V"
 
 [/Lotus/Language/Items/CorpusProfileIconAladVName]
-"ALAD V PROFILE ICON"
+"ALAD V GLYPH"
 
 [/Lotus/Language/Items/CorpusProfileIconCrewmanDesc]
-"A profile icon of a Corpus Crewman"
+"A glyph of a Corpus Crewman"
 
 [/Lotus/Language/Items/CorpusProfileIconCrewmanName]
-"CREWMAN PROFILE ICON"
+"CREWMAN GLYPH"
 
 [/Lotus/Language/Items/CorpusProfileIconJackalDesc]
-"A profile icon of the Jackal"
+"A glyph of the Jackal"
 
 [/Lotus/Language/Items/CorpusProfileIconJackalName]
-"THE JACKAL PROFILE ICON"
+"THE JACKAL GLYPH"
 
 [/Lotus/Language/Items/CorpusProfileIconMoaDesc]
-"A profile icon of a Corpus MOA"
+"A glyph of a Corpus MOA"
 
 [/Lotus/Language/Items/CorpusProfileIconMoaName]
-"MOA PROFILE ICON"
+"MOA GLYPH"
 
 [/Lotus/Language/Items/CorpusProfileIconNefAnyoDesc]
-"A profile icon of Nef Anyo"
+"A glyph of Nef Anyo"
 
 [/Lotus/Language/Items/CorpusProfileIconNefAnyoName]
-"NEF ANYO PROFILE ICON"
+"NEF ANYO GLYPH"
 
 [/Lotus/Language/Items/CorpusProfileIconOspreyDesc]
-"A profile icon of a Corpus Osprey"
+"A glyph of a Corpus Osprey"
 
 [/Lotus/Language/Items/CorpusProfileIconOspreyName]
-"OSPREY PROFILE ICON"
+"OSPREY GLYPH"
 
 [/Lotus/Language/Items/CorpusProfileIconPackDesc]
-"A collection of profile icons featuring the personnel affiliated with the Corpus."
+"A collection of glyphs featuring the personnel affiliated with the Corpus."
 
 [/Lotus/Language/Items/CorpusProfileIconPackName]
-"CORPUS PROFILE ICON PACK"
+"CORPUS GLYPH PACK"
 
 [/Lotus/Language/Items/CorpusPunchKickWeaponDesc]
 "The Obex system multiplies the kinetic energy of a Tenno's kicks and punches, delivering devastating blows to any target."
@@ -30695,6 +30992,12 @@ This bundle of 1 Fieldron Sample can be used for crafting items in your Foundry.
 [/Lotus/Language/Items/EventImpactDamageShotgunMod]
 "Full Contact"
 
+[/Lotus/Language/Items/Eventium]
+"SYNTHULA"
+
+[/Lotus/Language/Items/EventiumDesc]
+"Distilled fuel for stims."
+
 [/Lotus/Language/Items/EventPunctureDamageMeleeMod]
 "Auger Strike"
 
@@ -31495,52 +31798,52 @@ This bundle of 1 Gallium can be used for crafting items in your Foundry."
 "ARCANE LIQUID"
 
 [/Lotus/Language/Items/GCBeastMasterProfileIconDesc]
-"A profile icon of Executioner Zura"
+"A glyph of Executioner Zura"
 
 [/Lotus/Language/Items/GCBeastMasterProfileIconName]
-"EXECUTIONER ZURA PROFILE ICON"
+"EXECUTIONER ZURA GLYPH"
 
 [/Lotus/Language/Items/GCChargerProfileIconDesc]
-"A profile icon of Executioner Garesh"
+"A glyph of Executioner Garesh"
 
 [/Lotus/Language/Items/GCChargerProfileIconName]
-"EXECUTIONER GARESH PROFILE ICON"
+"EXECUTIONER GARESH GLYPH"
 
 [/Lotus/Language/Items/GCEngineerProfileIconDesc]
-"A profile icon of Executioner Reth"
+"A glyph of Executioner Reth"
 
 [/Lotus/Language/Items/GCEngineerProfileIconName]
-"EXECUTIONER RETH PROFILE ICON"
+"EXECUTIONER RETH GLYPH"
 
 [/Lotus/Language/Items/GCGruntProfileIconDesc]
-"A profile icon of Executioner Nok"
+"A glyph of Executioner Nok"
 
 [/Lotus/Language/Items/GCGruntProfileIconName]
-"EXECUTIONER NOK PROFILE ICON"
+"EXECUTIONER NOK GLYPH"
 
 [/Lotus/Language/Items/GCHealerProfileIconDesc]
-"A profile icon of Executioner Dok Thul"
+"A glyph of Executioner Dok Thul"
 
 [/Lotus/Language/Items/GCHealerProfileIconName]
-"EXECUTIONER DOK THUL PROFILE ICON"
+"EXECUTIONER DOK THUL GLYPH"
 
 [/Lotus/Language/Items/GCHellionProfileIconDesc]
-"A profile icon of Executioner Vay Molta"
+"A glyph of Executioner Vay Molta"
 
 [/Lotus/Language/Items/GCHellionProfileIconName]
-"EXECUTIONER VAY MOLTA PROFILE ICON"
+"EXECUTIONER VAY MOLTA GLYPH"
 
 [/Lotus/Language/Items/GCSniperProfileIconDesc]
-"A profile icon of Executioner Harkonar"
+"A glyph of Executioner Harkonar"
 
 [/Lotus/Language/Items/GCSniperProfileIconName]
-"EXECUTIONER HARKONAR PROFILE ICON"
+"EXECUTIONER HARKONAR GLYPH"
 
 [/Lotus/Language/Items/GCTankProfileIconDesc]
-"A profile icon of Executioner Gorth"
+"A glyph of Executioner Gorth"
 
 [/Lotus/Language/Items/GCTankProfileIconName]
-"EXECUTIONER GORTH PROFILE ICON"
+"EXECUTIONER GORTH GLYPH"
 
 [/Lotus/Language/Items/GearMutuallyExclusive]
 "Cannot equip |ITEMB| while |ITEMA| is equipped!"
@@ -31841,10 +32144,10 @@ This is a key for a TRIAL mission, work with up to 8 Tenno in order to solve pro
 "GRINEER BIOCATALYST"
 
 [/Lotus/Language/Items/GrineerChampionsProfileIconPackDesc]
-"A collection of profile icons featuring the Executioners of the Rathuum."
+"A collection of glyphs featuring the Executioners of the Rathuum."
 
 [/Lotus/Language/Items/GrineerChampionsProfileIconPackName]
-"EXECUTIONERS PROFILE ICON PACK"
+"EXECUTIONERS GLYPH PACK"
 
 [/Lotus/Language/Items/GrineerCombatKnifeDesc]
 "Built for close combat, the Sheev's plasma blade slices through flesh and armor with equal ease."
@@ -31946,10 +32249,10 @@ This is a key for a TRIAL mission, work with up to 8 Tenno in order to solve pro
 "GRINEER ASSAULT"
 
 [/Lotus/Language/Items/GrineerProfileIconPackDesc]
-"A collection of profile icons featuring the military personnel of the Grineer."
+"A collection of glyphs featuring the military personnel of the Grineer."
 
 [/Lotus/Language/Items/GrineerProfileIconPackName]
-"GRINEER PROFILE ICON PACK"
+"GRINEER GLYPH PACK"
 
 [/Lotus/Language/Items/GrineerQueensGlyphName]
 "GRINEER QUEENS GLYPH"
@@ -33598,10 +33901,10 @@ Requires: Installed KAVAT INCUBATOR UPGRADE SEGMENT"
 "RATHUUM NOGGLE COLLECTION"
 
 [/Lotus/Language/Items/KelaProfileIconDesc]
-"A profile icon of Kela de Thaym"
+"A glyph of Kela de Thaym"
 
 [/Lotus/Language/Items/KelaProfileIconName]
-"KELA DE THAYM PROFILE ICON"
+"KELA DE THAYM GLYPH"
 
 [/Lotus/Language/Items/KestrelBoomerangDesc]
 "The Kestrel boomerang is a heavy throwing weapon that can knock down enemies at a distance."
@@ -34189,6 +34492,9 @@ Requires: Installed INCUBATOR SEGMENT"
 
 [/Lotus/Language/Items/LargeBatchBlueprintAndItem]
 "|ITEM| x |NUM| BLUEPRINT"
+
+[/Lotus/Language/Items/LargeBatchItem]
+"|ITEM| x |NUM|"
 
 [/Lotus/Language/Items/LargeBatchResearchAndItem]
 "|ITEM| x |NUM| RESEARCH"
@@ -34845,10 +35151,10 @@ Pack Includes:
 "SCINDO MANTICORE SKIN"
 
 [/Lotus/Language/Items/MarineProfileIconDesc]
-"A profile icon of a Grineer Lancer"
+"A glyph of a Grineer Lancer"
 
 [/Lotus/Language/Items/MarineProfileIconName]
-"GRINEER LANCER PROFILE ICON"
+"GRINEER LANCER GLYPH"
 
 [/Lotus/Language/Items/MassResistWarframeMod]
 "Mass Resist"
@@ -35325,10 +35631,10 @@ This bundle of 1 Neural Sensor can be used for crafting items in your Foundry."
 This bundle of 1 Neurode can be used for crafting items in your Foundry."
 
 [/Lotus/Language/Items/NewLokaProfileIconDesc]
-"A profile icon of the New Loka"
+"A glyph of the New Loka"
 
 [/Lotus/Language/Items/NewLokaProfileIconName]
-"NEW LOKA PROFILE ICON"
+"NEW LOKA GLYPH"
 
 [/Lotus/Language/Items/NextPromoArmArmorDesc]
 "Decorative shoulder plates for your Warframe."
@@ -35583,6 +35889,30 @@ This is a key for the Nightmare Mode of a TRIAL mission that has been designed t
 
 [/Lotus/Language/Items/NovaSlipstreamHelmetName]
 "NOVA SLIPSTREAM HELMET"
+
+[/Lotus/Language/Items/NpcArmorBuffSpeedDebuff]
+"CALCIFIN STIM"
+
+[/Lotus/Language/Items/NpcArmorBuffSpeedDebuffDesc]
+"Hardens skin, fortifying against damage while restricting movement."
+
+[/Lotus/Language/Items/NpcCloakingBuff]
+"REFRACT STIM"
+
+[/Lotus/Language/Items/NpcCloakingBuffDesc]
+"Coats the target in a film that refracts light, allowing undetected movement."
+
+[/Lotus/Language/Items/NpcReviveBuff]
+"CLOTRA STIM"
+
+[/Lotus/Language/Items/NpcReviveBuffDesc]
+"Revives a target that is bleeding out."
+
+[/Lotus/Language/Items/NpcSpeedBuffArmorDebuff]
+"ADRENAL STIM"
+
+[/Lotus/Language/Items/NpcSpeedBuffArmorDebuffDesc]
+"Elevates adrenaline levels to enable faster movement while increasing sensitivity to damage."
 
 [/Lotus/Language/Items/NunchakuCategoryName]
 "NUNCHAKU"
@@ -36438,10 +36768,10 @@ This bundle of 300 Oxium can be used for crafting items in your Foundry."
 "CARMINE PENTA"
 
 [/Lotus/Language/Items/PerrinSequenceProfileIconDesc]
-"A profile icon of the Perrin Sequence"
+"A glyph of the Perrin Sequence"
 
 [/Lotus/Language/Items/PerrinSequenceProfileIconName]
-"PERRIN SEQUENCE PROFILE ICON"
+"PERRIN SEQUENCE GLYPH"
 
 [/Lotus/Language/Items/PetAttachmentPackADesc]
 "Save some platinum when you purchase the complete first series of Sentinel accessories together."
@@ -36896,7 +37226,17 @@ One Fusion Core is guaranteed Uncommon."
 "Roll the dice to get a 5 pack of mods, with two guaranteed Uncommon or better."
 
 [/Lotus/Language/Items/PrestigePackEightDesc]
-"[PH]"
+"Show your Xbox One allegiance with the all-new Prestige Pack VIII! 
+
+Get these Exclusive Skins and Chrysalis Sentinel Wings and upgrade the look of your Sentinel pet! Plus, give your Arsenal a boost with bonus Platinum!
+
+Prestige Pack VIII includes: 
+- Carrier Jade Skin
+- Dethcube Jade Skin 
+- Chrysalis Jade Sentinel Wings
+- 170 Platinum 
+
+This Pack may only be purchased once per account and is available for a limited time."
 
 [/Lotus/Language/Items/PrestigePackEightName]
 "EXCLUSIVE PRESTIGE PACK VIII"
@@ -37775,10 +38115,10 @@ With 'Investigator' as its unique Precept and 'Deconstructor' as its weapon, the
 "BERYL ANTITOXIN"
 
 [/Lotus/Language/Items/RedVeilProfileIconDesc]
-"A profile icon of the Red Veil"
+"A glyph of the Red Veil"
 
 [/Lotus/Language/Items/RedVeilProfileIconName]
-"RED VEIL PROFILE ICON"
+"RED VEIL GLYPH"
 
 [/Lotus/Language/Items/ReflectDamageOnParryName]
 "ARCANE VENGEANCE"
@@ -38126,10 +38466,10 @@ With 'Investigator' as its unique Precept and 'Deconstructor' as its weapon, the
 "Deploys a ROLLER EXIMUS unit to fight for you."
 
 [/Lotus/Language/Items/RollerProfileIconDesc]
-"A profile icon of a Grineer Roller"
+"A glyph of a Grineer Roller"
 
 [/Lotus/Language/Items/RollerProfileIconName]
-"GRINEER ROLLER PROFILE ICON"
+"GRINEER ROLLER GLYPH"
 
 [/Lotus/Language/Items/Rubedo]
 "RUBEDO"
@@ -38275,10 +38615,10 @@ This bundle of 3000 Salvage can be used for crafting items in your Foundry."
 "The Noble Animation Set for Inaros."
 
 [/Lotus/Language/Items/SargusRukProfileIconDesc]
-"A profile icon of Sargas Ruk"
+"A glyph of Sargas Ruk"
 
 [/Lotus/Language/Items/SargusRukProfileIconName]
-"SARGAS RUK PROFILE ICON"
+"SARGAS RUK GLYPH"
 
 [/Lotus/Language/Items/SarynActionGlyphName]
 "SARYN IN ACTION GLYPH"
@@ -39263,10 +39603,10 @@ It includes the Itzal Archwing, perfect for covert operations, and comes outfitt
 "STEALTH PACK"
 
 [/Lotus/Language/Items/SteelMeridianProfileIconDesc]
-"A profile icon of the Steel Meridian"
+"A glyph of the Steel Meridian"
 
 [/Lotus/Language/Items/SteelMeridianProfileIconName]
-"STEEL MERIDIAN PROFILE ICON"
+"STEEL MERIDIAN GLYPH"
 
 [/Lotus/Language/Items/StickyBombDesc]
 "The remotely triggered Castanas quietly deliver a lethal dose of electricity to unsuspecting enemies."
@@ -39760,10 +40100,10 @@ It includes the Itzal Archwing, perfect for covert operations, and comes outfitt
 "MAG TOROIDAL HELMET"
 
 [/Lotus/Language/Items/SyndicateProfileIconPackDesc]
-"A collection of profile icons featuring the personnel working for the Syndicates."
+"A collection of glyphs featuring the personnel working for the Syndicates."
 
 [/Lotus/Language/Items/SyndicateProfileIconPackName]
-"SYNDICATE PROFILE ICON PACK"
+"SYNDICATE GLYPH PACK"
 
 [/Lotus/Language/Items/SyndicateRandomKey]
 "VOID KEY PACK"
@@ -39883,7 +40223,7 @@ It includes the Itzal Archwing, perfect for covert operations, and comes outfitt
 "MESO N3 RELIC"
 
 [/Lotus/Language/Items/t2voidprojections]
-"MESO E1 RELIC"
+"MESO S4 RELIC"
 
 [/Lotus/Language/Items/t2voidprojectiont]
 "MESO V4 RELIC"
@@ -39934,7 +40274,7 @@ It includes the Itzal Archwing, perfect for covert operations, and comes outfitt
 "NEO T1 RELIC"
 
 [/Lotus/Language/Items/t3voidprojections]
-"NEO H1 RELIC"
+"NEO N5 RELIC"
 
 [/Lotus/Language/Items/t3voidprojectiont]
 "NEO B1 RELIC"
@@ -40152,15 +40492,15 @@ Blueprint is reusable and will not be consumed."
 "ANKYROS"
 
 [/Lotus/Language/Items/TennoGenAvatarFeaturedText]
-"A collection of profile icons made by fellow Tenno, from the Warframe community."
+"A collection of glyphs made by fellow Tenno, from the Warframe community."
 
 [/Lotus/Language/Items/TennoGenAvatarPackDesc]
-"A collection of profile icons made by fellow Tenno, from the Warframe community.
+"A collection of glyphs made by fellow Tenno, from the Warframe community.
 
 <UGC>TennoGen designs by: Dynline, Epsilon, Fabpsi, Inkary, LocoCrazy and Sharksteeth"
 
 [/Lotus/Language/Items/TennoGenAvatarPackName]
-"TENNOGEN PROFILE ICON PACK"
+"TENNOGEN GLYPH PACK"
 
 [/Lotus/Language/Items/TennoGreatSwordDesc]
 "With massive charged power and the ability to hit up to five foes in a single swing, the Galatine sword is the heavy artillery of melee weapons."
@@ -41842,10 +42182,10 @@ Also includes a fully crafted 'Hidden Messages' quest key, giving you instant ac
 "MACHETE WRAITH"
 
 [/Lotus/Language/Items/WraithTwinVipersDesc]
-"The uniquely styled Wraith Twin Vipers are a powerful variation on the standard akimbo machine-pistols."
+"The uniquely styled Twin Vipers Wraith are a powerful variation on the standard akimbo machine-pistols."
 
 [/Lotus/Language/Items/WraithTwinVipersName]
-"WRAITH TWIN VIPERS"
+"TWIN VIPERS WRAITH"
 
 [/Lotus/Language/Items/WukongAltTwoHelmetDesc]
 "An alternative helmet for the Wukong Warframe."
@@ -45604,6 +45944,9 @@ A Solar Rail is required in order to travel here."
 [/Lotus/Language/Menu/Cancel_Transmute]
 "CANCEL TRANSMUTE"
 
+[/Lotus/Language/Menu/CancelBuild]
+"CANCEL"
+
 [/Lotus/Language/Menu/Cannot_JoinSession]
 "CANNOT JOIN"
 
@@ -46385,6 +46728,9 @@ SPEAK TO CEPHALON SIMARIS"
 [/Lotus/Language/Menu/Composition_Bass]
 "[PH] BASS"
 
+[/Lotus/Language/Menu/Composition_BassPack]
+"BASS: |NAME|"
+
 [/Lotus/Language/Menu/Composition_ClearNotes]
 "[PH] CLEAR NOTES"
 
@@ -46414,14 +46760,14 @@ This can't be undone."
 [/Lotus/Language/Menu/Composition_CopyTo]
 "[PH] TO"
 
-[/Lotus/Language/Menu/Composition_Default]
-"[PH] DEFAULT"
-
 [/Lotus/Language/Menu/Composition_ExitWithoutSaving]
 "[PH] EXIT WITHOUT SAVING"
 
 [/Lotus/Language/Menu/Composition_LoadDefault]
 "[PH] Are you sure want to load default song? All changes will be lost."
+
+[/Lotus/Language/Menu/Composition_LoadSong]
+"[PH] LOAD SONG"
 
 [/Lotus/Language/Menu/Composition_Loop]
 "[PH] LOOP"
@@ -46429,8 +46775,11 @@ This can't be undone."
 [/Lotus/Language/Menu/Composition_Melody]
 "[PH] MELODY"
 
+[/Lotus/Language/Menu/Composition_MelodyPack]
+"MELODY: |NAME|"
+
 [/Lotus/Language/Menu/Composition_Mute]
-"[PH] MUTE"
+"[PH] TRACK ISOLATION"
 
 [/Lotus/Language/Menu/Composition_NotesInSameBarError]
 "[PH] Can't copy notes within the same bar"
@@ -46443,6 +46792,9 @@ This can't be undone."
 
 [/Lotus/Language/Menu/Composition_Percussion]
 "[PH] PERCUSSION"
+
+[/Lotus/Language/Menu/Composition_PercussionPack]
+"PERCUSSION: |NAME|"
 
 [/Lotus/Language/Menu/Composition_Play]
 "[PH] PAUSE"
@@ -46466,7 +46818,7 @@ This can't be undone."
 "[PH] SELECT NOTE TYPE TO SWAP"
 
 [/Lotus/Language/Menu/Composition_SoundPack]
-"[PH] SOUND PACK"
+"[PH] SOUND PACKS"
 
 [/Lotus/Language/Menu/Composition_SwapBassPack]
 "[PH] SWAP BASS PACK"
@@ -46475,13 +46827,13 @@ This can't be undone."
 "[PH] SWAP MELODY PACK"
 
 [/Lotus/Language/Menu/Composition_SwapPercussionPack]
-"[PH] SWAP PERSCUSSION PACK"
+"[PH] SWAP PERCUSSION PACK"
 
 [/Lotus/Language/Menu/Composition_UnsavedChanges]
 "[PH] You have unsaved changes."
 
 [/Lotus/Language/Menu/Composition_Volume]
-"[PH] VOLUME"
+"[PH] VOLUME MIXER"
 
 [/Lotus/Language/Menu/Conclave_ConsecutiveMatchesBonus]
 "(Consecutive match bonus active (+|PERCENT|%))"
@@ -46920,6 +47272,15 @@ Are you sure?"
 
 [/Lotus/Language/Menu/Crafting_BuildTime]
 "Build Time:"
+
+[/Lotus/Language/Menu/Crafting_CancelArgonWarning]
+"<WARNING> Argon crystals used will be lost"
+
+[/Lotus/Language/Menu/Crafting_CancelBuildConfirm]
+"Cancel build and refund the following components?"
+
+[/Lotus/Language/Menu/Crafting_CancelCompletedBuildError]
+"Cannot cancel a completed item"
 
 [/Lotus/Language/Menu/Crafting_CannotBuild]
 "You do not have the required components to build this item."
@@ -48542,13 +48903,13 @@ Are you sure?"
 "TRINITY SYSTEMS"
 
 [/Lotus/Language/Menu/CraftingComponent_TwinVipersWraithBarrels]
-"WRAITH TWIN VIPERS BARRELS"
+"TWIN VIPERS WRAITH BARRELS"
 
 [/Lotus/Language/Menu/CraftingComponent_TwinVipersWraithLink]
-"WRAITH TWIN VIPERS LINK"
+"TWIN VIPERS WRAITH LINK"
 
 [/Lotus/Language/Menu/CraftingComponent_TwinVipersWraithReceivers]
-"WRAITH TWIN VIPERS RECEIVERS"
+"TWIN VIPERS WRAITH RECEIVERS"
 
 [/Lotus/Language/Menu/CraftingComponent_ValkyrPrimeChassisDesc]
 "Chassis component of the Valkyr Prime Warframe."
@@ -52176,7 +52537,7 @@ You will be charged |COSTCURRENCY| |COST|."
 "TRACK YOUR PROGRESS ON THE TENNO CHALLENGES"
 
 [/Lotus/Language/Menu/MenuChangeAvatarDescription]
-"CHANGE YOUR GLYPH AND PROFILE ICON"
+"CHANGE YOUR GLYPH"
 
 [/Lotus/Language/Menu/MenuClanDescription]
 "VIEW MEMBERS, DARKSECTOR INFO, AND CLAN MANAGEMENT"
@@ -52566,7 +52927,7 @@ You will be charged |COSTCURRENCY| |COST|."
 "Total Endo"
 
 [/Lotus/Language/Menu/MissionStats_UnboostedCredits]
-"Unboosted credit reward"
+"Unboosted credits"
 
 [/Lotus/Language/Menu/MissionStats_UpgradesReceived]
 "Upgrades Received"
@@ -52903,35 +53264,35 @@ Please close other programs that may be reserving it."
 "Cycle Power Right"
 
 [/Lotus/Language/Menu/NextPrimeAccessDesc]
-"INSTANTLY UNLOCK THE NEWEST PRIME GEAR AND DISCOUNTED PLATINUM!
+"INSTANTLY UNLOCK THE NEW PRIME GEAR AND DISCOUNTED PLATINUM!
 
-Prime variants are the most elusive and sought after items by Tenno. For a limited time, purchase this pack and gain instant access to Nekros Prime, Galatine Prime and more!
+Prime variants are the most sought after items by Tenno. For a limited time, you can purchase this package and gain instant access to Banshee Prime, Euphona Prime, Helios Prime, and more!
 
 Pack Includes:
-- 2625 Platinum – Highly discounted from its regular price, Platinum is Warframe's premium in-game currency.
-- Nekros Prime Warframe – Bring upon darkness as death's new master. Features unique Mod Polarities for extended customization. 
-- Tigris Prime – An artifact of exquisite beauty. A weapon of deadly purpose. 
-- Galatine Prime – Only Tenno were strong enough to wield this noble beast of a weapon. 
-- Exclusive Nekros Prime Avatars – Show your loyalty in-game and in our community with these exclusive Profile Icons."
+- 2625 Platinum: Highly discounted from its regular price, Platinum is Warframe's premium in-game currency.
+- Banshee Prime: A new battle cry echoes across the System.
+- Euphona Prime: Banshee Prime’s signature shotgun is an instrument of devastation that fires both focused and broad shots.
+- Helios Prime: This knowledge-hungry Sentinel defends its master with Deconstructor Prime.
+- Deconstructor Prime: Allows the Helios Prime to violently disassemble and turn itself into a deadly projectile.
+- Exclusive Banshee Prime Avatars: Show your loyalty in-game and in our community with these Exclusive Profile Icons."
 
 [/Lotus/Language/Menu/NextPrimeAccessoriesDesc]
-"EXCLUSIVE PRIME GEAR AND DISCOUNTED PLATINUM FOR A LIMITED TIME ONLY! 
+"ACCESS EXCLUSIVE PRIME GEAR AND DISCOUNTED PLATINUM FOR A LIMITED TIME WITH THE PRIME ACCESSORIES PACK! 
 
-Masterpieces of the Orokin era, Prime variants of gear are the most rare items, coveted by the Tenno above all else. Get these exclusive Prime items available only in the Prime Accessories Pack!
-Bring darkness upon your shoulders with the Acanthus Prime Armor. Charge into battle with the Uru Prime Syandana. Increase your rewards with 90-day Affinity and Credit Boosters, doubling the rate at which Affinity and Credits are collected.
+Masterpieces of the Orokin era, Prime variants of gear are the most elusive and rare items, coveted by the Tenno above all else. The Exclusive Prime Accessories Pack will be available for a limited time ONLY through Prime Access.
 
-Pack Includes:
-- 1365 Platinum 
-- Uru Prime Syandana – Let these massive segments of interlinked gold and silver ripple down your Warframe’s back. 
-- Acanthus Prime Armor – Cast a shadow of pure menace.
-- 90-Day Affinity Booster
-- 90-Day Credit Booster"
+Pack Includes: 
+- 1365 Platinum: Highly discounted from its regular price, Platinum is Warframe's premium in-game currency.
+- Capella Prime Syandana: This graceful cape is the signature Syandana of Banshee Prime.
+- Ictus Prime Sentinel Accessories: Golden Accessories for Helios Prime.
+- 90 Day Affinity Booster
+- 90 Day Credit Booster"
 
 [/Lotus/Language/Menu/NextPrimeAccessoriesText]
-"NEKROS PRIME ACCESSORIES PACK"
+"BANSHEE PRIME ACCESSORIES PACK"
 
 [/Lotus/Language/Menu/NextPrimeAccessText]
-"NEKROS PRIME ACCESS PACK"
+"BANSHEE PRIME ACCESS PACK"
 
 [/Lotus/Language/Menu/NextReward]
 "NEXT
@@ -54012,10 +54373,10 @@ If your system supports DirectX 11 you can enable it in the launcher."
 "GLYPH"
 
 [/Lotus/Language/Menu/Profile_ChangeAvatarImageMsgToolTip]
-"Click to change your profile icon"
+"Click to change your glyph"
 
 [/Lotus/Language/Menu/Profile_ChangeAvatarImageTitleToolTip]
-"CHANGE PROFILE ICON"
+"CHANGE GLYPH"
 
 [/Lotus/Language/Menu/Profile_CiphersFailed]
 "Ciphers Failed"
@@ -54302,6 +54663,24 @@ If your system supports DirectX 11 you can enable it in the launcher."
 [/Lotus/Language/Menu/Profile_RescueEvent]
 "Rescue Event"
 
+[/Lotus/Language/Menu/Profile_ResearchCollectingMaterials]
+"Collecting Resources"
+
+[/Lotus/Language/Menu/Profile_ResearchDojoColorHeader]
+"Dojo Colors"
+
+[/Lotus/Language/Menu/Profile_ResearchLabCompletionStatus]
+"|COMPLETED|/|TOTAL| COMPLETED"
+
+[/Lotus/Language/Menu/Profile_ResearchNotStarted]
+"Not researched"
+
+[/Lotus/Language/Menu/Profile_ResearchReasearching]
+"Researching"
+
+[/Lotus/Language/Menu/Profile_ResearchTabHeader]
+"RESEARCH |COMPLETED|/|TOTAL|"
+
 [/Lotus/Language/Menu/Profile_RetrievalEvent]
 "Tethra's Doom"
 
@@ -54432,7 +54811,7 @@ If your system supports DirectX 11 you can enable it in the launcher."
 "Happy Zephyr Score"
 
 [/Lotus/Language/Menu/ProfileIconBundles]
-"PROFILE ICON BUNDLES"
+"GLYPH BUNDLES"
 
 [/Lotus/Language/Menu/ProfilePicture_ViewPurchaseDialog]
 "PURCHASE INFO"
@@ -55144,6 +55523,9 @@ Do you wish to enable Recruit Conditioning?"
 [/Lotus/Language/Menu/ResourceDrone_Scrap]
 "SCRAP"
 
+[/Lotus/Language/Menu/ResourceDrone_SingleExtractorReady]
+"1 EXTRACTOR READY"
+
 [/Lotus/Language/Menu/ResourceDrone_TimeAndHealth]
 "|TIME| -- |HEALTH|% HEALTH"
 
@@ -55190,6 +55572,12 @@ Progress |progress|%"
 
 [/Lotus/Language/Menu/RetrieveLockedWeaponsInGame]
 "Your weapons have been captured by Alad V's Zanuka. You must reclaim them before they can be used in another game session."
+
+[/Lotus/Language/Menu/RetunToDojoUpperCase]
+"RETURN TO DOJO"
+
+[/Lotus/Language/Menu/RetunToShipUpperCase]
+"RETURN TO LISET"
 
 [/Lotus/Language/Menu/ReverseCamera]
 "Reverse Camera"
@@ -55451,6 +55839,9 @@ Thank you for your partnership."
 
 [/Lotus/Language/Menu/Session_LeaveMission]
 "LEAVE MISSION TO JOIN"
+
+[/Lotus/Language/Menu/SessionCycle_HubMissionDesc]
+"|PLANET|-|NODE|"
 
 [/Lotus/Language/Menu/SessionCycle_MissionDesc]
 "|TYPE| ON |PLANET|-|NODE|"
@@ -58784,7 +59175,7 @@ https://warframe.com/eula"
 "REMOVE COOLANT CELL"
 
 [/Lotus/Language/Objectives/CoreSabotageCoolantStatus]
-"EXTRACT OR DESTROY COOLANT"
+"REMOVE COOLANT"
 
 [/Lotus/Language/Objectives/CoreSabotageCoreCell]
 "CORE CELL"
@@ -58804,8 +59195,20 @@ https://warframe.com/eula"
 [/Lotus/Language/Objectives/CoreSabotageFuelCell]
 "CORE FUEL CELL"
 
+[/Lotus/Language/Objectives/CoreSabotageFuelInj]
+"DESTROY THE FUEL INJECTORS"
+
+[/Lotus/Language/Objectives/CoreSabotageOpenBlastDoor]
+"OPEN THE BLAST DOOR"
+
+[/Lotus/Language/Objectives/CoreSabotageReactor]
+"SABOTAGE THE REACTOR"
+
 [/Lotus/Language/Objectives/CoreSabotageReactorSlot]
 "INSERT CORE CELL"
+
+[/Lotus/Language/Objectives/CoreSabotageRestartReactor]
+"RESTART THE REACTOR"
 
 [/Lotus/Language/Objectives/CoreSabotageSilentStatus]
 "REACTOR DECAY"
@@ -58860,6 +59263,18 @@ https://warframe.com/eula"
 
 [/Lotus/Language/Objectives/Extraction]
 "Get to extraction."
+
+[/Lotus/Language/Objectives/ForestSabotageDestroyCatalyst]
+"DESTROY THE BIOCATALYST"
+
+[/Lotus/Language/Objectives/ForestSabotageReachInjector]
+"ACTIVATE THE INJECTOR"
+
+[/Lotus/Language/Objectives/ForestSabotageRemoveCatalyst]
+"REMOVE THE BIOCATALYST"
+
+[/Lotus/Language/Objectives/ForestSabotageToxinMixer]
+"FIND THE TOXIN MIXER"
 
 [/Lotus/Language/Objectives/FortAssaultArmingBomb]
 "BREACHING GATES"
@@ -58995,6 +59410,42 @@ https://warframe.com/eula"
 
 [/Lotus/Language/Objectives/ObjectiveNearby]
 "Your objective is near."
+
+[/Lotus/Language/Objectives/OceanSabotageBreakPipes]
+"BREAK OPEN THE PIPES"
+
+[/Lotus/Language/Objectives/OceanSabotageFinal]
+"SABOTAGE TYL REGOR'S PROJECT"
+
+[/Lotus/Language/Objectives/OceanSabotageFindLab]
+"FIND TYL REGOR'S LAB"
+
+[/Lotus/Language/Objectives/OceanSabotageReachPump]
+"REACH THE PUMP STATION"
+
+[/Lotus/Language/Objectives/OceanSabotageStartPump]
+"START THE PUMPS"
+
+[/Lotus/Language/Objectives/OrokinSabotageDevice]
+"SABOTAGE THE DEVICE"
+
+[/Lotus/Language/Objectives/OrokinSabotageEnterPortal]
+"ENTER THE PORTAL"
+
+[/Lotus/Language/Objectives/OrokinSabotageEscape]
+"ESCAPE THROUGH THE PORTAL!"
+
+[/Lotus/Language/Objectives/OrokinSabotageLocateKey]
+"LOCATE THE VOID KEY"
+
+[/Lotus/Language/Objectives/OrokinSabotageReachPortal]
+"REACH THE VOID PORTAL"
+
+[/Lotus/Language/Objectives/OrokinSabotageStartGenerator]
+"START THE GENERATORS"
+
+[/Lotus/Language/Objectives/OrokinSabotageTakeKey]
+"TAKE THE VOID KEY"
 
 [/Lotus/Language/Objectives/RaidCollectCrates]
 "Raid Crates Collected: "
@@ -59495,7 +59946,7 @@ As proof of your deed"
 "BANSHEE PRIME ARMOR"
 
 [/Lotus/Language/Primes/BansheePrimeDesc]
-"Banshee Prime assails her foes with by manipulating sonic forces to deadly effect. Featuring altered mod polarities for greater customization."
+"Banshee Prime assails her foes by manipulating sonic forces to deadly effect. Featuring altered mod polarities for greater customization."
 
 [/Lotus/Language/Primes/BansheePrimeHelmetDesc]
 "The standard issue helmet for the Banshee Prime Warframe."
@@ -62562,6 +63013,12 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 [/Lotus/Language/ShipDecorations/BobbleheadHyekkaName]
 "NOGGLE STATUE - HYEKKA"
 
+[/Lotus/Language/ShipDecorations/BobbleheadIvaraDesc]
+"A small wobbly statue of Ivara."
+
+[/Lotus/Language/ShipDecorations/BobbleheadIvaraName]
+"NOGGLE STATUE - IVARA"
+
 [/Lotus/Language/ShipDecorations/BobbleheadKelaDeThaymDesc]
 "A small wobbly statue of the Overseer of the Rathuum."
 
@@ -62579,6 +63036,12 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 
 [/Lotus/Language/ShipDecorations/BobbleheadMagName]
 "NOGGLE STATUE - MAG"
+
+[/Lotus/Language/ShipDecorations/BobbleheadMesaDesc]
+"A small wobbly statue of Mesa."
+
+[/Lotus/Language/ShipDecorations/BobbleheadMesaName]
+"NOGGLE STATUE - MESA"
 
 [/Lotus/Language/ShipDecorations/BobbleheadMirageDesc]
 "A small wobbly statue of Mirage."
@@ -65793,6 +66256,171 @@ Comes with bonus helmet.
 [/Lotus/Language/Subtitles/CorpusMale/THIS_FILE_IS_AUTOGENERATED_BY_THE_DIALOG_TOOL]
 ""
 
+[/Lotus/Language/Subtitles/Evacuation/DEVAllKilled0540Lotus]
+"Too many crew have died. This mission is a failure."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVEnemyPowerCells0300Lotus]
+"The Infested are carrying power-cells."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVEnemyPowerCells0310Lotus]
+"Kill those Infested to get your power cell."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVExtractionAvailable0500Lotus]
+"There are still survivors to be evacuated but this operation is becoming increasingly risky, you have permission to seek extraction when you feel you can no longer protect the crew."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVExtractionAvailable0510Lotus]
+"The Infestation is growing more aggressive with each passing minute. Head to extraction when you can no longer guarantee the crew's safety."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVFirstDeath0350Lotus]
+"We lost one. Keep crew members alive. Lose too many and I'll be forced to abort the mission."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVFirstDoor0050Lotus]
+"The first batch of survivors are beyond this door. Find them."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVGroupEscape0450Lotus]
+"A group of survivors has escaped."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVGroupEscape0460Lotus]
+"Success! A group of crew members has reached the transport."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVGroupEscape0470Lotus]
+"Survivors have just reached the safety of our transport. Keep them coming."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVGroupEscape0480Lotus]
+"That's everyone. Let's get out of here."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVGroupEscape0490Lotus]
+"All crew members accounted for. Time to go."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVHurry0140Lotus]
+"You may use this console to send a signal that you want the survivors to hurry."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVHurry0150Lotus]
+"Use this comms console to rush out more survivors."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVIntro0010Lotus]
+"The scattered survivors of this infestation have barricaded themselves in safe areas throughout this galleon. Escort the crew to the waiting escape ship."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVKeepMoving0280Lotus]
+"Let the survivors know you're ready to keep moving."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVKeepMoving0290Lotus]
+"Tell the survivors when you're ready to move on."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVKeepPowered0210Lotus]
+"The crew will die if you don't find power-cells for that Med Booster."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVKeepPowered0220Lotus]
+"This med booster is the only thing keeping the crew alive, make sure it doesn't run out of power."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVKeepPowered0230Lotus]
+"Find power cells and bring them to the Med-Boosters to keep them operational."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVManicSpawn0340Lotus]
+"Grineer Manic! He's here to kill the defectors. Take him out."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVMedBoosterIntro0160Lotus]
+"The Infestation is airborne and it's slowly killing the crew. The Med Boosters scattered throughout the ship are their only hope for survival. "
+
+[/Lotus/Language/Subtitles/Evacuation/DEVMedBoosterIntro0170Lotus]
+"The galleon's atmosphere has become toxic; it will kill the crew members within minutes. Their only hope is the Med Boosters, but you must keep them powered. The survivors will never reach the transport without them."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVMinibossSpawn0320Lotus]
+"Careful Tenno. My scans show something big is coming your way."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVMinibossSpawn0330Lotus]
+"Stay alert! An unusually large organism has entered the area."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVObjRein0020Lotus]
+"Don't be alarmed by the crew. they're Grineer defectors, rescued by Steel Meridian, but too broken to join their ranks. Instead, they've banded together in search of a more peaceful life. They call themselves, Kavor."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVObjRein0030Lotus]
+"The crew here are Kavor Defectors, Grineer who rejected the violence they were created for. Rather than join Steel Meridian, they've chosen a different path, seeking a dream of a existence where they would not be forced to commit more atrocities."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVOutOfPower0240Lotus]
+"This Med Booster needs power cells."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVOutOfPower0250Lotus]
+"Find power-cells for the Med Booster."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVOutOfPower0260Lotus]
+"This med booster is out of power."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVOutOfPower0270Lotus]
+"Get power-cells in that Med Booster, now!"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVPowerBooster0180Lotus]
+"The survivors are hurting, keep the Med Boosters powered to give them the relief they need."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVPowerBooster0190Lotus]
+"For the survivors, these Med-Boosters mean the difference between life and death. Keep them powered."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVPowerBooster0200Lotus]
+"The survivors need first-aid before they can move on. Find power-cells for the Med Booster."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVReviveSurvivor0360Lotus]
+"A crew member is down, heal them."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVReviveSurvivor0370Lotus]
+"Revive that fallen crew member."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVReviveSurvivor0380Lotus]
+"Heal that crew member before they die."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVScanning0110Lotus]
+"Scanning for more survivors."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVScanning0120Lotus]
+"Locating more survivors."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVScanning0130Lotus]
+"Scanning for additional crew."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVSingleEscape0420Lotus]
+"Survivor evacuated."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVSingleEscape0430Lotus]
+"A survivor has safely reached the ship."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVSingleEscape0440Lotus]
+"Crew member rescued, keep it up."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVSurvivorDead0390Lotus]
+"Crew member killed, protect the remaining survivors."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVSurvivorDead0400Lotus]
+"Another crew member has been killed."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVSurvivorDead0410Lotus]
+"We lost one."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVTooManyDead0520Lotus]
+"Too many crew members have been lost, we need to regroup, head to extraction."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVTooManyDead0530Lotus]
+"You've let too many of the crew be killed. I can't allow this to continue, head to extraction."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVUnlockedArea0060Lotus]
+"Another group of defectors needs an escort."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVUnlockedArea0070Lotus]
+"I've found a new group of survivors. "
+
+[/Lotus/Language/Subtitles/Evacuation/DEVUnlockedArea0080Lotus]
+"There's another group of survivors looking for an escort."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVUnlockedArea0090Lotus]
+"Survivors are trying to get to the transport, they aren't going to make it without your help."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVUnlockedArea0100Lotus]
+"More survivors, keep them safe."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVUnlockedFirstDoor0040Lotus]
+"I've located the first group of survivors. Find them and escort them to the waiting transport."
+
+[/Lotus/Language/Subtitles/Evacuation/THIS_FILE_IS_AUTOGENERATED_BY_THE_DIALOG_TOOL]
+""
+
 [/Lotus/Language/Subtitles/Events/DAladsCargoBeforeExtract150AladV]
 "I must say, I will miss this ship but there are more where it came from and I can assure you, you won't find them all."
 
@@ -67452,6 +68080,12 @@ The Index, it's where investors of faith seek fortune."
 
 [/Lotus/Language/Subtitles/LotusBarks/DExtermObj00030Lotus]
 "You are not alone. This tower is full of life forms, all corrupted by the Neural Sentry. Clean them out."
+
+[/Lotus/Language/Subtitles/LotusBarks/DExtermObjCompRetreat0010Lotus]
+"The enemy is broken. Well done, now get to extraction."
+
+[/Lotus/Language/Subtitles/LotusBarks/DExtermObjCompRetreat0020Lotus]
+"You have broken their ranks and they are on the run. Another successful mission. Find extraction."
 
 [/Lotus/Language/Subtitles/LotusBarks/DGauntletChallenge060Lotus]
 "This will be your hardest test yet. Defeat all incoming enemies."
@@ -72703,7 +73337,7 @@ The message you uncovered was an offer to help us. I do not trust the person who
 "Ordis, free yourself of this..."
 
 [/Lotus/Language/Subtitles/Quests/DDQKokaWaveTen0030Ordis]
-" Operator, use the scanner on the Chroma. You do not have to kill it or risk yourself. You can release it from its control with the scanner!"
+"Operator, use the scanner on the Chroma. You do not have to kill it or risk yourself. You can release it from its control with the scanner!"
 
 [/Lotus/Language/Subtitles/Quests/DDQPrsnComplete0010Lotus]
 "There, you got the security logs. We'll examine them when you're safely back on the Orbiter. Get to extraction."
