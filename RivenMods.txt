@@ -413,7 +413,7 @@ Item Compatibility:
    SIMULOR, COMMON, Attenuation: 0.5
    TORID, COMMON, Attenuation: 1.14
    IGNIS, COMMON, Attenuation: 0.79
-   /Lotus/Weapons/ClanTech/Chemical/FlameThrowerWraith [LotusWeapon], NONE, Attenuation: 0.79
+   IGNIS WRAITH, NONE, Attenuation: 0.79
    OGRIS, COMMON, Attenuation: 1.245
    SUPRA, COMMON, Attenuation: 1.14
    FLUX RIFLE, COMMON, Attenuation: 1.55
