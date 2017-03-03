@@ -9103,7 +9103,7 @@ Baro Ki’Teer"
 "Cobbled together from vanquished Grineer, this Steel Meridian armor sends a clear message to the enemy."
 
 [/Lotus/Language/Cosmetics/GrnFaceMaskArmourName]
-"PROVVOK SHOULDER GUARD "
+"PROVVOK SHOULDER GUARD"
 
 [/Lotus/Language/Cosmetics/GrnHoodedCapeDesc]
 "Once worn by an elegant Elder Queen, before time and disease left her body mangled and disfigured."
@@ -53464,7 +53464,7 @@ REWARD"
 "HOTFIX INBOUND IN |TIME| MINUTES."
 
 [/Lotus/Language/Menu/Notification_LevelUpAvailable]
-"QUALIFIED FOR MASTERY RANK TEST <MASTERY_RANK_SMALL>|RANK_NUMBER| (|RANK_NAME|)"
+"QUALIFIED FOR MASTERY RANK TEST <MASTERY_RANK>|RANK_NUMBER| (|RANK_NAME|)"
 
 [/Lotus/Language/Menu/Notification_NewBuildSubject]
 "UPDATE"
@@ -66386,7 +66386,7 @@ Comes with bonus helmet.
 "Grineer Manic! He's here to kill the defectors. Take him out."
 
 [/Lotus/Language/Subtitles/Evacuation/DEVMedBoosterIntro0160Lotus]
-"The Infestation is airborne and it's slowly killing the crew. The Med Boosters scattered throughout the ship are their only hope for survival. "
+"The Infestation is airborne and it's slowly killing the crew. The Med Boosters scattered throughout the ship are their only hope for survival."
 
 [/Lotus/Language/Subtitles/Evacuation/DEVMedBoosterIntro0170Lotus]
 "The galleon's atmosphere has become toxic; it will kill the crew members within minutes. Their only hope is the Med Boosters, but you must keep them powered. The survivors will never reach the transport without them."
@@ -66423,12 +66423,6 @@ Comes with bonus helmet.
 
 [/Lotus/Language/Subtitles/Evacuation/DEVPowerBooster0200Lotus]
 "The survivors need first-aid before they can move on. Find power-cells for the Med Booster."
-
-[/Lotus/Language/Subtitles/Evacuation/DEVRedVeil0010RedVeil]
-"Kavor! Do you think you can just walk away from this struggle? Leave others to battle for you? Steel Meridian are honorable fighters, but you, you are cowards. Prepare to be purged."
-
-[/Lotus/Language/Subtitles/Evacuation/DEVRedVeil0020RedVeil]
-"You Kavor call yourselves pacifists? We call you freeloaders. You ask others to risk all while you cower away. This is the worst kind of corruption and for that you will pay."
 
 [/Lotus/Language/Subtitles/Evacuation/DEVReviveSurvivor0360Lotus]
 "A crew member is down, heal them."
