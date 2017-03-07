@@ -978,7 +978,7 @@ DROP_POWERUP (Drop Chance: 25%)
 
 [CorpusMineDroneAgentDropTable]
  - MINE OSPREY (MineDroneAvatar)
- - MUTALIST-OSPREY (PoisonDroneAvatar)
+ - MUTALIST OSPREY (PoisonDroneAvatar)
  - VENIN MUTALIST (InfestedAttackDroneAvatar)
  - SIKULA (WaterMineDroneAvatar)
 
@@ -2936,6 +2936,38 @@ DROP_SIGIL (Drop Chance: 100%)
 	VOR SIGIL, UNCOMMON, 100%
 
 
+[GrnManicColonistRescueDropTable]
+
+DROP_AMMO (Drop Chance: 70%)
+	20 RIFLE AMMO, COMMON, 25%
+	20 PISTOL AMMO, COMMON, 25%
+	10 SHOTGUN AMMO, COMMON, 25%, Bias 0.455
+	10 SNIPER AMMO, COMMON, 25%, Bias 0.555
+
+DROP_BLUEPRINT (Drop Chance: 33%)
+	ASH CHASSIS BLUEPRINT, COMMON, 38.72%
+	ASH NEUROPTICS BLUEPRINT, COMMON, 38.72%
+	ASH SYSTEMS BLUEPRINT, UNCOMMON, 22.56%
+
+DROP_MISC_ITEM (Drop Chance: 100%)
+	DATAMASS, COMMON, 100%, Bias 1
+
+DROP_MOD (Drop Chance: 50%)
+	Four Riders, RARE, 0.67%
+	15 ENDO, COMMON, 18.97%
+	Point Strike, COMMON, 18.97%
+	Fast Hands, COMMON, 18.97%
+	Reflex Coil, UNCOMMON, 7.37%
+	North Wind, UNCOMMON, 7.37%
+	Pressure Point, COMMON, 18.97%
+	Flow, RARE, 0.67%
+	50 ENDO, UNCOMMON, 7.37%
+	80 ENDO, RARE, 0.67%
+
+DROP_POWERUP (Drop Chance: 100%)
+	DATAMASS, COMMON, 100%, Bias 1
+
+
 [HarvesterDropTable]
  - ZANUKA HUNTER (ZanukaHunterAvatar)
 
@@ -2958,10 +2990,10 @@ DROP_SIGIL (Drop Chance: 100%)
 
 
 [HyenaAgentDropTable]
- - Hyena PB (HyenaGunAvatar)
  - Hyena TH (HyenaElecAvatar)
  - Hyena NG (HyenaFireAvatar)
  - Hyena LN2 (HyenaIceAvatar)
+ - Hyena PB (HyenaGunAvatar)
  - HYENA PACK (MiniRobotAvatar)
 
 DROP_AMMO (Drop Chance: 70%)
@@ -3062,7 +3094,7 @@ DROP_POWERUP (Drop Chance: 25%)
 
 [InfestationHealingAncientDropTable]
  - ANCIENT HEALER (HealingAncientAvatar)
- - SWARM-MUTALIST MOA (NaniteCloudBipedAvatar)
+ - SWARM MUTALIST MOA (NaniteCloudBipedAvatar)
 
 DROP_AMMO (Drop Chance: 70%)
 	20 RIFLE AMMO, COMMON, 25%
@@ -3181,7 +3213,7 @@ DROP_POWERUP (Drop Chance: 25%)
 
 [InfestationMeleeAncientDropTable]
  - ANCIENT DISRUPTOR (AncientAvatar)
- - TAR-MUTALIST MOA (SlowBombBipedAvatar)
+ - TAR MUTALIST MOA (SlowBombBipedAvatar)
 
 DROP_AMMO (Drop Chance: 70%)
 	20 RIFLE AMMO, COMMON, 25%
@@ -3237,8 +3269,8 @@ DROP_POWERUP (Drop Chance: 25%)
 
 
 [InfestationNoxiousCrawlerDropTable]
- - LOBBER CRAWLER (GrenadeAvatar)
  - TOXIC CRAWLER (NoxiousCrawlerAvatar)
+ - LOBBER CRAWLER (GrenadeAvatar)
 
 DROP_AMMO (Drop Chance: 70%)
 	20 RIFLE AMMO, COMMON, 25%
@@ -3760,8 +3792,8 @@ DROP_POWERUP (Drop Chance: 25%)
  - DREKAR HEAVY GUNNER EXIMUS (FemaleGrineerHeavyAvatarLeader)
  - DREKAR SCORPION EXIMUS (FemaleGrineerMacheteAvatarLeader)
  - DREKAR BALLISTA EXIMUS (FemaleGrineerSniperAvatarLeader)
- - SWARM-MUTALIST MOA EXIMUS (NaniteCloudBipedAvatarLeader)
- - TAR-MUTALIST MOA EXIMUS (SlowBombBipedAvatarLeader)
+ - SWARM MUTALIST MOA EXIMUS (NaniteCloudBipedAvatarLeader)
+ - TAR MUTALIST MOA EXIMUS (SlowBombBipedAvatarLeader)
 
 DROP_AMMO (Drop Chance: 70%)
 	20 RIFLE AMMO, COMMON, 25%
