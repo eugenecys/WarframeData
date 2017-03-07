@@ -10085,7 +10085,7 @@
   "Playing as Frost? Casting Freeze on your Snow Globe will remove it!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip18]:
-  "If an Excavator is close to death, give it an extra power core! Power cores will instantly restore its shields, allowing it to make that last push when under heavy fire!"
+  "If an Excavator is close to being destroyed, give it an extra Power Cell! Power Cells will instantly restore the Excavator shields, allowing it to make that last push when under heavy fire!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip19]:
   "All Nightmare Alerts, separate from the regular Nightmare mode, are 'no shields' missions. Plan accordingly!"
@@ -22118,13 +22118,13 @@
   "Overwhelms prey with sheer numbers "
 
 [/Lotus/Language/Game/InfestedMoaGoo]:
-  "TAR-MUTALIST MOA"
+  "TAR MUTALIST MOA"
 
 [/Lotus/Language/Game/InfestedMoaGooDesc]:
   "Discharges tar-like mucus slowing its prey"
 
 [/Lotus/Language/Game/InfestedMoaNanite]:
-  "SWARM-MUTALIST MOA"
+  "SWARM MUTALIST MOA"
 
 [/Lotus/Language/Game/InfestedMoaNaniteDesc]:
   "Discharges swarms of infested spores"
@@ -24342,7 +24342,7 @@
   "Carries Crawlers into battle"
 
 [/Lotus/Language/Game/ToxicDroneName]:
-  "MUTALIST-OSPREY"
+  "MUTALIST OSPREY"
 
 [/Lotus/Language/Game/TreasureHuntTimeLimit]:
   "Reach the end before the door closes!"
@@ -30298,7 +30298,7 @@
   "ARCANE TEMPERANCE"
 
 [/Lotus/Language/Items/DamanPrimeSugatraDesc]:
-  "A rare jewel from the old empire. Daman Sugatra Prime is crafted from some of the most scarce resources in the system."
+  "A rare jewel from the old empire. Daman Sugatra Prime is crafted from some of the most scarce resources in the System."
 
 [/Lotus/Language/Items/DamanPrimeSugatraName]:
   "DAMAN SUGATRA PRIME"
@@ -33584,7 +33584,7 @@
   "Awarded to Tenno who participated in the Mutalist Incursions  event."
 
 [/Lotus/Language/Items/InfTacAlertNaniteMoaBadgeName]:
-  "SWARM-MUTALIST MOA EMBLEM"
+  "SWARM MUTALIST MOA EMBLEM"
 
 [/Lotus/Language/Items/InfTacAlertPussAncientBadgeDesc]:
   "Awarded to Tenno who participated in the Mutalist Incursions  event."
@@ -33596,7 +33596,7 @@
   "Awarded to Tenno who participated in the Mutalist Incursions event."
 
 [/Lotus/Language/Items/InfTacAlertSlowBombMoaBadgeName]:
-  "TAR-MUTALIST MOA EMBLEM"
+  "TAR MUTALIST MOA EMBLEM"
 
 [/Lotus/Language/Items/InsectShipDesc]:
   "This insect-like landing craft features Med-Tower air-support."
@@ -66423,6 +66423,12 @@
 
 [/Lotus/Language/Subtitles/Evacuation/DEVPowerBooster0200Lotus]:
   "The survivors need first-aid before they can move on. Find power-cells for the Med Booster."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVRedVeil0030RedVeil]:
+  "Kavor, you could be the key to a future of peace. You must be studied. Alas, Steel Meridian has denied our requests for a specimen, so now we are forced to take one. Stand aside, Tenno."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVRedVeil0040RedVeil]:
+  "What defect made you reject violence, Kavor? Can we exploit it? Our questions need answers, and our answers require a sacrifice. Do not interfere, Tenno."
 
 [/Lotus/Language/Subtitles/Evacuation/DEVReviveSurvivor0360Lotus]:
   "A crew member is down, heal them."
