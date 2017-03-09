@@ -5253,6 +5253,12 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 [/Lotus/Language/Bundles/KuvaMegaBundleName]
 "CONTINUITY COLLECTION"
 
+[/Lotus/Language/Bundles/MashedGlyphBundleDesc]
+"A collection of glyphs, using captured frames from the 100 Days of Warframe video by MASHED"
+
+[/Lotus/Language/Bundles/MashedGlyphBundleName]
+"MASHED GLYPH PACK"
+
 [/Lotus/Language/Bundles/NidusBundleDesc]
 "Succumb to the Infestation with the Nidus Warframe, Hema rifle, Hirudo fist-weapons, and the Thorac Syandana.  Includes 3-Day Affinity and Credit Boosters."
 
@@ -9204,14 +9210,26 @@ Baro Ki’Teer"
 [/Lotus/Language/Cosmetics/KavatColorAccentsHyekkaName]
 "CARGO YELLOW"
 
+[/Lotus/Language/Cosmetics/KavatColorAccentsNexusName]
+"DARVO PURPLE"
+
 [/Lotus/Language/Cosmetics/KavatColorBaseHyekkaName]
 "FLESH BROWN"
+
+[/Lotus/Language/Cosmetics/KavatColorBaseNexusName]
+"NIDUS WHITE"
 
 [/Lotus/Language/Cosmetics/KavatColorSecondaryHyekkaName]
 "BLOOD RED"
 
+[/Lotus/Language/Cosmetics/KavatColorSecondaryNexusName]
+"MESA BLUE"
+
 [/Lotus/Language/Cosmetics/KavatColorTertiaryHyekkaName]
 "SLUDGE BROWN"
+
+[/Lotus/Language/Cosmetics/KavatColorTertiaryNexusName]
+"IGNIS RED"
 
 [/Lotus/Language/Cosmetics/KintsukuroAklatoSkinDesc]
 "Repaired with golden-alloys, this battle-scarred Aklato has been transformed into an object of beauty."
@@ -9314,6 +9332,18 @@ Baro Ki’Teer"
 
 [/Lotus/Language/Cosmetics/NekrosPrimeDefaultSkinName]
 "NEKROS PRIME SKIN"
+
+[/Lotus/Language/Cosmetics/NexusCatbrowPackSkinDesc]
+"Customize a Kavat’s fur color with these isolated DNA sequences."
+
+[/Lotus/Language/Cosmetics/NexusCatbrowPackSkinName]
+"NEXUS GENE-MASKING KIT"
+
+[/Lotus/Language/Cosmetics/NexusCatbrowSkinDesc]
+"A unique fur pattern for your Kavat."
+
+[/Lotus/Language/Cosmetics/NexusCatbrowSkinName]
+"NEXUS KAVAT FUR PATTERN"
 
 [/Lotus/Language/Cosmetics/NezhaDefaultSkinDesc]
 "The standard issue skin for the Nezha Warframe."
@@ -11102,7 +11132,7 @@ Warframe Support Team"
 "CLAN TRADE TAX: |AMOUNT|%"
 
 [/Lotus/Language/Dojo/ClanTradeTaxCredits]
-"CLAN TAX: <CREDITS> |TAX| (|TAX_RATE|%)"
+"CLAN TAX: <CREDITS>|TAX| (|TAX_RATE|%)"
 
 [/Lotus/Language/Dojo/ColorPicker_AreaPicker]
 "AREA PICKER"
@@ -11853,7 +11883,7 @@ Press <DOJO_SELECTION_EXIT> to quit"
 "Click the Trade button under your consumables window, to trade with this user."
 
 [/Lotus/Language/Dojo/HubTradeTaxCredits]
-"HUB TAX: <CREDITS> |TAX| (|TAX_RATE|%)"
+"HUB TAX: <CREDITS>|TAX| (|TAX_RATE|%)"
 
 [/Lotus/Language/Dojo/IcePlanetEventTrophyBronze]
 "CRYOTIC FRONT BRONZE TROPHY"
@@ -12146,13 +12176,13 @@ You can invite friends into your dojo to trade with them."
 
 [/Lotus/Language/Dojo/PurchaseResearchBP]
 "Research project completed.
-Blueprint Replication <CREDITS> |PRICE|"
+Blueprint Replication <CREDITS>|PRICE|"
 
 [/Lotus/Language/Dojo/PurchaseTech]
 "REPLICATE"
 
 [/Lotus/Language/Dojo/PurchaseTechConfirm]
-"Replicate |ITEM| for <CREDITS> |PRICE|?"
+"Replicate |ITEM| for <CREDITS>|PRICE|?"
 
 [/Lotus/Language/Dojo/PurchaseTechCost]
 "Replicate Blueprint:"
@@ -12464,7 +12494,7 @@ Blueprint Replication <CREDITS> |PRICE|"
 "Researching and constructing Solar Rails or Regiments is disabled during Armistice"
 
 [/Lotus/Language/Dojo/SpeedUpConfirmation]
-"Are you sure you want to contribute <PLATINUM_CREDITS> |HOW_MANY| to speed up the construction?"
+"Are you sure you want to contribute <PLATINUM_CREDITS>|HOW_MANY| to speed up the construction?"
 
 [/Lotus/Language/Dojo/SpeedUpContributionSucessful]
 "Thank you for your contribution!"
@@ -12983,7 +13013,7 @@ and will receive from |PLAYER_NAME| the following:|GETTING|"
 "The trade was successful!"
 
 [/Lotus/Language/Dojo/TradeTax]
-"TRADE TAX: <CREDITS> |AMOUNT|"
+"TRADE TAX: <CREDITS>|AMOUNT|"
 
 [/Lotus/Language/Dojo/TradeTypeConsumables]
 "GEAR"
@@ -13118,13 +13148,13 @@ and will receive from |PLAYER_NAME| the following:|GETTING|"
 "|USER| declined trade request"
 
 [/Lotus/Language/Dojo/VaultContribution]
-"|VAULT_NAME| VAULT <CREDITS> |CREDS|"
+"|VAULT_NAME| VAULT <CREDITS>|CREDS|"
 
 [/Lotus/Language/Dojo/VaultContributionClanOrAlliance]
 "Would you like to contribute to your Clan's Vault or your Alliance's Vault?"
 
 [/Lotus/Language/Dojo/VaultContributionConfirm]
-"Are you sure you want to contribute <CREDITS> |AMOUNT| Credits to your |VAULT_NAME| Vault? Direct Vault contributions are NEVER refunded!"
+"Are you sure you want to contribute <CREDITS>|AMOUNT| Credits to your |VAULT_NAME| Vault? Direct Vault contributions are NEVER refunded!"
 
 [/Lotus/Language/Dojo/VaultContributionConfirmPartTwo]
 "This contribution is coming from your |SOURCE|."
@@ -14819,7 +14849,7 @@ Keep fighting for me, there’s plenty more where that came from.I’m so close 
 -Alad V"
 
 [/Lotus/Language/G1Quests/AladVBattlePayMessageCredits]
-"I have transferred <CREDITS> |CREDIT_REWARD| to your account."
+"I have transferred <CREDITS>|CREDIT_REWARD| to your account."
 
 [/Lotus/Language/G1Quests/AladVBattlePaySubject]
 "As Agreed, Your Payment"
@@ -15109,6 +15139,26 @@ Councilor Vay Hek"
 [/Lotus/Language/G1Quests/ClemWeeklyMissionDesc]
 "Help Clem"
 
+[/Lotus/Language/G1Quests/ColonistRescueEventClanHardcoreRewardMsgBody]
+"|CLAN_NAME|,
+
+Your legend is growing. Steel Meridian recognizes your heroic efforts to protect those that cannot protect themselves, and we awarded you with a statue to memorialize this achievement.
+
+As a further testament to your victory and unity, the members of |CLAN_NAME| have earned the right to manufacture Ignis Wraith Blueprints in your Dojo, a distinctive honor. The Ignis Wraith is a prized weapon among our ranks, but even more coveted is the means to build it. 
+
+Use this privilege wisely, |PLAYER_NAME|."
+
+[/Lotus/Language/G1Quests/ColonistRescueEventClanHardcoreRewardMsgTitle]
+"THE PACIFISM DEFECT: Reverence Paid"
+
+[/Lotus/Language/G1Quests/ColonistRescueEventClanParticipationRewardMsgBody]
+"|PLAYER_NAME|,
+
+Steel Meridian recognizes your role in supporting |CLAN_NAME| and its coordinated efforts aiding the Kavor Defectors. Please accept this gift as a symbol of our gratitude."
+
+[/Lotus/Language/G1Quests/ColonistRescueEventClanParticipationRewardMsgTitle]
+"THE PACIFISM DEFECT: Recognition"
+
 [/Lotus/Language/G1Quests/ColonistRescueEventClanRewardMsgBody]
 "|CLAN_NAME|, 
 
@@ -15120,6 +15170,14 @@ Steel Meridian recognizes your sacrifice. The Ignis Wraith is a prized weapon am
 
 [/Lotus/Language/G1Quests/ColonistRescueEventClanRewardMsgTitle]
 "THE PACIFISM DEFECT: Our Salute"
+
+[/Lotus/Language/G1Quests/ColonistRescueEventClanTrophyMsgBody]
+"Tenno,
+
+The Kavor Defectors will never forget the compassion shown by |CLAN_NAME| in their support. Let this trophy stand as a reminder of your victory."
+
+[/Lotus/Language/G1Quests/ColonistRescueEventClanTrophyMsgTitle]
+"THE PACIFISM DEFECT: In Tribute"
 
 [/Lotus/Language/G1Quests/ColonistRescueEventCommunityMsgDesc]
 "Tenno,
@@ -15759,7 +15817,7 @@ Nef Anyo’s Bursas army is a shadow of what it could have been. |CLAN_NAME|’s
 "We are getting closer. Accept this small token as appreciation for your efforts."
 
 [/Lotus/Language/G1Quests/FC_CORPUS_InvasionThankyouMessageBodyCredits]
-"We have transferred <CREDITS> |CREDIT_REWARD| to your account."
+"We have transferred <CREDITS>|CREDIT_REWARD| to your account."
 
 [/Lotus/Language/G1Quests/FC_CORPUS_InvasionThankyouMessageSubject]
 "Corpus Battle Pay..."
@@ -15837,7 +15895,7 @@ You stared a Balor in the eye and made it blink. You flew into the belly of the 
 
 The Lotus
 
-<CREDITS> |CREDIT_REWARD|"
+<CREDITS>|CREDIT_REWARD|"
 
 [/Lotus/Language/G1Quests/FomorianRevengeRewardTitle]
 "Eyes of Blight: This Fight Isn’t Over"
@@ -16339,7 +16397,7 @@ Good luck,
 [/Lotus/Language/G1Quests/IcePlanetCaptureTacAlertRewardOneBody]
 "Your efforts are commendable, but we can still use your help. Take this to assist you on your next mission.
 
-<CREDITS> |CREDIT_REWARD|"
+<CREDITS>|CREDIT_REWARD|"
 
 [/Lotus/Language/G1Quests/IcePlanetCaptureTacAlertRewardTwoBody]
 "Tenno,
@@ -17262,7 +17320,7 @@ Will you stop or will you press on and deny Alad the redemption he seeks. Let Th
 Nef Anyo"
 
 [/Lotus/Language/G1Quests/NefAnyoBattlePayMessageCredits]
-"The Void has bestowed <CREDITS> |CREDIT_REWARD| to your account."
+"The Void has bestowed <CREDITS>|CREDIT_REWARD| to your account."
 
 [/Lotus/Language/G1Quests/NefAnyoBattlePaySubject]
 "The Void Giveth Unto You"
@@ -17506,7 +17564,7 @@ Frohd Bek"
 
 We have recovered vital information from the messages you intercepted. Take this with my thanks. 
 
-<CREDITS> |CREDIT_REWARD|
+<CREDITS>|CREDIT_REWARD|
 
 - The Lotus"
 
@@ -18032,7 +18090,7 @@ Infiltrate the ship carrying Izar to a political rally and eliminate her."
 "Yes"
 
 [/Lotus/Language/G1Quests/QuestMessage]
-"For completing this quest, you have been awarded <CREDITS> |CREDIT_REWARD|"
+"For completing this quest, you have been awarded <CREDITS>|CREDIT_REWARD|"
 
 [/Lotus/Language/G1Quests/QuestPromptIndex]
 "Will you help Neewa’s people?"
@@ -18078,7 +18136,7 @@ You have proven your valor in battle today, but the machines are countless and d
 
 The Lotus
 
-<CREDITS> |CREDIT_REWARD|"
+<CREDITS>|CREDIT_REWARD|"
 
 [/Lotus/Language/G1Quests/RemindDailySimarisTask]
 "<SIMARIS> Remind me of my target."
@@ -18156,7 +18214,7 @@ Cantis"
 [/Lotus/Language/G1Quests/ResourceBoosterRecallMessage]
 "Operator,
 
-I have just learned that you are affected by a product recall. It turns out that the company who produces your ‘Resource Drop Chance Boosters’, has discovered that solar flares were interfering with the booster’s proper operation. They wanted to let you know that they are deeply regretful for this oversight and have credited your account with |AMOUNT| <PLATINUM_CREDITS> as compensation.
+I have just learned that you are affected by a product recall. It turns out that the company who produces your ‘Resource Drop Chance Boosters’, has discovered that solar flares were interfering with the booster’s proper operation. They wanted to let you know that they are deeply regretful for this oversight and have credited your account with |AMOUNT|<PLATINUM_CREDITS> as compensation.
 
 Ordis, Ship's Cephalon"
 
@@ -19452,7 +19510,7 @@ The Grineer command have been impressed with the carnage your Kubrows have unlea
 
 Your efforts have surely setback the machinations of the Grineer. Take this as a token of my thanks. 
 
-<CREDITS> |CREDIT_REWARD|
+<CREDITS>|CREDIT_REWARD|
 
 - The Lotus"
 
@@ -19474,7 +19532,7 @@ We have just received word that the Grineer have captured specimens of a rare an
 
 You have quelled this new threat from the Grineer. Take this with my gratitude. 
 
-<CREDITS> |CREDIT_REWARD|
+<CREDITS>|CREDIT_REWARD|
 
 - The Lotus"
 
@@ -19494,7 +19552,7 @@ You have quelled this new threat from the Grineer. Take this with my gratitude.
 
 We have recovered vital information from the messages you intercepted. Take this with my thanks. 
 
-<CREDITS> |CREDIT_REWARD|
+<CREDITS>|CREDIT_REWARD|
 
 - The Lotus"
 
@@ -19516,7 +19574,7 @@ The Archwing Project has been a great success. Their agility and firepower has p
 
 You have struck the Corpus a crippling blow this day. Accept this with my thanks.
 
-<CREDITS> |CREDIT_REWARD|
+<CREDITS>|CREDIT_REWARD|
 
 -The Lotus"
 
@@ -24926,28 +24984,28 @@ Mastering Mag grants a devastating attack that can reverse the tide of any battl
 Lethal abilities are complemented by powers of distraction."
 
 [/Lotus/Language/GameTips/Mods_FusionEnergy]
-"Rare mods require more energy to rank up. They also provide more energy when fused."
+"Rare Mods require more energy to rank up. They also provide more energy when fused."
 
 [/Lotus/Language/GameTips/Mods_MarooTreasureHunt]
 "Maroo will sometimes have information on where to find Ayatan Treasures."
 
 [/Lotus/Language/GameTips/Mods_MeltOmega]
-"Dissolving Riven mods will return 75% of the endo invested into it."
+"Dissolving Riven Mods will return 75% of the Endo invested into it."
 
 [/Lotus/Language/GameTips/Mods_MiddleClick]
-"Use <MOUSE_B2> to select all mods in a stack."
+"Use <MOUSE_B2> to select all Mods in a stack."
 
 [/Lotus/Language/GameTips/Mods_SellingTreasures]
 "You can sell Ayatan Sculptures for <FUSION_POINTS> to Maroo in her Bazaar on Earth."
 
 [/Lotus/Language/GameTips/Mods_TransmuteRarity]
-"The rarity of mods being transmuted will increase the odds of producing a rare mod."
+"The rarity of Mods being transmuted will increase the odds of producing a rare Mod."
 
 [/Lotus/Language/GameTips/Mods_TransmuteSameCompatibility]
-"The item compatability of mods being transmuted will influence the item compatibility of the mod you receive."
+"The item compatibility of Mods being transmuted will influence the item compatibility of the Mod you receive."
 
 [/Lotus/Language/GameTips/Mods_TransmuteSamePolarity]
-"The polarity of mods being transmuted will influence the polarity of the mod you receive."
+"The polarity of Mods being transmuted will influence the polarity of the Mod you receive."
 
 [/Lotus/Language/GameTips/ModsDesc]
 "Search for rare Mods dropped by downed enemies.
@@ -24968,7 +25026,7 @@ The Rhino's charge is devastating."
 Warframes with healing technology are rare, making Trinity a great equalizer when the odds are stacked against a group of Tenno."
 
 [/Lotus/Language/GameTips/Upgrades_AurasAddCapacity]
-"Aura mods add to your total mod capacity."
+"Aura Mods add to your total Mod capacity."
 
 [/Lotus/Language/GameTips/Upgrades_BlastCombination]
 "Combine Heat <DT_FIRE> and Cold <DT_FREEZE> to create Blast <DT_EXPLOSION> damage.
@@ -24985,7 +25043,7 @@ Very effective against machinery."
 Very effective against ferrite armor."
 
 [/Lotus/Language/GameTips/Upgrades_DifferentDamageDifferentEnemies]
-"Enemies are resistant and vulnerable to various elements. Use the Codex scanner to learn about them."
+"Enemies are resistant and vulnerable to various elements. Use the Codex Scanner to learn about them."
 
 [/Lotus/Language/GameTips/Upgrades_Electricity]
 "Electricity <DT_ELECTRICITY> damage is capable of stunning and damaging enemies."
@@ -25005,10 +25063,10 @@ Very effective against infested."
 Very effective against shields."
 
 [/Lotus/Language/GameTips/Upgrades_MatchPolarity]
-"If the polarity of the mod and the slot you install it on match, the capacity cost of the mod will be halved."
+"If the polarity of the Mod and the slot you install it on match, the capacity cost of the Mod will be halved."
 
 [/Lotus/Language/GameTips/Upgrades_ModTutorial]
-"Press <MENU_RTRIGGER1> to view the mod tutorial."
+"Press <MENU_RTRIGGER1> to view the Mod tutorial."
 
 [/Lotus/Language/GameTips/Upgrades_OrderOfPrecepts]
 "Install Companion precepts in the order you want them to be followed, starting from upper-left."
@@ -25021,10 +25079,10 @@ Very effective against shields."
 Very effective against alloy armor."
 
 [/Lotus/Language/GameTips/Upgrades_Stance]
-"Stance mods unlock the ability to perform advanced combos."
+"Stance Mods unlock the ability to perform advanced combos."
 
 [/Lotus/Language/GameTips/Upgrades_StanceAddCapacity]
-"Stance mods add to your total mod capacity."
+"Stance Mods add to your total Mod capacity."
 
 [/Lotus/Language/GameTips/Upgrades_ViralCombination]
 "Combine Cold <DT_FREEZE> and Toxin <DT_POISON> to create Viral <DT_VIRAL> damage.
@@ -45346,19 +45404,19 @@ Darvo"
 "<POLARITY_WARD>UNAIRU"
 
 [/Lotus/Language/Menu/Apply_Fusion_For_Credits]
-"APPLY FUSION FOR <CREDITS> |CREDITS|"
+"APPLY FUSION FOR <CREDITS>|CREDITS|"
 
 [/Lotus/Language/Menu/ApplyFusionConfirm]
 "Applying this fusion will cost:
-<FUSION_POINTS> |FUSION_POINTS|
-<CREDITS> |CREDITS|
+<FUSION_POINTS>|FUSION_POINTS|
+<CREDITS>|CREDITS|
 Are you sure?"
 
 [/Lotus/Language/Menu/ApplySpectre]
 "Click APPLY to upload current loadout."
 
 [/Lotus/Language/Menu/ApplyTransmuteConfirm]
-"This transmutation will cost <CREDITS> |CREDITS| and the following mods will be consumed;|MODS|Are you sure?"
+"This transmutation will cost <CREDITS>|CREDITS| and the following mods will be consumed;|MODS|Are you sure?"
 
 [/Lotus/Language/Menu/AquiringSessions]
 "FINDING SESSIONS..."
@@ -45500,7 +45558,7 @@ Team deposits |NUM| Index Points"
 "<UPARROW>"
 
 [/Lotus/Language/Menu/Arsenal_ColorCost]
-"+ (<PLATINUM_CREDITS> |COST|)"
+"+ (<PLATINUM_CREDITS>|COST|)"
 
 [/Lotus/Language/Menu/Arsenal_HolsterVis]
 "VISIBLE WHEN HOLSTERED"
@@ -45548,7 +45606,7 @@ Team deposits |NUM| Index Points"
 "ACTIONS"
 
 [/Lotus/Language/Menu/ArtifactCards_CategoryOmega]
-"RIVENS"
+"RIVEN"
 
 [/Lotus/Language/Menu/ArtifactCards_CollectionStatsOmega]
 "Riven Capacity:|CURR|/|MAX|"
@@ -47373,10 +47431,10 @@ Are you sure?"
 "Cannot claim; not enough space in inventory."
 
 [/Lotus/Language/Menu/Crafting_InsufficientInventorySpaceUpSell]
-"Would you like to purchase |slotCount| |slotType| for <PLATINUM_CREDITS> |cost|?"
+"Would you like to purchase |slotCount| |slotType| for <PLATINUM_CREDITS>|cost|?"
 
 [/Lotus/Language/Menu/Crafting_InsufficientInventorySpaceUpSellButtonText]
-"Buy for <PLATINUM_CREDITS> |cost|"
+"Buy for <PLATINUM_CREDITS>|cost|"
 
 [/Lotus/Language/Menu/Crafting_InsufficientPlatinum]
 "Not enough platinum to complete this blueprint."
@@ -47424,10 +47482,10 @@ Are you sure?"
 "Time Remaining:"
 
 [/Lotus/Language/Menu/Crafting_UserRushCostWarning]
-"You will still need <PLATINUM_CREDITS> |credits| to complete rush build after purchase."
+"You will still need <PLATINUM_CREDITS>|credits| to complete rush build after purchase."
 
 [/Lotus/Language/Menu/Crafting_UserRushCostWarningCanAfford]
-"You will still need <PLATINUM_CREDITS> |credits| to complete this rush/claim."
+"You will still need <PLATINUM_CREDITS>|credits| to complete this rush/claim."
 
 [/Lotus/Language/Menu/Crafting_XPLockedMessage]
 "Insufficient rank to build this item."
@@ -49152,10 +49210,10 @@ Are you sure?"
 "Credits"
 
 [/Lotus/Language/Menu/CreditsFormatted]
-"<CREDITS> |CREDITS|"
+"<CREDITS>|CREDITS|"
 
 [/Lotus/Language/Menu/CreditsWithIcon]
-"<CREDITS> |PRICE|"
+"<CREDITS>|PRICE|"
 
 [/Lotus/Language/Menu/Crouch]
 "Crouch, Slide, and Roll"
@@ -49427,7 +49485,7 @@ Component blueprints are acquired by completing the Infested Salvage mission in 
 "Cannot detoxify a Kubrow that is having its imprint distilled. You can rush/claim said imprint in the GENETIC TOOLS submenu."
 
 [/Lotus/Language/Menu/DetoxifyNoItemsError]
-"You don't have any DNA stabilizers. Purchase a pack of 6 for <CREDITS> |PRICE|?"
+"You don't have any DNA stabilizers. Purchase a pack of 6 for <CREDITS>|PRICE|?"
 
 [/Lotus/Language/Menu/DetoxifyPetAtFullHealthError]
 "Pet is already at full DNA integrity."
@@ -49697,7 +49755,10 @@ Scales with Mastery Rank"
 |LIST|"
 
 [/Lotus/Language/Menu/FocusTree_CommitChangesLine]
-"|NAME| <FOCUS>|NUM|"
+"<FOCUS>|NUM| in |NAME|"
+
+[/Lotus/Language/Menu/FocusTree_CommitChangesLineCapacity]
+"<FOCUS>|NUM| for |NAME|"
 
 [/Lotus/Language/Menu/FocusTree_CommitFailed]
 "Could not commit some of the focus transactions to the server. The following transactions weren't committed:
@@ -49760,7 +49821,7 @@ Scales with Mastery Rank"
 Are you ready to become |RANK_NAME| rank?"
 
 [/Lotus/Language/Menu/Foreground_LevelUpRetry]
-"Training can only occur once per day. You still have |TIME_REMAINING| before you can take a free test. You can pay <PLATINUM_CREDITS> |COST| to take another test now. Are you sure you want to pay for this?"
+"Training can only occur once per day. You still have |TIME_REMAINING| before you can take a free test. You can pay <PLATINUM_CREDITS>|COST| to take another test now. Are you sure you want to pay for this?"
 
 [/Lotus/Language/Menu/Foreground_LevelUpSessionActive]
 "You cannot be tested while a mission squad is active. Please exit the squad and try again."
@@ -49838,10 +49899,10 @@ Are you ready to become |RANK_NAME| rank?"
 "SELECT ONLY 1 MOD TO BEGIN FUSION"
 
 [/Lotus/Language/Menu/FusionAmount]
-"APPLY FUSION FOR <CREDITS> |COST|"
+"APPLY FUSION FOR <CREDITS>|COST|"
 
 [/Lotus/Language/Menu/FusionAmountFusex]
-"APPLY FUSION FOR <FUSION_POINTS> |FUSION_POINTS| AND <CREDITS> |CREDITS|"
+"APPLY FUSION FOR <FUSION_POINTS>|FUSION_POINTS| AND <CREDITS>|CREDITS|"
 
 [/Lotus/Language/Menu/FusionApplyLegendaryBtn]
 "LEGENDARY CORE |STATUS|"
@@ -49874,19 +49935,19 @@ Are you ready to become |RANK_NAME| rank?"
 "<FUSION_POINTS> FUSION POINTS"
 
 [/Lotus/Language/Menu/FusionPointsFormatted]
-"<FUSION_POINTS> |FUSION_POINTS|"
+"<FUSION_POINTS>|FUSION_POINTS|"
 
 [/Lotus/Language/Menu/FusionPointsMode]
 "DISSOLVE"
 
 [/Lotus/Language/Menu/FusionPointsMode_Description]
-"Dissolve Mods into <FUSION_POINTS>"
+"Dissolve Mods into <FUSION_POINTS>Endo"
 
 [/Lotus/Language/Menu/FusionPointsMode_NoCardsSelectedError]
 "SELECT MODS TO PREVIEW <FUSION_POINTS> VALUE"
 
 [/Lotus/Language/Menu/FusionPointsWithIcon]
-"<FUSION_POINTS> |PRICE|"
+"<FUSION_POINTS>|PRICE|"
 
 [/Lotus/Language/Menu/FusionSelect]
 "SELECT A MOD"
@@ -49943,7 +50004,7 @@ Are you ready to become |RANK_NAME| rank?"
 "MATCH |NUM|"
 
 [/Lotus/Language/Menu/Gambling_QuestGenericBuyIn]
-"WAGER <CREDITS> |CREDITS|"
+"WAGER <CREDITS>|CREDITS|"
 
 [/Lotus/Language/Menu/Gambling_QuestMatchEBuyIn]
 "WAGER <CREDITS> 180,000,
@@ -49959,7 +50020,7 @@ ALL OF ERGO's HOLDINGS"
 "NEEWA, ALL OF ERGO'S HOLDINGS, <CREDITS> 150,000"
 
 [/Lotus/Language/Menu/Gambling_QuestPayoutCaptives]
-"|NUM| CAPTIVE MYCONIANS, <CREDITS> |CREDITS|"
+"|NUM| CAPTIVE MYCONIANS, <CREDITS>|CREDITS|"
 
 [/Lotus/Language/Menu/Gambling_WagerDesc]
 "[PH] A chance to win |VAL| Corpus Chips! Gain a personal score of |GOAL| Points and emerge victorious to win the bet."
@@ -50145,10 +50206,10 @@ ALL OF ERGO's HOLDINGS"
 "Enter the name of the recipient:"
 
 [/Lotus/Language/Menu/GiftConfirmBogoPurchase]
-"Are you sure you want to give a |GIFT_TYPE| x |QUANTITY| to |RECIPIENT|? You will be charged a total of <PLATINUM_CREDITS> |TOTAL| (|QUANTITY_BOUGHT| for <PLATINUM_CREDITS> |PRICE| each, plus |QUANTITY_FREE| free)."
+"Are you sure you want to give a |GIFT_TYPE| x |QUANTITY| to |RECIPIENT|? You will be charged a total of <PLATINUM_CREDITS>|TOTAL| (|QUANTITY_BOUGHT| for <PLATINUM_CREDITS>|PRICE| each, plus |QUANTITY_FREE| free)."
 
 [/Lotus/Language/Menu/GiftConfirmMultiPurchase]
-"Are you sure you want to give a |GIFT_TYPE| x |QUANTITY| for <PLATINUM_CREDITS> |PRICE| each to |RECIPIENT|? You will be charged a total of <PLATINUM_CREDITS> |TOTAL|."
+"Are you sure you want to give a |GIFT_TYPE| x |QUANTITY| for <PLATINUM_CREDITS>|PRICE| each to |RECIPIENT|? You will be charged a total of <PLATINUM_CREDITS>|TOTAL|."
 
 [/Lotus/Language/Menu/GiftConfirmMultiPurchaseMessage]
 " The following message will also be sent:
@@ -50156,10 +50217,10 @@ ALL OF ERGO's HOLDINGS"
 |MESSAGE|"
 
 [/Lotus/Language/Menu/GiftConfirmNoMessage]
-"Are you sure you want to give a |GIFT_TYPE| to |RECIPIENT|? You will be charged <PLATINUM_CREDITS> |PRICE|."
+"Are you sure you want to give a |GIFT_TYPE| to |RECIPIENT|? You will be charged <PLATINUM_CREDITS>|PRICE|."
 
 [/Lotus/Language/Menu/GiftConfirmWithMessage]
-"Are you sure you want to give a |GIFT_TYPE| to |RECIPIENT|? You will be charged <PLATINUM_CREDITS> |PRICE|. The following message will also be sent:
+"Are you sure you want to give a |GIFT_TYPE| to |RECIPIENT|? You will be charged <PLATINUM_CREDITS>|PRICE|. The following message will also be sent:
 
 |MESSAGE|"
 
@@ -51063,13 +51124,13 @@ Just to let you know, the |TYPE_NAME| you sent to |RECIPIENT_NAME| has been open
 "INSTALLED MODS"
 
 [/Lotus/Language/Menu/InstallingExplanation_PS4]
-"Install compatible mods from the bottom menu to the desired upgrade slots"
+"Install compatible Mods from the bottom menu to the desired upgrade slots"
 
 [/Lotus/Language/Menu/InstallingExplanation_Windows]
-"Drag compatible mods from the bottom menu to the desired mod slots"
+"Drag compatible Mods from the bottom menu to the desired mod slots"
 
 [/Lotus/Language/Menu/InstallingExplanation_XBone]
-"Install compatible mods from the bottom menu to the desired upgrade slots"
+"Install compatible Mods from the bottom menu to the desired upgrade slots"
 
 [/Lotus/Language/Menu/InstallingSegment]
 "Installing segment..."
@@ -51162,7 +51223,7 @@ Just to let you know, the |TYPE_NAME| you sent to |RECIPIENT_NAME| has been open
 "BUY SLOTS"
 
 [/Lotus/Language/Menu/ItemInventory_BuySlotsConfirm]
-"Purchase |slotCount| |slotType| for <PLATINUM_CREDITS> |cost|?"
+"Purchase |slotCount| |slotType| for <PLATINUM_CREDITS>|cost|?"
 
 [/Lotus/Language/Menu/ItemInventory_BuySlotsTip]
 "Buy additional inventory slots"
@@ -51180,7 +51241,7 @@ Just to let you know, the |TYPE_NAME| you sent to |RECIPIENT_NAME| has been open
 "Available Capacity"
 
 [/Lotus/Language/Menu/ItemInventory_ConfirmSell]
-"Are you sure you want to sell |ITEMS| for <CREDITS> |PRICE|?"
+"Are you sure you want to sell |ITEMS| for <CREDITS>|PRICE|?"
 
 [/Lotus/Language/Menu/ItemInventory_ConsumablePlural]
 "|NUMBER| Gear"
@@ -51261,7 +51322,7 @@ Just to let you know, the |TYPE_NAME| you sent to |RECIPIENT_NAME| has been open
 "How many |ITEMS| do you want to add to the sell pile?"
 
 [/Lotus/Language/Menu/ItemInventory_SelectSellAmount]
-"Select the number of |ITEMS| you want to sell at <CREDITS> |PRICE| each"
+"Select the number of |ITEMS| you want to sell at <CREDITS>|PRICE| each"
 
 [/Lotus/Language/Menu/ItemInventory_SellingPrimeTitle]
 "DUCAT KIOSK"
@@ -51474,7 +51535,7 @@ Just to let you know, the |TYPE_NAME| you sent to |RECIPIENT_NAME| has been open
 "LEARN ABOUT |TYPE|S"
 
 [/Lotus/Language/Menu/KuvaFormatted]
-"<KUVA> |KUVA|"
+"<KUVA>|KUVA|"
 
 [/Lotus/Language/Menu/LastItemOtherLockedUnsellable]
 "This item is your last one of this type, the other has been captured by Alad V's Zanuka. You must reclaim the captured one before this can be sold."
@@ -51541,7 +51602,7 @@ Just to let you know, the |TYPE_NAME| you sent to |RECIPIENT_NAME| has been open
 
 [/Lotus/Language/Menu/Loadout_ApplyConfirm]
 "Applying this reconfiguration will cost:
-<CREDITS> |CREDITS|
+<CREDITS>|CREDITS|
 Are you sure?"
 
 [/Lotus/Language/Menu/Loadout_ApplyConfirmNoCost]
@@ -51590,7 +51651,7 @@ Are you sure?"
 "APPLY AUTO INSTALLATION"
 
 [/Lotus/Language/Menu/Loadout_AutoInstall_Desc]
-"Automatically setup your Mod configuration."
+"Automatically setup your Mod configuration"
 
 [/Lotus/Language/Menu/Loadout_AvailableLoadoutSlots]
 "(|SLOTS| SLOTS AVAILABLE)"
@@ -51599,7 +51660,7 @@ Are you sure?"
 "BOOSTERS"
 
 [/Lotus/Language/Menu/Loadout_BuyExtraSlot]
-"BUY EXTRA SLOT (|CUR|/|MAX|) <PLATINUM_CREDITS> |PRICE|"
+"BUY EXTRA SLOT (|CUR|/|MAX|) <PLATINUM_CREDITS>|PRICE|"
 
 [/Lotus/Language/Menu/Loadout_BuyRevive]
 "REFILL"
@@ -51740,7 +51801,7 @@ Are you sure?"
 "BUY AND INSTALL"
 
 [/Lotus/Language/Menu/Loadout_Lens_Desc]
-"Channel Affinity into Focus on Max Rank weapons and Warframes."
+"Channel Affinity into Focus on Max Rank weapons and Warframes"
 
 [/Lotus/Language/Menu/Loadout_Lens_Install]
 "INSTALL"
@@ -51839,7 +51900,7 @@ Are you sure?"
 "POLARIZE"
 
 [/Lotus/Language/Menu/Loadout_Polarize_Desc]
-"Add or modify the Polarity of a slot."
+"Add or modify the Polarity of a slot"
 
 [/Lotus/Language/Menu/Loadout_Polarize_Title]
 "POLARIZATION"
@@ -51860,9 +51921,9 @@ Are you sure?"
 "You did not change a Mod Slot! Expend a |ITEM| to RESET this item and leave slot Polarity unchanged?"
 
 [/Lotus/Language/Menu/Loadout_PolarizeDesc]
-"Use a Forma to polarize a mod slot on items that have achieved a rank of 30. (Click a slot above to cycle polarity)
+"Use a Forma to polarize a Mod slot on items that have achieved a rank of 30. (Click a slot above to cycle polarity)
 
-CAUTION: This process RESETS the item to UNRANKED. A sacrifice that will make the item even more powerful once it is ranked up again."
+<WARNING> CAUTION: This process RESETS the item to UNRANKED. A sacrifice that will make the item even more powerful once it is ranked up again."
 
 [/Lotus/Language/Menu/Loadout_PolarizeToolTipFail]
 "|ITEM| is required to Polarize this item."
@@ -51977,7 +52038,7 @@ PvP compatible gear can be differentiated by the <CONCLAVE> or <UNIVERSAL> symbo
 "UPGRADE"
 
 [/Lotus/Language/Menu/Loadout_SwapPolarity_Desc]
-"Interchange Polarities between Slots."
+"Interchange Polarities between Slots"
 
 [/Lotus/Language/Menu/Loadout_SwapPolarity_ItemNotPolarized]
 "REQUIRES POLARIZATION"
@@ -52055,13 +52116,13 @@ PvP compatible gear can be differentiated by the <CONCLAVE> or <UNIVERSAL> symbo
 "|TYPE| INSTALLED"
 
 [/Lotus/Language/Menu/Loadout_Upgrade_CatalystRequired]
-"BUY |TYPE| FOR <PLATINUM_CREDITS> |COST|"
+"BUY |TYPE| FOR <PLATINUM_CREDITS>|COST|"
 
 [/Lotus/Language/Menu/Loadout_Upgrade_Desc]
-"Double your mod capacity."
+"Double your Mod capacity"
 
 [/Lotus/Language/Menu/Loadout_Upgrade_DescInstalled]
-"Mod Capacity has been doubled."
+"Mod Capacity has been doubled"
 
 [/Lotus/Language/Menu/Loadout_Upgrade_TitleInstalled]
 "UPGRADED"
@@ -52573,7 +52634,7 @@ You will be charged |COSTCURRENCY| |COST|."
 "(During Wall Dash)"
 
 [/Lotus/Language/Menu/MELT_Stack]
-"DISSOLVE |NUM| SELECTED MODS INTO <FUSION_POINTS> |PRICE|"
+"DISSOLVE |NUM| SELECTED INTO <FUSION_POINTS>|PRICE|"
 
 [/Lotus/Language/Menu/Members]
 "MEMBERS"
@@ -53509,7 +53570,7 @@ REWARD"
 "You must be under the Riven mod capacity limit to play sorties."
 
 [/Lotus/Language/Menu/OmegaLimit_SellConfirm]
-"Dissolve the selected Riven Mods for <FUSION_POINTS> |PRICE|?"
+"Dissolve the selected Riven Mods for <FUSION_POINTS>|PRICE|?"
 
 [/Lotus/Language/Menu/OmegaLimit_Title]
 "DISSOLVE RIVEN MODS"
@@ -54385,7 +54446,7 @@ If your system supports DirectX 11 you can enable it in the launcher."
 "CHANGE ALIAS"
 
 [/Lotus/Language/Menu/Profile_AccountRenameConfirm]
-"Change alias to '|NEW_NAME|'? You will be charged  <PLATINUM_CREDITS> |RENAME_COST| Platinum."
+"Change alias to '|NEW_NAME|'? You will be charged  <PLATINUM_CREDITS>|RENAME_COST| Platinum."
 
 [/Lotus/Language/Menu/Profile_AccountRenameDesc]
 "Change your alias"
@@ -55515,7 +55576,7 @@ Do you wish to enable Recruit Conditioning?"
 "Team"
 
 [/Lotus/Language/Menu/REROLL_BtnActive]
-"CYCLE RIVEN MOD FOR <KUVA> |PRICE|"
+"CYCLE RIVEN MOD FOR <KUVA>|PRICE|"
 
 [/Lotus/Language/Menu/REROLL_CantReroll]
 "[PH] TASK NOT COMPELTED"
@@ -55524,16 +55585,16 @@ Do you wish to enable Recruit Conditioning?"
 "Riven reroll selection could not be confirmed. Please reload the game to try again."
 
 [/Lotus/Language/Menu/REROLL_Confirm]
-"Are you sure you want to cycle |MOD| for <KUVA> |PRICE|?"
+"Are you sure you want to cycle |MOD| for <KUVA>|PRICE|?"
 
 [/Lotus/Language/Menu/REROLL_Description]
-"Randomize Riven mod stats"
+"Randomize Riven Mod stats"
 
 [/Lotus/Language/Menu/REROLL_InsuffCurrency]
 "INSUFFICIENT <KUVA> (|PRICE| NEEDED)"
 
 [/Lotus/Language/Menu/REROLL_ShortForm]
-"CYCLE FOR <KUVA> |PRICE|"
+"CYCLE FOR <KUVA>|PRICE|"
 
 [/Lotus/Language/Menu/REROLL_Title]
 "CYCLE"
@@ -55667,8 +55728,8 @@ Progress |progress|%"
 "This is an automated paystub for your share of the platinum earned from sales of |TYPE_NAME|.
 
 DocumentId: |DOC_ID|
-Earnings this period: <PLATINUM_CREDITS> |AMOUNT|
-Total earnings: <PLATINUM_CREDITS> |TOTAL|
+Earnings this period: <PLATINUM_CREDITS>|AMOUNT|
+Total earnings: <PLATINUM_CREDITS>|TOTAL|
 
 Thank you for your partnership."
 
@@ -55850,13 +55911,13 @@ Thank you for your partnership."
 "SELL ALL IN STACK"
 
 [/Lotus/Language/Menu/SELL_Description]
-"Sell your Mods for credits"
+"Sell your Mods for <CREDITS>Credits"
 
 [/Lotus/Language/Menu/SELL_DescriptionFusex]
-"Sell your Mods for credits or fusion points."
+"Sell your Mods for <CREDITS>Credits or <FUSION_POINTS>Endo."
 
 [/Lotus/Language/Menu/SELL_NoCardsSelectedError]
-"SELECT MODS TO PREVIEW SELL VALUE"
+"SELECT MODS TO PREVIEW <CREDITS> VALUE"
 
 [/Lotus/Language/Menu/SELL_PILE]
 "SELL STACK"
@@ -55868,7 +55929,7 @@ Thank you for your partnership."
 "CANNOT SELL LAST OF ABILITY MOD |MOD|"
 
 [/Lotus/Language/Menu/SELL_SellStack]
-"SELL |NUM| SELECTED MODS FOR <CREDITS> |PRICE|"
+"SELL |NUM| SELECTED FOR <CREDITS>|PRICE|"
 
 [/Lotus/Language/Menu/SellManifest]
 "Please verify that these are the items you wish to sell:"
@@ -56834,7 +56895,7 @@ Do you want to proceed?"
 "Includes:"
 
 [/Lotus/Language/Menu/Store_InsufficientSlotPurchase]
-"Insufficient inventory slots. Purchase |COUNT| slot(s) for <PLATINUM_CREDITS> |COST|?"
+"Insufficient inventory slots. Purchase |COUNT| slot(s) for <PLATINUM_CREDITS>|COST|?"
 
 [/Lotus/Language/Menu/Store_InsufficientSlots]
 "Insufficient inventory slots. Please purchase additional slots from the Arsenal's Inventory screen."
@@ -57217,13 +57278,13 @@ Only 4 revives can be used in this mission, you can supplement |COUNT| for |PRIC
 "BENEFITS AND CONSEQUENCES"
 
 [/Lotus/Language/Menu/Syndicates_ConfirmInitiationSacrifice]
-"Are you sure you want to sacrifice |ITEM| and <CREDITS> |CREDITS| to be initiated with |SYNDICATE|?"
+"Are you sure you want to sacrifice |ITEM| and <CREDITS>|CREDITS| to be initiated with |SYNDICATE|?"
 
 [/Lotus/Language/Menu/Syndicates_ConfirmRepeatedSacrifice]
 "Are you sure you want to reattain the title of |TITLE| with |SYNDICATE|?"
 
 [/Lotus/Language/Menu/Syndicates_ConfirmSacrifice]
-"Are you sure you want to sacrifice |ITEM| and <CREDITS> |CREDITS| to earn the title of |TITLE| with |SYNDICATE|?"
+"Are you sure you want to sacrifice |ITEM| and <CREDITS>|CREDITS| to earn the title of |TITLE| with |SYNDICATE|?"
 
 [/Lotus/Language/Menu/Syndicates_FavoredTitle]
 "FAVORED"
@@ -57517,7 +57578,7 @@ Ordis, Ship's Cephalon"
 "|NAME| has |HOW_MUCH|% more Health"
 
 [/Lotus/Language/Menu/TRANSMUTE_BeginTransmutation]
-"TRANSMUTE SELECTED MODS FOR <CREDITS> |PRICE|"
+"TRANSMUTE SELECTED FOR <CREDITS>|PRICE|"
 
 [/Lotus/Language/Menu/TRANSMUTE_Description]
 "Combine 4 unranked Mods for a chance at a Rare Mod"
@@ -84052,7 +84113,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "Blueprint is acquired by defeating Kela De Thaym."
 
 [/Lotus/Language/Weapons/CorpusSpearGunDesc]
-"Discharge a molten rail of magnetized death or throw the Ferrox like a spear and create a localized field of attraction no enemy can escape from."
+"Discharge a rail of ionized death or throw the Ferrox like a spear and create a localized field of attraction no enemy can escape from."
 
 [/Lotus/Language/Weapons/CorpusSpearGunName]
 "FERROX"
@@ -84158,6 +84219,9 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 
 [/Lotus/Language/Weapons/SentinelGremlinName]
 "ARTAX"
+
+[/Lotus/Language/Weapons/SpearAltFire]
+"THROW"
 
 [/Lotus/Language/Weapons/SundialRifleDesc]
 "[PH]Sundial Rifle Description"
