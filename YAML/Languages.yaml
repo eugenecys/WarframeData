@@ -33974,7 +33974,7 @@
 [/Lotus/Language/Items/KavatStarterKitDesc]:
   "Contains all of the components to begin gene-splicing a Kavat!
   
-  Requires: Installed KAVAT INCUBATOR UPGRADE SEGMENT"
+  Requires: Installed Kavat Incubator Upgrade Segment"
 
 [/Lotus/Language/Items/KazBaroCapeDesc]:
   "Define style with this crystalline cape."
@@ -34582,7 +34582,7 @@
 [/Lotus/Language/Items/KubrowStarterKitDesc]:
   "Contains all of the components to begin gene-splicing a Kubrow!
   
-  Requires: Installed INCUBATOR SEGMENT"
+  Requires: Installed Incubator Segment"
 
 [/Lotus/Language/Items/KubrowThiefPreceptDesc]:
   "|val|% chance for the pet to pry open a locked locker."
@@ -39063,7 +39063,7 @@
   - Allows construction of Landing Craft
   - Allows construction of Air Support Charges
   
-  (Equip Air Support Charges in Arsenal -> Gear Menu)"
+  Equip Air Support Charges in your Loadout's Gear."
 
 [/Lotus/Language/Items/ShipFeatureGeneticFoundry]:
   "INCUBATOR SEGMENT"
@@ -39075,7 +39075,7 @@
   "Allows the Incubator to breed Kavats."
 
 [/Lotus/Language/Items/ShipFeatureGeneticFoundryUpgrade]:
-  "INCUBATOR UPGRADE SEGMENT"
+  "NUTRIO INCUBATOR UPGRADE SEGMENT"
 
 [/Lotus/Language/Items/ShipFeatureGeneticFoundryUpgradeDesc]:
   "Upgrades the Orbiter's Incubator with the following features:
@@ -49455,7 +49455,7 @@
   "REMOVE FROM WISHLIST"
 
 [/Lotus/Language/Menu/DetailedPurchase_ResearchRecipeHelp]:
-  "|ITEM|s recipe can be researched in the |ROOM| Dojo room."
+  "Recipe for |ITEM| can be researched in the |ROOM| Dojo room."
 
 [/Lotus/Language/Menu/DetailedPurchase_SteamWorkshopItem]:
   "WORKSHOP ITEM"
@@ -57540,7 +57540,7 @@
   
   Due to a period of extended neglect,  |PET_NAME|  has been placed in stasis.
   
-  I must say, installing the Nutrio Incubator was well worth the effort. I would hate to ponder your pet’s fate without it and the landing craft’s atmosphere is cleaner already.
+  I must say, installing the Nutrio Incubator Upgrade Segment was well worth the effort. I would hate to ponder your pet’s fate without it and the landing craft’s atmosphere is cleaner already.
   
   -Ordis"
 
