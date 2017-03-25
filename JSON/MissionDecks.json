@@ -170,10 +170,27 @@
       "Ceres, Thon, MT_SABOTAGE, FC_GRINEER, NT_MISSION"
     ]
   },
+  "/Lotus/Types/Game/MissionDecks/CacheRewardsMoon": {
+    "Locations": [
+      "Lua, Plato, MT_EXTERMINATION, FC_GRINEER, NT_MISSION"
+    ]
+  },
   "/Lotus/Types/Game/MissionDecks/CacheRewardsVoid": {
     "Locations": [
       "Void, Stribog, MT_SABOTAGE, FC_OROKIN, NT_MISSION",
       "Void, Marduk, MT_SABOTAGE, FC_OROKIN, NT_MISSION"
+    ]
+  },
+  "/Lotus/Types/Game/MissionDecks/CacheRewardsVorsPrize": {
+    "Locations": null,
+    "Rotation A": [
+      "1000 SALVAGE, COMMON, 100%"
+    ],
+    "Rotation B": [
+      "500 POLYMER BUNDLE, COMMON, 100%"
+    ],
+    "Rotation C": [
+      "2 MORPHICS, COMMON, 100%"
     ]
   },
   "/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA": {
@@ -218,7 +235,7 @@
       "1 Ammo Drum, UNCOMMON, 11.06%",
       "1 Fast Hands, COMMON, 10.84%",
       "1 Quickdraw, COMMON, 10.84%",
-      "1 HEALTH RESTORE, COMMON, 10.84%",
+      "1 HEALTH RESTORE (LARGE), COMMON, 10.84%",
       "1 OMNI AMMO BOX, RARE, 0.13%",
       "1 North Wind, RARE, 0.13%",
       "1 Shocking Touch, RARE, 0.13%",
@@ -250,7 +267,7 @@
   },
   "/Lotus/Types/Game/MissionDecks/CorpusArenaWagerRewardsEasy": {
     "Locations": [
-      "Neptune, THE INDEX, MT_ARENA, FC_CORPUS, NT_SUB_MISSION"
+      "Neptune, THE INDEX, MT_ARENA, FC_CORPUS, NT_EVENT"
     ],
     "Rotation A": [
       "1 4000 CREDITS, COMMON, 100%"
@@ -265,7 +282,7 @@
   "/Lotus/Types/Game/MissionDecks/CorpusArenaWagerRewardsHard": {
     "Locations": [
       {
-        "Neptune, THE INDEX": "ENDURANCE, MT_ARENA, FC_CORPUS, NT_SUB_MISSION"
+        "Neptune, THE INDEX": "ENDURANCE, MT_ARENA, FC_CORPUS,"
       }
     ],
     "Rotation A": [
@@ -281,7 +298,7 @@
   "/Lotus/Types/Game/MissionDecks/CorpusArenaWagerRewardsMedium": {
     "Locations": [
       {
-        "Neptune, THE INDEX": "HIGH RISK, MT_ARENA, FC_CORPUS, NT_SUB_MISSION"
+        "Neptune, THE INDEX": "HIGH RISK, MT_ARENA, FC_CORPUS, NT_EVENT"
       }
     ],
     "Rotation A": [
@@ -301,6 +318,11 @@
       "Eris, Psoro, MT_HIVE, FC_INFESTATION, NT_EVENT",
       "Eris, Viver, MT_HIVE, FC_INFESTATION, NT_EVENT",
       "Eris, Naeglar, MT_HIVE, FC_INFESTATION, NT_MISSION"
+    ]
+  },
+  "/Lotus/Types/Game/MissionDecks/CorpusScoutShipSpyRewards": {
+    "Locations": [
+      "Earth, [PH]Corpus Scout Ship, MT_INTEL, FC_CORPUS, NT_EVENT"
     ]
   },
   "/Lotus/Types/Game/MissionDecks/DefenseMissionRewards/ArchwingDefenceMissionRewardsEasy": {
@@ -701,7 +723,7 @@
       "1 AXI N2 RELIC, COMMON, 9.68%",
       "1 AXI E2 RELIC, COMMON, 9.68%",
       "1 AXI H1 RELIC, COMMON, 9.68%",
-      "1 FORMA BLUEPRINT, UNCOMMON, 22.56%",
+      "1 OCTAVIA NEUROPTICS BLUEPRINT, UNCOMMON, 22.56%",
       "1 AXI A1 RELIC, COMMON, 9.68%",
       "1 AXI V5 RELIC, COMMON, 9.68%",
       "1 AXI C1 RELIC, COMMON, 9.68%"
@@ -919,7 +941,7 @@
   "/Lotus/Types/Game/MissionDecks/IndexMissionRewardDifficult": {
     "Locations": [
       {
-        "Neptune, THE INDEX": "HIGH RISK, MT_ARENA, FC_CORPUS, NT_SUB_MISSION"
+        "Neptune, THE INDEX": "HIGH RISK, MT_ARENA, FC_CORPUS, NT_EVENT"
       }
     ],
     "Rotation A": [
@@ -935,11 +957,7 @@
     ]
   },
   "/Lotus/Types/Game/MissionDecks/IndexMissionRewardEndless": {
-    "Locations": [
-      {
-        "Neptune, THE INDEX": "ENDURANCE, MT_ARENA, FC_CORPUS, NT_SUB_MISSION"
-      }
-    ],
+    "Locations": null,
     "Rotation A": [
       "FixedWeights=True",
       "1 Pain Threshold, 20%",
@@ -954,7 +972,7 @@
   },
   "/Lotus/Types/Game/MissionDecks/IndexMissionRewardStandard": {
     "Locations": [
-      "Neptune, THE INDEX, MT_ARENA, FC_CORPUS, NT_SUB_MISSION"
+      "Neptune, THE INDEX, MT_ARENA, FC_CORPUS, NT_EVENT"
     ],
     "Rotation A": [
       "FixedWeights=True",
@@ -1537,6 +1555,9 @@
       "Uranus, Prospero, MT_SABOTAGE, FC_GRINEER, NT_EVENT",
       "Uranus, Setebos, MT_SABOTAGE, FC_GRINEER, NT_EVENT"
     ]
+  },
+  "/Lotus/Types/Game/MissionDecks/OldWorldExcavationRewards": {
+    "Locations": null
   },
   "/Lotus/Types/Game/MissionDecks/OrokinDerelictSabotageRewards": {
     "Locations": [

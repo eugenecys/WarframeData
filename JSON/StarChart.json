@@ -123,7 +123,7 @@
     "archwing": false,
     "faction": "FC_INFESTATION",
     "mission_type": "MT_DEFENSE",
-    "name": "Coba [Earth]",
+    "name": "Coba [PH]",
     "node_type": "NT_CLAN",
     "sharkwing": false
   },
@@ -179,7 +179,7 @@
     "archwing": false,
     "faction": "FC_INFESTATION",
     "mission_type": "MT_EXCAVATE",
-    "name": "Tikal [Earth]",
+    "name": "Tikal [PH]",
     "node_type": "NT_CLAN",
     "sharkwing": false
   },
@@ -243,7 +243,7 @@
     "archwing": false,
     "faction": "FC_OROKIN",
     "mission_type": "MT_PVP",
-    "name": "Strata Relay [Earth]",
+    "name": "Strata Relay [PH]",
     "node_type": "NT_HUB",
     "sharkwing": false
   },
@@ -251,7 +251,7 @@
     "archwing": false,
     "faction": "FC_OROKIN",
     "mission_type": "MT_JUNCTION",
-    "name": "MARS JUNCTION [Earth]",
+    "name": "MARS JUNCTION [PH]",
     "node_type": "NT_JUNCTION",
     "sharkwing": false
   },
@@ -259,7 +259,7 @@
     "archwing": false,
     "faction": "FC_GRINEER",
     "mission_type": "MT_GENERIC",
-    "name": "TO MARS [Earth]",
+    "name": "TO MARS [PH]",
     "node_type": "NT_SHORTCUT",
     "sharkwing": false
   },
@@ -267,7 +267,7 @@
     "archwing": false,
     "faction": "FC_OROKIN",
     "mission_type": "MT_GENERIC",
-    "name": "TO LUA [Earth]",
+    "name": "TO LUA [PH]",
     "node_type": "NT_SHORTCUT",
     "sharkwing": false
   },
@@ -275,7 +275,7 @@
     "archwing": false,
     "faction": "FC_OROKIN",
     "mission_type": "MT_JUNCTION",
-    "name": "VENUS JUNCTION [Earth]",
+    "name": "VENUS JUNCTION [PH]",
     "node_type": "NT_JUNCTION",
     "sharkwing": false
   },
@@ -283,7 +283,7 @@
     "archwing": false,
     "faction": "FC_GRINEER",
     "mission_type": "MT_GENERIC",
-    "name": "TO VENUS [Earth]",
+    "name": "TO VENUS [PH]",
     "node_type": "NT_SHORTCUT",
     "sharkwing": false
   },
@@ -427,7 +427,7 @@
     "archwing": false,
     "faction": "FC_GRINEER",
     "mission_type": "MT_EXTERMINATION",
-    "name": "Gate Crash [Earth]",
+    "name": "Gate Crash [PH]",
     "node_type": "NT_EVENT",
     "sharkwing": false
   },
@@ -467,7 +467,7 @@
     "archwing": false,
     "faction": "FC_GRINEER",
     "mission_type": "MT_EXTERMINATION",
-    "name": "Gate Crash [Earth]",
+    "name": "Gate Crash [PH]",
     "node_type": "NT_EVENT",
     "sharkwing": false
   },
@@ -475,7 +475,15 @@
     "archwing": false,
     "faction": "FC_GRINEER",
     "mission_type": "MT_EXTERMINATION",
-    "name": "Gate Crash [Earth]",
+    "name": "Gate Crash [PH]",
+    "node_type": "NT_EVENT",
+    "sharkwing": false
+  },
+  "EventNode26": {
+    "archwing": false,
+    "faction": "FC_GRINEER",
+    "mission_type": "MT_SABOTAGE",
+    "name": " [PH]",
     "node_type": "NT_EVENT",
     "sharkwing": false
   },
@@ -1515,7 +1523,7 @@
     "archwing": false,
     "faction": "FC_GRINEER",
     "mission_type": "MT_RESCUE",
-    "name": "Pacific [Earth]",
+    "name": "Pacific [PH]",
     "node_type": "NT_MISSION",
     "sharkwing": false
   },
@@ -2219,7 +2227,7 @@
     "archwing": false,
     "faction": "FC_GRINEER",
     "mission_type": "MT_ASSASSINATION",
-    "name": "Oro [Earth]",
+    "name": "Oro [PH]",
     "node_type": "NT_MISSION",
     "sharkwing": false
   },
@@ -2235,7 +2243,7 @@
     "archwing": false,
     "faction": "FC_GRINEER",
     "mission_type": "MT_DEFENSE",
-    "name": "Lith [Earth]",
+    "name": "Lith [PH]",
     "node_type": "NT_MISSION",
     "sharkwing": false
   },
@@ -2243,7 +2251,7 @@
     "archwing": false,
     "faction": "FC_GRINEER",
     "mission_type": "MT_EXTERMINATION",
-    "name": "E Prime [Earth]",
+    "name": "E Prime [PH]",
     "node_type": "NT_MISSION",
     "sharkwing": false
   },
@@ -2403,7 +2411,7 @@
     "archwing": false,
     "faction": "FC_GRINEER",
     "mission_type": "MT_EXCAVATE",
-    "name": "Everest [Earth]",
+    "name": "Everest [PH]",
     "node_type": "NT_MISSION",
     "sharkwing": false
   },
@@ -2683,7 +2691,7 @@
     "archwing": false,
     "faction": "FC_GRINEER",
     "mission_type": "MT_MOBILE_DEFENSE",
-    "name": "Eurasia [Earth]",
+    "name": "Eurasia [PH]",
     "node_type": "NT_MISSION",
     "sharkwing": false
   },
@@ -2723,7 +2731,7 @@
     "archwing": false,
     "faction": "FC_GRINEER",
     "mission_type": "MT_CAPTURE",
-    "name": "Mantle [Earth]",
+    "name": "Mantle [PH]",
     "node_type": "NT_MISSION",
     "sharkwing": false
   },
@@ -2803,7 +2811,7 @@
     "archwing": false,
     "faction": "FC_GRINEER",
     "mission_type": "MT_ASSASSINATION",
-    "name": "<RAID> THE LAW OF RETRIBUTION [Earth]",
+    "name": "<RAID> THE LAW OF RETRIBUTION [PH]",
     "node_type": "NT_EMPTY",
     "sharkwing": false
   },
@@ -2811,7 +2819,7 @@
     "archwing": false,
     "faction": "FC_GRINEER",
     "mission_type": "MT_ASSASSINATION",
-    "name": "<NIGHTMARE_RAID> THE LAW OF RETRIBUTION (NIGHTMARE) [Earth]",
+    "name": "<NIGHTMARE_RAID> THE LAW OF RETRIBUTION (NIGHTMARE) [PH]",
     "node_type": "NT_EMPTY",
     "sharkwing": false
   },
@@ -2987,7 +2995,7 @@
     "archwing": false,
     "faction": "FC_GRINEER",
     "mission_type": "MT_SABOTAGE",
-    "name": "Cervantes [Earth]",
+    "name": "Cervantes [PH]",
     "node_type": "NT_MISSION",
     "sharkwing": false
   },
@@ -3004,7 +3012,7 @@
     "faction": "FC_CORPUS",
     "mission_type": "MT_ARENA",
     "name": "THE INDEX [Neptune]",
-    "node_type": "NT_SUB_MISSION",
+    "node_type": "NT_EVENT",
     "sharkwing": false
   },
   "SolNode762": {
@@ -3012,7 +3020,7 @@
     "faction": "FC_CORPUS",
     "mission_type": "MT_ARENA",
     "name": "THE INDEX [Neptune]",
-    "node_type": "NT_SUB_MISSION",
+    "node_type": "NT_EVENT",
     "sharkwing": false
   },
   "SolNode763": {
@@ -3020,7 +3028,7 @@
     "faction": "FC_CORPUS",
     "mission_type": "MT_ARENA",
     "name": "THE INDEX [Neptune]",
-    "node_type": "NT_SUB_MISSION",
+    "node_type": "",
     "sharkwing": false
   },
   "SolNode764": {
@@ -3028,7 +3036,7 @@
     "faction": "FC_CORPUS",
     "mission_type": "MT_ARENA",
     "name": "THE INDEX [Neptune]",
-    "node_type": "NT_MISSION",
+    "node_type": "NT_EVENT",
     "sharkwing": false
   },
   "SolNode77": {
@@ -3051,7 +3059,7 @@
     "archwing": false,
     "faction": "FC_GRINEER",
     "mission_type": "MT_INTEL",
-    "name": "Cambria [Earth]",
+    "name": "Cambria [PH]",
     "node_type": "NT_MISSION",
     "sharkwing": false
   },
@@ -3107,7 +3115,7 @@
     "archwing": false,
     "faction": "FC_GRINEER",
     "mission_type": "MT_TERRITORY",
-    "name": "Gaia [Earth]",
+    "name": "Gaia [PH]",
     "node_type": "NT_MISSION",
     "sharkwing": false
   },
@@ -3139,7 +3147,7 @@
     "archwing": false,
     "faction": "FC_GRINEER",
     "mission_type": "MT_EXTERMINATION",
-    "name": "Mariana [Earth]",
+    "name": "Mariana [PH]",
     "node_type": "NT_MISSION",
     "sharkwing": false
   },
@@ -3179,7 +3187,7 @@
     "archwing": true,
     "faction": "FC_GRINEER",
     "mission_type": "MT_MOBILE_DEFENSE",
-    "name": "Erpo [Earth]",
+    "name": "Erpo [PH]",
     "node_type": "NT_MISSION",
     "sharkwing": false
   },
@@ -3299,7 +3307,7 @@
     "archwing": false,
     "faction": "FC_OROKIN",
     "mission_type": "MT_PVP",
-    "name": "Maroo's Bazaar [Earth]",
+    "name": "Maroo's Bazaar [PH]",
     "node_type": "NT_HUB",
     "sharkwing": false
   },
