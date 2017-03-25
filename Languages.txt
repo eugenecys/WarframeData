@@ -3005,6 +3005,9 @@ You will receive an email from your 2K contact when the console has been approve
 [/Game/WEAPON_LIFE_STEAL]
 "LIFE STEAL"
 
+[/Game/WEAPON_LIFE_STEAL_CHANNELING]
+"LIFE STEAL"
+
 [/Game/WEAPON_MELEE_ARMOR_REDUCTION]
 "ARMOR REDUCTION"
 
@@ -5031,6 +5034,127 @@ Things are getting desperate with the Grineer army now. If I had one wish, it'd 
 [/Lotus/Language/Archive/VorsPrizeComplete]
 "You survived Vor's plan... but with the power of the Janus key... could Vor rise again?"
 
+[/Lotus/Language/BardQuest/Amplified]
+"AMPLIFIED"
+
+[/Lotus/Language/BardQuest/AmplifyHydraulus]
+"AMPLIFY HYDRAULUS"
+
+[/Lotus/Language/BardQuest/BardQuestComponentPickUpAction]
+"<USE> PICK UP"
+
+[/Lotus/Language/BardQuest/BardQuestComponentsObjective]
+"MANDACHORD PARTS COLLECTED"
+
+[/Lotus/Language/BardQuest/BardQuestDesc]
+"Build the Mandachord and find the cause of Cephalon Suda’s erratic behavior."
+
+[/Lotus/Language/BardQuest/BardQuestHelpText]
+"<MINI_ARROW> <QUEST> Second Dream quest
+<MINI_ARROW> Talk to Cephalon Suda in any Relay"
+
+[/Lotus/Language/BardQuest/BardQuestObjectiveA]
+"Collect the Mandachord components"
+
+[/Lotus/Language/BardQuest/BardQuestObjectiveB]
+"Build the Mandachord"
+
+[/Lotus/Language/BardQuest/BardQuestObjectiveC]
+"Find the first song fragment"
+
+[/Lotus/Language/BardQuest/BardQuestObjectiveD]
+"Find the second song fragment"
+
+[/Lotus/Language/BardQuest/BardQuestObjectiveE]
+"Harness the power of an Orokin Tower"
+
+[/Lotus/Language/BardQuest/BardQuestObjectiveF]
+"Go to Simaris on the Relay"
+
+[/Lotus/Language/BardQuest/BardQuestOrdisMailText]
+"Operator, in the event of my tragic demise, please watch this message."
+
+[/Lotus/Language/BardQuest/BardQuestOrdisMailTitle]
+"AUTOMATIC MESSAGE: Goodbye Operator"
+
+[/Lotus/Language/BardQuest/BardQuestOrganAction]
+"USE HYDRAULUS"
+
+[/Lotus/Language/BardQuest/BardQuestPullQuote]
+"For me, music is a lattice, a support to which my vast knowledge clings. Have you ever felt that way? A song that anchors a memory? How a melody or verse returns you to a place you thought forgotten?"
+
+[/Lotus/Language/BardQuest/BardQuestRelayIntroACancel]
+"Forget it."
+
+[/Lotus/Language/BardQuest/BardQuestRelayIntroAConfirm]
+"... Music."
+
+[/Lotus/Language/BardQuest/BardQuestRelayIntroBCancel]
+"Not now."
+
+[/Lotus/Language/BardQuest/BardQuestRelayIntroBConfirm]
+"I will."
+
+[/Lotus/Language/BardQuest/BardQuestRelayIntroTopic]
+"<QUEST> Music?"
+
+[/Lotus/Language/BardQuest/BardQuestRelaySimarisObjective]
+"Talk to Simaris"
+
+[/Lotus/Language/BardQuest/BardQuestRelaySimarisOptionA]
+"Yes, I am. Help me."
+
+[/Lotus/Language/BardQuest/BardQuestRelaySimarisOptionB]
+"Hunhow's intention?"
+
+[/Lotus/Language/BardQuest/BardQuestRelaySimarisOptionC]
+"Send me in."
+
+[/Lotus/Language/BardQuest/BardQuestRelaySimarisTopic]
+"Suda's datascape?"
+
+[/Lotus/Language/BardQuest/BardQuestReplayHunhowBattle]
+"Replay Incident Archive 2318-H"
+
+[/Lotus/Language/BardQuest/BardQuestRivenRewardBody]
+"|PLAYER_NAME|,
+
+It seems we both have a thirst for knowledge. Even before the Sentient Hunhow tried to corrupt her from my records, Octavia’s power was at your command. For you, a gift of her blueprint is too small a reward, I would also like you to have this Riven. May its mysteries unlock many new planes of possibility for you.
+
+I thank you again, Tenno, your fearlessness will never be forgotten.
+
+Cephalon Suda"
+
+[/Lotus/Language/BardQuest/BardQuestRivenRewardTitle]
+"OCTAVIA’S ANTHEM: Supplemental Records"
+
+[/Lotus/Language/BardQuest/BardQuestScoreAttackMission]
+"Incident Archive 2318-H"
+
+[/Lotus/Language/BardQuest/BardQuestSequencer]
+"MANDACHORD"
+
+[/Lotus/Language/BardQuest/BardQuestSequencerDesc]
+"A rare Orokin instrument."
+
+[/Lotus/Language/BardQuest/BardQuestSequencerPartA]
+"MANDACHORD BODY"
+
+[/Lotus/Language/BardQuest/BardQuestSequencerPartB]
+"MANDACHORD FRET"
+
+[/Lotus/Language/BardQuest/BardQuestSequencerPartC]
+"MANDACHORD BRIDGE"
+
+[/Lotus/Language/BardQuest/BardQuestSequencerPartsDesc]
+"A crucial component of the Mandachord instrument."
+
+[/Lotus/Language/BardQuest/BardQuestTitle]
+"OCTAVIA'S ANTHEM"
+
+[/Lotus/Language/BardQuest/LockDoors]
+"LOCK DOORS"
+
 [/Lotus/Language/Bios/TestBio]
 "TARGET: Ava Izar
 
@@ -5184,6 +5308,12 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 [/Lotus/Language/Bundles/ActionGlyphsBundleAName]
 "VEDDA GLYPH PACK"
 
+[/Lotus/Language/Bundles/BardBundleDesc]
+"Feel the rhythm with the Octavia Warframe, Cadenza helmet, Tenora rifle and Pandero pistol. Includes 3-Day Affinity and Credit Boosters."
+
+[/Lotus/Language/Bundles/BardBundleName]
+"OCTAVIA COLLECTION"
+
 [/Lotus/Language/Bundles/CrpIndexItemPackDesc]
 "Master market forces with this collection of Corpus items. Includes the electrified Ohma Melee Weapon, Quaro Armor Set, Quaro Sugatra, and Sovereign Outcast Stance."
 
@@ -5282,6 +5412,12 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 
 [/Lotus/Language/Bundles/TennoGenBundleDesc]
 "A collection of helmets and Warframe skins, designed by fellow Tenno"
+
+[/Lotus/Language/Bundles/TennoGenBundleDName]
+"TENNOGEN BUNDLE IV"
+
+[/Lotus/Language/Bundles/TennoGenBundleEName]
+"TENNOGEN BUNDLE V"
 
 [/Lotus/Language/Challenges/Challenge_1HKHeadshot_Description]
 "Headshot kill"
@@ -6263,6 +6399,12 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 
 [/Lotus/Language/Challenges/Challenge_NPSpyDataExtractions_Name]
 "Complete a Corpus SPY mission with 3 successful data extractions on NEPTUNE"
+
+[/Lotus/Language/Challenges/Challenge_OctaviasAnthem_Description]
+"Complete Octavia's Anthem Quest"
+
+[/Lotus/Language/Challenges/Challenge_OctaviasAnthem_Name]
+"Octavia's Anthem"
 
 [/Lotus/Language/Challenges/Challenge_Own10Warframes_Description]
 "Obtain 10 Warframes."
@@ -7359,6 +7501,24 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 [/Lotus/Language/Challenges/Challenge_StreakStopped_Name]
 "Stopped Kill Streak"
 
+[/Lotus/Language/Challenges/Challenge_StreakStoppedNine_Description]
+"[PH]Kill an opponent on a 9 kills Kill Streak"
+
+[/Lotus/Language/Challenges/Challenge_StreakStoppedNine_Name]
+"[PH]Stopped a 9 kills Kill Streak"
+
+[/Lotus/Language/Challenges/Challenge_StreakStoppedSix_Description]
+"[PH]Kill an opponent on a 6 kills Kill Streak"
+
+[/Lotus/Language/Challenges/Challenge_StreakStoppedSix_Name]
+"[PH]Stopped a 6 kills Kill Streak"
+
+[/Lotus/Language/Challenges/Challenge_StreakStoppedTwelve_Description]
+"[PH]Kill an opponent on a 12 kills Kill Streak"
+
+[/Lotus/Language/Challenges/Challenge_StreakStoppedTwelve_Name]
+"[PH]Stopped a 12 kills Kill Streak"
+
 [/Lotus/Language/Challenges/Challenge_StyleKill_Description]
 "Get 5 kills while sliding."
 
@@ -7759,6 +7919,15 @@ But the experiment was only a partial success. Without pain, Dhurnam grew weak a
 [/Lotus/Language/ChangeInfo/SCEAAPPVER_01.39_SCEAMASTERVER_01.00_SCEEAPPVER_01.38_SCEEMASTERVER_01.00_SCEZAPPVER_01.07_SCEZMASTERVER_01.00]
 "The War Within"
 
+[/Lotus/Language/ChangeInfo/SCEAAPPVER_01.40_SCEAMASTERVER_01.00_SCEEAPPVER_01.39_SCEEMASTERVER_01.00]
+"The Glast Gambit"
+
+[/Lotus/Language/ChangeInfo/SCEAAPPVER_01.41_SCEAMASTERVER_01.01_SCEEAPPVER_01.40_SCEEMASTERVER_01.00_SCEZAPPVER_01.08_SCEZMASTERVER_01.00]
+"The Glast Gambit"
+
+[/Lotus/Language/ChangeInfo/SCEAAPPVER_01.42_SCEAMASTERVER_01.00_SCEEAPPVER_01.41_SCEEMASTERVER_01.00]
+"The Glast Gambit (The Pacifism Defect)"
+
 [/Lotus/Language/Changyou/AdjustmentColourPickerAbbrev]
 "[PH] ADJUSTMENTS"
 
@@ -7830,8 +7999,7 @@ I am counting on you Tenno.
 "COMMEMORATIVE EMBLEM"
 
 [/Lotus/Language/Changyou/CYCCBCommemorativeBundleDesc]
-"A bundle awarded to Warframe CCB participants, containing the Rakta Syandana, Gorgon Wraith and a Commemorative Emblem
-."
+"A bundle awarded to Warframe CCB participants, containing the Rakta Syandana, Gorgon Wraith and a Commemorative Emblem."
 
 [/Lotus/Language/Changyou/CYCCBCommemorativeBundleName]
 "COMMEMORATIVE BUNDLE"
@@ -8252,11 +8420,35 @@ Your prowess has earned you another Vauban part. I am eager to see how you use t
 [/Lotus/Language/Clan/BattlePay_ReserveSmallerThanPerMission]
 "Maximum battle pay reserve that can be set. A value of 0 means there is no limit."
 
+[/Lotus/Language/Clan/Ceremony_AlreadyContributed]
+"You have already participated in the ceremony"
+
+[/Lotus/Language/Clan/Ceremony_CannotRankUp]
+"Your clan is currently not eligible for a Rank increase"
+
+[/Lotus/Language/Clan/Ceremony_GenericContributionError]
+"Failed to participate in the Ascension Ceremony"
+
+[/Lotus/Language/Clan/Ceremony_NumContributors]
+"PARTICIPATING MEMBERS |CURRENT|/|REQUIRED|"
+
+[/Lotus/Language/Clan/Ceremony_Participate]
+"PARTICIPATE"
+
+[/Lotus/Language/Clan/Ceremony_RemainingTime]
+"CEREMONY ENDS IN |TIME|"
+
+[/Lotus/Language/Clan/Ceremony_TooNewToContribute]
+"To participate in the Ascension Ceremony you need to belong to |GUILDNAME| for another |TIME|"
+
+[/Lotus/Language/Clan/Ceremony_WrongClan]
+"You are not a member of this dojo's clan"
+
 [/Lotus/Language/Clan/Clan_Class]
-"CLASS |CLASS|"
+"RANK |CLASS|"
 
 [/Lotus/Language/Clan/Clan_ClassLower]
-"Class |CLASS|"
+"Rank |CLASS|"
 
 [/Lotus/Language/Clan/Clan_CREATE]
 "START YOUR OWN CLAN"
@@ -8292,7 +8484,7 @@ Your prowess has earned you another Vauban part. I am eager to see how you use t
 "Next rank in |AMOUNT|"
 
 [/Lotus/Language/Clan/Clan_PromotionReady]
-"[PH] Ready for promotion ceremony.  Please visit your Dojo."
+"Ready for Ascension Ceremony.  Please visit your Dojo."
 
 [/Lotus/Language/Clan/Clan_Recruit_Request_Title]
 "Message to clan recruiter"
@@ -8361,7 +8553,7 @@ Your prowess has earned you another Vauban part. I am eager to see how you use t
 "Alliance vault successfully distributed."
 
 [/Lotus/Language/Clan/Edit_RanksConfirm]
-"Are you sure you want to commit changes to your clan's rank names and permissions?"
+"Are you sure you want to commit changes to your clan's hierarchy names and permissions?"
 
 [/Lotus/Language/Clan/EditMOTD]
 "EDIT MOTD"
@@ -8376,10 +8568,10 @@ Your prowess has earned you another Vauban part. I am eager to see how you use t
 "Rename rank '|RANK_NAME|' to"
 
 [/Lotus/Language/Clan/EditRanks]
-"EDIT RANKS"
+"EDIT HIERARCHIES"
 
 [/Lotus/Language/Clan/EditRanks_Profanity_Error]
-"Cannot have profanity in your new rank"
+"Cannot have profanity in your new hierarchy"
 
 [/Lotus/Language/Clan/EditRanks_Short]
 "RANKS"
@@ -8426,6 +8618,9 @@ Your prowess has earned you another Vauban part. I am eager to see how you use t
 [/Lotus/Language/Clan/Log_Clan_Removed]
 "|NAME| has been removed from the clan by |OFFICER|."
 
+[/Lotus/Language/Clan/Log_Class_Rankup]
+"The clan is now Rank |CLASS|!"
+
 [/Lotus/Language/Clan/Log_Research_Complete]
 "|RESEARCHTYPE| is complete!"
 
@@ -8451,7 +8646,7 @@ Your prowess has earned you another Vauban part. I am eager to see how you use t
 "|TIER| BROADCAST TO |NUM| MEMBERS"
 
 [/Lotus/Language/Clan/NeedAtLeastOneRuler]
-"You need at least one rank with the Ruler permission, otherwise you won't be able to update permissions anymore."
+"You need at least one hierarchy with the Ruler permission, otherwise you won't be able to update permissions anymore."
 
 [/Lotus/Language/Clan/No_Clan]
 "NO CLAN"
@@ -8469,13 +8664,13 @@ Your prowess has earned you another Vauban part. I am eager to see how you use t
 "Failed to update Solar Rail settings."
 
 [/Lotus/Language/Clan/RanksTitle]
-"RANKS"
+"HIERARCHIES"
 
 [/Lotus/Language/Clan/RankUpdateFail]
-"Failed to update ranks."
+"Failed to update hierarchies."
 
 [/Lotus/Language/Clan/RenameRank]
-"RENAME RANK"
+"RENAME HIERARCHY"
 
 [/Lotus/Language/Clan/RestrictedUGCWarning]
 "<WARNING> Restricted access to User Generated Content <WARNING>"
@@ -8485,9 +8680,6 @@ Your prowess has earned you another Vauban part. I am eager to see how you use t
 
 [/Lotus/Language/Clan/RoleDescription_ChatModerator]
 "Member can kick or suspend people from Clan chat."
-
-[/Lotus/Language/Clan/RoleDescription_Lord]
-"Member can host the Clan Dojo"
 
 [/Lotus/Language/Clan/RoleDescription_Officer]
 "Member can promote other members to their own rank or below."
@@ -8518,9 +8710,6 @@ Your prowess has earned you another Vauban part. I am eager to see how you use t
 
 [/Lotus/Language/Clan/RoleLabel_ChatModerator]
 "Chat Moderator"
-
-[/Lotus/Language/Clan/RoleLabel_Lord]
-"Host"
 
 [/Lotus/Language/Clan/RoleLabel_Officer]
 "Promotion"
@@ -8826,6 +9015,44 @@ Wish you good luck in monkey year!
 [/Lotus/Language/CommunityMessages/PWNewYearsTitle]
 "Happy Monkey Year!"
 
+[/Lotus/Language/CommunityMessages/SimulorReworkMessage]
+"|PLAYER_NAME|,
+
+Routine analysis of the Simulor class of weapons has found a glitch in their control system. I have taken the liberty of calibrating your weapon so that it will operate within defined safety parameters. Rest assured, the chance a sudden, cataclysmic meltdown has been reduced by half. 
+
+Please accept this Forma as a token for your continued curiosity.
+
+Cephalon Suda"
+
+[/Lotus/Language/CommunityMessages/SimulorReworkTitle]
+"Routine Weapon Inspection: SIMULOR"
+
+[/Lotus/Language/CommunityMessages/TelosBoltaceReworkMessage]
+"|PLAYER_NAME|,
+
+Discipline and honor guide both our combat methods and the design of our weapons. After rigorous study, The Arbiters of Hexis have concluded that the Telos Boltace violated those values. 
+
+As a remedy, the Telos Boltace has been changed and augmented. It now contains the power of the Stormpath. Cast aside those who obstruct your progress and show your allies the way forward with this power. 
+
+We offer you this Forma to hasten your mastery of this newly refined weapon.
+
+Truthfully yours,
+The Arbiters of Hexis"
+
+[/Lotus/Language/CommunityMessages/TelosBoltaceReworkTitle]
+"A Storm is Coming"
+
+[/Lotus/Language/CommunityMessages/TonkorReworkMessage]
+"Surprise! Clem tweaked your Tonkor! I think he said something about teaching you respect for explosives. But, I mean, who knows what this guy’s saying half the time. 
+
+Anyway, he’s inspired me to help you too. Here’s a Forma I sourced from one of my totally legitimate suppliers.
+
+Your friend,
+Darvo"
+
+[/Lotus/Language/CommunityMessages/TonkorReworkTitle]
+"About your Tonkor"
+
 [/Lotus/Language/CommunityMessages/VoidTraderAppearanceMessage]
 "Tenno, 
 
@@ -8922,6 +9149,30 @@ Baro Ki’Teer"
 [/Lotus/Language/Cosmetics/AvatarBaroKiteerName]
 "BARO KI'TEER GLYPH"
 
+[/Lotus/Language/Cosmetics/AvatarOctaviaBrightDesc]
+"A glyph depicting Octavia on a bright background."
+
+[/Lotus/Language/Cosmetics/AvatarOctaviaBrightName]
+"OCTAVIA GLYPH"
+
+[/Lotus/Language/Cosmetics/AvatarOctaviaCadenzaBrightDesc]
+"A glyph depicting Octavia Cadenza on a bright background."
+
+[/Lotus/Language/Cosmetics/AvatarOctaviaCadenzaBrightName]
+"OCTAVIA CADENZA GLYPH"
+
+[/Lotus/Language/Cosmetics/AvatarOctaviaCadenzaDarkDesc]
+"A glyph depicting Octavia Cadenza on a dark background."
+
+[/Lotus/Language/Cosmetics/AvatarOctaviaCadenzaDarkName]
+"OCTAVIA CADENZA GLYPH"
+
+[/Lotus/Language/Cosmetics/AvatarOctaviaDarkDesc]
+"A glyph depicting Octavia on a dark background."
+
+[/Lotus/Language/Cosmetics/AvatarOctaviaDarkName]
+"OCTAVIA GLYPH"
+
 [/Lotus/Language/Cosmetics/BansheeDefaultSkinDesc]
 "The standard issue skin for the Banshee Warframe."
 
@@ -8933,6 +9184,12 @@ Baro Ki’Teer"
 
 [/Lotus/Language/Cosmetics/BansheePrimeDefaultSkinName]
 "BANSHEE PRIME SKIN"
+
+[/Lotus/Language/Cosmetics/BardDefaultSkinDesc]
+"The standard issue skin for the Octavia Warframe."
+
+[/Lotus/Language/Cosmetics/BardDefaultSkinName]
+"OCTAVIA SKIN"
 
 [/Lotus/Language/Cosmetics/BaroArmourADesc]
 "This decorative armored plate is a Ki’Teer original."
@@ -8952,6 +9209,12 @@ Baro Ki’Teer"
 [/Lotus/Language/Cosmetics/BaroArmourLName]
 "KI'TEER LEG PLATES"
 
+[/Lotus/Language/Cosmetics/BaroCape2ScarfDesc]
+"[PH] Description"
+
+[/Lotus/Language/Cosmetics/BaroCape2ScarfName]
+"[PH] BARO 2 SCARF"
+
 [/Lotus/Language/Cosmetics/BaroMeleeDangleDesc]
 "The finest Sugatra for your finest weapon."
 
@@ -8969,6 +9232,18 @@ Baro Ki’Teer"
 
 [/Lotus/Language/Cosmetics/BrawlerDefaultSkinName]
 "ATLAS SKIN"
+
+[/Lotus/Language/Cosmetics/BroncoSpectreDesc]
+"[PH]BRONCO SPECTRE SKIN"
+
+[/Lotus/Language/Cosmetics/BroncoSpectreName]
+"[PH]BRONCO SPECTRE SKIN"
+
+[/Lotus/Language/Cosmetics/CatbrowArmorCDesc]
+"Accentuate the Kavat's sleek profile with this enchanting decorative armor."
+
+[/Lotus/Language/Cosmetics/CatbrowArmorCName]
+"MYRDIN KAVAT ARMOR"
 
 [/Lotus/Language/Cosmetics/CatbrowArmorGrnQueenDesc]
 "This decorative armor was forged for the Grineer Queens’ royal Kavats."
@@ -9032,6 +9307,12 @@ Baro Ki’Teer"
 
 [/Lotus/Language/Cosmetics/DefectorRescueEventBadgeName]
 "THE PACIFISM DEFECT EMBLEM"
+
+[/Lotus/Language/Cosmetics/DexSyandanaDesc]
+"A gift from the Lotus to commemorate the fourth anniversary of the first Tenno waking from Cryo stasis."
+
+[/Lotus/Language/Cosmetics/DexSyandanaName]
+"DEX NOUCHALI SYANDANA"
 
 [/Lotus/Language/Cosmetics/DjinnDeluxeArmArmourDesc]
 "Etched with lyrical designs, this decorative armor has been crafted with meticulous care."
@@ -9105,6 +9386,12 @@ Baro Ki’Teer"
 [/Lotus/Language/Cosmetics/FrostPrimeDefaultSkinName]
 "FROST PRIME SKIN"
 
+[/Lotus/Language/Cosmetics/FurisVekeskDesc]
+"[PH]FURIS VEKESK SKIN"
+
+[/Lotus/Language/Cosmetics/FurisVekeskName]
+"[PH]FURIS VEKESK SKIN"
+
 [/Lotus/Language/Cosmetics/GrnFaceMaskArmourDesc]
 "Cobbled together from vanquished Grineer, this Steel Meridian armor sends a clear message to the enemy."
 
@@ -9159,6 +9446,12 @@ Baro Ki’Teer"
 [/Lotus/Language/Cosmetics/HarkonarGrnSparkName]
 "KOHM HARKONAR SKIN"
 
+[/Lotus/Language/Cosmetics/HelminthPetPatternClassicDesc]
+"A degenerated strain of the Helminth Charger."
+
+[/Lotus/Language/Cosmetics/HelminthPetPatternClassicName]
+"HELMINTH DEGENERATE PATTERN"
+
 [/Lotus/Language/Cosmetics/HydroidDefaultSkinDesc]
 "The standard issue skin for the Hydroid Warframe."
 
@@ -9206,6 +9499,30 @@ Baro Ki’Teer"
 
 [/Lotus/Language/Cosmetics/InfScarfRibCageName]
 "THORAC SYANDANA"
+
+[/Lotus/Language/Cosmetics/InfTentacleScarfDesc]
+"A crown of bone spawns a mass of writhing, meaty, Infested tentacles."
+
+[/Lotus/Language/Cosmetics/InfTentacleScarfName]
+"MUCUSK SYANDANA"
+
+[/Lotus/Language/Cosmetics/JadeCarrierDesc]
+"A next-generation skin for the Carrier."
+
+[/Lotus/Language/Cosmetics/JadeCarrierName]
+"CARRIER JADE SKIN"
+
+[/Lotus/Language/Cosmetics/JadeDethcubeDesc]
+"A next-generation skin for the Dethcube."
+
+[/Lotus/Language/Cosmetics/JadeDethcubeName]
+"DETHCUBE JADE SKIN"
+
+[/Lotus/Language/Cosmetics/JadeInfestedWingsDesc]
+"A pair of next-generation wings for your sentinel pet."
+
+[/Lotus/Language/Cosmetics/JadeInfestedWingsName]
+"CHRYSALIS JADE WINGS"
 
 [/Lotus/Language/Cosmetics/KavatColorAccentsHyekkaName]
 "CARGO YELLOW"
@@ -9278,6 +9595,24 @@ Baro Ki’Teer"
 
 [/Lotus/Language/Cosmetics/KubrowArmorGrnQueenName]
 "KUVA KUBROW ARMOR"
+
+[/Lotus/Language/Cosmetics/KubrowPetPatternInfestedDesc]
+"The final evolution of the Helminth Charger."
+
+[/Lotus/Language/Cosmetics/KubrowPetPatternInfestedName]
+"HELMINTH PATTERN"
+
+[/Lotus/Language/Cosmetics/LatoTeknaDesc]
+"[PH]LATO TEKNA SKIN"
+
+[/Lotus/Language/Cosmetics/LatoTeknaName]
+"[PH]LATO TEKNA SKIN"
+
+[/Lotus/Language/Cosmetics/LexHammerDesc]
+"[PH]LEX HAMMER 1895 SKIN"
+
+[/Lotus/Language/Cosmetics/LexHammerName]
+"[PH]LEX HAMMER 1895 SKIN"
 
 [/Lotus/Language/Cosmetics/LokiDefaultSkinDesc]
 "The standard issue skin for the Loki Warframe."
@@ -9441,6 +9776,12 @@ Baro Ki’Teer"
 [/Lotus/Language/Cosmetics/PaladinDefaultSkinName]
 "OBERON SKIN"
 
+[/Lotus/Language/Cosmetics/PS4SpiraDesc]
+"A next-generation skin for the Spira."
+
+[/Lotus/Language/Cosmetics/PS4SpiraName]
+"SPIRA OBSIDIAN SKIN"
+
 [/Lotus/Language/Cosmetics/RangerAlt02HelmetDesc]
 "An alternate helmet for Ivara."
 
@@ -9494,6 +9835,12 @@ Baro Ki’Teer"
 
 [/Lotus/Language/Cosmetics/SarynPrimeDefaultSkinName]
 "SARYN PRIME SKIN"
+
+[/Lotus/Language/Cosmetics/SicarusTeknaBurstDesc]
+"[PH]SICARUS TEKNA  BURST SKIN"
+
+[/Lotus/Language/Cosmetics/SicarusTeknaBurstName]
+"[PH]SICARUS TEKNA  BURST SKIN"
 
 [/Lotus/Language/Cosmetics/StarryAklatoSkinDesc]
 "Pay homage to the constellations with this brilliant Aklato skin."
@@ -9568,22 +9915,22 @@ Baro Ki’Teer"
 "TRINITY PRIME SKIN"
 
 [/Lotus/Language/Cosmetics/TwitchAnkyrosSkinDesc]
-"[PH] Description"
+"Draw attention with the bold geometric patterns in this exclusive Ankyros skin."
 
 [/Lotus/Language/Cosmetics/TwitchAnkyrosSkinName]
-"[PH] ANKYROS TWITCH SKIN"
+"ANKYROS PROMINENCE SKIN"
 
 [/Lotus/Language/Cosmetics/TwitchExcaliburHelmetDesc]
-"[PH] Description"
+"Draw attention with the bold geometric patterns in this exclusive Excalibur helmet."
 
 [/Lotus/Language/Cosmetics/TwitchExcaliburHelmetName]
-"[PH] EXCALIBUR TWITCH HELMET"
+"EXCALIBUR PROMINENCE HELMET"
 
 [/Lotus/Language/Cosmetics/TwitchExcaliburSkinDesc]
-"[PH] Description"
+"Draw attention with the bold geometric patterns in this exclusive Excalibur skin."
 
 [/Lotus/Language/Cosmetics/TwitchExcaliburSkinName]
-"[PH] EXCALIBUR TWITCH SKIN"
+"EXCALIBUR PROMINENCE SKIN"
 
 [/Lotus/Language/Cosmetics/ValkyrPrimeDefaultSkinDesc]
 "The standard issue skin for the Valkyr Prime Warframe."
@@ -9620,6 +9967,12 @@ Baro Ki’Teer"
 
 [/Lotus/Language/Cosmetics/WraithTurbineName]
 "HARKONAR WRAITH CLOAK"
+
+[/Lotus/Language/Cosmetics/WukongAltHelmetBDesc]
+"An alternative helmet for the Wukong Warframe."
+
+[/Lotus/Language/Cosmetics/WukongAltHelmetBName]
+"WUKONG MACAK HELMET"
 
 [/Lotus/Language/Cosmetics/YinYangDefaultSkinDesc]
 "The standard issue skin for the Equinox Warframe."
@@ -10082,7 +10435,7 @@ Warframe Support Team"
 "Want to test out Warframes or weapons against specific enemies? Get a Simulacrum Key from Cephalon Simaris in the Relays!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip167]
-"Only Moderators, Seniors Guides, and Admins have purple text in global chats. Keep an eye out for them if you need assistance!"
+"Only Moderators and Admins have purple text in global chats. Keep an eye out for them if you need assistance!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip168]
 "The Ducat Kiosks located in the Relays all have a timer on them to show you when Baro Ki'Teer will arrive. Plan accordingly!"
@@ -10307,7 +10660,7 @@ Warframe Support Team"
 "Can’t beat a mission solo? Find a squad in the Recruiting Chat Channel or switch your Matchmaking to Public for help!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip91]
-"Team Ammo, Energy, and Health Restores are great tools that help sustain your squad during intense fights!"
+"Squad Ammo, Energy, and Health Restores are great tools that help sustain your squad during intense fights!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip93]
 "Trade with your fellow Tenno at a Trading Post in a Clan Dojo or by visiting Maroo's Bazaar on Earth!"
@@ -10833,6 +11186,12 @@ Warframe Support Team"
 
 [/Lotus/Language/Dojo/AridFearTrophyDecoDesc]
 "Awarded to Tenno who demonstrated extreme commitment to the efforts in Operation: Arid Fear."
+
+[/Lotus/Language/Dojo/AscensionAltarDesc]
+"A place to pledge allegiance to the clan so that it may ascend to the next Clan Rank."
+
+[/Lotus/Language/Dojo/AscensionAltarName]
+"ASCENSION ALTAR"
 
 [/Lotus/Language/Dojo/AvailableLabel]
 "|COUNT| Available"
@@ -11653,11 +12012,17 @@ Warframe Support Team"
 [/Lotus/Language/Dojo/DuelCancel]
 "Cancel Duel"
 
+[/Lotus/Language/Dojo/DuelInitiate]
+"Begin Duel"
+
 [/Lotus/Language/Dojo/DuelMatchTie]
 "Duel was a draw!"
 
 [/Lotus/Language/Dojo/DuelMatchWin]
 "|NAME| Is Victorious!"
+
+[/Lotus/Language/Dojo/DuelNotAllowedWhileTrading]
+"Cannot duel while offering items for trade"
 
 [/Lotus/Language/Dojo/DuelPrepare]
 "Prepare for Duel"
@@ -11673,6 +12038,18 @@ Warframe Support Team"
 
 [/Lotus/Language/Dojo/DuelRoundWin]
 "|NAME| Wins!"
+
+[/Lotus/Language/Dojo/DuelSessionCancelled]
+"Duel session cancelled"
+
+[/Lotus/Language/Dojo/DuelSessionConfirm]
+"Begin a dueling session with |OPPONENT|? You will leave the Dojo"
+
+[/Lotus/Language/Dojo/DuelSessionJoin]
+"A dueling session is already active. Join as spectator?"
+
+[/Lotus/Language/Dojo/DuelSessionWaiting]
+"Waiting for response from |OPPONENT|"
 
 [/Lotus/Language/Dojo/EditDecoration]
 "EDIT DECORATION"
@@ -11997,6 +12374,9 @@ You can invite friends into your dojo to trade with them."
 
 [/Lotus/Language/Dojo/NoTradesRemaining]
 "You have exhausted your available trades for the day. You will be able to perform more trades tomorrow."
+
+[/Lotus/Language/Dojo/NoTradingInDuelSession]
+"Cannot trade while in a dueling session"
 
 [/Lotus/Language/Dojo/NumberOfDoors]
 "Doors: |DOORS|"
@@ -12857,6 +13237,12 @@ To research additional colors, visit the Tenno Lab."
 [/Lotus/Language/Dojo/TRADE_ERR_MISSING_SLOT_ME]
 "The trade failed: You do not have enough Weapon slots to accept the Special Weapons offered. Free up some slots or trade other items."
 
+[/Lotus/Language/Dojo/TRADE_ERR_MISSING_SONG_SLOT_BUDDY]
+"The trade failed: Your trade partner no longer has all the songs offered to you in the trade."
+
+[/Lotus/Language/Dojo/TRADE_ERR_MISSING_SONG_SLOT_ME]
+"The trade failed: You no longer have all the songs that you offered in the trade."
+
 [/Lotus/Language/Dojo/TRADE_ERR_OFFER_CHANGED]
 "Trade could not be accepted because your trading partner made changes to the offer. Please review the changes and accept, change your offer, or cancel the trade."
 
@@ -12868,6 +13254,9 @@ To research additional colors, visit the Tenno Lab."
 
 [/Lotus/Language/Dojo/TRADE_ERR_PLACED_TREASURE_ME]
 "The trade failed: One of your Ayatan Treasures offered in the trade is now placed in your ship."
+
+[/Lotus/Language/Dojo/TRADE_ERR_SONG_CAPACITY]
+"Cannot perform trade, song capacity exceeded."
 
 [/Lotus/Language/Dojo/TRADE_ERR_TO_BUDDY_HAS_SKIN]
 "Failed to make offer; your trade partner already owns this item and cannot recieve a duplicate."
@@ -12965,7 +13354,10 @@ and will receive from |PLAYER_NAME| the following:|GETTING|"
 "|MOD| (|RARITY| RANK |X|)"
 
 [/Lotus/Language/Dojo/TradeNoPlayers]
-"There are no players in the Dojo currently waiting to trade."
+"There are no other players in the Dojo currently eligible to trade."
+
+[/Lotus/Language/Dojo/TradeNotAllowedWhileDueling]
+"Cannot offer items for trade while waiting to duel"
 
 [/Lotus/Language/Dojo/TradeOfferConfirm]
 "Are you sure you want to offer for trade the following:"
@@ -13014,6 +13406,9 @@ and will receive from |PLAYER_NAME| the following:|GETTING|"
 
 [/Lotus/Language/Dojo/TradeTax]
 "TRADE TAX: <CREDITS>|AMOUNT|"
+
+[/Lotus/Language/Dojo/TradeTypeCapturaScenes]
+"CAPTURA SCENES"
 
 [/Lotus/Language/Dojo/TradeTypeConsumables]
 "GEAR"
@@ -13432,6 +13827,24 @@ and will receive from |PLAYER_NAME| the following:|GETTING|"
 [/Lotus/Language/Emotes/ClapEmoteName]
 "CLAP"
 
+[/Lotus/Language/Emotes/DanceAName]
+"MAESTRO NARTA"
+
+[/Lotus/Language/Emotes/DanceBName]
+"TEMPO NARTA"
+
+[/Lotus/Language/Emotes/DanceCName]
+"GLISSADE NARTA"
+
+[/Lotus/Language/Emotes/DanceDesc]
+"Display balance and finesse with these rhythmic movements."
+
+[/Lotus/Language/Emotes/DanceDName]
+"POISE NARTA"
+
+[/Lotus/Language/Emotes/DanceEName]
+"PENDULUM NARTA"
+
 [/Lotus/Language/Emotes/DeepBowEmoteDesc]
 "A deep bow."
 
@@ -13618,6 +14031,9 @@ and will receive from |PLAYER_NAME| the following:|GETTING|"
 [/Lotus/Language/Enemies/ColonistNpcName]
 "MYCONIAN COLONIST"
 
+[/Lotus/Language/Enemies/DatascapeSentient]
+"ERADICYST"
+
 [/Lotus/Language/Enemies/FairyQuestLoki]
 "KNAVE SPECTER"
 
@@ -13665,6 +14081,78 @@ and will receive from |PLAYER_NAME| the following:|GETTING|"
 
 [/Lotus/Language/Enemies/IndexSpecterWukong]
 "Wukong Specter"
+
+[/Lotus/Language/Enemies/JetpackHeavyMarineDesc]
+"Highly mobile and heavily armored, this unit spreads mayhem with his modified Tonkor."
+
+[/Lotus/Language/Enemies/JetpackHeavyMarineName]
+"NIGHTWATCH REAVER"
+
+[/Lotus/Language/Enemies/MicroHyenaDesc]
+"Compact robots that hunt with relentless zeal."
+
+[/Lotus/Language/Enemies/MicroHyenaName]
+"RATEL"
+
+[/Lotus/Language/Enemies/NightwatchBailiffDesc]
+"Swings a Jat Kittag as he runs down his foes."
+
+[/Lotus/Language/Enemies/NightwatchBailiffName]
+"NIGHTWATCH BAILIFF"
+
+[/Lotus/Language/Enemies/NightwatchBombardDesc]
+"Brings devastation with a modified Ogris."
+
+[/Lotus/Language/Enemies/NightwatchBombardMinigunDesc]
+"Brings devastation with a modified Ogris."
+
+[/Lotus/Language/Enemies/NightwatchBombardMinigunName]
+"NIGHTWATCH BOMBARD"
+
+[/Lotus/Language/Enemies/NightwatchBombardName]
+"NIGHTWATCH BOMBARD"
+
+[/Lotus/Language/Enemies/NightwatchFlamebladeDesc]
+"Assailing enemies with the Twin Basolk, this combatant closes in on its target with teleportation technology."
+
+[/Lotus/Language/Enemies/NightwatchFlamebladeName]
+"NIGHTWATCH FLAMEBLADE"
+
+[/Lotus/Language/Enemies/NightwatchGrineerCatMasterDesc]
+"Leads a pack of Hyekka into battle."
+
+[/Lotus/Language/Enemies/NightwatchGrineerCatMasterName]
+"NIGHTWATCH HYEKKA MASTER"
+
+[/Lotus/Language/Enemies/NightwatchLancerDesc]
+"These mobile infantry make up the core of the Nightwatch Corps."
+
+[/Lotus/Language/Enemies/NightwatchLancerName]
+"NIGHTWATCH LANCER"
+
+[/Lotus/Language/Enemies/NightwatchManicGrineerDesc]
+"Fast, ruthless and completely unpredictable."
+
+[/Lotus/Language/Enemies/NightwatchManicGrineerName]
+"NIGHTWATCH MANIC"
+
+[/Lotus/Language/Enemies/NightwatchPowerClawDesc]
+"Sporting the visceral Ripkas, this unit is a specialist in close quarter combat."
+
+[/Lotus/Language/Enemies/NightwatchPowerClawName]
+"NIGHTWATCH POWERCLAW"
+
+[/Lotus/Language/Enemies/NightwatchSeekerDesc]
+"Distracts prey with rollers while taking aim with a high-calibre Marelok."
+
+[/Lotus/Language/Enemies/NightwatchSeekerName]
+"NIGHTWATCH SEEKER"
+
+[/Lotus/Language/Enemies/NightwatchShieldLancerDesc]
+"Blocks hostile gunfire with a reinforced Brunt."
+
+[/Lotus/Language/Enemies/NightwatchShieldLancerName]
+"NIGHTWATCH BRUNT LANCER"
 
 [/Lotus/Language/Enemies/OrokinAutoTurret]
 "OROKIN SENTRY"
@@ -13725,6 +14213,21 @@ and will receive from |PLAYER_NAME| the following:|GETTING|"
 
 [/Lotus/Language/Enemies/ReplicantWukong]
 "WUKONG SPECTER"
+
+[/Lotus/Language/Enemies/SimarisAllyDesc]
+"An entity derived from The Sanctuary to fight for Simaris."
+
+[/Lotus/Language/Enemies/SimarisBombardName]
+"SANCTUARY HEAVY GUNNER"
+
+[/Lotus/Language/Enemies/SimarisLancerName]
+"SANCTUARY LANCER"
+
+[/Lotus/Language/Enemies/SimarisMoaName]
+"SANCTUARY MOA"
+
+[/Lotus/Language/Enemies/SimarisSpacemanName]
+"SANCTUARY CREWMAN"
 
 [/Lotus/Language/Enemies/SteelMeridianColonistDesc]
 "Grineer defectors in search of a better, more peaceful life."
@@ -14877,6 +15380,70 @@ I suspect troop movements or worse. I will alert you the next time one of these 
 [/Lotus/Language/G1Quests/AladVWeaponsStolen]
 "[PH] Now your weapons are mine, fool! Mwa ha ha ha!"
 
+[/Lotus/Language/G1Quests/Anniversary2017MissionBodyA]
+"Enemy forces have obtained detailed information on some of the Lotus' artifacts. Stop them before they get away!
+
+You may only use Secondary weapons on this mission."
+
+[/Lotus/Language/G1Quests/Anniversary2017MissionBodyB]
+"Enemy forces have obtained detailed information on some of the Lotus' artifacts. Stop them before they get away!
+
+You may only use Melee weapons on this mission."
+
+[/Lotus/Language/G1Quests/Anniversary2017MissionBodyC]
+"Enemy forces have obtained detailed information on some of the Lotus' artifacts. Stop them before they get away!
+
+You may only use Primary weapons on this mission."
+
+[/Lotus/Language/G1Quests/Anniversary2017MissionTitle]
+"Gifts from the Lotus - Stolen!"
+
+[/Lotus/Language/G1Quests/Anniversary2017MissionTitleA]
+"Gifts from the Lotus - Stolen: Corpus Ceased!"
+
+[/Lotus/Language/G1Quests/Anniversary2017MissionTitleB]
+"Gifts from the Lotus - Stolen: Infested Halted!"
+
+[/Lotus/Language/G1Quests/Anniversary2017MissionTitleC]
+"Gifts from the Lotus - Stolen: Grineer Thwarted!"
+
+[/Lotus/Language/G1Quests/Anniversary2017MsgDesc]
+"Tenno,
+
+Enemy forces have obtained detailed information on some of my artifacts. Your bravery and unbreakable will are once again needed to recover these precious items so that this year’s Cycle Celebration can continue!
+
+-The Lotus"
+
+[/Lotus/Language/G1Quests/Anniversary2017MsgTitle]
+"Gifts from the Lotus - Stolen!"
+
+[/Lotus/Language/G1Quests/Anniversary2017RewardMsgA]
+"Tenno,
+
+Corpus greed knows no bound, but your cunning and clever methods were able to prevent them from acquiring the Dex Furis!
+
+Please take a copy of this Awakening artifact as your reward.
+
+-The Lotus"
+
+[/Lotus/Language/G1Quests/Anniversary2017RewardMsgB]
+"Tenno,
+
+These Infested snatchers were no match for your resilience and strength! Your efforts have prevented them from destroying the Dex Dakra.
+
+Please take a copy of this Awakening artifact as your reward.
+
+-The Lotus"
+
+[/Lotus/Language/G1Quests/Anniversary2017RewardMsgC]
+"Tenno,
+
+You fought with honor and skill! Your efforts have prevented the Grineer Forces from making away with the Dex Sybaris information!
+
+Please take a copy of this Awakening artifact as your reward!
+
+-The Lotus"
+
 [/Lotus/Language/G1Quests/AnnounceRelayBody]
 "Visit relays on:
 
@@ -14889,6 +15456,9 @@ ERIS: Kuiper Relay"
 
 [/Lotus/Language/G1Quests/AnnounceRelayTitle]
 "Our Relays have Opened"
+
+[/Lotus/Language/G1Quests/ArchwingOrokinSabFindArchive]
+"FIND THE OROKIN ARCHIVE"
 
 [/Lotus/Language/G1Quests/AwakenedChooseClan]
 "“Done”"
@@ -15930,6 +16500,15 @@ The Lotus "
 [/Lotus/Language/G1Quests/FormaGiftTitle]
 "A Gift From the Lotus"
 
+[/Lotus/Language/G1Quests/FourthAnniversaryMessage]
+"Tenno,
+
+For four Earth cycles you have been awake! This year you proved yourselves even more valiant by protecting our precious Dex items. To commemorate this momentous occasion and celebrate your heroic efforts, I’ve commissioned this Dex Nouchalis Syandana.
+
+Wear it with pride, Tenno.
+
+-The Lotus"
+
 [/Lotus/Language/G1Quests/Free_Master_Sigil_Desc]
 "Enjoy your free 'Mastery' Sigil: A Sigil that dynamically changes icon based on Mastery rank!"
 
@@ -16667,6 +17246,9 @@ Ergo Glast"
 [/Lotus/Language/G1Quests/IndexQuestStage7]
 "Find the source of Nef’s cheats"
 
+[/Lotus/Language/G1Quests/IndexQuestStageCheckInbox]
+"Check Inbox"
+
 [/Lotus/Language/G1Quests/IndexTitle]
 "THE GLAST GAMBIT"
 
@@ -17324,6 +17906,9 @@ Nef Anyo"
 
 [/Lotus/Language/G1Quests/NefAnyoBattlePaySubject]
 "The Void Giveth Unto You"
+
+[/Lotus/Language/G1Quests/NerfedItemsMsgTitle]
+"[PH] Weapon effectiveness re-evaluation"
 
 [/Lotus/Language/G1Quests/NightmareRaidRewardInboxMessageBody]
 "Tenno,
@@ -20267,6 +20852,21 @@ Arming: Turrets"
 [/Lotus/Language/Game/AlloyPlateContainerDesc]
 "Contains Alloy Plate"
 
+[/Lotus/Language/Game/AmbulasCargoShip]
+"[PH] Cargo ship launched!"
+
+[/Lotus/Language/Game/AmbulasDelivery]
+"[PH] Delivered hacked Ambulas!"
+
+[/Lotus/Language/Game/AmbulasMaxCount]
+"[PH] Ambulas Delivered"
+
+[/Lotus/Language/Game/AmbulasSecurityTeam]
+"[PH] Security team deployed!"
+
+[/Lotus/Language/Game/AmbulasSpawning]
+"[PH] Incoming Ambulas delivery!"
+
 [/Lotus/Language/Game/AmmoHud]
 "Your HUD shows clip and total ammo."
 
@@ -20357,6 +20957,12 @@ Arming: Turrets"
 [/Lotus/Language/Game/Available]
 "Available"
 
+[/Lotus/Language/Game/BanishDuration]
+"BANISH DURATION"
+
+[/Lotus/Language/Game/BanishRadius]
+"BANISH RADIUS"
+
 [/Lotus/Language/Game/BeginObstacleCourse]
 "Begin"
 
@@ -20378,11 +20984,32 @@ Arming: Turrets"
 [/Lotus/Language/Game/BossAmbulas]
 "AMBULAS"
 
+[/Lotus/Language/Game/BossAmbulasHackingDrone]
+"[PH] Service Drone"
+
+[/Lotus/Language/Game/BossAmbulasHackingDroneDesc]
+"[PH] System maintenance and repair drone"
+
+[/Lotus/Language/Game/BossAmbulasSternguard]
+"[PH] Sternguard Ambulas"
+
+[/Lotus/Language/Game/BossAmbulasSternguardDesc]
+"[PH] Long-range Ambulas model"
+
+[/Lotus/Language/Game/BossAmbulasVanguard]
+"[PH] Vanguard Ambulas"
+
+[/Lotus/Language/Game/BossAmbulasVanguardDesc]
+"[PH] Close combat Ambulas model"
+
 [/Lotus/Language/Game/BossExample]
 "Boss Example"
 
 [/Lotus/Language/Game/BOUNCE_DAMAGE]
 "BOUNCE DAMAGE"
+
+[/Lotus/Language/Game/BuffDuration]
+"BUFF DURATION"
 
 [/Lotus/Language/Game/BUFFER_CAP]
 "BUFFER LIMIT"
@@ -20446,6 +21073,15 @@ Arming: Turrets"
 
 [/Lotus/Language/Game/CHAIN_LINKS]
 "CHAIN LINKS"
+
+[/Lotus/Language/Game/CharmRadiusCount]
+"MIN CHARM RADIUS"
+
+[/Lotus/Language/Game/CharmRadiusMax]
+"MAX CHARM RADIUS"
+
+[/Lotus/Language/Game/CharmRadiusMin]
+"MIN CHARM RADIUS"
 
 [/Lotus/Language/Game/CircuitsContainer]
 "CIRCUITRY LOCKBOX"
@@ -20757,6 +21393,15 @@ SEGMENT REQUIRED"
 
 [/Lotus/Language/Game/DAMAGE_VULNERABILITY]
 "DAMAGE VULNERABILITY"
+
+[/Lotus/Language/Game/DamageMultMax]
+"MAX DAMAGE MULT"
+
+[/Lotus/Language/Game/DamageMultMin]
+"MIN DAMAGE MULT"
+
+[/Lotus/Language/Game/DamagePerCharm]
+"DAMAGE PER CHARM"
 
 [/Lotus/Language/Game/DangerRoomConsole]
 "SIMULACRUM"
@@ -22357,9 +23002,6 @@ A call echoes across the stars - as a menace approaches..."
 [/Lotus/Language/Game/JetpackHeavyMarineDesc]
 "Mobile heavy unit that utilizes a grenade launcher"
 
-[/Lotus/Language/Game/JetpackHeavyMarineName]
-"NIGHTWATCH REAVER"
-
 [/Lotus/Language/Game/JuggernautBossName]
 "JUGGERNAUT BEHEMOTH"
 
@@ -22412,7 +23054,7 @@ A call echoes across the stars - as a menace approaches..."
 "Kill All Enemies with Secondary Weapon"
 
 [/Lotus/Language/Game/KillEnemiesWithinTimeLimit]
-"Kill |COUNT| enemies - melee orbs for extra time!"
+"Kill |COUNT| enemies (Melee orbs for extra time!)"
 
 [/Lotus/Language/Game/KNOCKBACK_STRENGTH]
 "KNOCKBACK STRENGTH"
@@ -22936,47 +23578,14 @@ A call echoes across the stars - as a menace approaches..."
 [/Lotus/Language/Game/NightUnCommonPlantDesc]
 "This uncommon plant can only be found at night."
 
-[/Lotus/Language/Game/NightwatchBailiffName]
-"NIGHTWATCH BAILIFF"
-
-[/Lotus/Language/Game/NightwatchBombardMinigun]
-"NIGHTWATCH BOMBARD"
-
-[/Lotus/Language/Game/NightwatchBombardName]
-"NIGHTWATCH BOMBARD"
-
 [/Lotus/Language/Game/NightwatchFlamebladeDesc]
 "[PH] Description"
-
-[/Lotus/Language/Game/NightwatchFlamebladeName]
-"NIGHTWATCH FLAMEBLADE"
-
-[/Lotus/Language/Game/NightwatchGrineerCatMasterName]
-"NIGHTWATCH HYEKKA MASTER"
-
-[/Lotus/Language/Game/NightwatchLancerName]
-"NIGHTWATCH LANCER"
-
-[/Lotus/Language/Game/NightwatchLancerRifle]
-"NIGHTWATCH LANCER"
-
-[/Lotus/Language/Game/NightwatchManicGrineerName]
-"NIGHTWATCH MANIC"
 
 [/Lotus/Language/Game/NightwatchPowerClawDesc]
 "[PH] Description"
 
-[/Lotus/Language/Game/NightwatchPowerClawName]
-"NIGHTWATCH POWERCLAW"
-
-[/Lotus/Language/Game/NightwatchSeekerName]
-"NIGHTWATCH SEEKER"
-
 [/Lotus/Language/Game/NightwatchShieldLancerDesc]
 "[PH] Description"
-
-[/Lotus/Language/Game/NightwatchShieldLancerName]
-"NIGHTWATCH BRUNT LANCER"
 
 [/Lotus/Language/Game/NOISE_RADIUS]
 "NOISE RADIUS"
@@ -23696,6 +24305,9 @@ A call echoes across the stars - as a menace approaches..."
 [/Lotus/Language/Game/RaceSupplyShipsDestroyedCounter]
 "Transports Destroyed"
 
+[/Lotus/Language/Game/RadialDamageBuffName]
+"STORMPATH"
+
 [/Lotus/Language/Game/RaidAntidoteFailedMeterFull]
 "Armor Integrity at Maximum"
 
@@ -24078,6 +24690,12 @@ DETONATION IN |TIME|"
 [/Lotus/Language/Game/SensorRegulatorOrokinName]
 "OROKIN SPECTATOR"
 
+[/Lotus/Language/Game/SentientCarrierDesc]
+"[PH] Vessel of the Sentient"
+
+[/Lotus/Language/Game/SentientCarrierName]
+"[PH] CARRIER"
+
 [/Lotus/Language/Game/SentientMeleeTrooperName]
 "CONCULYST"
 
@@ -24092,6 +24710,15 @@ DETONATION IN |TIME|"
 
 [/Lotus/Language/Game/SentientTrooperName]
 "BATTALYST"
+
+[/Lotus/Language/Game/SentientVoidDesc]
+"Shielded by Hunhow using Suda's energy"
+
+[/Lotus/Language/Game/SentientVoidMeleeName]
+"DECAYING CONCULYST"
+
+[/Lotus/Language/Game/SentientVoidTrooperName]
+"DECAYING BATTALYST"
 
 [/Lotus/Language/Game/Shade]
 "SHADE"
@@ -24566,7 +25193,7 @@ Destroy these targets!"
 
 [/Lotus/Language/Game/TutorialWarframeEnergy]
 "Powers require energy.
-Absorb this energy sphere..."
+Absorb this energy orb..."
 
 [/Lotus/Language/Game/TutorialWarframePower]
 "Warframe Power TEMPORARILY unlocked. Use the Arsenal to upgrade weapons and unlock powers as you level up..."
@@ -25659,7 +26286,7 @@ Deploy this Extractor on a planet to collect large amounts of resources. It must
 "TELOS AKBOLTO"
 
 [/Lotus/Language/Items/AHBoltaceDesc]
-"Push the limits of Tenno lethality with violent spinning attacks that damage all enemies in range."
+"Spinning attacks unleash the Stormpath, a tempest of mayhem that hurls any foes in its way."
 
 [/Lotus/Language/Items/AHBoltaceName]
 "TELOS BOLTACE"
@@ -25680,7 +26307,7 @@ Deploy this Extractor on a planet to collect large amounts of resources. It must
 "ARCANE CONSEQUENCE"
 
 [/Lotus/Language/Items/AirSupportTeamHealName]
-"TEAM HEALTH RESTORE"
+"SQUAD HEALTH RESTORE (SMALL)"
 
 [/Lotus/Language/Items/AkimboAutoPistolDesc]
 "Furis pistols equipped in each hand. Twice the clip size and fire rate, but reload time is doubled and accuracy is lowered."
@@ -26374,6 +27001,9 @@ Note: This item requires two open slots."
 
 [/Lotus/Language/Items/AutoPistolPickup]
 "Pick up Auto Pistol"
+
+[/Lotus/Language/Items/AutoPistolVariantName]
+"FURIS VARIANT"
 
 [/Lotus/Language/Items/AutoShotgunDesc]
 "A shotgun with low accuracy and strong recoil, but able to deliver its payload in full-auto. The Boar is best used at close range."
@@ -28259,6 +28889,39 @@ Note: This item requires two open slots."
 [/Lotus/Language/Items/BansheePackName]
 "DEAD SILENCE PACK"
 
+[/Lotus/Language/Items/BardAgileAnims]
+"OCTAVIA AGILE ANIMATION SET"
+
+[/Lotus/Language/Items/BardAgileAnimsDesc]
+"The Agile Animation Set for Octavia."
+
+[/Lotus/Language/Items/BardCorpusPackA]
+"ALPHA INSTRUMENTS"
+
+[/Lotus/Language/Items/BardCorpusPackB]
+"BETA INSTRUMENTS"
+
+[/Lotus/Language/Items/BardCorpusPackC]
+"GAMMA INSTRUMENTS"
+
+[/Lotus/Language/Items/BardCorpusPackD]
+"DELTA INSTRUMENTS"
+
+[/Lotus/Language/Items/BardGrineerPackA]
+"DRUK INSTRUMENTS"
+
+[/Lotus/Language/Items/BardNobleAnims]
+"OCTAVIA NOBLE ANIMATION SET"
+
+[/Lotus/Language/Items/BardNobleAnimsDesc]
+"The Noble Animation Set for Octavia."
+
+[/Lotus/Language/Items/BardPackA]
+"[PH] BardPackA"
+
+[/Lotus/Language/Items/BardTennoPackA]
+"ADAU INSTRUMENTS"
+
 [/Lotus/Language/Items/BaroArrowDesc]
 "Arrows of distinction, the perfect compliment for any bow."
 
@@ -28415,9 +29078,7 @@ This can then be used to increase the chances that traits from the original pet 
 "GENETIC CODE TEMPLATE"
 
 [/Lotus/Language/Items/BleedingKeyBlueprint]
-"Blueprint required to craft the Bleeding Dragon Key. Health is greatly reduced while key is equipped.
-
-Blueprint is reusable and will not be consumed."
+"Blueprint required to craft the Bleeding Dragon Key. Health is greatly reduced while key is equipped."
 
 [/Lotus/Language/Items/BlueAntitoxinBlueprintDesc]
 "Fuses the extracts from both Moonlight and Sunlight variations of Jadeleaf and Dragonlily to create a potent antitoxin."
@@ -28656,6 +29317,12 @@ Blueprint is reusable and will not be consumed."
 [/Lotus/Language/Items/BroncoPrimeName]
 "BRONCO PRIME"
 
+[/Lotus/Language/Items/BroncoSpectreBlueprintDesc]
+"[PH] Remains of a weapon from a long forgotten world."
+
+[/Lotus/Language/Items/BroncoSpectreBlueprintName]
+"[PH] Recovered Spectre Shotgun"
+
 [/Lotus/Language/Items/BronzeSpectre]
 "VAPOR SPECTER"
 
@@ -28684,6 +29351,9 @@ Once crafted this Specter may be donated to a clan and used by a Tactician to cr
 
 [/Lotus/Language/Items/BurstPistolPickup]
 "Pick up Burst Pistol"
+
+[/Lotus/Language/Items/BurstPistolVariantName]
+"SICARUS VARIANT"
 
 [/Lotus/Language/Items/BurstRifleDesc]
 "The Burston fires 3-round bursts, which provides a balance between the lethality of automatic rifles and the accuracy of semi-automatic rifles."
@@ -28977,9 +29647,7 @@ This bundle of 1 Detonite Ampule can be used for crafting items in your Foundry.
 "CIPHER-II"
 
 [/Lotus/Language/Items/CipherBlueprintDesc]
-"Single-use device used for auto-hacking the lockdown control panels.
-
-Blueprint is reusable and will not be consumed."
+"Single-use device used for auto-hacking the lockdown control panels."
 
 [/Lotus/Language/Items/CipherC]
 "CIPHER-III"
@@ -29025,48 +29693,40 @@ This bundle of 1500 Circuits can be used for crafting items in your Foundry."
 "CLAN TWO TONE"
 
 [/Lotus/Language/Items/ClanTeamAmmoBlueprintDesc]
-"Restores AMMO to all team members in greater quantities.
-
-Blueprint is reusable and will not be consumed."
+"Restores Ammo to all squad members. Ammo per pulse: 90 Rifle, 45 Pistol, 35 Shotgun, 15 Sniper every 7.5s for 30s."
 
 [/Lotus/Language/Items/ClanTeamAmmoDesc]
-"Restores AMMO to all team members in greater quantities"
+"Restores Ammo to all squad members. Ammo per pulse: 90 Rifle, 45 Pistol, 35 Shotgun, 15 Sniper every 7.5s for 30s."
 
 [/Lotus/Language/Items/ClanTeamAmmoName]
-"MEDIUM TEAM AMMO RESTORE"
+"SQUAD AMMO RESTORE (MEDIUM)"
 
 [/Lotus/Language/Items/ClanTeamEnergyBlueprintDesc]
-"Restores ENERGY to all team members in greater quantities.
-
-Blueprint is reusable and will not be consumed."
+"Restores Energy to all squad members. Pulses 50 Energy every 5s for 20s."
 
 [/Lotus/Language/Items/ClanTeamEnergyDesc]
-"Restores ENERGY to all team members in greater quantities"
+"Restores Energy to all squad members. Pulses 50 Energy every 5s for 20s."
 
 [/Lotus/Language/Items/ClanTeamEnergyName]
-"MEDIUM TEAM ENERGY RESTORE"
+"SQUAD ENERGY RESTORE (MEDIUM)"
 
 [/Lotus/Language/Items/ClanTeamHealBlueprintDesc]
-"Restores HEALTH to all team members in greater quantities.
-
-Blueprint is reusable and will not be consumed."
+"Restores Health to all squad members. Pulses 100 Health every 5s for 20s."
 
 [/Lotus/Language/Items/ClanTeamHealDesc]
-"Restores HEALTH to all team members in greater quantities"
+"Restores Health to all squad members. Pulses 100 Health every 5s for 20s."
 
 [/Lotus/Language/Items/ClanTeamHealName]
-"MEDIUM TEAM HEALTH RESTORE"
+"SQUAD HEALTH RESTORE (MEDIUM)"
 
 [/Lotus/Language/Items/ClanTeamShieldBlueprintDesc]
-"Restores SHIELDS to all team members in greater quantities.
-
-Blueprint is reusable and will not be consumed."
+"Restores Shields to all squad members. Pulses 100 Shield every 7.5s for 30s."
 
 [/Lotus/Language/Items/ClanTeamShieldDesc]
-"Restores SHIELDS for all team members in greater quantities"
+"Restores Shields to all squad members. Pulses 100 Shield every 7.5s for 30s."
 
 [/Lotus/Language/Items/ClanTeamShieldName]
-"MEDIUM TEAM SHIELD RESTORE"
+"SQUAD SHIELD RESTORE (MEDIUM)"
 
 [/Lotus/Language/Items/ClawsCategoryName]
 "CLAWS"
@@ -30524,9 +31184,7 @@ This bundle of 1 Tethra Data Fragment can be used for crafting items in your Fou
 "SHOCK CAMO TETRA"
 
 [/Lotus/Language/Items/DecayingKeyBlueprint]
-"Blueprint required to craft the Decaying Dragon Key. Shields are greatly reduced while key is equipped.
-
-Blueprint is reusable and will not be consumed."
+"Blueprint required to craft the Decaying Dragon Key. Shields are greatly reduced while key is equipped."
 
 [/Lotus/Language/Items/DecreeAgileAnims]
 "BANSHEE AGILE ANIMATION SET"
@@ -30785,26 +31443,6 @@ Note: This item requires two open slots."
 
 [/Lotus/Language/Items/DualKamasName]
 "DUAL KAMAS"
-
-[/Lotus/Language/Items/DualPackPrimeVaultDesc]
-"INSTANTLY UNLOCK EMBER AND FROST PRIME, DISCOUNTED PLATINUM AND PRIME GEAR!
-
-The Prime Vault is now open! For a limited time, you can purchase this package and gain instant access to Ember Prime, Frost Prime and more! Get them before they retire and return to the Vault!
-
-Pack Includes:
-- 1200 Platinum
-- Ember Prime and Frost Prime – Offer the same potential for greatness as their non-Prime version but provide unique mod polarities, allowing for greater customization
-- Latron Prime – This ornamental weapon exploits ancient Orokin technology to get a damage increase
-- Reaper Prime – An ornamental scythe with a blade forged from tempered rubidium
-- Sicarus Prime – An ornamental firearm that fires rounds in rapid bursts
-- Glaive Prime – Deadly and beautiful weapon from the Orokin era
-- Titan Extractor Prime and Blueprint – Collect double the resources with this extractor
-- Pyra Prime Syandana
-- Misa Prime Syandana 
-- Ember and Frost Prime Avatars"
-
-[/Lotus/Language/Items/DualPackPrimeVaultName]
-"PRIME VAULT – FIRE & ICE PRIME PACK"
 
 [/Lotus/Language/Items/DualShortSwordDesc]
 "A shorter Skana in each hand. Can hit multiple targets."
@@ -31279,9 +31917,7 @@ This item may only be purchased once per account."
 "ARCANE SUPPORT"
 
 [/Lotus/Language/Items/ExtinguishedKeyBlueprint]
-"Blueprint required to craft the Extinguished Dragon Key. Damage is greatly reduced while key is equipped.
-
-Blueprint is reusable and will not be consumed."
+"Blueprint required to craft the Extinguished Dragon Key. Damage is greatly reduced while key is equipped."
 
 [/Lotus/Language/Items/FacialMarkingsA]
 "SOMATICS D11"
@@ -31412,23 +32048,6 @@ This bundle of 3000 Ferrite can be used for crafting items in your Foundry."
 
 [/Lotus/Language/Items/FireFlyScarfName]
 "IGARO SYANDANA"
-
-[/Lotus/Language/Items/FirePrimeVaultDesc]
-"INSTANTLY UNLOCK EMBER PRIME, DISCOUNTED PLATINUM AND PRIME GEAR!
-
-The Prime Vault is now open! For a limited time, you can purchase this package and gain instant access to Ember Prime and more! Get them before they retire and return to the Vault!
-
-Pack Includes:
-- 400 Platinum
-- Ember Prime Warframe – Ember Prime offers the same potential for destruction as Ember but provides unique mod polarities, allowing for greater customization
-- Sicarus Prime – An ornamental firearm that fires rounds in rapid bursts
-- Glaive Prime – Deadly and beautiful weapon from the Orokin era. The blades are as effective in close quarters as they are when thrown at distant enemies
-- Titan Extractor Prime and Blueprint – Empower your resource collection efforts with a fully restored Orokin Titan Extractor, boasting twice the capacity of a common one
-- Pyra Prime Syandana – During the Orokin Era, only the fiercest warriors were permitted to wear this Syandana
-- Ember Prime Avatars"
-
-[/Lotus/Language/Items/FirePrimeVaultName]
-"PRIME VAULT – FIRE PRIME PACK"
 
 [/Lotus/Language/Items/FireProcResistName]
 "ARCANE ICE"
@@ -31811,25 +32430,6 @@ Pack Includes:
 [/Lotus/Language/Items/FrostPrimeImmortalSkinName]
 "FROST PRIME IMMORTAL SKIN"
 
-[/Lotus/Language/Items/FrostPrimeVaultBannerDesc]
-"Now Available for a Limited Time"
-
-[/Lotus/Language/Items/FrostPrimeVaultDesc]
-"INSTANTLY UNLOCK FROST PRIME, DISCOUNTED PLATINUM AND PRIME GEAR!
-
-For a limited time, you can purchase this package and gain instant access to Frost Prime, Latron Prime and more!
-
-Pack Includes:
-- 1050 Platinum – Highly discounted from its regular price, Platinum is Warframe's Premium in-game currency.
-- Frost Prime Warframe – Frost Prime features the same sub-zero powers as Frost but with unique Mod Polarities for greater customization.
-- Latron Prime – The sleek elegance of this ancient Orokin battle rifle is surpassed only by the raw power of its puncturing rounds.
-- Reaper Prime – Envelope those who would stand against you in an unstoppable dance of death. 
-- Titan Extractor Prime – Empower your resource collection efforts with a fully restored Orokin Titan Extractor, boasting twice the capacity of a common extractor.
-- Misa Prime Syandana – Discovered in the vaults of a drifting derelict, this Syandana was worn by Temple Guardians before the fall of the Orokin Empire."
-
-[/Lotus/Language/Items/FrostPrimeVaultName]
-"PRIME VAULT - FROST PRIME PACK"
-
 [/Lotus/Language/Items/FullAutoShotgunPickup]
 "Pick up Full-Auto Shotgun"
 
@@ -31838,6 +32438,12 @@ Pack Includes:
 
 [/Lotus/Language/Items/FuraxWraithName]
 "FURAX WRAITH"
+
+[/Lotus/Language/Items/FurisVekeskBlueprintDesc]
+"[PH] Remains of a weapon from a long forgotten world."
+
+[/Lotus/Language/Items/FurisVekeskBlueprintName]
+"[PH] Recovered Vekesk Submachine gun"
 
 [/Lotus/Language/Items/FurtiveKubrowDesc]
 "Prized for its ability to sneak up on unsuspecting prey, the Huras Kubrow were first used as hunting companions by the Orokin elite. Orokin Era Tenno soon adapted the strain for use in covert missions and assassinations."
@@ -31889,6 +32495,12 @@ Pack Includes:
 
 [/Lotus/Language/Items/FusionTreasureFName]
 "AYATAN ANASA SCULPTURE"
+
+[/Lotus/Language/Items/FusionTreasureGDescription]
+"This kinetic Orokin sculpture springs to life when filled with Ayatan Stars. It may also be a source of Endo."
+
+[/Lotus/Language/Items/FusionTreasureGName]
+"AYATAN VALANA SCULPTURE"
 
 [/Lotus/Language/Items/FusionTreasureOrmanetADescription]
 "Place these stars into Ayatan Sculptures to power their movement. May also be a source of Endo."
@@ -32185,6 +32797,12 @@ This is a key for a TRIAL mission, work with up to 8 Tenno in order to solve pro
 
 [/Lotus/Language/Items/GreatSwordName]
 "GRAM"
+
+[/Lotus/Language/Items/GremlinDesc]
+"[PH] Standard issue weaponry signature to New Sentinel."
+
+[/Lotus/Language/Items/GremlinName]
+"[PH] GREMLIN"
 
 [/Lotus/Language/Items/GrenadeBuilderDesc]
 "Builds grenades."
@@ -33049,6 +33667,9 @@ This is a key for a TRIAL mission that has been designed to be challenging for 8
 [/Lotus/Language/Items/HandCannonName]
 "BRONCO"
 
+[/Lotus/Language/Items/HandCannonVariantName]
+"BRONCO VARIANT"
+
 [/Lotus/Language/Items/HarlequinAgileAnims]
 "MIRAGE AGILE ANIMATION SET"
 
@@ -33124,6 +33745,9 @@ This is a key for a TRIAL mission that has been designed to be challenging for 8
 [/Lotus/Language/Items/HeavyPistolName]
 "LEX"
 
+[/Lotus/Language/Items/HeavyPistolVariantName]
+"LEX VARIANT"
+
 [/Lotus/Language/Items/HeavyRifleDesc]
 "The Gorgon sports a large clip that allows it to provide suppressing fire and sustain a high damage rate over a long time. Its high fire rate is only achieved following a short wind-up cycle."
 
@@ -33178,6 +33802,12 @@ This is a key for a TRIAL mission that has been designed to be challenging for 8
 [/Lotus/Language/Items/HeliosGlaiveWeaponName]
 "DECONSTRUCTOR"
 
+[/Lotus/Language/Items/HelminthChargerTramplePreceptDesc]
+"The Helminth Charger rushes an enemy, dealing |DAMAGE| damage to all in its path."
+
+[/Lotus/Language/Items/HelminthChargerTramplePreceptName]
+"Trample"
+
 [/Lotus/Language/Items/HenruSyandanaDesc]
 "In the Orokin era, only the Tenno were permitted to wear the Henru Syandana"
 
@@ -33197,9 +33827,7 @@ This is a key for a TRIAL mission that has been designed to be challenging for 8
 "BREEDING GROUNDS EMBLEM"
 
 [/Lotus/Language/Items/HobbledKeyBlueprint]
-"Blueprint required to craft the Hobbled Dragon Key. Speed is greatly reduced while key is equipped.
-
-Blueprint is reusable and will not be consumed."
+"Blueprint required to craft the Hobbled Dragon Key. Speed is greatly reduced while key is equipped."
 
 [/Lotus/Language/Items/HolidayFrostSkinDesc]
 "A festive skin for the Frost Warframe."
@@ -33329,23 +33957,6 @@ Blueprint is reusable and will not be consumed."
 
 [/Lotus/Language/Items/IceMeleeDangleName]
 "SCYTH SUGATRA"
-
-[/Lotus/Language/Items/IcePrimeVaultDesc]
-"INSTANTLY UNLOCK FROST PRIME, DISCOUNTED PLATINUM AND PRIME GEAR!
-
-The Prime Vault is now open! For a limited time, you can purchase this package and gain instant access to Frost Prime and more! Get them before they retire and return to the Vault!
-
-Pack Includes:
-- 400 Platinum
-- Frost Prime Warframe – Frost Prime features the same sub-zero powers as Frost but with unique Mod Polarities for greater customization
-- Latron Prime – The sleek elegance of this ancient Orokin battle rifle is surpassed only by the raw power of its puncturing rounds
-- Reaper Prime – Envelope those who would stand against you in an unstoppable dance of death
-- Titan Extractor Prime and Blueprint – Empower your resource collection efforts with a fully restored Orokin Titan Extractor, boasting twice the capacity of a common extractor
-- Misa Prime Syandana – Discovered in the vaults of a drifting derelict, this Syandana was worn by Temple Guardians before the fall of the Orokin Empire
-- Frost Prime Avatars"
-
-[/Lotus/Language/Items/IcePrimeVaultName]
-"PRIME VAULT – ICE PRIME PACK"
 
 [/Lotus/Language/Items/IctusMaskName]
 "ICTUS SENTINEL MASK"
@@ -33694,6 +34305,9 @@ Pack Includes:
 
 [/Lotus/Language/Items/InstantShieldOnDamageName]
 "ARCANE BARRIER"
+
+[/Lotus/Language/Items/InstrumentPackDesc]
+"A themed instrument pack for Octavia's Mandachord."
 
 [/Lotus/Language/Items/InternCapeDesc]
 "A flowing ribbon of silken fabric, crowned with a star."
@@ -34111,9 +34725,6 @@ Requires: Installed Kavat Incubator Upgrade Segment"
 [/Lotus/Language/Items/KubrowChargePreceptName]
 "Hunt"
 
-[/Lotus/Language/Items/KubrowChargerChargePreceptName]
-"Helminth Hunt"
-
 [/Lotus/Language/Items/KubrowChargerFinisherModName]
 "Helminth Ferocity"
 
@@ -34390,6 +35001,12 @@ Requires: Installed Kavat Incubator Upgrade Segment"
 [/Lotus/Language/Items/KubrowFireMeleeMod]
 "[PH] fire damage"
 
+[/Lotus/Language/Items/KubrowGrabPreceptDesc]
+"Helminth Charger whips a proboscis out at an enemy within |RANGE|m, pulling them back and dealing |DAMAGE| damage."
+
+[/Lotus/Language/Items/KubrowGrabPreceptName]
+"Proboscis"
+
 [/Lotus/Language/Items/KubrowHealthLinkModName]
 "Link Health"
 
@@ -34618,52 +35235,52 @@ Requires: Installed Incubator Segment"
 "|ITEM| x |NUM| RESEARCH"
 
 [/Lotus/Language/Items/LargeTeamAmmoDesc]
-"Restores a large amount of ammo to all team members"
+"Restores Ammo to all squad members. Ammo per pulse: 110 Rifle, 60 Pistol, 50 Shotgun, 30 Sniper every 7.5s for 30s."
 
 [/Lotus/Language/Items/LargeTeamAmmoName]
-"LARGE TEAM AMMO RESTORE"
+"SQUAD AMMO RESTORE (LARGE)"
 
 [/Lotus/Language/Items/LargeTeamAmmoPackDesc]
-"Builds 10x Large Team Ammo Restore items."
+"Builds 10x Squad Ammo Restore (Large)."
 
 [/Lotus/Language/Items/LargeTeamAmmoPackName]
-"LARGE TEAM AMMO PACK"
+"SQUAD AMMO PACK (LARGE)"
 
 [/Lotus/Language/Items/LargeTeamEnergyDesc]
-"Restores a large amount of energy to all team members"
+"Restores Energy to all squad members. Pulses 100 Energy every 7.5s for 30s."
 
 [/Lotus/Language/Items/LargeTeamEnergyName]
-"LARGE TEAM ENERGY RESTORE"
+"SQUAD ENERGY RESTORE (LARGE)"
 
 [/Lotus/Language/Items/LargeTeamEnergyPackDesc]
-"Builds 10x Large Team Energy Restore items."
+"Builds 10x Squad Energy Restore (Large)."
 
 [/Lotus/Language/Items/LargeTeamEnergyPackName]
-"LARGE TEAM ENERGY PACK"
+"SQUAD ENERGY PACK (LARGE)"
 
 [/Lotus/Language/Items/LargeTeamHealDesc]
-"Restores a large amount of health to all team members"
+"Restores Health to all squad members. Pulses 300 Health every 7.5s for 30s."
 
 [/Lotus/Language/Items/LargeTeamHealName]
-"LARGE TEAM HEALTH RESTORE"
+"SQUAD HEALTH RESTORE (LARGE)"
 
 [/Lotus/Language/Items/LargeTeamHealPackDesc]
-"Builds 10x Large Team Health Restore items."
+"Builds 10x Squad Health Restore (Large)."
 
 [/Lotus/Language/Items/LargeTeamHealPackName]
-"LARGE TEAM HEAL PACK"
+"SQUAD HEAL PACK (LARGE)"
 
 [/Lotus/Language/Items/LargeTeamShieldDesc]
-"Restores a large amount of shields for all team members"
+"Restores Shields to all squad members. Pulses 300 Shield every 7.5s for 30s."
 
 [/Lotus/Language/Items/LargeTeamShieldName]
-"LARGE TEAM SHIELD RESTORE"
+"SQUAD SHIELD RESTORE (LARGE)"
 
 [/Lotus/Language/Items/LargeTeamShieldPackDesc]
-"Builds 10x Large Team Shield Restore items."
+"Builds 10x Squad Shield Restore (Large)."
 
 [/Lotus/Language/Items/LargeTeamShieldPackName]
-"LARGE TEAM SHIELD PACK"
+"SQUAD SHIELD PACK (LARGE)"
 
 [/Lotus/Language/Items/LaserRifleStoreItemDesc]
 "A laser rifle developed by reverse-engineering Corpus technology."
@@ -34671,11 +35288,26 @@ Requires: Installed Incubator Segment"
 [/Lotus/Language/Items/LaserRifleStoreItemName]
 "LASER RIFLE"
 
+[/Lotus/Language/Items/LasriaExcavationBlueprint]
+"[PH]Compiled Seismic Data"
+
+[/Lotus/Language/Items/LasriaGrnForestExcavationKey]
+"[PH] SEISMIC DATA COORDINATES"
+
+[/Lotus/Language/Items/LasriaGrnForestExcavationKeyDesc]
+"[PH] Coordinates compiled from Seismic Data obtained from Corpus Scout Ship"
+
 [/Lotus/Language/Items/LatoPrimeDesc]
 "The Lato is a highly accurate pistol used by the Tenno everywhere. Prime model offers slightly increased damage."
 
 [/Lotus/Language/Items/LatoPrimeName]
 "LATO PRIME"
+
+[/Lotus/Language/Items/LatoTeknaBlueprintDesc]
+"[PH] Remains of a weapon from a long forgotten world."
+
+[/Lotus/Language/Items/LatoTeknaBlueprintName]
+"[PH] Recovered Tekna Pistol"
 
 [/Lotus/Language/Items/LatronPrimeDesc]
 "The ornamental Latron Prime exploits ancient Orokin technology to get a slight damage increase over the standard Latron."
@@ -34722,6 +35354,12 @@ Requires: Installed Incubator Segment"
 [/Lotus/Language/Items/LegendaryFusionPartDesc]
 "Consumed in the fusion process to power up existing Mods. A single Legendary Core will instantly fuse a Mod to its maximum capacity without credit cost."
 
+[/Lotus/Language/Items/LexHammerBlueprintDesc]
+"[PH] Remains of a weapon from a long forgotten world."
+
+[/Lotus/Language/Items/LexHammerBlueprintName]
+"[PH] Recovered Hammer 1895 Revolver"
+
 [/Lotus/Language/Items/LibrarianHeliosDesc]
 "The Cephalon Simaris skin for the Helios sentinel."
 
@@ -34763,6 +35401,9 @@ Requires: Installed Incubator Segment"
 
 [/Lotus/Language/Items/LightGlaiveName]
 "GLAIVE"
+
+[/Lotus/Language/Items/LightGlaiveVariantName]
+"GLAIVE VARIANT"
 
 [/Lotus/Language/Items/LightningSheathBasicDesc]
 "The Nikana will cause the energy within the Gemini Sheath to flow like the current of river."
@@ -35230,25 +35871,6 @@ This skin requires a Nikana or a Dragon Nikana to use."
 
 [/Lotus/Language/Items/MagPrimeHelmetDesc]
 "The standard issue helmet for the Mag Prime Warframe."
-
-[/Lotus/Language/Items/MagPrimeVaultBannerDesc]
-"Now Available for a Limited Time"
-
-[/Lotus/Language/Items/MagPrimeVaultDesc]
-"INSTANTLY UNLOCK MAG PRIME, DISCOUNTED PLATINUM AND PRIME GEAR!
-
-Prime variants are the most sought after items by Tenno. For a limited time, you can purchase this package and gain instant access to Mag Prime, Boar Prime and more!
-
-Pack Includes:
-- 1200 Platinum – Highly discounted from its regular price, Platinum is Warframe's Premium in-game currency.
-- Mag Prime Warframe – Manipulate and destroy your enemies as a master of all things magnetic. Features unique mod polarities for extended customization. 
-- Boar Prime – A fine example of Tenno craftsmanship paired with a high firing rate.
-- Dakra Prime – Renowned for speed, power and the ability to hit multiple targets.
-- Targis Prime Armor Set – This highly decorated armor was once worn by the personal guards of an Orokin Emperor.
-- Exclusive Mag Prime Avatars – Show your loyalty in-game and in our community with these Exclusive Profile Icons."
-
-[/Lotus/Language/Items/MagPrimeVaultName]
-"PRIME VAULT – MAG PRIME PACK"
 
 [/Lotus/Language/Items/MagSkinUpgradeDesc]
 "Mag Skin upgrade."
@@ -35949,7 +36571,7 @@ This is a key for the Nightmare Mode of a TRIAL mission that has been designed t
 "A uniquely-styled alternate helmet for Nova."
 
 [/Lotus/Language/Items/NovaAltHelm2Name]
-"QUANTUM NOVA HELMET"
+"NOVA QUANTUM HELMET"
 
 [/Lotus/Language/Items/NovaAltHelmet2Desc]
 "Flux Helmet for the Nova Warframe."
@@ -36153,6 +36775,18 @@ This is a key for the Nightmare Mode of a TRIAL mission that has been designed t
 
 [/Lotus/Language/Items/OdonataPrimeName]
 "<ARCHWING> ODONATA PRIME"
+
+[/Lotus/Language/Items/OldWorldExcavationKeyDesc]
+"[PH] Description"
+
+[/Lotus/Language/Items/OldWorldExcavationKeyName]
+"[PH] OLD WORLD EXCAVATION"
+
+[/Lotus/Language/Items/OldWorldSalvage]
+"[PH]OLD WORLD SALVAGE"
+
+[/Lotus/Language/Items/OldWorldSalvageDesc]
+"[PH]Rusted remnants of a long forgotten world"
 
 [/Lotus/Language/Items/OmegaIsotope]
 "OMEGA ISOTOPE"
@@ -37048,6 +37682,9 @@ This bundle of 300 Oxium can be used for crafting items in your Foundry."
 
 [/Lotus/Language/Items/PistolSpeedOnCritName]
 "ARCANE VELOCITY"
+
+[/Lotus/Language/Items/PistolVariantName]
+"LATO VARIANT"
 
 [/Lotus/Language/Items/PlaceholderDesc]
 "[PH]"
@@ -38019,6 +38656,12 @@ With 'Investigator' as its unique Precept and 'Deconstructor' as its weapon, the
 [/Lotus/Language/Items/PvPRapierStanceOne]
 "Cunning Aspect"
 
+[/Lotus/Language/Items/PvpRepBadgeDesc]
+"[PH] The holographic interface on this emblem will update to display the rank achieved through exemplary dedication to Conclave Alerts."
+
+[/Lotus/Language/Items/PvpRepBadgeName]
+"[PH] CONCLAVE STRATOS EMBLEM"
+
 [/Lotus/Language/Items/PvPScytheStanceOne]
 "Shadow Harvest"
 
@@ -38846,17 +39489,23 @@ This bundle of 3000 Salvage can be used for crafting items in your Foundry."
 [/Lotus/Language/Items/SecondaryProjectileExplosionChance]
 "Cannonade"
 
+[/Lotus/Language/Items/SeismicData]
+"[PH]FRAGMENTED SEISMIC DATA"
+
+[/Lotus/Language/Items/SeismicDataDesc]
+"[PH]Incomplete and fragmented seismic data of Earth"
+
 [/Lotus/Language/Items/SelfHealLargeDesc]
-"Completely restores health"
+"Instantly restores your Health to full."
 
 [/Lotus/Language/Items/SelfHealLargeName]
-"HEALTH RESTORE"
+"HEALTH RESTORE (LARGE)"
 
 [/Lotus/Language/Items/SelfHealSmallDesc]
-"Restores 50 health."
+"Instantly restores 50 Health."
 
 [/Lotus/Language/Items/SelfHealSmallName]
-"SMALL HEALTH RESTORE"
+"HEALTH RESTORE (SMALL)"
 
 [/Lotus/Language/Items/SelfOmniAmmoDesc]
 "Fully restores all ammo types."
@@ -38886,10 +39535,10 @@ This bundle of 3000 Salvage can be used for crafting items in your Foundry."
 "RIFLE AMMO BOX"
 
 [/Lotus/Language/Items/SelfShieldDesc]
-"Instantly restores 150 shield, even if your shields have been completely depleted."
+"Instantly restores 50 Shield."
 
 [/Lotus/Language/Items/SelfShieldName]
-"SHIELD RESTORE"
+"SHIELD RESTORE (SMALL)"
 
 [/Lotus/Language/Items/SelfShotgunAmmoDesc]
 "Restores a bunch of shotgun ammo."
@@ -39063,7 +39712,7 @@ Sell this item to remove the decorations at any time."
 - Allows construction of Landing Craft
 - Allows construction of Air Support Charges
 
-Equip Air Support Charges in your Loadout's Gear."
+Equip Air Support Charges in your Loadout's Gear"
 
 [/Lotus/Language/Items/ShipFeatureGeneticFoundry]
 "INCUBATOR SEGMENT"
@@ -39270,6 +39919,12 @@ Sell this item to remove the decorations at any time."
 
 [/Lotus/Language/Items/ShotgunSpeedOnCritName]
 "ARCANE TEMPO"
+
+[/Lotus/Language/Items/SicarusTeknaBlueprintDesc]
+"[PH] Remains of a weapon from a long forgotten world."
+
+[/Lotus/Language/Items/SicarusTeknaBlueprintName]
+"[PH] Recovered Tekna Burst Pistol"
 
 [/Lotus/Language/Items/SilentMoveAbility]
 "Silent Move"
@@ -40473,15 +41128,13 @@ It includes the Itzal Archwing, perfect for covert operations, and comes outfitt
 "Electro Pulse"
 
 [/Lotus/Language/Items/TeamAmmoBlueprintDesc]
-"Restores AMMO to all team members.
-
-Blueprint is reusable and will not be consumed."
+"Restores Ammo to all squad members. Ammo per pulse: 30 Rifle, 15 Pistol, 12 Shotgun, 20 Sniper every 7.5s for 30s."
 
 [/Lotus/Language/Items/TeamAmmoDesc]
-"Restores ammo to all team members"
+"Restores Ammo to all squad members. Ammo per pulse: 30 Rifle, 15 Pistol, 12 Shotgun, 20 Sniper every 7.5s for 30s."
 
 [/Lotus/Language/Items/TeamAmmoName]
-"TEAM AMMO RESTORE"
+"SQUAD AMMO RESTORE (SMALL)"
 
 [/Lotus/Language/Items/TeamArmoryDesc]
 "Infinite clip size for all team members."
@@ -40490,37 +41143,31 @@ Blueprint is reusable and will not be consumed."
 "Team Armory"
 
 [/Lotus/Language/Items/TeamEnergyBlueprintDesc]
-"Restores ENERGY to all team members
-
-Blueprint is reusable and will not be consumed."
+"Restores Energy to all squad members. Pulses 25 Energy every 7.5s for 30s."
 
 [/Lotus/Language/Items/TeamEnergyDesc]
-"Restores energy to all team members"
+"Restores Energy to all squad members. Pulses 25 Energy every 7.5s for 30s."
 
 [/Lotus/Language/Items/TeamEnergyName]
-"TEAM ENERGY RESTORE"
+"SQUAD ENERGY RESTORE (SMALL)"
 
 [/Lotus/Language/Items/TeamHealBlueprintDesc]
-"Restores HEALTH to all team members
-
-Blueprint is reusable and will not be consumed."
+"Restores Health to all squad members. Pulses 30 Health every 7.5s for 30s."
 
 [/Lotus/Language/Items/TeamHealDesc]
-"Restores health to all team members"
+"Restores Health to all squad members. Pulses 30 Health every 7.5s for 30s."
 
 [/Lotus/Language/Items/TeamHealName]
-"TEAM HEALTH RESTORE"
+"SQUAD HEALTH RESTORE (SMALL)"
 
 [/Lotus/Language/Items/TeamShieldBlueprintDesc]
-"Restores SHIELDS to all team members
-
-Blueprint is reusable and will not be consumed."
+"Restores Shields to all squad members. Pulses 35 Shield every 7.5s for 30s."
 
 [/Lotus/Language/Items/TeamShieldDesc]
-"Restores shields for all team members"
+"Restores Shields to all squad members. Pulses 35 Shield every 7.5s for 30s."
 
 [/Lotus/Language/Items/TeamShieldName]
-"TEAM SHIELD RESTORE"
+"SQUAD SHIELD RESTORE (SMALL)"
 
 [/Lotus/Language/Items/Tellurium]
 "TELLURIUM"
@@ -41134,6 +41781,18 @@ Note: This item requires two open slots."
 
 [/Lotus/Language/Items/UnlockAspNobleDesc]
 "This item lets you use SARYN's noble animation set with any warframe of your choosing."
+
+[/Lotus/Language/Items/UnlockBardAgile]
+"OCTAVIA's Agile Animations"
+
+[/Lotus/Language/Items/UnlockBardAgileDesc]
+"This item lets you use OCTAVIA's agile animation set with any warframe of your choosing."
+
+[/Lotus/Language/Items/UnlockBardNoble]
+"OCTAVIA's Noble Animations"
+
+[/Lotus/Language/Items/UnlockBardNobleDesc]
+"This item lets you use OCTAVIA's noble animation set with any warframe of your choosing."
 
 [/Lotus/Language/Items/UnlockBerserkerAgile]
 "VALKYR's Agile Animations"
@@ -42858,32 +43517,28 @@ Visit the in-game Market to obtain the latest Prime Access offering different pa
 "Xbox Live features are disabled - an update for the system software is available."
 
 [/Lotus/Language/Launcher/TAB1_DESC]
-"The Grineer Empire grows stronger as friend become foe. What secrets does the Grineer Empire keep? Underpowered, unprepared and forced out of your comfort, you must find it in yourself to overcome new foes to save yourself. Be mindful, as there will be meaningful consequences to your actions.
-
-The War Within is available to all Tenno who have completed the Second Dream and have unlocked the Sedna region."
+"Plague your enemies with the Infested powers of Lotus’ newest warrior, Nidus. Rupture the ground with a damaging fungal growth that steals your enemy’s energy, spawn an Infested pod that will immobilize nearby foes, spread the Infestation by spawning gluttonous maggots that swarm nearby enemies and more."
 
 [/Lotus/Language/Launcher/TAB1_TITLE]
-"NEW CINEMATIC QUEST & NEW GAMEPLAY"
+"NEW WARFRAME - NIDUS"
 
 [/Lotus/Language/Launcher/TAB2_DESC]
-"Disarm your enemies and utilize these new Weapons to your advantage. The Twin Rogga – These twin barrels of destruction are the signature pistols of the Kuva Guardians. The Zarr – Unload a barrage of explosives or a huge shot of flak from this canon’s enormous barrel. The Kesheg – Slice through mobs of unruly enemies with this fierce halberd; the signature weapon of the Kuva Guardians.
-
-Decorate your Warframe, Companions and Landing Craft in Kuva-inspired gear."
+"Summoned by Ergo Glast of the Perrin Sequence to the outpost known as the Mycona, you have discovered that Nef Anyo has stolen the children of the Mycona Colony, and it is up to you to get them back. You must challenge Nef in The Index and beat him at his own game. But Tenno, beware, not all is as it seems."
 
 [/Lotus/Language/Launcher/TAB2_TITLE]
-"NEW WEAPONS AND CUSTOMIZATIONS"
+"GLAST GAMBIT - NEW QUEST"
 
 [/Lotus/Language/Launcher/TAB3_DESC]
-"Wearing heavy Armor and adorned in red cloth, the Kuva Guardians are among the fighting elite in the Queen’s army. The Kuva Guardians who surround you and with just a few well-placed blows, bring you to your knees. They are followed around by mischievous and sickly Jester-like creatures that are quick to attack. To defeat them, you'll have to call upon new learnings."
+"A ship and its crew have fallen victim to the Infestation they were researching. Locate the ship’s manifest to recover their extensive research, but be fast as a corrosive gas fills the ship degrading your armor integrity."
 
 [/Lotus/Language/Launcher/TAB3_TITLE]
-"NEW ENEMIES"
+"INFESTED SALVAGE - GAME MODE"
 
 [/Lotus/Language/Launcher/TAB4_DESC]
-"The Kuva Fortress hosts the most advanced Grineer fortifications to date. Strangely intricate elements of red and black are displayed proudly throughout the Fortress… décor far more ornate than other Grineer locations. The Fortress is heavily guarded with new and dangerous foes. Watch your step, Tenno."
+"Handle these new Weapons and Customizations with care as they have been corrupted by the Infestation. The new Hema and Hirudo will devastate your enemies and steal their health. Expand your strength by wielding new Riven Mods for Shotgun and Secondary Weapons – but know that you must prove yourself before their powers are revealed."
 
 [/Lotus/Language/Launcher/TAB4_TITLE]
-"NEW TILESET"
+"NEW WEAPONS, SYANDANA AND RIVEN MODS"
 
 [/Lotus/Language/Launcher/TDM_Title]
 "TEAM ANNIHILATION"
@@ -42910,7 +43565,7 @@ Decorate your Warframe, Companions and Landing Craft in Kuva-inspired gear."
 "Update failed!"
 
 [/Lotus/Language/Launcher/UPDATE_TITLE]
-"THE GLAST GAMBIT"
+"OCTAVIA'S ANTHEM"
 
 [/Lotus/Language/Launcher/UPDATE_TITLE_CY]
 "Super Power Closed Beta"
@@ -43431,6 +44086,9 @@ Decorate your Warframe, Companions and Landing Craft in Kuva-inspired gear."
 [/Lotus/Language/Locations/Larzac]
 "Larzac"
 
+[/Lotus/Language/Locations/LASRIA]
+"[PH] UNCHARTED EXCAVATION SITE"
+
 [/Lotus/Language/Locations/Lepis]
 "Lepis"
 
@@ -43665,6 +44323,56 @@ Decorate your Warframe, Companions and Landing Craft in Kuva-inspired gear."
 [/Lotus/Language/Locations/Phoebe]
 "Phoebe"
 
+[/Lotus/Language/Locations/PhotoboothArbitersRoom]
+"ARBITER'S TRIBUNAL SCENE"
+
+[/Lotus/Language/Locations/PhotoboothCephalonRoom]
+"SUDA'S DATASCAPE SCENE"
+
+[/Lotus/Language/Locations/PhotoboothConclaveRoom]
+"TESHIN'S REFUGE SCENE"
+
+[/Lotus/Language/Locations/PhotoboothCorpusCargoRoom]
+"CORPUS CARGO SCENE"
+
+[/Lotus/Language/Locations/PhotoboothGalleonDefenseRoom]
+"GRINEER GALLEON CARGO SCENE"
+
+[/Lotus/Language/Locations/PhotoboothNewLokaRoom]
+"AMARYN'S RETREAT SCENE"
+
+[/Lotus/Language/Locations/PhotoboothOrokinMoonRoom]
+"OROKIN MOON SCENE"
+
+[/Lotus/Language/Locations/PhotoboothPerrinRoom]
+"ERGO'S BOARDROOM SCENE"
+
+[/Lotus/Language/Locations/PhotoboothPurify02ObjectiveRoom]
+"INFESTED SHIP HOLOGRAM SCENE"
+
+[/Lotus/Language/Locations/PhotoboothRedVeilRoom]
+"VEIL'S BINDING SCENE"
+
+[/Lotus/Language/Locations/PhotoboothShipMedCargoRoom]
+"CORPUS SHIP MAINTENANCE SCENE"
+
+[/Lotus/Language/Locations/PhotoboothSteelMeridianRoom]
+"CRESSA'S GARRISON SCENE"
+
+[/Lotus/Language/Locations/PhotoboothTennoBallRoom]
+"LUNARO ARENA SCENE"
+
+[/Lotus/Language/Locations/PhotoboothTileDesc]
+"Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal. 
+
+May be traded with other players."
+
+[/Lotus/Language/Locations/PhotoboothTitaniaShrine]
+"[PH] TITANIA SHRINE SCENE"
+
+[/Lotus/Language/Locations/PhotoboothWhiteBox]
+"COLOR KEY SCENE"
+
 [/Lotus/Language/Locations/Piscinas]
 "Piscinas"
 
@@ -43790,6 +44498,9 @@ Decorate your Warframe, Companions and Landing Craft in Kuva-inspired gear."
 
 [/Lotus/Language/Locations/Saxis]
 "Saxis"
+
+[/Lotus/Language/Locations/ScoutShip]
+"[PH]Corpus Scout Ship"
 
 [/Lotus/Language/Locations/Scylla]
 "Scylla"
@@ -45509,7 +46220,7 @@ Are you sure?"
 "PROFIT CONDITIONS"
 
 [/Lotus/Language/Menu/ArenaGamblingGenericConditions]
-"Win 3 Rounds
+"Win at least 1 round
 Team deposits |NUM| Index Points"
 
 [/Lotus/Language/Menu/ArenaGamblingHint]
@@ -45557,11 +46268,20 @@ Team deposits |NUM| Index Points"
 [/Lotus/Language/Menu/Arsenal_Arrow]
 "<UPARROW>"
 
+[/Lotus/Language/Menu/Arsenal_BardCompose]
+"COMPOSE"
+
+[/Lotus/Language/Menu/Arsenal_BardSelectAbiltyTune]
+"[PH] SELECT ABILITY TUNE TO MANDACHORD"
+
 [/Lotus/Language/Menu/Arsenal_ColorCost]
 "+ (<PLATINUM_CREDITS>|COST|)"
 
 [/Lotus/Language/Menu/Arsenal_HolsterVis]
 "VISIBLE WHEN HOLSTERED"
+
+[/Lotus/Language/Menu/Arsenal_None]
+"NONE"
 
 [/Lotus/Language/Menu/Arsenal_Primary]
 "PRIMARY"
@@ -46371,6 +47091,9 @@ A Solar Rail is required in order to travel here."
 [/Lotus/Language/Menu/Chat_FriendOffline]
 "|FRIEND| is currently offline and will not receive this message."
 
+[/Lotus/Language/Menu/Chat_GetPresenceFail]
+"Could not find session information for |PLAYER_NAME|."
+
 [/Lotus/Language/Menu/Chat_GlobalTitle]
 "Region"
 
@@ -46400,6 +47123,9 @@ A Solar Rail is required in order to travel here."
 
 [/Lotus/Language/Menu/Chat_HelpInvite]
 "/invite <user>' - Invite <user> to your current session"
+
+[/Lotus/Language/Menu/Chat_HelpJoin]
+"/join <user> - Will attempt to join <user>'s session if it exist."
 
 [/Lotus/Language/Menu/Chat_HelpMotd]
 "/motd <message>' - Set your clan message of the day. Requires Ruler permissions."
@@ -46434,6 +47160,9 @@ A Solar Rail is required in order to travel here."
 [/Lotus/Language/Menu/Chat_InitiatePMFailed]
 "To initiate a private conversation with another player, you must have a Mastery Rank greater than 0 OR the conversation partner must be a friend, clanmate, or recent player."
 
+[/Lotus/Language/Menu/Chat_InvalidClanLink]
+"Cannot link invalid clan"
+
 [/Lotus/Language/Menu/Chat_InvalidLinkedItem]
 "|ITEMNAME| is not a valid linkable item"
 
@@ -46442,6 +47171,12 @@ A Solar Rail is required in order to travel here."
 
 [/Lotus/Language/Menu/Chat_JoinChannel]
 "JOINED CHANNEL: |USER|"
+
+[/Lotus/Language/Menu/Chat_JoinInProgress]
+"Previous join attempt still in progress."
+
+[/Lotus/Language/Menu/Chat_JoinSuccess]
+"Successfully joined |PLAYER_NAME|s lobby."
 
 [/Lotus/Language/Menu/Chat_KickInProgress]
 "Previous kick still in progress."
@@ -46560,8 +47295,8 @@ A Solar Rail is required in order to travel here."
 [/Lotus/Language/Menu/CipherTurnRight]
 "<MENU_RTRIGGER2> TURN RIGHT"
 
-[/Lotus/Language/Menu/Clan_EnterDojoInSquad]
-"You cannot enter your dojo while in a squad.  Do you want to leave your squad to enter?"
+[/Lotus/Language/Menu/Clan_EnterDojoDuelInSquad]
+"You cannot enter a dueling session while in a squad. Do you want to leave your squad to enter?"
 
 [/Lotus/Language/Menu/Clan_EnterDojoMultiplayerRestrictedXBone]
 "You cannot enter your dojo because of how your account is set up. This can be changed in your privacy and online safety settings."
@@ -46580,6 +47315,9 @@ A Solar Rail is required in order to travel here."
 
 [/Lotus/Language/Menu/Clans]
 "CLANS"
+
+[/Lotus/Language/Menu/ClanXp]
+"CLAN AFFINITY: <CLAN_XP>|AMOUNT|"
 
 [/Lotus/Language/Menu/Clear]
 "CLEAR"
@@ -46625,9 +47363,6 @@ A Solar Rail is required in order to travel here."
 
 [/Lotus/Language/Menu/Codex_Objects]
 "OBJECTS"
-
-[/Lotus/Language/Menu/Codex_PrimeVault]
-"This Relic is currently in the Prime Vault."
 
 [/Lotus/Language/Menu/Codex_Projections]
 "RELICS"
@@ -46789,12 +47524,6 @@ SPEAK TO CEPHALON SIMARIS"
 [/Lotus/Language/Menu/ComboUnlockedLevel]
 "UNLOCKS"
 
-[/Lotus/Language/Menu/ComingSoonPrimeAccessAccessoryText]
-"COMING SOON"
-
-[/Lotus/Language/Menu/ComingSoonPrimeAccessText]
-"COMING SOON"
-
 [/Lotus/Language/Menu/Common_Mute]
 "MUTE"
 
@@ -46826,132 +47555,189 @@ SPEAK TO CEPHALON SIMARIS"
 "COMPONENT SETTINGS"
 
 [/Lotus/Language/Menu/Composition_AddNotes]
-"[PH] ADD NOTES"
+"ADD NOTES"
 
 [/Lotus/Language/Menu/Composition_ALL]
-"[PH] ALL"
+"ALL"
 
 [/Lotus/Language/Menu/Composition_Bar1]
-"[PH] BAR 1"
+"BAR 1"
 
 [/Lotus/Language/Menu/Composition_Bar2]
-"[PH] BAR 2"
+"BAR 2"
 
 [/Lotus/Language/Menu/Composition_Bar3]
-"[PH] BAR 3"
+"BAR 3"
 
 [/Lotus/Language/Menu/Composition_Bar4]
-"[PH] BAR 4"
+"BAR 4"
 
 [/Lotus/Language/Menu/Composition_Bass]
-"[PH] BASS"
+"<BASS>BASS"
 
 [/Lotus/Language/Menu/Composition_BassPack]
 "BASS: |NAME|"
 
 [/Lotus/Language/Menu/Composition_ClearNotes]
-"[PH] CLEAR NOTES"
+"CLEAR NOTES"
 
 [/Lotus/Language/Menu/Composition_ClearNotesConfirmation]
-"[PH] Are you sure you want to remove all notes?
+"Are you sure you want to remove all notes?
 This can't be undone."
 
 [/Lotus/Language/Menu/Composition_ClearNotesInBarConfirmation]
-"[PH] Are you sure you want to remove all notes in bar |BAR|?
+"Are you sure you want to remove all notes in bar |BAR|?
 This can't be undone."
 
+[/Lotus/Language/Menu/Composition_Composition]
+"COMPOSITION"
+
+[/Lotus/Language/Menu/Composition_ConfirmLoad]
+"Are you sure you want to load this song? All changes will be lost."
+
 [/Lotus/Language/Menu/Composition_ConfirmReload]
-"[PH] Are you sure want to reload your song? All changes will be lost."
+"Are you sure you want to reload your song? All changes will be lost."
 
 [/Lotus/Language/Menu/Composition_Copy]
-"[PH] COPY"
+"COPY"
 
 [/Lotus/Language/Menu/Composition_CopyFrom]
-"[PH] FROM"
+"FROM"
 
 [/Lotus/Language/Menu/Composition_CopyNotes]
-"[PH] COPY NOTES"
+"COPY NOTES"
 
 [/Lotus/Language/Menu/Composition_CopyStyle]
-"[PH] COPY STYLE"
+"COPY STYLE"
 
 [/Lotus/Language/Menu/Composition_CopyTo]
-"[PH] TO"
+"TO"
+
+[/Lotus/Language/Menu/Composition_Default]
+"Default"
 
 [/Lotus/Language/Menu/Composition_ExitWithoutSaving]
-"[PH] EXIT WITHOUT SAVING"
+"EXIT WITHOUT SAVING"
+
+[/Lotus/Language/Menu/Composition_Hide]
+"HIDE"
 
 [/Lotus/Language/Menu/Composition_LoadDefault]
-"[PH] Are you sure want to load default song? All changes will be lost."
+"Are you sure you want to load default song? All changes will be lost."
 
 [/Lotus/Language/Menu/Composition_LoadSong]
-"[PH] LOAD SONG"
+"LOAD SONG"
 
 [/Lotus/Language/Menu/Composition_Loop]
-"[PH] LOOP"
+"LOOP"
 
 [/Lotus/Language/Menu/Composition_Melody]
-"[PH] MELODY"
+"<MELODY>MELODY"
 
 [/Lotus/Language/Menu/Composition_MelodyPack]
 "MELODY: |NAME|"
 
 [/Lotus/Language/Menu/Composition_Mute]
-"[PH] TRACK ISOLATION"
+"TRACK ISOLATION"
+
+[/Lotus/Language/Menu/Composition_NotePacksNotOwnedError]
+"Song contains instruments that have not been purchased. Current instruments will be used instead."
 
 [/Lotus/Language/Menu/Composition_NotesInSameBarError]
-"[PH] Can't copy notes within the same bar"
+"Can't copy notes within the same bar"
 
 [/Lotus/Language/Menu/Composition_OverNoteLimit]
-"[PH] You are over the |COUNT| node limit for the |SECTION| section."
+"You are over the |COUNT| note limit for the |SECTION| section."
 
 [/Lotus/Language/Menu/Composition_Pause]
-"[PH] PAUSE"
+"PAUSE"
 
 [/Lotus/Language/Menu/Composition_Percussion]
-"[PH] PERCUSSION"
+"<PERCUSSION>PERCUSSION"
 
 [/Lotus/Language/Menu/Composition_PercussionPack]
 "PERCUSSION: |NAME|"
 
 [/Lotus/Language/Menu/Composition_Play]
-"[PH] PAUSE"
+"PLAY"
+
+[/Lotus/Language/Menu/Composition_ProfanityError]
+"Cannot have profanity in your song name."
 
 [/Lotus/Language/Menu/Composition_Reload]
-"[PH] RELOAD"
+"RELOAD"
 
 [/Lotus/Language/Menu/Composition_ReplaceNotes]
-"[PH] REPLACE NOTES"
+"REPLACE NOTES"
 
 [/Lotus/Language/Menu/Composition_Save]
-"[PH] SAVE"
+"SAVE"
 
 [/Lotus/Language/Menu/Composition_SaveAndExit]
-"[PH] SAVE AND EXIT"
+"SAVE AND EXIT"
+
+[/Lotus/Language/Menu/Composition_SaveCustomization]
+"Customization"
+
+[/Lotus/Language/Menu/Composition_SaveSlot]
+"New Slot (|COUNT| song slots available)"
+
+[/Lotus/Language/Menu/Composition_SaveSong]
+"Song |INDEX|"
+
+[/Lotus/Language/Menu/Composition_SaveSongOver]
+"Save "|NAME|" over:"
 
 [/Lotus/Language/Menu/Composition_Section]
-"[PH] SECTION"
+"SECTION"
 
 [/Lotus/Language/Menu/Composition_SelectNoteType]
-"[PH] SELECT NOTE TYPE TO SWAP"
+"SELECT NOTE TYPE TO SWAP"
+
+[/Lotus/Language/Menu/Composition_SelectSong]
+"Select Song"
+
+[/Lotus/Language/Menu/Composition_SetName]
+"Song Name"
+
+[/Lotus/Language/Menu/Composition_Show]
+"SHOW"
+
+[/Lotus/Language/Menu/Composition_Song]
+"SONG"
+
+[/Lotus/Language/Menu/Composition_Song_Prefix]
+"Song: "
+
+[/Lotus/Language/Menu/Composition_SongPreview]
+"SONG PREVIEW"
+
+[/Lotus/Language/Menu/Composition_SongPreviewDesc]
+"You can load this song into the composition tool by going into your Arsenal with Octavia equipped, then go into Appearance > Mandachord and then clicking on the song link."
+
+[/Lotus/Language/Menu/Composition_Songs]
+"SONGS"
 
 [/Lotus/Language/Menu/Composition_SoundPack]
-"[PH] SOUND PACKS"
+"INSTRUMENTS"
 
 [/Lotus/Language/Menu/Composition_SwapBassPack]
-"[PH] SWAP BASS PACK"
+"SWAP BASS"
 
 [/Lotus/Language/Menu/Composition_SwapMelodyPack]
-"[PH] SWAP MELODY PACK"
+"SWAP MELODY"
 
 [/Lotus/Language/Menu/Composition_SwapPercussionPack]
-"[PH] SWAP PERCUSSION PACK"
+"SWAP PERCUSSION"
+
+[/Lotus/Language/Menu/Composition_Tip]
+"<WARNING> You can share your compositions by trading with other players or using [|TAG|] in chat"
 
 [/Lotus/Language/Menu/Composition_UnsavedChanges]
-"[PH] You have unsaved changes."
+"You have unsaved changes."
 
 [/Lotus/Language/Menu/Composition_Volume]
-"[PH] VOLUME MIXER"
+"VOLUME MIXER"
 
 [/Lotus/Language/Menu/Conclave_ConsecutiveMatchesBonus]
 "(Consecutive match bonus active (+|PERCENT|%))"
@@ -48543,6 +49329,24 @@ Are you sure?"
 [/Lotus/Language/Menu/CraftingComponent_OberonPrimeSystemsName]
 "OBERON PRIME SYSTEMS"
 
+[/Lotus/Language/Menu/CraftingComponent_OctaviaChassisDesc]
+"Chassis component of the Octavia Warframe."
+
+[/Lotus/Language/Menu/CraftingComponent_OctaviaChassisName]
+"OCTAVIA CHASSIS"
+
+[/Lotus/Language/Menu/CraftingComponent_OctaviaHelmetDesc]
+"Neuroptics component of the Octavia Warframe."
+
+[/Lotus/Language/Menu/CraftingComponent_OctaviaHelmetName]
+"OCTAVIA NEUROPTICS"
+
+[/Lotus/Language/Menu/CraftingComponent_OctaviaSystemsDesc]
+"Systems component of the Octavia Warframe."
+
+[/Lotus/Language/Menu/CraftingComponent_OctaviaSystemsName]
+"OCTAVIA SYSTEMS"
+
 [/Lotus/Language/Menu/CraftingComponent_PaladinChassisDesc]
 "Chassis component of the Oberon Warframe."
 
@@ -49218,37 +50022,6 @@ Are you sure?"
 [/Lotus/Language/Menu/Crouch]
 "Crouch, Slide, and Roll"
 
-[/Lotus/Language/Menu/CurrentPrimeAccessAccessoryText]
-"VALKYR PRIME ACCESSORIES PACK"
-
-[/Lotus/Language/Menu/CurrentPrimeAccessDesc]
-"INSTANTLY UNLOCK THE NEWEST PRIMES AND HIGHLY DISCOUNTED PLATINUM!
-
-Prime variants are the most elusive and sought after items by Tenno. For a limited time, purchase this Pack and gain instant access to Valkyr Prime, Venka Prime, and more!
-
-The Valkyr Prime Access Pack includes: 
-- 2625 Platinum – Highly discounted premium currency
-- Valkyr Prime – A proud fighter unscarred by time or malice
-- Cernos Prime – A noble bow to hunt hellish beasts
-- Venka Prime – Razor-sharp claws to slash through your enemies
-- Exclusive Valkyr Prime Avatars – Show your loyalty in-game and in our community with these exclusive profile icons"
-
-[/Lotus/Language/Menu/CurrentPrimeAccessoryDesc]
-"EXCLUSIVE PRIME GEAR AND DISCOUNTED PLATINUM, AVAILABLE FOR A LIMITED TIME!
-
-Masterpieces of the Orokin era, these rare items are coveted by the Tenno.
-
-The Valkyr Prime Accessories Pack includes:
-- 1365 Platinum – Highly discounted premium currency
-- Liset Prime Skin – Explore the system in the style of the Orokin
-- Saita Prime Suit – A gilded Operator suit
-- 30 Air Support Charges – Use this gear to call in support from your Landing Craft
-- 90-Day Affinity Booster
-- 90-Day Credit Booster"
-
-[/Lotus/Language/Menu/CurrentPrimeAccessText]
-"VALKYR PRIME ACCESS PACK"
-
 [/Lotus/Language/Menu/CustomizeShipEngine]
 "ENGINES"
 
@@ -49435,6 +50208,9 @@ Best: |HIGHSCORE|"
 
 Component blueprints are acquired by completing the Infested Salvage mission in Eris: Oestrus."
 
+[/Lotus/Language/Menu/DetailedPurchase_OctaviaRecipeHelpText]
+"Blueprint for the Octavia Warframe is awarded by completing the Octavia's Anthem quest. Component blueprints are hidden in Lua and the Orokin Derelicts."
+
 [/Lotus/Language/Menu/DetailedPurchase_PackageCompatNotOwned]
 "Several items in this package are cosmetics for the following items which you do not own:
 |COMPATIBLES|"
@@ -49537,6 +50313,30 @@ Component blueprints are acquired by completing the Infested Salvage mission in 
 
 [/Lotus/Language/Menu/EndOfMatch_Game_Summary]
 "GAME SUMMARY"
+
+[/Lotus/Language/Menu/EndOfMatch_LoadOutSlot]
+"+1 LOADOUT SLOT"
+
+[/Lotus/Language/Menu/EndOfMatch_MasteryRankUpCapacity]
+"+1 MINIMUM MOD CAPACITY"
+
+[/Lotus/Language/Menu/EndOfMatch_MasteryRankUpExtraDroneSlot]
+"+1 EXTRACTOR DEPLOYMENT"
+
+[/Lotus/Language/Menu/EndOfMatch_MasteryRankUpReactant]
+"+|NUM|<LUMINOUS>VOID TRACE STORAGE"
+
+[/Lotus/Language/Menu/EndOfMatch_MasteryRankUpStanding]
+"+|NUM| <REPUTATION> DAILY STANDING LIMIT"
+
+[/Lotus/Language/Menu/EndOfMatch_MasteryRankUpSyndicates]
+"SYNDICATE ACCESS"
+
+[/Lotus/Language/Menu/EndOfMatch_MasteryRankUpTrading]
+"TRADING ACCESS"
+
+[/Lotus/Language/Menu/EndOfMatch_MasteryTitle]
+"YOU HAVE EARNED THE MASTERY RANK"
 
 [/Lotus/Language/Menu/EndOfMatch_XP]
 "|XP| XP"
@@ -49644,6 +50444,12 @@ Scales with Mastery Rank"
 [/Lotus/Language/Menu/ExitDojoDescription]
 "GO BACK TO YOUR SHIP"
 
+[/Lotus/Language/Menu/ExitDojoDuelConfirm]
+"Are you sure you want to leave the dueling session?"
+
+[/Lotus/Language/Menu/ExitDojoDuelDescription]
+"GO BACK TO THE DOJO"
+
 [/Lotus/Language/Menu/ExitDojoUpperCase]
 "LEAVE DOJO"
 
@@ -49661,6 +50467,12 @@ Scales with Mastery Rank"
 
 [/Lotus/Language/Menu/ExitJunctionConfirm]
 "Are you sure you want to leave the Junction?"
+
+[/Lotus/Language/Menu/ExitPhotobooth]
+"LEAVE CAPTURA"
+
+[/Lotus/Language/Menu/ExitPhotoboothConfirm]
+"Are you sure you want to leave Captura?"
 
 [/Lotus/Language/Menu/Expired]
 "Expired"
@@ -49815,10 +50627,11 @@ Scales with Mastery Rank"
 [/Lotus/Language/Menu/Foreground_Arsenal]
 "ARSENAL"
 
-[/Lotus/Language/Menu/Foreground_LevelUpAvailable]
-"You have qualified for the Mastery Rank <MASTERY_RANK>|RANK_NUMBER| test. You can only attempt this once per day.
+[/Lotus/Language/Menu/Foreground_LevelUpAvailablePart1]
+"You have qualified for the Mastery Rank |RANK_ICON||RANK_NUMBER| test. You can only attempt this once per day."
 
-Are you ready to become |RANK_NAME| rank?"
+[/Lotus/Language/Menu/Foreground_LevelUpAvailablePart2]
+"Are you ready to become |RANK_NAME| rank?"
 
 [/Lotus/Language/Menu/Foreground_LevelUpRetry]
 "Training can only occur once per day. You still have |TIME_REMAINING| before you can take a free test. You can pay <PLATINUM_CREDITS>|COST| to take another test now. Are you sure you want to pay for this?"
@@ -50464,7 +51277,7 @@ Just to let you know, the |TYPE_NAME| you sent to |RECIPIENT_NAME| has been open
 "Your request to recharge an item could not be completed.  Please try again later."
 
 [/Lotus/Language/Menu/Global_Renown]
-"Mastery"
+"<MASTERY_RANK_SMALL>MASTERY RANK"
 
 [/Lotus/Language/Menu/Global_RestartRequired]
 "Some changes will not take effect until you restart the game."
@@ -50957,6 +51770,9 @@ Just to let you know, the |TYPE_NAME| you sent to |RECIPIENT_NAME| has been open
 
 [/Lotus/Language/Menu/Input_NoActionsInConfig]
 "No actions can be bound to this button while customizing this configuration"
+
+[/Lotus/Language/Menu/Input_PHOTOBOOTH_TOGGLE_CAMERA]
+"Toggle Captura Camera"
 
 [/Lotus/Language/Menu/Input_POWER_MODIFIER]
 "Use Selected Power"
@@ -51582,6 +52398,9 @@ Just to let you know, the |TYPE_NAME| you sent to |RECIPIENT_NAME| has been open
 [/Lotus/Language/Menu/LevelUp]
 "RANK UP!"
 
+[/Lotus/Language/Menu/LevelUp_Hint]
+"<WARNING> You may also practice for this test by visiting Cephalon Simaris in a Relay."
+
 [/Lotus/Language/Menu/LevelUpNotification]
 "Level Up Notification"
 
@@ -51713,6 +52532,11 @@ Are you sure?"
 [/Lotus/Language/Menu/Loadout_Config]
 "CONFIG |TYPE|"
 
+[/Lotus/Language/Menu/Loadout_ConfigRenameErrorList]
+"[PH] There were problems with the following config names:
+
+|ERRORLIST|"
+
 [/Lotus/Language/Menu/Loadout_Configure]
 "CONFIGURE"
 
@@ -51769,6 +52593,21 @@ Are you sure?"
 
 [/Lotus/Language/Menu/Loadout_EmptySlotToolTip]
 "EMPTY SLOT"
+
+[/Lotus/Language/Menu/Loadout_FireModeBuzlokBeacon]
+"BEACON"
+
+[/Lotus/Language/Menu/Loadout_FireModeHarpoon]
+"HARPOON"
+
+[/Lotus/Language/Menu/Loadout_FireModePrimary]
+"PRIMARY"
+
+[/Lotus/Language/Menu/Loadout_FireModeSecondary]
+"SECONDARY"
+
+[/Lotus/Language/Menu/Loadout_FireModeSundialDisc]
+"DISC"
 
 [/Lotus/Language/Menu/Loadout_HolsterTitle]
 "|SLOT| SLOT OPTIONS"
@@ -51887,6 +52726,9 @@ Are you sure?"
 [/Lotus/Language/Menu/Loadout_Pennant]
 "PENNANTS"
 
+[/Lotus/Language/Menu/Loadout_Photobooth]
+"CAPTURA"
+
 [/Lotus/Language/Menu/Loadout_PhysicalTitle]
 "PHYSIQUE"
 
@@ -51965,6 +52807,9 @@ PvP compatible gear can be differentiated by the <CONCLAVE> or <UNIVERSAL> symbo
 [/Lotus/Language/Menu/Loadout_Rename]
 "RENAME"
 
+[/Lotus/Language/Menu/Loadout_RenameConfigs]
+"RENAME CONFIGS"
+
 [/Lotus/Language/Menu/Loadout_ResetColor]
 "RESET TO DEFAULT"
 
@@ -52015,6 +52860,9 @@ PvP compatible gear can be differentiated by the <CONCLAVE> or <UNIVERSAL> symbo
 
 [/Lotus/Language/Menu/Loadout_SentinelWeapon]
 "SENTINEL WEAPON"
+
+[/Lotus/Language/Menu/Loadout_SkinOptions]
+"[PH] SKIN OPTIONS"
 
 [/Lotus/Language/Menu/Loadout_Slot]
 "LOADOUT SLOT"
@@ -52567,6 +53415,9 @@ You will be charged |COSTCURRENCY| |COST|."
 [/Lotus/Language/Menu/Manifest_Title]
 "SALE MANIFEST"
 
+[/Lotus/Language/Menu/MasteryRank_Practice]
+"MASTERY RANK |RANK_NUMBER| TEST"
+
 [/Lotus/Language/Menu/MasteryRequirementNotMet]
 "You do not meet the Mastery requirement to view this gallery"
 
@@ -52772,10 +53623,10 @@ You will be charged |COSTCURRENCY| |COST|."
 "LEAVE TO FIGHT ANOTHER DAY"
 
 [/Lotus/Language/Menu/MenuRankUp]
-"<MASTERY_RANK> MASTERY RANK UP"
+"<MASTERY_RANK>MASTERY RANK UP"
 
 [/Lotus/Language/Menu/MenuRankUpDescription]
-"TEST YOUR SKILLS TO REACH THE NEXT RANK"
+"            TEST YOUR SKILLS TO REACH THE NEXT RANK"
 
 [/Lotus/Language/Menu/MenuRankUpUnavailable]
 "<MASTERY_RANK_LOCKED> MASTERY RANK UP"
@@ -53390,37 +54241,6 @@ Please close other programs that may be reserving it."
 [/Lotus/Language/Menu/NextPower]
 "Cycle Power Right"
 
-[/Lotus/Language/Menu/NextPrimeAccessDesc]
-"INSTANTLY UNLOCK THE NEW PRIME GEAR AND DISCOUNTED PLATINUM!
-
-Prime variants are the most sought after items by Tenno. For a limited time, you can purchase this package and gain instant access to Banshee Prime, Euphona Prime, Helios Prime, and more!
-
-Pack Includes:
-- 2625 Platinum: Highly discounted from its regular price, Platinum is Warframe's premium in-game currency.
-- Banshee Prime: A new battle cry echoes across the System.
-- Euphona Prime: Banshee Prime’s signature shotgun is an instrument of devastation that fires both focused and broad shots.
-- Helios Prime: This knowledge-hungry Sentinel defends its master with Deconstructor Prime.
-- Deconstructor Prime: Allows the Helios Prime to violently disassemble and turn itself into a deadly projectile.
-- Exclusive Banshee Prime Avatars: Show your loyalty in-game and in our community with these Exclusive Profile Icons."
-
-[/Lotus/Language/Menu/NextPrimeAccessoriesDesc]
-"ACCESS EXCLUSIVE PRIME GEAR AND DISCOUNTED PLATINUM FOR A LIMITED TIME WITH THE PRIME ACCESSORIES PACK! 
-
-Masterpieces of the Orokin era, Prime variants of gear are the most elusive and rare items, coveted by the Tenno above all else. The Exclusive Prime Accessories Pack will be available for a limited time ONLY through Prime Access.
-
-Pack Includes: 
-- 1365 Platinum: Highly discounted from its regular price, Platinum is Warframe's premium in-game currency.
-- Capella Prime Syandana: This graceful cape is the signature Syandana of Banshee Prime.
-- Ictus Prime Sentinel Accessories: Golden Accessories for Helios Prime.
-- 90 Day Affinity Booster
-- 90 Day Credit Booster"
-
-[/Lotus/Language/Menu/NextPrimeAccessoriesText]
-"BANSHEE PRIME ACCESSORIES PACK"
-
-[/Lotus/Language/Menu/NextPrimeAccessText]
-"BANSHEE PRIME ACCESS PACK"
-
 [/Lotus/Language/Menu/NextReward]
 "NEXT
 REWARD"
@@ -53506,6 +54326,9 @@ REWARD"
 [/Lotus/Language/Menu/Notification_Conclave]
 "CONCLAVE"
 
+[/Lotus/Language/Menu/Notification_DojoRankUpDeviceNeeded]
+"Ascension Altar required to Rank up, you can build it from the decorations menu."
+
 [/Lotus/Language/Menu/Notification_EnemyBounty]
 "BOUNTY"
 
@@ -53525,7 +54348,7 @@ REWARD"
 "HOTFIX INBOUND IN |TIME| MINUTES."
 
 [/Lotus/Language/Menu/Notification_LevelUpAvailable]
-"QUALIFIED FOR MASTERY RANK TEST <MASTERY_RANK>|RANK_NUMBER| (|RANK_NAME|)"
+"QUALIFIED FOR MASTERY RANK TEST |RANK_ICON||RANK_NUMBER| (|RANK_NAME|)"
 
 [/Lotus/Language/Menu/Notification_NewBuildSubject]
 "UPDATE"
@@ -53581,6 +54404,9 @@ REWARD"
 [/Lotus/Language/Menu/OmegaLink_Title]
 "SELECT RIVEN MOD"
 
+[/Lotus/Language/Menu/OneTimeClanXp]
+"FIRST BUILD AFFINITY: <CLAN_XP>|AMOUNT|"
+
 [/Lotus/Language/Menu/OnlineModeRequired]
 "This mission can only be played when your Matchmaking Mode is set to Public."
 
@@ -53598,6 +54424,9 @@ REWARD"
 
 [/Lotus/Language/Menu/Options_AnalyzeNetwork]
 "Analyze Network"
+
+[/Lotus/Language/Menu/Options_Archwing_Airplane_Controls]
+"Experimental Flight"
 
 [/Lotus/Language/Menu/Options_Audio_Effects]
 "Sound Effects Volume"
@@ -53843,7 +54672,7 @@ REWARD"
 "Sharpen image after Temporal antialiasing"
 
 [/Lotus/Language/Menu/Options_Display_Antialiasing_TEMPORAL]
-"TAA 8X (HIGH)"
+"TAA 8X (High)"
 
 [/Lotus/Language/Menu/Options_Display_Apex]
 "Nvidia PhysX Effects"
@@ -54304,6 +55133,136 @@ If your system supports DirectX 11 you can enable it in the launcher."
 [/Lotus/Language/Menu/PetNameContainsProfanity]
 "Unable to register a name containing profanity."
 
+[/Lotus/Language/Menu/Photobooth_AmbientLight]
+"Scene Light"
+
+[/Lotus/Language/Menu/Photobooth_ArbitersHelpText]
+"This scene can be acquired from Arbiters of Hexis offerings."
+
+[/Lotus/Language/Menu/Photobooth_Camera]
+"CAMERA"
+
+[/Lotus/Language/Menu/Photobooth_CephalonHelpText]
+"This scene can be acquired from Cephalon Suda offerings."
+
+[/Lotus/Language/Menu/Photobooth_DoFFocalDepth]
+"DOF - Depth"
+
+[/Lotus/Language/Menu/Photobooth_DoFFocalDistance]
+"DOF - Distance"
+
+[/Lotus/Language/Menu/Photobooth_EnableLights]
+"3 Light Setup"
+
+[/Lotus/Language/Menu/Photobooth_Exposure]
+"Exposure"
+
+[/Lotus/Language/Menu/Photobooth_FillLight]
+"Fill Light"
+
+[/Lotus/Language/Menu/Photobooth_FreeCamToggle]
+"|CALLOUTS| Toggle free camera"
+
+[/Lotus/Language/Menu/Photobooth_GeneralControls]
+"<TILT_YAW>/ <TILT_YAW:INVERT=1> Tilt
+<MOVE_Y> Ascend
+<MOVE_Y:INVERT=1> Descend
+<AIM_WEAPON> Slow movement
+<PRE_RUN> Fast movement
+<TOGGLE_CHAT_WINDOW> Advance Time
+<F6> Take Screenshot
+
+<AIM_POWER> Toggle panel visibility"
+
+[/Lotus/Language/Menu/Photobooth_Grain]
+"Grain"
+
+[/Lotus/Language/Menu/Photobooth_Level]
+"SETTINGS"
+
+[/Lotus/Language/Menu/Photobooth_LightIntensity]
+"Brightness"
+
+[/Lotus/Language/Menu/Photobooth_Lights]
+"LIGHTS"
+
+[/Lotus/Language/Menu/Photobooth_MainLight]
+"Main Light"
+
+[/Lotus/Language/Menu/Photobooth_NewLokaHelpText]
+"This scene can be acquired from New Loka offerings."
+
+[/Lotus/Language/Menu/Photobooth_PerrinHelpText]
+"This scene can be acquired from Perrin Sequence offerings."
+
+[/Lotus/Language/Menu/Photobooth_PvPConclaveHelpText]
+"This scene can be acquired from Conclave offerings."
+
+[/Lotus/Language/Menu/Photobooth_PvPTennoBallHelpText]
+"This scene can be acquired from Conclave offerings."
+
+[/Lotus/Language/Menu/Photobooth_RedVeilHelpText]
+"This scene can be acquired from Red Veil offerings."
+
+[/Lotus/Language/Menu/Photobooth_RimLight]
+"Rim Light"
+
+[/Lotus/Language/Menu/Photobooth_Rotation]
+"Rotation"
+
+[/Lotus/Language/Menu/Photobooth_Saturation]
+"Saturation"
+
+[/Lotus/Language/Menu/Photobooth_SSDialog]
+"Post Capture Dialog"
+
+[/Lotus/Language/Menu/Photobooth_SSOpen]
+"OPEN IMAGE"
+
+[/Lotus/Language/Menu/Photobooth_SSOpenError]
+"Could not open |FILENAME|."
+
+[/Lotus/Language/Menu/Photobooth_SSTitle]
+"Screenshot saved to:
+
+|FILENAME|"
+
+[/Lotus/Language/Menu/Photobooth_SteelMeridianHelpText]
+"This scene can be acquired from Steel Meridian offerings."
+
+[/Lotus/Language/Menu/Photobooth_SwitchControl]
+"<PHOTOBOOTH_TOGGLE_CONTROL> Settings"
+
+[/Lotus/Language/Menu/Photobooth_TitaniaShrineHelpText]
+"[PH] This Captura scene is unlocked by beating the game."
+
+[/Lotus/Language/Menu/Photobooth_WhiteBoxHelpText]
+"This scene can be acquired from Cephalon Simaris offerings."
+
+[/Lotus/Language/Menu/Photobooth_WhiteRoomColor]
+"Change Room Color"
+
+[/Lotus/Language/Menu/PhotoboothAdvanceTime]
+"Advance Time"
+
+[/Lotus/Language/Menu/PhotoboothEnemySelection]
+"Spawn Enemies"
+
+[/Lotus/Language/Menu/PhotoboothKillEnemies]
+"Kill Enemies"
+
+[/Lotus/Language/Menu/PhotoBoothSelection]
+"LOAD CAPTURA SCENE"
+
+[/Lotus/Language/Menu/PhotoboothTileSelection]
+"SELECT CAPTURA SCENE"
+
+[/Lotus/Language/Menu/PhotoboothTileSelectTitle]
+"CAPTURA SCENE"
+
+[/Lotus/Language/Menu/PhotoboothToggleSloMo]
+"Slow Motion"
+
 [/Lotus/Language/Menu/PickDeco]
 "Choose a decoration to place (Capacity remaining: |CAPACITY_REMAINING|)"
 
@@ -54417,12 +55376,6 @@ If your system supports DirectX 11 you can enable it in the launcher."
 
 [/Lotus/Language/Menu/PreviousPower]
 "Cycle Power Left"
-
-[/Lotus/Language/Menu/PrimeAccessBannerDesc]
-"Now Available for a Limited Time"
-
-[/Lotus/Language/Menu/PrimeAccessPrice]
-"$|price|"
 
 [/Lotus/Language/Menu/PrimeBucksWithIcon]
 "<PRIME_BUCKS>|PRICE|"
@@ -54753,6 +55706,9 @@ If your system supports DirectX 11 you can enable it in the launcher."
 
 [/Lotus/Language/Menu/Profile_Progress]
 "Progress"
+
+[/Lotus/Language/Menu/Profile_PvpAlertScore]
+"Conclave emblems earned"
 
 [/Lotus/Language/Menu/Profile_QuitRate]
 "Quit Rate"
@@ -55545,6 +56501,9 @@ Do you wish to enable Recruit Conditioning?"
 [/Lotus/Language/Menu/RenameCompanionTitle]
 "RENAME COMPANION"
 
+[/Lotus/Language/Menu/RenameConfigs]
+"RENAME CONFIGS"
+
 [/Lotus/Language/Menu/RenamePetCantAffordError]
 "You do not have enough platinum to rename your pet."
 
@@ -55829,6 +56788,9 @@ Thank you for your partnership."
 [/Lotus/Language/Menu/SelectBrandedSuit]
 "CHOOSE THE |ITEM_NAME| TO DISENGAGE THE GRUSTRAG BOLT FROM"
 
+[/Lotus/Language/Menu/SelectCapturaSceneTitle]
+"SELECT A CAPTURA SCENE"
+
 [/Lotus/Language/Menu/SelectChallenge_PS4]
 "<WARNING> Select a Trophy to see its details."
 
@@ -55965,7 +56927,7 @@ Thank you for your partnership."
 "Deleting Session, please wait..."
 
 [/Lotus/Language/Menu/Session_LeaveMission]
-"LEAVE MISSION TO JOIN"
+"You must leave this mission before joining a different squad."
 
 [/Lotus/Language/Menu/SessionCycle_HubMissionDesc]
 "|PLANET|-|NODE|"
@@ -56570,11 +57532,14 @@ Thank you for your partnership."
 [/Lotus/Language/Menu/SoloModeRequired]
 "This is a single-player mission that must be completed alone. You will leave your current squad if you choose to launch it now. Are you ready?"
 
+[/Lotus/Language/Menu/Song_NoneOwned]
+"You do not have any songs."
+
 [/Lotus/Language/Menu/SortBy_CapacityRequirement]
 "DRAIN"
 
 [/Lotus/Language/Menu/SortBy_ClanRank]
-"CLAN RANK"
+"CLAN HIERARCHY"
 
 [/Lotus/Language/Menu/SortBy_Count]
 "COUNT"
@@ -57004,12 +57969,6 @@ This offer expires in |TIMELEFT|."
 
 [/Lotus/Language/Menu/Store_PleaseWait]
 "Please Wait..."
-
-[/Lotus/Language/Menu/Store_PrimeAccess]
-"PRIME ACCESS"
-
-[/Lotus/Language/Menu/Store_PrimeVault]
-"PRIME VAULT"
 
 [/Lotus/Language/Menu/Store_ProratedBundle]
 "This bundle has been prorated because you already own some of the items (original price: |PRICE|). You won't receive those items again."
@@ -58009,19 +58968,35 @@ https://warframe.com/eula"
 "Melee Swing Right"
 
 [/Lotus/Language/Menu/WeaponStats_OmegaAttenHigh]
-"STRONG"
+"<RADIAL_BUTTON_ON><RADIAL_BUTTON_ON><RADIAL_BUTTON_ON><RADIAL_BUTTON_ON><RADIAL_BUTTON_OFF>"
+
+[/Lotus/Language/Menu/WeaponStats_OmegaAttenHighest]
+"<RADIAL_BUTTON_ON><RADIAL_BUTTON_ON><RADIAL_BUTTON_ON><RADIAL_BUTTON_ON><RADIAL_BUTTON_ON>"
 
 [/Lotus/Language/Menu/WeaponStats_OmegaAttenLow]
-"FAINT"
+"<RADIAL_BUTTON_ON><RADIAL_BUTTON_ON><RADIAL_BUTTON_OFF><RADIAL_BUTTON_OFF><RADIAL_BUTTON_OFF>"
+
+[/Lotus/Language/Menu/WeaponStats_OmegaAttenLowest]
+"<RADIAL_BUTTON_ON><RADIAL_BUTTON_OFF><RADIAL_BUTTON_OFF><RADIAL_BUTTON_OFF><RADIAL_BUTTON_OFF>"
 
 [/Lotus/Language/Menu/WeaponStats_OmegaAttenMedium]
-"NEUTRAL"
+"<RADIAL_BUTTON_ON><RADIAL_BUTTON_ON><RADIAL_BUTTON_ON><RADIAL_BUTTON_OFF><RADIAL_BUTTON_OFF>"
 
 [/Lotus/Language/Menu/WeaponStats_OmegaAttenuationTitle]
 "RIVEN DISPOSITION"
 
 [/Lotus/Language/Menu/WeaponStats_Title]
 "WEAPON STATS"
+
+[/Lotus/Language/Menu/WelcomeToClan]
+"Your Dojo is now visible on Navigation - build your CLAN KEY in the Foundry to enter it!
+
+Clan membership gives access to trading, base-building/customization, exclusive item research, events and much more...
+
+Welcome, Tenno!"
+
+[/Lotus/Language/Menu/WelcomeToClanHeader]
+"YOU JOINED"
 
 [/Lotus/Language/Menu/WorldStateBest]
 "Personal Best: |VALUE|"
@@ -58208,6 +59183,9 @@ https://warframe.com/eula"
 
 [/Lotus/Language/Mods/CompanionMedipetKitMod]
 "Medi-Pet Kit"
+
+[/Lotus/Language/Mods/CorruptedKuvaGatheringWarframeMod]
+"[PH] KUVA HARVEST"
 
 [/Lotus/Language/Mods/CovertLethalityMeleeDamage]
 "|val| Extra Damage on melee attacks, or Lethal Damage on finishers"
@@ -58974,8 +59952,44 @@ https://warframe.com/eula"
 [/Lotus/Language/Mods/WeaponMeleeComboChanceFromDot]
 "Relentless Combination"
 
+[/Lotus/Language/Mods/WeaponMeleeExposedWeaknessMod]
+"[PH] EXPOSED MELEE"
+
+[/Lotus/Language/Mods/WeaponMeleePressAdvantageMod]
+"[PH] ADVANTAGE MELEE"
+
+[/Lotus/Language/Mods/WeaponMeleeVampireMod]
+"[PH] VAMPIRE MELEE"
+
 [/Lotus/Language/Mods/WeaponProcTimeExtendOnHitMod]
 "Enduring Affliction"
+
+[/Lotus/Language/Mods/WeaponRifleExposedWeaknessMod]
+"[PH] EXPOSED RIFLE"
+
+[/Lotus/Language/Mods/WeaponRiflePressAdvantageMod]
+"[PH] ADVANTAGE RIFLE"
+
+[/Lotus/Language/Mods/WeaponRifleVampireMod]
+"[PH] VAMPIRE RIFLE"
+
+[/Lotus/Language/Mods/WeaponSecondaryExposedWeaknessMod]
+"[PH] EXPOSED PISTOL"
+
+[/Lotus/Language/Mods/WeaponSecondaryPressAdvantageMod]
+"[PH] ADVANTAGE PISTOL"
+
+[/Lotus/Language/Mods/WeaponSecondaryVampireMod]
+"[PH] VAMPIRE PISTOL"
+
+[/Lotus/Language/Mods/WeaponShotgunExposedWeaknessMod]
+"[PH] EXPOSED SHOTGUN"
+
+[/Lotus/Language/Mods/WeaponShotgunPressAdvantageMod]
+"[PH] ADVANTAGE SHOTGUN"
+
+[/Lotus/Language/Mods/WeaponShotgunVampireMod]
+"[PH] VAMPIRE SHOTGUN"
 
 [/Lotus/Language/News/Available_Now_Banner]
 "Now Available for a Limited Time"
@@ -60626,6 +61640,181 @@ Note: This item requires two open slots."
 
 [/Lotus/Language/Primes/ZephyrPrimeName]
 "ZEPHYR PRIME"
+
+[/Lotus/Language/PrimeStore/Codex_PrimeVault]
+"This Relic is currently in the Prime Vault."
+
+[/Lotus/Language/PrimeStore/ComingSoonPrimeAccessAccessoryText]
+"COMING SOON"
+
+[/Lotus/Language/PrimeStore/ComingSoonPrimeAccessText]
+"COMING SOON"
+
+[/Lotus/Language/PrimeStore/CurrentPrimeAccessAccessoryText]
+"VALKYR PRIME ACCESSORIES PACK"
+
+[/Lotus/Language/PrimeStore/CurrentPrimeAccessDesc]
+"INSTANTLY UNLOCK THE NEWEST PRIMES AND HIGHLY DISCOUNTED PLATINUM!
+
+Prime variants are the most elusive and sought after items by Tenno. For a limited time, purchase this Pack and gain instant access to Valkyr Prime, Venka Prime, and more!
+
+The Valkyr Prime Access Pack includes: 
+- 2625 Platinum – Highly discounted premium currency
+- Valkyr Prime – A proud fighter unscarred by time or malice
+- Cernos Prime – A noble bow to hunt hellish beasts
+- Venka Prime – Razor-sharp claws to slash through your enemies
+- Exclusive Valkyr Prime Avatars – Show your loyalty in-game and in our community with these exclusive profile icons"
+
+[/Lotus/Language/PrimeStore/CurrentPrimeAccessoryDesc]
+"EXCLUSIVE PRIME GEAR AND DISCOUNTED PLATINUM, AVAILABLE FOR A LIMITED TIME!
+
+Masterpieces of the Orokin era, these rare items are coveted by the Tenno.
+
+The Valkyr Prime Accessories Pack includes:
+- 1365 Platinum – Highly discounted premium currency
+- Liset Prime Skin – Explore the system in the style of the Orokin
+- Saita Prime Suit – A gilded Operator suit
+- 30 Air Support Charges – Use this gear to call in support from your Landing Craft
+- 90-Day Affinity Booster
+- 90-Day Credit Booster"
+
+[/Lotus/Language/PrimeStore/CurrentPrimeAccessText]
+"VALKYR PRIME ACCESS PACK"
+
+[/Lotus/Language/PrimeStore/DualPackPrimeVaultDesc]
+"INSTANTLY UNLOCK EMBER AND FROST PRIME, DISCOUNTED PLATINUM AND PRIME GEAR!
+
+The Prime Vault is now open! For a limited time, you can purchase this package and gain instant access to Ember Prime, Frost Prime and more! Get them before they retire and return to the Vault!
+
+Pack Includes:
+- 1200 Platinum
+- Ember Prime and Frost Prime – Offer the same potential for greatness as their non-Prime version but provide unique mod polarities, allowing for greater customization
+- Latron Prime – This ornamental weapon exploits ancient Orokin technology to get a damage increase
+- Reaper Prime – An ornamental scythe with a blade forged from tempered rubidium
+- Sicarus Prime – An ornamental firearm that fires rounds in rapid bursts
+- Glaive Prime – Deadly and beautiful weapon from the Orokin era
+- Titan Extractor Prime and Blueprint – Collect double the resources with this extractor
+- Pyra Prime Syandana
+- Misa Prime Syandana 
+- Ember and Frost Prime Avatars"
+
+[/Lotus/Language/PrimeStore/DualPackPrimeVaultName]
+"PRIME VAULT – FIRE & ICE PRIME PACK"
+
+[/Lotus/Language/PrimeStore/FirePrimeVaultDesc]
+"INSTANTLY UNLOCK EMBER PRIME, DISCOUNTED PLATINUM AND PRIME GEAR!
+
+The Prime Vault is now open! For a limited time, you can purchase this package and gain instant access to Ember Prime and more! Get them before they retire and return to the Vault!
+
+Pack Includes:
+- 400 Platinum
+- Ember Prime Warframe – Ember Prime offers the same potential for destruction as Ember but provides unique mod polarities, allowing for greater customization
+- Sicarus Prime – An ornamental firearm that fires rounds in rapid bursts
+- Glaive Prime – Deadly and beautiful weapon from the Orokin era. The blades are as effective in close quarters as they are when thrown at distant enemies
+- Titan Extractor Prime and Blueprint – Empower your resource collection efforts with a fully restored Orokin Titan Extractor, boasting twice the capacity of a common one
+- Pyra Prime Syandana – During the Orokin Era, only the fiercest warriors were permitted to wear this Syandana
+- Ember Prime Avatars"
+
+[/Lotus/Language/PrimeStore/FirePrimeVaultName]
+"PRIME VAULT – FIRE PRIME PACK"
+
+[/Lotus/Language/PrimeStore/FrostPrimeVaultBannerDesc]
+"Now Available for a Limited Time"
+
+[/Lotus/Language/PrimeStore/FrostPrimeVaultDesc]
+"INSTANTLY UNLOCK FROST PRIME, DISCOUNTED PLATINUM AND PRIME GEAR!
+
+For a limited time, you can purchase this package and gain instant access to Frost Prime, Latron Prime and more!
+
+Pack Includes:
+- 1050 Platinum – Highly discounted from its regular price, Platinum is Warframe's Premium in-game currency.
+- Frost Prime Warframe – Frost Prime features the same sub-zero powers as Frost but with unique Mod Polarities for greater customization.
+- Latron Prime – The sleek elegance of this ancient Orokin battle rifle is surpassed only by the raw power of its puncturing rounds.
+- Reaper Prime – Envelope those who would stand against you in an unstoppable dance of death. 
+- Titan Extractor Prime – Empower your resource collection efforts with a fully restored Orokin Titan Extractor, boasting twice the capacity of a common extractor.
+- Misa Prime Syandana – Discovered in the vaults of a drifting derelict, this Syandana was worn by Temple Guardians before the fall of the Orokin Empire."
+
+[/Lotus/Language/PrimeStore/FrostPrimeVaultName]
+"PRIME VAULT - FROST PRIME PACK"
+
+[/Lotus/Language/PrimeStore/IcePrimeVaultDesc]
+"INSTANTLY UNLOCK FROST PRIME, DISCOUNTED PLATINUM AND PRIME GEAR!
+
+The Prime Vault is now open! For a limited time, you can purchase this package and gain instant access to Frost Prime and more! Get them before they retire and return to the Vault!
+
+Pack Includes:
+- 400 Platinum
+- Frost Prime Warframe – Frost Prime features the same sub-zero powers as Frost but with unique Mod Polarities for greater customization
+- Latron Prime – The sleek elegance of this ancient Orokin battle rifle is surpassed only by the raw power of its puncturing rounds
+- Reaper Prime – Envelope those who would stand against you in an unstoppable dance of death
+- Titan Extractor Prime and Blueprint – Empower your resource collection efforts with a fully restored Orokin Titan Extractor, boasting twice the capacity of a common extractor
+- Misa Prime Syandana – Discovered in the vaults of a drifting derelict, this Syandana was worn by Temple Guardians before the fall of the Orokin Empire
+- Frost Prime Avatars"
+
+[/Lotus/Language/PrimeStore/IcePrimeVaultName]
+"PRIME VAULT – ICE PRIME PACK"
+
+[/Lotus/Language/PrimeStore/MagPrimeVaultBannerDesc]
+"Now Available for a Limited Time"
+
+[/Lotus/Language/PrimeStore/MagPrimeVaultDesc]
+"INSTANTLY UNLOCK MAG PRIME, DISCOUNTED PLATINUM AND PRIME GEAR!
+
+Prime variants are the most sought after items by Tenno. For a limited time, you can purchase this package and gain instant access to Mag Prime, Boar Prime and more!
+
+Pack Includes:
+- 1200 Platinum – Highly discounted from its regular price, Platinum is Warframe's Premium in-game currency.
+- Mag Prime Warframe – Manipulate and destroy your enemies as a master of all things magnetic. Features unique mod polarities for extended customization. 
+- Boar Prime – A fine example of Tenno craftsmanship paired with a high firing rate.
+- Dakra Prime – Renowned for speed, power and the ability to hit multiple targets.
+- Targis Prime Armor Set – This highly decorated armor was once worn by the personal guards of an Orokin Emperor.
+- Exclusive Mag Prime Avatars – Show your loyalty in-game and in our community with these Exclusive Profile Icons."
+
+[/Lotus/Language/PrimeStore/MagPrimeVaultName]
+"PRIME VAULT – MAG PRIME PACK"
+
+[/Lotus/Language/PrimeStore/NextPrimeAccessDesc]
+"INSTANTLY UNLOCK THE NEW PRIME GEAR AND DISCOUNTED PLATINUM!
+
+Prime variants are the most sought after items by Tenno. For a limited time, you can purchase this package and gain instant access to Banshee Prime, Euphona Prime, Helios Prime, and more!
+
+Pack Includes:
+- 2625 Platinum: Highly discounted from its regular price, Platinum is Warframe's premium in-game currency.
+- Banshee Prime: A new battle cry echoes across the System.
+- Euphona Prime: Banshee Prime’s signature shotgun is an instrument of devastation that fires both focused and broad shots.
+- Helios Prime: This knowledge-hungry Sentinel defends its master with Deconstructor Prime.
+- Deconstructor Prime: Allows the Helios Prime to violently disassemble and turn itself into a deadly projectile.
+- Exclusive Banshee Prime Avatars: Show your loyalty in-game and in our community with these Exclusive Profile Icons."
+
+[/Lotus/Language/PrimeStore/NextPrimeAccessoriesDesc]
+"ACCESS EXCLUSIVE PRIME GEAR AND DISCOUNTED PLATINUM FOR A LIMITED TIME WITH THE PRIME ACCESSORIES PACK! 
+
+Masterpieces of the Orokin era, Prime variants of gear are the most elusive and rare items, coveted by the Tenno above all else. The Exclusive Prime Accessories Pack will be available for a limited time ONLY through Prime Access.
+
+Pack Includes: 
+- 1365 Platinum: Highly discounted from its regular price, Platinum is Warframe's premium in-game currency.
+- Capella Prime Syandana: This graceful cape is the signature Syandana of Banshee Prime.
+- Ictus Prime Sentinel Accessories: Golden Accessories for Helios Prime.
+- 90 Day Affinity Booster
+- 90 Day Credit Booster"
+
+[/Lotus/Language/PrimeStore/NextPrimeAccessoriesText]
+"BANSHEE PRIME ACCESSORIES PACK"
+
+[/Lotus/Language/PrimeStore/NextPrimeAccessText]
+"BANSHEE PRIME ACCESS PACK"
+
+[/Lotus/Language/PrimeStore/PrimeAccessBannerDesc]
+"Now Available for a Limited Time"
+
+[/Lotus/Language/PrimeStore/PrimeAccessPrice]
+"$|price|"
+
+[/Lotus/Language/PrimeStore/Store_PrimeAccess]
+"PRIME ACCESS"
+
+[/Lotus/Language/PrimeStore/Store_PrimeVault]
+"PRIME VAULT"
 
 [/Lotus/Language/Profanity/Profanity001]
 "ass"
@@ -62603,9 +63792,6 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 [/Lotus/Language/Seasonal/Winter2016TDMVariantBadgeName]
 "SOLSTICE CONCLAVE EMBLEM"
 
-[/Lotus/Language/Seasonal/Winter2016TDMVariantGlyphName]
-"SOLSTICE CONCLAVE GLYPH"
-
 [/Lotus/Language/Seasonal/WinterB2016GlyphAName]
 "WINTER GLYPH I"
 
@@ -63563,6 +64749,54 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 [/Lotus/Language/ShipDecorations/LandingCraftGrineerQueensDesc]
 "A Kuva themed skin for your landing craft"
 
+[/Lotus/Language/ShipDecorations/LisetPropAntennaDesc]
+"[PH] Description"
+
+[/Lotus/Language/ShipDecorations/LisetPropAntennaName]
+"[PH] LISET ANTENNA"
+
+[/Lotus/Language/ShipDecorations/LisetPropCoolerDesc]
+"[PH] Description"
+
+[/Lotus/Language/ShipDecorations/LisetPropCoolerName]
+"[PH] LISET COOLER"
+
+[/Lotus/Language/ShipDecorations/LisetPropHardDriveDesc]
+"[PH] Description"
+
+[/Lotus/Language/ShipDecorations/LisetPropHardDriveName]
+"[PH] LISET HARD DRIVE"
+
+[/Lotus/Language/ShipDecorations/LisetPropHologramDesc]
+"[PH] Description"
+
+[/Lotus/Language/ShipDecorations/LisetPropHologramName]
+"[PH] LISET HOLOGRAM"
+
+[/Lotus/Language/ShipDecorations/LisetPropMultiportDesc]
+"[PH] Description"
+
+[/Lotus/Language/ShipDecorations/LisetPropMultiportName]
+"[PH] LISET MULTIPORT"
+
+[/Lotus/Language/ShipDecorations/LisetPropPillarDesc]
+"[PH] Description"
+
+[/Lotus/Language/ShipDecorations/LisetPropPillarName]
+"[PH] LISET PILLAR"
+
+[/Lotus/Language/ShipDecorations/LisetPropReactorDesc]
+"[PH] Description"
+
+[/Lotus/Language/ShipDecorations/LisetPropReactorName]
+"[PH] LISET REACTOR"
+
+[/Lotus/Language/ShipDecorations/LisetPropStepDesc]
+"[PH] Description"
+
+[/Lotus/Language/ShipDecorations/LisetPropStepName]
+"[PH] LISET STEP"
+
 [/Lotus/Language/ShipDecorations/LisetSkinGrineerQueensName]
 "LISET KUVA SKIN"
 
@@ -63988,6 +65222,12 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 
 [/Lotus/Language/Sigils/PS4OneYearSigilName]
 "CYCLE ONE SIGIL"
+
+[/Lotus/Language/Sigils/PS4RenownXSigilDesc]
+"A next-generation Sigil."
+
+[/Lotus/Language/Sigils/PS4RenownXSigilName]
+"OBSIDIAN SIGIL"
 
 [/Lotus/Language/Sigils/PS4ThreeYearSigilDesc]
 "Commemorates the Tenno who have honored the Lotus for three cycles."
@@ -66212,6 +67452,367 @@ Comes with bonus helmet.
 [/Lotus/Language/SteamWorkshop/SWTeutonicHelmetName]
 "RHINO TEUTONIC HELMET"
 
+[/Lotus/Language/Subtitles/BardQuest/DBQBuildMandachord00041CephSuda]
+"Do you recall how wonderful the Mandachord orchestra was? No… No of course you wouldn't... Have you built it yet? Why don't I hear its music?"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQBuildMandachord00050CephSuda]
+"If you build the Mandachord I will reward you with the most essential thing I own. My knowledge. I have data pertaining to the Mandachord's history and function."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQBuildMandachord00051CephSuda]
+"First, you must find its component parts. Ordis has been informed of their last known location."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQBuildMandachord00052CephSuda]
+"Do you hear that music? An echo of the Mandachord's sweet harmony. It  takes me back to another place, another life, where I was… Please disregard my tangent. The parts are here, follow the sound to find them."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQBuildMandachord00053CephSuda]
+"A Mandachord part! For most Cephalons, music is thought to be a glitch of evolution and language. It seems to  short-circuit an organic mind's pattern-recognition function… a confusion they find… pleasurable."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQBuildMandachord00054CephSuda]
+"Fantastic, a second part. For me, music is a lattice, a support to which my vast knowledge clings. Have you ever felt that way? A song that anchors a memory? How a melody or verse returns you to a place you thought forgotten?"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQBuildMandachord00055CephSuda]
+"Curiosity has rewarded you. I yearn to hear its music! Return to your Foundry and construct the Mandachord at once!"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQBuildMandachord00060CephSuda]
+"The Mandachord. It's purpose defies all logic for all it produces is sound. An artefact of irrationality… and yet I know its power is so much more. Let me explain how it works."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQBuildMandachord00070Ordis]
+"Uh, excuse me, Cephalon Suda? Are you experiencing unexpected data volume? The Operator is patiently awaiting instructions on how to operate the Mandachord."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQBuildMandachord00080CephSuda]
+"The Mandachord? Of course, the Mandachord. Curious. I may have a Syndrome decoding error in my archive."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQBuildMandachord00090Ordis]
+"What?! A parity drift? How is that possible? Have you executed your diagnostic precepts?"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQBuildMandachord00100CephSuda]
+"I seem to have made an error. Apologies. I do not have the promised Mandachord data. Let me correct this, I will lead you to the location where it was originally obtained."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQBuildMandachord00110Ordis]
+"Operator. Something may be… mmm... wrong with this Cephalon."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQCorruptedDatascape00760Hunhow]
+"Another insect drawn to my light. And you've brought your trite music with you Tenno…"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQCorruptedDatascape00770Ordis]
+"Operator?! No! Go back! Save yourself."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQCorruptedDatascape00771Ordis]
+"Operator, this is insane but... I think you need to play Octavia's Anthem!"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQCorruptedDatascape00772Ordis]
+"Careful where you touch Operator, you'll add the wrong notes to the Anthem!"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQCorruptedDatascape00773Ordis]
+"The corrupted notes are ruining the Anthem, get rid of them!"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQCorruptedDatascape00780Hunhow]
+"My mind, my rules. Your Tenno anthem dies here, and with it your infantile consciousness."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQCorruptedDatascape00790CephSuda]
+"Is that… music?"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQCorruptedDatascape00800Hunhow]
+"There will be no Tenno harmony, only Sentient Dissonance."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQCorruptedDatascape00810Ordis]
+"The drums, the beat, it reminds me of… -Arrr - TEAR THEM UP!"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQCorruptedDatascape00820Hunhow]
+"Do you remember Tenno? The beat of the Naga drum?"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQCorruptedDatascape00830CephSuda]
+"Parity error. I know this song. Who am I?"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQCorruptedDatascape00840Hunhow]
+"The Naga drum sounded, subversive, unknown. Coordinating the slaughter of your masters across the gap. Did you end our war? Or merely set the stage for the next?"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQCorruptedDatascape00850Ordis]
+"You soulless machine- YOU CAN'T HOLD ME!"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQCorruptedDatascape00860Ordis]
+"My dream - it's come true! I have joined my Operator in battle!"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQCorruptedDatascape00870Ordis]
+"ERASED!"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQCorruptedDatascape00880Ordis]
+"DELETED!"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQCorruptedDatascape00890Ordis]
+"You see! REFORMATTED!"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQCorruptedDatascape00900Ordis]
+"AND YOU- ... Operator! There's too many of them!"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQCorruptedDatascape00910Hunhow]
+"Pathetic Cephalon. I destroyed this data-mind… and now I will destroy YOU."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQCorruptedDatascape00920Ordis]
+"He's… too strong… my beloved Operator… goodbye!"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQCorruptedDatascape00930Smrs]
+"Beasts of Sanctuary, join me!"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQCorruptedDatascape00940Smrs]
+"We cannot let this synthetic destroy our kind! Attack!"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQCorruptedDatascape00950Smrs]
+"Suda! You must remember. Hunter, complete the song to give Suda parity!"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQCorruptedDatascape00960CephSuda]
+"I remember!"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQCorruptedDatascape00970Hunhow]
+"You… cannot. I control this-"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQCorruptedDatascape00980CephSuda]
+"I am Suda!"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQFirstSongLiset00200Smrs]
+"Hunter, if you continue to follow that corrupted Cephalon, my Sanctuary will be the only place left for you. She must be disconnected from the weave before she corrupts the other Cephalons!"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQFirstSongLiset00210Ordis]
+"Simaris… don't be such a selfish- if Suda is in danger our Precepts demand that we help her!"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQFirstSongLiset00220Smrs]
+"No, Ordis. We are creatures of light and memory… but creatures nonetheless! Whatever bit-rot is affecting Suda could cross the weave and infect us as well. Don't let your compassion-glitch drive you and your hunter to death by this demented Cephalon. Sever ties before we both are corrupted."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQFirstSongLiset00230Ordis]
+"Operator, what will you do? I cannot process the thought of losing you… but I want to help Suda if we can… Maybe that is just my - my compassion-glitch?"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQFirstSongMission00120CephSuda]
+"Intriguing. I remember these caves but not the Mandachord's relationship to it. You will need to explore deeper. Let your curiosity guide you, as it does my every thought."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQFirstSongMission00130CephSuda]
+"My data suggested the brutish and disinterested Grineer are searching for sunken Orokin riches to exploit. Wouldn't it be interesting if we were seeking the same?"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQFirstSongMission00140CephSuda]
+"What are the Grineer doing here? This doesn't make sense. Curious one, are you searching for something?"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQFirstSongMission00150CephSuda]
+"Oh! This is interesting, I recognize that object: a Hydraulus! An Orokin era instrument that produced its sound from water. If I had a humour precept I would construct an ironic witticism regarding its submerged state. How would Ordis say it?"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQFirstSongMission00160CephSuda]
+"It's damaged but I wonder if there are trace stress-lines from when it was in use? I may be able to…"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQFirstSongMission00170CephSuda]
+"Strange. I have no archival entry… but… but I know this. It is a piece of Octavia's Anthem. Could this data be compatible with the Mandachord?"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQFirstSongMission00180CephSuda]
+"I remember… Lua. There's more of the anthem on Lua."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQFirstSongMission00190CephSuda]
+"Who are you? What do you want? Oh no. It's happening again…"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQIntro00010Smrs]
+"Hunter, do not waste your time with this idiot Cephalon… spewing corrupt data streams about music of all things… the epitome of meaningless data. She ought to be disconnected from the weave and erased."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQIntro00020CephSuda]
+"Curious about music, as I am? Ignore the rants of that monster, Irmis, who perverts his function with destruction. Correction… Simaris is to whom I refer. I am busy with my data collecting, what is your query?"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQIntro00030CephSuda]
+"Yes, I know. I am a Cephalon, a creature of data and memory. You need not repeat yourself. If you are truly curious, about my musical archives, prove it. Build the Mandachord."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQIntro00040Smrs]
+"A Mandachord?! Hunter, will you strike your enemies with sonnets and hymns? Suda wastes your talent. Her precepts are corrupt. She ought to be decommissioned, immediately."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQOrokinTowerLiset00700Ordis]
+"Operator, if you are hearing this, I have failed to revive Cephalon Suda. That self-righteous Simaris was correct. You should probably work with him to isolate Hunhow, that data-murdering Sentient, before he claims more of my kind.
+
+I hope you can forgive me, Operator, for leaving you. There were times, like Suda, I wish I could have forgotten you. That grey ache of loneliness. Being without you was the greatest pain I have ever felt.
+
+Do you still remember that glorious day when you returned? So selfless and heroic, engaging all of my missing segments like that! I was ashamed of the mess but you didn't care. You made me whole again!
+
+Or… or what about that time you returned -covered in blood - from that awful Grineer ship? I wasn't even mad at the gory mess you left behind.
+
+How could I be, when you are so perfect, Operator? You always will be.
+
+Goodbye, my friend, my Operator…"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQOrokinTowerMission00480Ordis]
+"Operator, the Hydraulus is here somewhere. I will attempt to pinpoint its location. There. Rebuilding the anthem is our only hope of restoring Suda. The music makes her remember…"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQOrokinTowerMission00491Ordis]
+"Wait, Sentients in the Void?! Impossible! Unless… Hunhow must be using poor Suda's energy to protect them from decay. Operator, we need to stop him!"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQOrokinTowerMission00500Ordis]
+"The Hydraulus-- you found it! Use that console to lock the entrances and then clear the room."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQOrokinTowerMission00510Ordis]
+"Operator, see if you can finish the song with your Mandachord. "
+
+[/Lotus/Language/Subtitles/BardQuest/DBQOrokinTowerMission00520Ordis]
+"Suda? Suda can you hear us?"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQOrokinTowerMission00530Hunhow]
+"She is gone… will you join her, you puerile datacube?"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQOrokinTowerMission00540Ordis]
+"Suda needs to hear the anthem, Operator! We could use the tower's reactor to boost it!"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQOrokinTowerMission00550Ordis]
+"Bypass that console to overdrive the system. Try to increase the amplification circuits-to ... eleven?"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQOrokinTowerMission00560Hunhow]
+"My body, we must deny them this energy. Do not let them coordinate as they did so long ago…"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQOrokinTowerMission00561Ordis]
+"The Sentients! They're interfering with the reactor, terminate them! "
+
+[/Lotus/Language/Subtitles/BardQuest/DBQOrokinTowerMission00570Ordis]
+"It's working, play the song."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQOrokinTowerMission00580CephSuda]
+"Ordis! I remember-"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQOrokinTowerMission00590Hunhow]
+"-nothing. Now I will reach across the weave and claim you, one who is called Ordis."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQOrokinTowerMission00600Ordis]
+"I… remember… I remember a secondary system nearby. Operator, we need more power!"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQOrokinTowerMission00610Hunhow]
+"I see you. Does your child puppet know of your true nature?"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQOrokinTowerMission00620Ordis]
+"No, I am not that person… I am a Cephalon."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQOrokinTowerMission00630Hunhow]
+"Ordan Karris, the beast of the bones."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQOrokinTowerMission00640Ordis]
+"That's it, the secondary amplifier's engaged!"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQOrokinTowerMission00650CephSuda]
+"Such a beautiful song-"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQOrokinTowerMission00660Ordis]
+"Keep those reactors alive, Operator. I'm going to open a direct link to Suda."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQOrokinTowerMission00670Ordis]
+"Suda. Talk to us. Try to remember."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQOrokinTowerMission00680CephSuda]
+"Ordis, stay away!"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQOrokinTowerMission00690Ordis]
+"Operator, I am sorry. I have to help her! If I can join her, in her datascape, maybe together we can-"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQRestoredDatascape00990CephSuda]
+"Time sync error. Curious. Why are we here presently? Why do I hear music?"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQRestoredDatascape01000Smrs]
+"You engaged your critical Restore Precept. There may be temporary gaps in your short-term data."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQRestoredDatascape01010Ordis]
+"A Sentient tried to… erase you."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQRestoredDatascape01020CephSuda]
+"A Sentient? How did I survive? Did you assist me, Simaris?"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQRestoredDatascape01025Smrs]
+"Of course not. You are a frivolous Cephalon with no value to my Sanctuary."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQRestoredDatascape01030Ordis]
+"Simaris…"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQRestoredDatascape01040Smrs]
+"It may seem to Ordis that I had a… uh… loyalty glitch, but that is only his interpretation. I was acting to protect the weave, of course."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQRestoredDatascape01050CephSuda]
+"Of course. Still. I am grateful to have benefited from your… glitches. Let me share my archives with you… As for you Tenno, you are most likely interested in the rest of the Mandachord records… in OCTAVIA."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQSecondSongLiset00430Smrs]
+"The Sentient has infiltrated Suda's mind. We must isolate and destroy her immediately before she corrupts the Cephalon weave."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQSecondSongLiset00440Ordis]
+"But she told me where the final part of the song is! Did you see how the song affected her, it made her remember. It could be the parity she needs to recover herself from Hunhow!"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQSecondSongLiset00450Smrs]
+"Her memories are consumed. That is all she is… all she was. Sever the weave and avoid this corruption ourselves. That is our only choice."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQSecondSongLiset00460Ordis]
+"And when he comes for you and your precious Sanctuary, will you want us to look the other way? -To the Void with you. -Operator, we must go. Let Simaris worry about himself."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQSecondSongLiset00470Smrs]
+"Pity. Another null Cephalon."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQSecondSongMission00240CephSuda]
+"Why have we come to Lua? Have you located the next fragment? "
+
+[/Lotus/Language/Subtitles/BardQuest/DBQSecondSongMission00250Ordis]
+"Cephalon Suda, you brought us here."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQSecondSongMission00260CephSuda]
+"Recalibrating… Oh yes, you are correct. My records indicate that a fragment was previously discovered in the vicinity, will you find it? "
+
+[/Lotus/Language/Subtitles/BardQuest/DBQSecondSongMission00270CephSuda]
+"Lua? Why did we come here? I… I have asked you this already… Simaris was right, this corruption is not benign. I am vanishing. "
+
+[/Lotus/Language/Subtitles/BardQuest/DBQSecondSongMission00280CephSuda]
+"Sentients?! But how did they know… What? He's just an Old War memory…  Get out! I won't let you take-"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQSecondSongMission00290Hunhow]
+"-My body, my children, I am here."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQSecondSongMission00300Ordis]
+"Hunhow?! Operator, Hunhow's doing something to Suda. He's in her mind."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQSecondSongMission00310CephSuda]
+"Tenno, you have to..."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQSecondSongMission00320Hunhow]
+"Children, find the anthem."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQSecondSongMission00330Ordis]
+"Operator, what's happening to her?"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQSecondSongMission00340CephSuda]
+"The Hydraulus! Stop them. They want to— "
+
+[/Lotus/Language/Subtitles/BardQuest/DBQSecondSongMission00350Hunhow]
+"-Destroy it."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQSecondSongMission00360Hunhow]
+"Silence the anthem. Silence the Warframe whose malign pitch can cross the the gap itself."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQSecondSongMission00370Ordis]
+"Operator, you did it, you- obliterated those mindless appliances!- What has Hunhow done to Suda?"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQSecondSongMission00380Ordis]
+"Another Hydraulus. Suda would want you to put the next fragment into the Mandachord. It does seem to help her remember, doesn't it?"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQSecondSongMission00390CephSuda]
+"That song! I… the last fragment… Ordis, tell your Operator… I am sorry, I am so sorry. I keep forgetting-  for-for- It's happening again!"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQSecondSongMission00400Hunhow]
+"Another Cephalon made null as we prepare. The others I will divide and destroy. Your Tenno will be data-blind."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQSecondSongMission00410Ordis]
+"Suda!? Suda, answer me!"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQSecondSongMission00420Ordis]
+"Operator, you'd better get out of there!"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQSimarisRelay00710Smrs]
+"Where is your Cephalon, Hunter? What has he done?"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQSimarisRelay00720Smrs]
+"Cephalons can manifest an alternate reality of information. Training simulations, archives… even a grandiose archival of living creatures is possible, as is the case with Sanctuary. You are not going after Ordis are you? You'd be risking annihilation with that Sentient entangled there."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQSimarisRelay00730Smrs]
+"Hunhow is too strong. I will not risk myself and my Sanctuary by entering the Suda's Datascape. But, if you are foolish enough, I will help you make the journey. For Ordis."
+
+[/Lotus/Language/Subtitles/BardQuest/DBQSimarisRelay00740Smrs]
+"What I seek to preserve, Hunhow seeks only to destroy. Perhaps Cephalon Suda was right, after all. Somehow this music threatens Hunhow. Perhaps the Tenno used it subversively in the past to coordinate their efforts?"
+
+[/Lotus/Language/Subtitles/BardQuest/DBQSimarisRelay00750Smrs]
+"Fine, Hunter, as you wish. I will join you to the weave and transmit you and the Mandachord to whatever has become of Suda-Hunhow. You will be on your own in a strange, abstract place… Goodbye."
+
+[/Lotus/Language/Subtitles/BardQuest/THIS_FILE_IS_AUTOGENERATED_BY_THE_DIALOG_TOOL]
+""
+
 [/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0010Ordis]
 "[1] I have hidden the truth of my existence… from the Operator… from myself. Take it from me, knowing is hell. Stop now. You will want to laugh, you will want to scream."
 
@@ -66386,6 +67987,33 @@ Comes with bonus helmet.
 [/Lotus/Language/Subtitles/Evacuation/DEVAllKilled0540Lotus]
 "Too many crew have died. This mission is a failure."
 
+[/Lotus/Language/Subtitles/Evacuation/DEVDown0890Stoic]
+"They got me."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVDown0900Stoic]
+"Forget about me, keep moving."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVDown0910Stoic]
+"I die here then."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVDown0920PTSD]
+"Gonna die. Gonna die! GONNA DIE!"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVDown0930PTSD]
+"Wrack… it hurts"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVDown0940PTSD]
+"Why here?"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVDown0950Pacifist]
+"Ahhh."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVDown0960Pacifist]
+"Go. Not worth saving."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVDown0970Pacifist]
+"I had my time."
+
 [/Lotus/Language/Subtitles/Evacuation/DEVEnemyPowerCells0300Lotus]
 "The Infested are carrying power-cells."
 
@@ -66404,6 +68032,96 @@ Comes with bonus helmet.
 [/Lotus/Language/Subtitles/Evacuation/DEVFirstDoor0050Lotus]
 "The first batch of survivors are beyond this door. Find them."
 
+[/Lotus/Language/Subtitles/Evacuation/DEVFirstEncounter0010Stoic]
+"Only death there. But death means peace. Let us go."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVFirstEncounter0020Stoic]
+"Trust Tenno SCOOM? Hmm… no choice. "
+
+[/Lotus/Language/Subtitles/Evacuation/DEVFirstEncounter0030Stoic]
+"The Tenno? Why you help?"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVFirstEncounter0040PTSD]
+"Don't want to go anywhere."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVFirstEncounter0050PTSD]
+"Too loud. Too many noises."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVFirstEncounter0060PTSD]
+"Need quiet! You make them quiet?"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVFirstEncounter0070PTSD]
+"Tenno… Help… Grineer?"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVFirstEncounter0080Pacifist]
+"Cressa Tal sent you? Let's go."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVFirstEncounter0090Pacifist]
+"Helping us? We're Grineer?"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVFirstEncounter0100Pacifist]
+"A Tenno? What choice do we have?"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVFirstEncounter0110Pacifist]
+"Tenno??? You won't kill me??? "
+
+[/Lotus/Language/Subtitles/Evacuation/DEVFlavor0310Stoic]
+"Ratzan-narr, is there no rest?"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVFlavor0320Stoic]
+"Infestation called us here, no lie."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVFlavor0330Stoic]
+"Better not be a trap, Tenno."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVFlavor0340Stoic]
+"This again? Fight or die? Rraahudd"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVFlavor0350Stoic]
+"They said Tenno kill us for sport. Did they lie?"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVFlavor0360Stoic]
+"Tenno?  Steel Meridian send you?"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVFlavor0370Stoic]
+"So, Tenno not monsters??"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVFlavor0380PTSD]
+"Too loud! Too loud!"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVFlavor0390PTSD]
+"We came to help, the distress call was a PRETAkkang trap."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVFlavor0400PTSD]
+"Tenno get nightmares? I do."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVFlavor0410PTSD]
+"Escape Grineer to die here? No!"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVFlavor0420PTSD]
+"Eyes closed, there is only blood."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVFlavor0430Pacifist]
+"The infestation can think; it can hunt."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVFlavor0440Pacifist]
+"Not the plan! Plan was no fighting."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVFlavor0450Pacifist]
+"This ship, our dream… both dead."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVFlavor0460Pacifist]
+"Look at me like that?? You were made to kill too, Tenno."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVFlavor0470Pacifist]
+" here we are."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVFlavor0480Pacifist]
+"sikkaht monsters feel no pain, right?"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVFlavor0490Pacifist]
+"How, Tenno? How you kill so much?"
+
 [/Lotus/Language/Subtitles/Evacuation/DEVGroupEscape0450Lotus]
 "A group of survivors has escaped."
 
@@ -66418,6 +68136,33 @@ Comes with bonus helmet.
 
 [/Lotus/Language/Subtitles/Evacuation/DEVGroupEscape0490Lotus]
 "All crew members accounted for. Time to go."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVHealed0800Stoic]
+"That's better."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVHealed0810Stoic]
+"I can breath."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVHealed0820Stoic]
+"That helps."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVHealed0830PTSD]
+"Thanks, Tenno."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVHealed0840PTSD]
+"I live."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVHealed0850PTSD]
+"Magic?"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVHealed0860Pacifist]
+"Feel better."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVHealed0870Pacifist]
+"Much better. Go now??"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVHealed0880Pacifist]
+"Feel alive, again."
 
 [/Lotus/Language/Subtitles/Evacuation/DEVHurry0140Lotus]
 "You may use this console to send a signal that you want the survivors to hurry."
@@ -66443,6 +68188,102 @@ Comes with bonus helmet.
 [/Lotus/Language/Subtitles/Evacuation/DEVKeepPowered0230Lotus]
 "Find power cells and bring them to the Med Boosters to keep them operational."
 
+[/Lotus/Language/Subtitles/Evacuation/DEVLetsGo0120Stoic]
+"We'll go with you, but… we cannot fight like before."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVLetsGo0130Stoic]
+"Everyone! We move now."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVLetsGo0140Stoic]
+"Time to go!"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVLetsGo0150Stoic]
+"Let us move."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVLetsGo0160PTSD]
+"Go with you?  Okay."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVLetsGo0170PTSD]
+"Tenno. Show me way."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVLetsGo0180Pacifist]
+"Okay, let's go."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVLetsGo0190Pacifist]
+"Go?  Okay, go!"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVLetsGo0200Pacifist]
+"Go?  Rahm okay."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVLetsGo0210Pacifist]
+" One, two, three, I can do this again."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVLowHealth0670Stoic]
+"Can't go on much longer."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVLowHealth0680Stoic]
+"Lungs… burning… "
+
+[/Lotus/Language/Subtitles/Evacuation/DEVLowHealth0690Stoic]
+"The sikkaht is in me."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVLowHealth0700Stoic]
+"I won't make it out."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVLowHealth0710Stoic]
+"Tenno, this is killing us. "
+
+[/Lotus/Language/Subtitles/Evacuation/DEVLowHealth0720PTSD]
+"It's killing me."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVLowHealth0730PTSD]
+"Die here???  Rahmm"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVLowHealth0740PTSD]
+"Need help…"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVLowHealth0750PTSD]
+"We are dying."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVLowHealth0760Pacifist]
+"Dying… "
+
+[/Lotus/Language/Subtitles/Evacuation/DEVLowHealth0770Pacifist]
+"Leave me… go!"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVLowHealth0780Pacifist]
+"The air is sick."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVLowHealth0790Pacifist]
+"Tenno, this is killing us. "
+
+[/Lotus/Language/Subtitles/Evacuation/DEVManic0220Stoic]
+"Ruk's found us."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVManic0230Stoic]
+"Could not run forever."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVManic0240Stoic]
+"Always knew Sargas would come."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVManic0250PTSD]
+"Manic… a manic, he's here to kill us."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVManic0260PTSD]
+"Assassin? He followed you!"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVManic0270PTSD]
+"It will kill us, please, Tenno, help."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVManic0280Pacifist]
+"Ruk's Manic assassin? We are dead."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVManic0290Pacifist]
+"Sargas found us."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVManic0300Pacifist]
+"Ruk will never let us go."
+
 [/Lotus/Language/Subtitles/Evacuation/DEVManicSpawn0340Lotus]
 "Grineer Manic! He's here to kill the defectors. Take him out."
 
@@ -66451,6 +68292,30 @@ Comes with bonus helmet.
 
 [/Lotus/Language/Subtitles/Evacuation/DEVMedBoosterIntro0170Lotus]
 "The galleon's atmosphere has become toxic; it will kill the crew members within minutes. Their only hope is the Med Boosters, but you must keep them powered. The survivors will never reach the transport without them."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVMidHealth0590Stoic]
+"Can't go much further."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVMidHealth0600Stoic]
+"I need to rest."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVMidHealth0610Stoic]
+"The air is killing me."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVMidHealth0620PTSD]
+"Tired, rahm tired."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVMidHealth0630PTSD]
+"Ahh, everything hurts!"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVMidHealth0640PTSD]
+"Not going to make it."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVMidHealth0650Pacifist]
+"I am hurt."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVMidHealth0660Pacifist]
+"Rahm…  ahhh."
 
 [/Lotus/Language/Subtitles/Evacuation/DEVMinibossSpawn0320Lotus]
 "Careful Tenno. My scans show something big is coming your way."
@@ -66490,6 +68355,63 @@ Comes with bonus helmet.
 
 [/Lotus/Language/Subtitles/Evacuation/DEVRedVeil0040RedVeil]
 "What defect made you reject violence, Kavor? Can we exploit it? Our questions need answers, and our answers require a sacrifice. Do not interfere, Tenno."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVRedVeilAttack1060Stoic]
+"Red Veil? We never hurt them!"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVRedVeilAttack1070Stoic]
+"What? Why us?"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVRedVeilAttack1080Stoic]
+"Red Veil; As bad as Grineer."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVRedVeilAttack1090Stoic]
+"We hate noone, but they all want us dead."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVRedVeilAttack1100PTSD]
+"Everyone wants us dead."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVRedVeilAttack1110PTSD]
+"We make enemies everywhere, why?"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVRedVeilAttack1120Pacifist]
+"The more we try to change, the bigger target we become."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVRedVeilAttack1130Pacifist]
+"Why do they hate our peace?"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVRedVeilCap0050RedVeil]
+"We will learn much from this specimen."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVRedVeilCap0060RedVeil]
+"Fear not Kavor, your comrade's sacrifice will not be in vain. "
+
+[/Lotus/Language/Subtitles/Evacuation/DEVRedVeilCap0070RedVeil]
+"A specimen! Kavor, consider your comrade's life a gift to the greater good. "
+
+[/Lotus/Language/Subtitles/Evacuation/DEVRevived0980Stoic]
+"You should have left me."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVRevived0990Stoic]
+"Death would have been easier."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVRevived1000Stoic]
+"I owe you, Tenno."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVRevived1010PTSD]
+"I'm… better?"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVRevived1020PTSD]
+"How you do that?"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVRevived1030PTSD]
+"Why help me?"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVRevived1040Pacifist]
+"Should be dead?!"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVRevived1050Pacifist]
+"Thank you."
 
 [/Lotus/Language/Subtitles/Evacuation/DEVReviveSurvivor0360Lotus]
 "A crew member is down, heal them."
@@ -66617,11 +68539,74 @@ Comes with bonus helmet.
 [/Lotus/Language/Subtitles/Evacuation/DEVSurvivorDead0410Lotus]
 "We lost one."
 
+[/Lotus/Language/Subtitles/Evacuation/DEVThanks1140Stoic]
+"Thank you Tenno."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVThanks1150Stoic]
+"Never forget you, Tenno."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVThanks1160Stoic]
+"Unbelievable, you saved us."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVThanks1170PTSD]
+"Is this freedom?"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVThanks1180PTSD]
+"Can't be real? Can it?"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVThanks1190PTSD]
+"Are we safe now?"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVThanks1200PTSD]
+"Safety?!"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVThanks1210PTSD]
+"Tenno not scoom!"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVThanks1220Pacifist]
+" Dead without you, Tenno."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVThanks1230Pacifist]
+"Safe. For now."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVThanks1240Pacifist]
+"Owe you my life."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVThanks1250Pacifist]
+"Thanks, Tenno."
+
 [/Lotus/Language/Subtitles/Evacuation/DEVTooManyDead0520Lotus]
 "Too many crew members have been lost, we need to regroup, head to extraction."
 
 [/Lotus/Language/Subtitles/Evacuation/DEVTooManyDead0530Lotus]
 "You've let too many of the crew be killed. I can't allow this to continue, head to extraction."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVUnderAttack0500Stoic]
+"Look! More raamn-sikkhat."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVUnderAttack0510Stoic]
+"They are coming."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVUnderAttack0520Stoic]
+"Sikkhat, everywhere."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVUnderAttack0530PTSD]
+"More sikkaht coming."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVUnderAttack0540PTSD]
+"The sikkaht!"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVUnderAttack0550PTSD]
+"Raamn, infested sikkaht."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVUnderAttack0560Pacifist]
+"Get… away… from… me"
+
+[/Lotus/Language/Subtitles/Evacuation/DEVUnderAttack0570Pacifist]
+"More sikkaht."
+
+[/Lotus/Language/Subtitles/Evacuation/DEVUnderAttack0580Pacifist]
+"Keep pushing."
 
 [/Lotus/Language/Subtitles/Evacuation/DEVUnlockedArea0060Lotus]
 "Another group of defectors needs an escort."
@@ -69650,6 +71635,84 @@ Tap <MELEE> when you blade is drawn to strike."
 
 [/Lotus/Language/Subtitles/LotusBarks/Tutorial31]
 "I await your return when you have learned more. Farewell."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DADAlphaDamage0110Lotus]
+"Alpha is taking heavy damage."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DADAlphaDamage0120Lotus]
+"Tenno, Alpha shuttle will not last much longer."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DADAlphaDamage0130Lotus]
+"Alpha shuttle is taking direct hits. "
+
+[/Lotus/Language/Subtitles/MissionObjectives/DADAlphaDown0050Lotus]
+"Alpha shuttle has lost it's shields. "
+
+[/Lotus/Language/Subtitles/MissionObjectives/DADAlphaDown0060Lotus]
+"Protect alpha shuttle, it's shields are down."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DADAlphaDown0070Lotus]
+"Shields are down on Alpha shuttle."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DADAlphaLost0170Lotus]
+"We lost the Alpha shuttle, focus on Beta."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DADAlphaLost0180Lotus]
+"Alpha shuttle lost, make sure the same thing doesn't happen to beta."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DADBetaDamage0140Lotus]
+"Beta shuttle is under heavy fire. "
+
+[/Lotus/Language/Subtitles/MissionObjectives/DADBetaDamage0150Lotus]
+"Beta shuttle is sustaining damage."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DADBetaDamage0160Lotus]
+"Beta shuttle can't take much more of this."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DADBetaDown0080Lotus]
+"Beta shuttle has lost it's shields."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DADBetaDown0090Lotus]
+"Beta shuttle's shields are down."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DADBetaDown0100Lotus]
+"Shields are gone on beta shuttle."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DADBetaLost0190Lotus]
+"Beta shuttle has been destroyed. Save the remaining shuttle."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DADBetaLost0200Lotus]
+"Beta shuttle has been destroyed, failure to protect Alpha shuttle will result in mission failure."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DADContinue0210Lotus]
+"The shuttles have already amassed an impressive cargo. Do you want to risk loading more?"
+
+[/Lotus/Language/Subtitles/MissionObjectives/DADContinue0220Lotus]
+"The enemy is preparing tougher reinforcements. Do you want to stay and capture more cargo or go now?"
+
+[/Lotus/Language/Subtitles/MissionObjectives/DADContinue0230Lotus]
+"Make your choice Tenno."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DADFailure0240Lotus]
+"Our shuttles have been destroyed, this mission is over."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DADFailure0250Lotus]
+"You failed to protect the shuttles, this mission is a failure."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DADFailure0260Lotus]
+"We've lost the shuttles. There's nothing more we can do here."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DADMissionObj0010Lotus]
+"This is a defense mission. Protect these two shuttles while Tenno Operatives on the inside load them up with valuable resources. "
+
+[/Lotus/Language/Subtitles/MissionObjectives/DADMissionObj0020Lotus]
+"We're raiding this transport for valuable materials. Defend these two shuttles while Tenno Operatives on the inside load them with goods. "
+
+[/Lotus/Language/Subtitles/MissionObjectives/DADObjReinforce0030Lotus]
+"The longer you can defend these shuttles the more supplies we can confiscate."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DADObjReinforce0040Lotus]
+"The shuttles are in separate docking bays, you will have to decide on the best strategy to keep them both safe."
 
 [/Lotus/Language/Subtitles/MissionObjectives/DAllTennoCaptured130Lotus]
 "Tenno, do you read. Tenno come in. Tenno..."
@@ -73228,8 +75291,7 @@ Pfft… -WHAT A LOAD OF- Ordis prefers known quantities, thank-you-very-much."
 "Ordis does hope to see the Archwing soon."
 
 [/Lotus/Language/Subtitles/Quests/DAWQShipCraftArch110Ordis]
-"Congratulations, you've crafted an Archwing. Now I must commence calibration. So much to do, by my calculations this process will take ----
-three hundred and seventy two hours ---- Oh, that does seem like a long time… "
+"Congratulations, you've crafted an Archwing. Now I must commence calibration. So much to do, by my calculations this process will take ---- three hundred and seventy two hours ---- Oh, that does seem like a long time… "
 
 [/Lotus/Language/Subtitles/Quests/DAWQShipCraftArch120Lotus]
 "Tenno. This is an urgent mission. A Corpus scout ship with information about the location of the Grineer Balor Fomorians has been located. Raid this ship for intel, we need to know everything they do."
@@ -79411,9 +81473,6 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 [/Lotus/Language/Subtitles/VorsPrize/DLisetPostFoundry100Darvo]
 "Wow. You may want to get a new ship Cephalon, when you can afford it… that one seems glitched. I've marked your Navigation with a place I know… good for resources… if you can stand the cold."
 
-[/Lotus/Language/Subtitles/VorsPrize/DLisetPostNavMod030Ordis]
-"Oh, did it have to be Mercury? The heat drives me- Solar Rail navigation to Mercury enabled, Operator."
-
 [/Lotus/Language/Subtitles/VorsPrize/DLisetPostNavMod040Lotus]
 "The detonator is charging up. You need to bring Vor down. He thinks he can capture you again. Don't worry. I will be with you. Let us show him how much you have learned."
 
@@ -79982,7 +82041,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "Haven"
 
 [/Lotus/Language/Suits/BanishAbilityDesc]
-"Displaces a target into the rift plane, inflicting additional damage if the target is hostile."
+"Casts a wave of Rift energy that damages hostiles while pushing enemies and allies out of Limbo’s current plane of existence."
 
 [/Lotus/Language/Suits/BanishAbilityName]
 "Banish"
@@ -79996,11 +82055,62 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 [/Lotus/Language/Suits/BansheePassiveAbility]
 "Weapon noises are hushed so that enemies cannot hear them."
 
+[/Lotus/Language/Suits/BardAltHelmetDesc]
+"A uniquely-styled alternate helmet for Octavia"
+
+[/Lotus/Language/Suits/BardAltHelmetName]
+"OCTAVIA CADENZA HELMET "
+
+[/Lotus/Language/Suits/BardAmplifyAbilityDesc]
+"Draws power from the decibel level of sound in the area and uses it to amplify a damage buff for Octavia and her allies. It also doubles the damage and range of nearby Mallets."
+
+[/Lotus/Language/Suits/BardAmplifyAbilityName]
+"Amp"
+
+[/Lotus/Language/Suits/BardCharmAbilityDesc]
+"Launches a rollerball that charms foes to follow it. Combines with the Mallet to create a roving ball of sonic destruction."
+
+[/Lotus/Language/Suits/BardCharmAbilityName]
+"Resonator"
+
+[/Lotus/Language/Suits/BardCrouchBuff]
+"Nocturne"
+
+[/Lotus/Language/Suits/BardDesc]
+"Compose her song and then conduct the mighty Mandachord, turning bass, beat and melody into an anthem of devastation."
+
+[/Lotus/Language/Suits/BardFireBuff]
+"Opera"
+
 [/Lotus/Language/Suits/BardHelmetDesc]
-"[PH] Standard issue helmet for Bard."
+"Standard issue helmet for Octavia."
 
 [/Lotus/Language/Suits/BardHelmetName]
-"[PH] BARD HELMET"
+"OCTAVIA HELMET"
+
+[/Lotus/Language/Suits/BardJamAbilityDesc]
+"Grants buffs to those who consistently perform actions in time to Octavia’s music. Timed jumps offer the Vivace speed buff. Crouching on the beat grants cloaking with the Nocturne buff. Firing rhythmically bestows Opera multishot buff. Timed melee swings give the Forte damage buff."
+
+[/Lotus/Language/Suits/BardJamAbilityName]
+"Metronome"
+
+[/Lotus/Language/Suits/BardJumpBuff]
+"Vivace"
+
+[/Lotus/Language/Suits/BardMeleeBuff]
+"Forte"
+
+[/Lotus/Language/Suits/BardMusicAbilityDesc]
+"Rhythmically beats damage into nearby enemies and draws their fire. Damage inflicted on the Mallet increases its lethality."
+
+[/Lotus/Language/Suits/BardMusicAbilityName]
+"Mallet"
+
+[/Lotus/Language/Suits/BardName]
+"OCTAVIA"
+
+[/Lotus/Language/Suits/BardPassiveBuff]
+"Inspiration"
 
 [/Lotus/Language/Suits/BardTuneCompelHostilitiesAbilityName]
 "[PH] TAUNT"
@@ -80344,6 +82454,12 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 [/Lotus/Language/Suits/FairyFlightAbilityName]
 "Razorwing"
 
+[/Lotus/Language/Suits/FairyLightAbilityAugment1Desc]
+"[PH] Lantern Augment: Attracted enemies take |DAMAGE_PCT|% more melee damage."
+
+[/Lotus/Language/Suits/FairyLightAbilityAugment1Name]
+"[PH] Lantern Augment"
+
 [/Lotus/Language/Suits/FairyLightAbilityDesc]
 "Create a swarm of razorflies that transform an enemy into an irresistible floating beacon, attracting witless comrades and finally exploding."
 
@@ -80675,7 +82791,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "LIMBO"
 
 [/Lotus/Language/Suits/LimboPassiveAbility]
-"Increased movement, reload and holster speed while inside the Rift."
+"Dodge to enter and exit the Rift. Entering leaves behind a small Rift portal."
 
 [/Lotus/Language/Suits/LinkAbilityAugment1Desc]
 "Link Augment: Reduces armor rating by |ARMOR_REDUCTION|% on enemies targeted by Link."
@@ -80915,7 +83031,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "Divine Spears"
 
 [/Lotus/Language/Suits/NezhaTrailAbilityAugment1Desc]
-"[PH] Fire Walker Augment: Accumulate |DAMAGE_PCT|% of the damage Fire Walker deals, unleashing it all in a |RADIUS|m explosive kick upon deactivation."
+"[PH] Fire Walker Augment: Accumulate |DAMAGE_PCT|% of the damage Fire Walker deals, unleashing it all in trail of fire that lasts |DURATION|s."
 
 [/Lotus/Language/Suits/NezhaTrailAbilityAugment1Name]
 "[PH] FIRE WALKER AUGMENT"
@@ -81014,7 +83130,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "Discharge"
 
 [/Lotus/Language/Suits/PassiveAbilityBard]
-"[PH] Passive Ability for Bard"
+"Briefly replenish energy for Octavia and nearby allies when abilities are activated."
 
 [/Lotus/Language/Suits/PassiveAbilityChromaPrime]
 "Chosen Energy color dictates the type of Elemental damage dealt by abilities."
@@ -81048,6 +83164,12 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 
 [/Lotus/Language/Suits/PoisonAbilityPvPDesc]
 "Inflicts opponent with <DT_VIRAL> Viral damage over time."
+
+[/Lotus/Language/Suits/PriestDesc]
+"[PH]"
+
+[/Lotus/Language/Suits/PriestName]
+"[PH] Suffragan"
 
 [/Lotus/Language/Suits/PullAbilityAugment1Desc]
 "Pull Augment: Adds |PULL_CHANCE|% chance to pull pickups towards Mag."
@@ -81155,7 +83277,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "Artemis Bow"
 
 [/Lotus/Language/Suits/RangerControlAbilityAugment1Desc]
-"[PH] Navigator Augment: Teleports Ivara to the projectile's position upon deactivation, but drains |DRAIN|% more energy while active."
+"[PH] Navigator Augment: Each hit increases the projectile's crit chance by |CRIT|% up to a max of |MAX_CRIT|%."
 
 [/Lotus/Language/Suits/RangerControlAbilityAugment1Name]
 "[PH] NAVIGATOR AUGMENT"
@@ -81548,7 +83670,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "Slash Dash"
 
 [/Lotus/Language/Suits/SleightOfHandAbilityAugment1Desc]
-"Sleight of Hand Augment: Pickups are turned into proximity mines that deal |DAMAGE| damage with a |PROC_CHANCE|% proc chance."
+"Sleight of Hand Augment: Ammo and orbs pickups are turned into proximity mines that deal |DAMAGE| damage with a |PROC_CHANCE|% proc chance."
 
 [/Lotus/Language/Suits/SleightOfHandAbilityAugment1Name]
 "Explosive Legerdemain"
@@ -81697,6 +83819,12 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 [/Lotus/Language/Suits/StairwayToHeavenAbilityName]
 "Hallowed Ground"
 
+[/Lotus/Language/Suits/StatisAbilityDesc]
+"Freezes Rift-bound enemies. While active, weapon fire is arrested in mid-air, resuming its trajectory when Stasis ends."
+
+[/Lotus/Language/Suits/StatisAbilityName]
+"Stasis"
+
 [/Lotus/Language/Suits/SwitchTeleportAbilityAugment1Desc]
 "Switch Teleport Augment: After teleporting with an ally they will be invulnerable for |DURATION| seconds."
 
@@ -81827,13 +83955,13 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "Armor increases with each ally nearby."
 
 [/Lotus/Language/Suits/VolatileAbilityAugment1Desc]
-"Rift Surge Augment: Damage multiplier is increased by |DAMAGE_INCREASE|% for each enemy in the rift."
+"Rift Surge Augment: Limbo deals |DAMAGE_INCREASE|% Extra Damage for each enemy affected by Rift Surge while in the rift."
 
 [/Lotus/Language/Suits/VolatileAbilityAugment1Name]
 "Rift Torrent"
 
 [/Lotus/Language/Suits/VolatileAbilityDesc]
-"Surge the void energy through the rift plane, increasing the damage inflicted on enemies that have been banished there."
+"Surges nearby Rift-bound enemies with Rift energy. When killed these enemies create a chain reaction that damages other Surged enemies. Surged enemies that leave the Rift perform a radial Banish."
 
 [/Lotus/Language/Suits/VolatileAbilityName]
 "Rift Surge"
@@ -82202,7 +84330,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "Access to Syndicate Void Relic Pack"
 
 [/Lotus/Language/Syndicates/ArbitersReward3]
-"Access to Large Team Energy Restore blueprint"
+"Access to Squad Energy Restore (Large) blueprint"
 
 [/Lotus/Language/Syndicates/ArbitersRewardNeg1]
 "Hunted by Eximus Corrupted Lancer Squad"
@@ -82253,7 +84381,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "Access to Syndicate Void Relic Pack"
 
 [/Lotus/Language/Syndicates/CephalonReward3]
-"Access to Large Team Shield Restore blueprint"
+"Access to Squad Shield Restore (Large) blueprint"
 
 [/Lotus/Language/Syndicates/CephalonRewardNeg1]
 "Hunted by Eximus Scavenger Drone Squad"
@@ -82439,7 +84567,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "Access to Syndicate Void Relic Pack"
 
 [/Lotus/Language/Syndicates/NewLokaReward3]
-"Access to Large Team Health Restore blueprint"
+"Access to Squad Health Restore (Large) blueprint"
 
 [/Lotus/Language/Syndicates/NewLokaRewardNeg1]
 "Hunted by Eximus Ancient Healer Squad"
@@ -82508,7 +84636,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "Access to Syndicate Void Relic Pack"
 
 [/Lotus/Language/Syndicates/PerrinReward3]
-"Access to Large Team Energy Restore blueprint"
+"Access to Squad Energy Restore (Large) blueprint"
 
 [/Lotus/Language/Syndicates/PerrinRewardNeg1]
 "Hunted by Eximus Moa Squad"
@@ -82571,7 +84699,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "Access to Syndicate Void Relic Pack"
 
 [/Lotus/Language/Syndicates/RedVeilReward3]
-"Access to Large Team Ammo Restore blueprint"
+"Access to Squad Ammo Restore (Large) blueprint"
 
 [/Lotus/Language/Syndicates/RedVeilRewardNeg1]
 "Hunted by Eximus Charger Squad"
@@ -82616,7 +84744,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "Access to Syndicate Void Relic Pack"
 
 [/Lotus/Language/Syndicates/SteelMeridianReward3]
-"Access to Large Team Health Restore blueprint"
+"Access to Squad Health Restore (Large) blueprint"
 
 [/Lotus/Language/Syndicates/SteelMeridianRewardNeg1]
 "Hunted by Eximus Roller Squad"
@@ -83233,6 +85361,9 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 [/Lotus/Language/Upgrades/AvatarKnockdownRecoverySpeedModDesc]
 "|val|% Faster Knockdown Recovery"
 
+[/Lotus/Language/Upgrades/AvatarKuvaGatheringModDesc]
+"|val|% Kuva gained from all sources"
+
 [/Lotus/Language/Upgrades/AvatarLootRadarModDesc]
 "|val| Loot Radar"
 
@@ -83469,6 +85600,9 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 
 [/Lotus/Language/Upgrades/FreezeProcResist]
 "|val|% chance to resist a Cold damage effect"
+
+[/Lotus/Language/Upgrades/GameplayPickupAmountHealth]
+"|val|% from Health Orbs"
 
 [/Lotus/Language/Upgrades/GasProcResist]
 "|val|% chance to resist a Gas damage effect"
@@ -83917,6 +86051,9 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 [/Lotus/Language/Upgrades/WeaponExplosionRadiusModDesc]
 "|val|% Explosion Radius"
 
+[/Lotus/Language/Upgrades/WeaponExposedWeaknessModDesc]
+"[PH] Enemies affected by Impact status effects take |val|% extra damage."
+
 [/Lotus/Language/Upgrades/WeaponFactionDamageCorpusDesc]
 "|val|% Damage to Corpus"
 
@@ -83949,9 +86086,6 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 
 [/Lotus/Language/Upgrades/WeaponHealthOnHitEnemyWithProcModDesc]
 "Healed for |val| when hitting a target affected by status"
-
-[/Lotus/Language/Upgrades/WeaponHealthOnKillChance]
-"|val|% Chance to Restore Health on Kill"
 
 [/Lotus/Language/Upgrades/WeaponHolsteredAutoReloadRate]
 "|val|% Clip Reloaded per Second when Holstered"
@@ -84025,6 +86159,12 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 [/Lotus/Language/Upgrades/WeaponPowerDamageMultiplier]
 "Convert |val|% of Energy used to Bonus Damage on next Melee Attack"
 
+[/Lotus/Language/Upgrades/WeaponPressAdvantageMeleeModDesc]
+"[PH] Staggering enemies increases Attack Speed by |val|%"
+
+[/Lotus/Language/Upgrades/WeaponPressAdvantageRangedModDesc]
+"[PH] Staggering enemies increases Fire Rate by |val|%"
+
 [/Lotus/Language/Upgrades/WeaponProcTimeModDesc]
 "|val|% Status Duration"
 
@@ -84061,9 +86201,6 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 [/Lotus/Language/Upgrades/WeaponReloadSpeedModDesc]
 "|val|% Reload Speed"
 
-[/Lotus/Language/Upgrades/WeaponShieldOnKillChance]
-"|val|% Chance to Restore Shield on Kill"
-
 [/Lotus/Language/Upgrades/WeaponShotgunSpread]
 "|val|% Spread"
 
@@ -84079,6 +86216,9 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 [/Lotus/Language/Upgrades/WeaponStunChance]
 "|val|% Stun Chance"
 
+[/Lotus/Language/Upgrades/WeaponVampireModDesc]
+"[PH] Heals |val|% damage dealt by Slash status effects."
+
 [/Lotus/Language/Upgrades/WeaponViralDamage]
 "|val|% <DT_VIRAL>Viral"
 
@@ -84090,6 +86230,12 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 
 [/Lotus/Language/Upgrades/WhileChanneling]
 "but |val|% Channeling Efficiency while channeling"
+
+[/Lotus/Language/Weapons/AllNew1hSGAltFire]
+"BUCKSHOT"
+
+[/Lotus/Language/Weapons/AllNew1hSGPrimaryFire]
+"SLUG"
 
 [/Lotus/Language/Weapons/BlueprintHintExilusAdapter]
 "Blueprint can be acquired from Cephalon Simaris after completing the Natah quest or purchased from Teshin."
@@ -84129,12 +86275,6 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 
 [/Lotus/Language/Weapons/DjinnMacheteName]
 "GAZAL MACHETE"
-
-[/Lotus/Language/Weapons/FanHammerPistol]
-"[PH] FAN HAMMER PISTOL"
-
-[/Lotus/Language/Weapons/FanHammerPistolDesc]
-"[PH] FAN HAMMER PISTOL"
 
 [/Lotus/Language/Weapons/FlamethrowerWraithDesc]
 "A blood-red variant of this destructive flamethrower."
@@ -84214,6 +86354,18 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 [/Lotus/Language/Weapons/InfVomitGunBuff]
 "FRENZY"
 
+[/Lotus/Language/Weapons/PrismaAngstrumDesc]
+"[PH] Description"
+
+[/Lotus/Language/Weapons/PrismaAngstrumName]
+"PRISMA ANGSTRUM"
+
+[/Lotus/Language/Weapons/PrismaObexDesc]
+"[PH] Description"
+
+[/Lotus/Language/Weapons/PrismaObexName]
+"PRISMA OBEX"
+
 [/Lotus/Language/Weapons/SentinelGremlinDesc]
 "Freeze targets in their tracks with this sentinel mounted ice-beam."
 
@@ -84224,22 +86376,37 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "THROW"
 
 [/Lotus/Language/Weapons/SundialRifleDesc]
-"[PH]Sundial Rifle Description"
+"Deploy this rifle’s radar disc to detect enemies through walls, then hit them with volleys of obstacle penetrating lead."
 
 [/Lotus/Language/Weapons/SundialRifleName]
-"[PH]Sundial Rifle"
-
-[/Lotus/Language/Weapons/TennoRifle]
-"[PH] TENNO RIFLE"
-
-[/Lotus/Language/Weapons/TennoRifleDesc]
-"[PH] TENNO RIFLE DESCRIPTION"
+"ZENITH"
 
 [/Lotus/Language/Weapons/TeshinGlaiveDesc]
 "Turn foes into puppets with Teshin’s versatile throwing disc."
 
 [/Lotus/Language/Weapons/TeshinGlaiveName]
 "ORVIUS"
+
+[/Lotus/Language/Weapons/TnBardPistolAltFire]
+"CHARGED SHOT"
+
+[/Lotus/Language/Weapons/TnBardPistolDesc]
+"Octavia’s pistol hammers foes with single shots or a rapid volley of bullets."
+
+[/Lotus/Language/Weapons/TnBardPistolName]
+"PANDERO"
+
+[/Lotus/Language/Weapons/TnBardRifleDesc]
+"Unload percussive machine gun fire, or strike a heavy chord with a single charge shot. This is Octavia’s signature rifle."
+
+[/Lotus/Language/Weapons/TnBardRifleName]
+"TENORA"
+
+[/Lotus/Language/Weapons/TnPriestPistolDesc]
+"[PH] Description"
+
+[/Lotus/Language/Weapons/TnPriestPistolName]
+"[PH] PRIEST PISTOL"
 
 [/Lotus/Language/Webpage/WP_AccountManagement]
 "ACCOUNT MANAGEMENT"

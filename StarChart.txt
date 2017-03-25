@@ -316,11 +316,27 @@
 
 [Earth]
 
+  Name: [PH] UNCHARTED EXCAVATION SITE
+  Id: LASRIA
+  Faction: FC_GRINEER
+  MissionType: MT_EXCAVATE
+  NodeType: NT_EMPTY
+  ArchwingRequired: No
+  IsSharkwing: No
+
   Name: Strata Relay
   Id: EarthHUB
   Faction: FC_OROKIN
   MissionType: MT_PVP
   NodeType: NT_HUB
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: [PH]Corpus Scout Ship
+  Id: SolNode333
+  Faction: FC_CORPUS
+  MissionType: MT_INTEL
+  NodeType: NT_EVENT
   ArchwingRequired: No
   IsSharkwing: No
 
@@ -521,6 +537,14 @@
   Faction: FC_GRINEER
   MissionType: MT_GENERIC
   NodeType: NT_SHORTCUT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: 
+  Id: EventNode26
+  Faction: FC_GRINEER
+  MissionType: MT_SABOTAGE
+  NodeType: NT_EVENT
   ArchwingRequired: No
   IsSharkwing: No
 
@@ -1674,7 +1698,7 @@
   Id: SolNode761
   Faction: FC_CORPUS
   MissionType: MT_ARENA
-  NodeType: NT_SUB_MISSION
+  NodeType: NT_EVENT
   ArchwingRequired: No
   IsSharkwing: No
 
@@ -1682,7 +1706,7 @@
   Id: SolNode762
   Faction: FC_CORPUS
   MissionType: MT_ARENA
-  NodeType: NT_SUB_MISSION
+  NodeType: NT_EVENT
   ArchwingRequired: No
   IsSharkwing: No
 
@@ -1690,7 +1714,7 @@
   Id: SolNode763
   Faction: FC_CORPUS
   MissionType: MT_ARENA
-  NodeType: NT_SUB_MISSION
+  NodeType: 
   ArchwingRequired: No
   IsSharkwing: No
 
@@ -1698,7 +1722,7 @@
   Id: SolNode764
   Faction: FC_CORPUS
   MissionType: MT_ARENA
-  NodeType: NT_MISSION
+  NodeType: NT_EVENT
   ArchwingRequired: No
   IsSharkwing: No
 

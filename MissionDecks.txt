@@ -173,10 +173,27 @@ Stripped=True
 Stripped=True
 
 
+[/Lotus/Types/Game/MissionDecks/CacheRewardsMoon]
+ - Lua, Plato, MT_EXTERMINATION, FC_GRINEER, NT_MISSION
+Stripped=True
+
+
 [/Lotus/Types/Game/MissionDecks/CacheRewardsVoid]
  - Void, Stribog, MT_SABOTAGE, FC_OROKIN, NT_MISSION
  - Void, Marduk, MT_SABOTAGE, FC_OROKIN, NT_MISSION
 Stripped=True
+
+
+[/Lotus/Types/Game/MissionDecks/CacheRewardsVorsPrize]
+
+Rotation A:
+  1000 SALVAGE, COMMON, 100%
+
+Rotation B:
+  500 POLYMER BUNDLE, COMMON, 100%
+
+Rotation C:
+  2 MORPHICS, COMMON, 100%
 
 
 [/Lotus/Types/Game/MissionDecks/CaptureMissionRewardsA]
@@ -220,7 +237,7 @@ Rotation A:
   1 Ammo Drum, UNCOMMON, 11.06%
   1 Fast Hands, COMMON, 10.84%
   1 Quickdraw, COMMON, 10.84%
-  1 HEALTH RESTORE, COMMON, 10.84%
+  1 HEALTH RESTORE (LARGE), COMMON, 10.84%
   1 OMNI AMMO BOX, RARE, 0.13%
   1 North Wind, RARE, 0.13%
   1 Shocking Touch, RARE, 0.13%
@@ -251,7 +268,7 @@ Rotation C:
 
 
 [/Lotus/Types/Game/MissionDecks/CorpusArenaWagerRewardsEasy]
- - Neptune, THE INDEX, MT_ARENA, FC_CORPUS, NT_SUB_MISSION
+ - Neptune, THE INDEX, MT_ARENA, FC_CORPUS, NT_EVENT
 
 Rotation A:
   1 4000 CREDITS, COMMON, 100%
@@ -264,7 +281,7 @@ Rotation C:
 
 
 [/Lotus/Types/Game/MissionDecks/CorpusArenaWagerRewardsHard]
- - Neptune, THE INDEX: ENDURANCE, MT_ARENA, FC_CORPUS, NT_SUB_MISSION
+ - Neptune, THE INDEX: ENDURANCE, MT_ARENA, FC_CORPUS, 
 
 Rotation A:
   1 75000 CREDITS, COMMON, 100%
@@ -277,7 +294,7 @@ Rotation C:
 
 
 [/Lotus/Types/Game/MissionDecks/CorpusArenaWagerRewardsMedium]
- - Neptune, THE INDEX: HIGH RISK, MT_ARENA, FC_CORPUS, NT_SUB_MISSION
+ - Neptune, THE INDEX: HIGH RISK, MT_ARENA, FC_CORPUS, NT_EVENT
 
 Rotation A:
   1 35000 CREDITS, COMMON, 100%
@@ -295,6 +312,11 @@ Rotation C:
  - Eris, Psoro, MT_HIVE, FC_INFESTATION, NT_EVENT
  - Eris, Viver, MT_HIVE, FC_INFESTATION, NT_EVENT
  - Eris, Naeglar, MT_HIVE, FC_INFESTATION, NT_MISSION
+Stripped=True
+
+
+[/Lotus/Types/Game/MissionDecks/CorpusScoutShipSpyRewards]
+ - Earth, [PH]Corpus Scout Ship, MT_INTEL, FC_CORPUS, NT_EVENT
 Stripped=True
 
 
@@ -688,7 +710,7 @@ Rotation C:
   1 AXI N2 RELIC, COMMON, 9.68%
   1 AXI E2 RELIC, COMMON, 9.68%
   1 AXI H1 RELIC, COMMON, 9.68%
-  1 FORMA BLUEPRINT, UNCOMMON, 22.56%
+  1 OCTAVIA NEUROPTICS BLUEPRINT, UNCOMMON, 22.56%
   1 AXI A1 RELIC, COMMON, 9.68%
   1 AXI V5 RELIC, COMMON, 9.68%
   1 AXI C1 RELIC, COMMON, 9.68%
@@ -903,7 +925,7 @@ Stripped=True
 
 
 [/Lotus/Types/Game/MissionDecks/IndexMissionRewardDifficult]
- - Neptune, THE INDEX: HIGH RISK, MT_ARENA, FC_CORPUS, NT_SUB_MISSION
+ - Neptune, THE INDEX: HIGH RISK, MT_ARENA, FC_CORPUS, NT_EVENT
 
 Rotation A:
   FixedWeights=True
@@ -919,7 +941,6 @@ Rotation A:
 
 
 [/Lotus/Types/Game/MissionDecks/IndexMissionRewardEndless]
- - Neptune, THE INDEX: ENDURANCE, MT_ARENA, FC_CORPUS, NT_SUB_MISSION
 
 Rotation A:
   FixedWeights=True
@@ -935,7 +956,7 @@ Rotation A:
 
 
 [/Lotus/Types/Game/MissionDecks/IndexMissionRewardStandard]
- - Neptune, THE INDEX, MT_ARENA, FC_CORPUS, NT_SUB_MISSION
+ - Neptune, THE INDEX, MT_ARENA, FC_CORPUS, NT_EVENT
 
 Rotation A:
   FixedWeights=True
@@ -1515,6 +1536,10 @@ Stripped=True
  - Uranus, Desdemona, MT_SABOTAGE, FC_GRINEER, NT_MISSION
  - Uranus, Prospero, MT_SABOTAGE, FC_GRINEER, NT_EVENT
  - Uranus, Setebos, MT_SABOTAGE, FC_GRINEER, NT_EVENT
+Stripped=True
+
+
+[/Lotus/Types/Game/MissionDecks/OldWorldExcavationRewards]
 Stripped=True
 
 

@@ -468,7 +468,7 @@ Item Compatibility:
    DEX SYBARIS, NONE, Attenuation: 0.895
    TIBERON, COMMON, Attenuation: 1.5
    RUBICO, COMMON, Attenuation: 1.105
-   /Lotus/Weapons/Tenno/LongGuns/LoginPrimary/SundialRifle [LotusWeapon], NONE, Attenuation: 1
+   ZENITH, NONE, Attenuation: 1
    PANTHERA, COMMON, Attenuation: 1.55
    BOLTOR PRIME, NONE, Attenuation: 0.79
    BURSTON PRIME, NONE, Attenuation: 1.175
@@ -476,6 +476,7 @@ Item Compatibility:
    VECTIS PRIME, NONE, Attenuation: 1
    ZHUGE, COMMON, Attenuation: 1.105
    STRADAVAR, COMMON, Attenuation: 1.175
+   TENORA, COMMON, Attenuation: 1
    SYBARIS, COMMON, Attenuation: 0.895
    ATTICA, COMMON, Attenuation: 1.415
    LATRON WRAITH, NONE, Attenuation: 1.07
@@ -909,6 +910,7 @@ Item Compatibility:
    SONICOR, COMMON, Attenuation: 0.5
    STATICOR, COMMON, Attenuation: 0.53
    ANGSTRUM, COMMON, Attenuation: 1.4
+   PRISMA ANGSTRUM, NONE, Attenuation: 1.4
    TWIN GREMLINS, COMMON, Attenuation: 1.5
    VIPER, COMMON, Attenuation: 1.53
    KRAKEN, COMMON, Attenuation: 1.53
@@ -948,14 +950,19 @@ Item Compatibility:
    AKVASTO, COMMON, Attenuation: 1.24
    AKBRONCO PRIME, NONE, Attenuation: 1.42
    FURIS, COMMON, Attenuation: 1.35
+   FURIS VARIANT, NONE, Attenuation: 1.35
    BRONCO PRIME, NONE, Attenuation: 1.5
    SICARUS, COMMON, Attenuation: 1.5
+   SICARUS VARIANT, NONE, Attenuation: 1.5
    BOLTO, COMMON, Attenuation: 1.51
    BRONCO, COMMON, Attenuation: 1.5
+   BRONCO VARIANT, NONE, Attenuation: 1.5
    LEX, COMMON, Attenuation: 0.5
+   LEX VARIANT, NONE, Attenuation: 0.5
    LATO PRIME, NONE, Attenuation: 1.51
    LATO VANDAL, NONE, Attenuation: 1.51
    LATO, COMMON, Attenuation: 1.51
+   LATO VARIANT, NONE, Attenuation: 1.51
    VASTO, COMMON, Attenuation: 1.53
    EUPHONA PRIME, COMMON, Attenuation: 0.75
    BALLISTICA, COMMON, Attenuation: 0.85
@@ -971,6 +978,7 @@ Item Compatibility:
    AZIMA, COMMON, Attenuation: 1.35
    AKSTILETTO, COMMON, Attenuation: 0.5
    AKJAGARA, COMMON, Attenuation: 1.43
+   PANDERO, COMMON, Attenuation: 1
    /Lotus/Weapons/Tenno/ThrowingWeapons/DumplingBomb/DumplingBombs [LotusWeapon], NONE, Attenuation: 1
    SPIRA, COMMON, Attenuation: 0.66
    SPIRA PRIME, NONE, Attenuation: 0.66
@@ -1803,6 +1811,7 @@ Item Compatibility:
    PROVA VANDAL, NONE, Attenuation: 1
    OHMA, COMMON, Attenuation: 1
    OBEX, COMMON, Attenuation: 1
+   PRISMA OBEX, NONE, Attenuation: 1
    SERRO, COMMON, Attenuation: 1
    LECTA, COMMON, Attenuation: 1
    RIPKAS, COMMON, Attenuation: 1
@@ -1861,6 +1870,7 @@ Item Compatibility:
    ANKYROS, COMMON, Attenuation: 1
    KESTREL, COMMON, Attenuation: 1
    GLAIVE, COMMON, Attenuation: 1
+   GLAIVE VARIANT, NONE, Attenuation: 1
    GLAIVE PRIME, NONE, Attenuation: 1
    ORVIUS, COMMON, Attenuation: 1
    GRAM, COMMON, Attenuation: 1
