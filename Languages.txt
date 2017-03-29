@@ -9302,6 +9302,12 @@ Baro Ki’Teer"
 [/Lotus/Language/Cosmetics/CrpModularScarfName]
 "VEXILLUS CLOAK"
 
+[/Lotus/Language/Cosmetics/DazzleCamoOpticorDesc]
+"The Shock-Camo skin for the Opticor."
+
+[/Lotus/Language/Cosmetics/DazzleCamoOpticorName]
+"SHOCK CAMO OPTICOR"
+
 [/Lotus/Language/Cosmetics/DefectorRescueEventBadgeDesc]
 "An insignia awarded to the Tenno who proved themselves during the Pacifism Defect operation."
 
@@ -47232,6 +47238,9 @@ A Solar Rail is required in order to travel here."
 [/Lotus/Language/Menu/Chat_Send]
 "SEND"
 
+[/Lotus/Language/Menu/Chat_SongInvalidCharacters]
+"This song has invalid characters is in its name. Rename it to allow linking once again."
+
 [/Lotus/Language/Menu/Chat_SpamBlock]
 "You have been temporarily muted due to excessive messaging. You will be unmuted in |TIME| seconds."
 
@@ -58596,6 +58605,9 @@ Ordis, Ship's Cephalon"
 [/Lotus/Language/Menu/TryAgainUpperCase]
 "TRY AGAIN"
 
+[/Lotus/Language/Menu/TwitchEntitlmentsProcessed]
+"Your Twitch purchase has been processed and is now in your inventory."
+
 [/Lotus/Language/Menu/UnableToConnectToHost]
 "Unable to connect to host."
 
@@ -65781,6 +65793,12 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 [/Lotus/Language/Sigils/TwoToneSigilName]
 "GLYPHED SIGIL"
 
+[/Lotus/Language/Sigils/WikiaSigilDesc]
+"A special sigil worn only be a select few Tenno."
+
+[/Lotus/Language/Sigils/WikiaSigilName]
+"TENNO CHRONICLER SIGIL"
+
 [/Lotus/Language/Sigils/WreathSigilDesc]
 "A sigil containing a festive design."
 
@@ -69249,7 +69267,7 @@ Tenno, we never doubted your commitment to Red Veil. Thank you for showing us yo
 "Well Tenno, have you decided to give the Arbiters the location of the accused?"
 
 [/Lotus/Language/Subtitles/Events/DRURelay1430Arbiters]
-"We will pick up the prisoners immediately. Their trial will be swift and just, as all trials should be.
+"We will pick up the prisoners immediately. Their trial will be swift, and just, as all trials should be.
 
 Tenno, we salute you for what you have done."
 
@@ -83961,7 +83979,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "Rift Torrent"
 
 [/Lotus/Language/Suits/VolatileAbilityDesc]
-"Surges nearby Rift-bound enemies with Rift energy. When killed these enemies create a chain reaction that damages other Surged enemies. Surged enemies that leave the Rift perform a radial Banish."
+"Surges nearby Rift-bound enemies with Rift energy. When killed these enemies create a chain reaction that damages other Surged enemies.  Surged enemies that leave the Rift perform a radial Banish."
 
 [/Lotus/Language/Suits/VolatileAbilityName]
 "Rift Surge"

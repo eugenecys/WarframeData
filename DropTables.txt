@@ -4663,6 +4663,12 @@ DROP_POWERUP (Drop Chance: 20%)
 
 [SentientBardQuestDropTable]
 
+DROP_AMMO (Drop Chance: 70%)
+	20 RIFLE AMMO, COMMON, 25%
+	20 PISTOL AMMO, COMMON, 25%
+	10 SHOTGUN AMMO, COMMON, 25%, Bias 0.455
+	10 SNIPER AMMO, COMMON, 25%, Bias 0.555
+
 
 [SentientMeleeDropTable]
  - CONCULYST (SentientMeleeTrooperAvatar)
