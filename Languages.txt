@@ -5389,6 +5389,12 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 [/Lotus/Language/Bundles/MashedGlyphBundleName]
 "MASHED GLYPH PACK"
 
+[/Lotus/Language/Bundles/MemeGlyphBundleADesc]
+"Spread some Tenno culture with this collection of wacky glyphs."
+
+[/Lotus/Language/Bundles/MemeGlyphBundleAName]
+"MEMETICA GLYPH PACK"
+
 [/Lotus/Language/Bundles/NidusBundleDesc]
 "Succumb to the Infestation with the Nidus Warframe, Hema rifle, Hirudo fist-weapons, and the Thorac Syandana.  Includes 3-Day Affinity and Credit Boosters."
 
@@ -7499,25 +7505,25 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 "Kill an opponent on a Kill Streak"
 
 [/Lotus/Language/Challenges/Challenge_StreakStopped_Name]
-"Stopped Kill Streak"
+"STOPPED: 3 Kill Streak"
 
 [/Lotus/Language/Challenges/Challenge_StreakStoppedNine_Description]
-"[PH]Kill an opponent on a 9 kills Kill Streak"
+"Kill an opponent on a 9 kills Kill Streak"
 
 [/Lotus/Language/Challenges/Challenge_StreakStoppedNine_Name]
-"[PH]Stopped a 9 kills Kill Streak"
+"STOPPED: 9 Kill Streak"
 
 [/Lotus/Language/Challenges/Challenge_StreakStoppedSix_Description]
-"[PH]Kill an opponent on a 6 kills Kill Streak"
+"Kill an opponent on a 6 kills Kill Streak"
 
 [/Lotus/Language/Challenges/Challenge_StreakStoppedSix_Name]
-"[PH]Stopped a 6 kills Kill Streak"
+"STOPPED: 6 Kill Streak"
 
 [/Lotus/Language/Challenges/Challenge_StreakStoppedTwelve_Description]
-"[PH]Kill an opponent on a 12 kills Kill Streak"
+"Kill an opponent on a 12 kills Kill Streak"
 
 [/Lotus/Language/Challenges/Challenge_StreakStoppedTwelve_Name]
-"[PH]Stopped a 12 kills Kill Streak"
+"STOPPED: 12 Kill Streak"
 
 [/Lotus/Language/Challenges/Challenge_StyleKill_Description]
 "Get 5 kills while sliding."
@@ -13343,6 +13349,9 @@ To research additional colors, visit the Tenno Lab."
 "Are you sure you want to accept this trade? You are offering:|GIVING|
 
 and will receive from |PLAYER_NAME| the following:|GETTING|"
+
+[/Lotus/Language/Dojo/TradeConfirmOfferAllPlatinum]
+"|COUNT| Platinum is all of your tradable Platinum. Please confirm this value."
 
 [/Lotus/Language/Dojo/TradeItemType]
 "TRADE TYPE:"
@@ -25797,6 +25806,18 @@ This is a high-damage Warframe perfect for players who want a potent alternative
 [/Lotus/Language/Glyphs/MCIKGlyphName]
 "M C I K GLYPH"
 
+[/Lotus/Language/Glyphs/MemeGreedyMilkGlyphName]
+"GREEDY MILK GLYPH"
+
+[/Lotus/Language/Glyphs/MemePotatoGlyphName]
+"POTATO GLYPH"
+
+[/Lotus/Language/Glyphs/MemeProdmanGlyphName]
+"PRODMAN GLYPH"
+
+[/Lotus/Language/Glyphs/MemeShortsGlyphName]
+"PINK SHORTS GLYPH"
+
 [/Lotus/Language/Glyphs/MrBearGamingGlyphName]
 "MRBEARGAMING GLYPH"
 
@@ -26880,7 +26901,7 @@ Note: This item requires two open slots."
 "Venomous Clip"
 
 [/Lotus/Language/Items/ArcTrapStoreItemDesc]
-"Sentinel will zap up to |TARGETS| enemies within |RANGE|m, dealing |DAMAGE| damage with a |PROC|% status chance."
+"Sentinel will zap up to |TARGETS| enemies within |RANGE|m, dealing |DAMAGE| <DT_ELECTRICITY>Electricity damage with a |PROC|% status chance."
 
 [/Lotus/Language/Items/ArcTrapStoreItemName]
 "Arc Coil"
@@ -30797,7 +30818,7 @@ This bundle of 1 Control Module can be used for crafting items in your Foundry."
 "Pick up Crossbow"
 
 [/Lotus/Language/Items/CrowdDispersionStoreItemDesc]
-"Unleashes |RANGE|m radial stun when multiple enemies are nearby, dealing |DAMAGE| damage."
+"Unleashes a |RANGE|m radial knockdown when multiple enemies are nearby, dealing |DAMAGE| damage."
 
 [/Lotus/Language/Items/CrowdDispersionStoreItemName]
 "Crowd Dispersion"
@@ -47581,6 +47602,9 @@ SPEAK TO CEPHALON SIMARIS"
 [/Lotus/Language/Menu/Composition_Bar4]
 "BAR 4"
 
+[/Lotus/Language/Menu/Composition_BarFull]
+"FULL"
+
 [/Lotus/Language/Menu/Composition_Bass]
 "<BASS>BASS"
 
@@ -55868,6 +55892,9 @@ If your system supports DirectX 11 you can enable it in the launcher."
 
 [/Lotus/Language/Menu/Profile_TimePlayed]
 "Time Played"
+
+[/Lotus/Language/Menu/Profile_TimePlayedData]
+"|TIME| (|HOURS| hours)"
 
 [/Lotus/Language/Menu/Profile_Top]
 "TOP"
