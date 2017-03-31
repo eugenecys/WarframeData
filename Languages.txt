@@ -56622,7 +56622,7 @@ Do you wish to enable Recruit Conditioning?"
 "Sorry, your resource drone has been destoyed."
 
 [/Lotus/Language/Menu/ResourceDrone_ManifestTip]
-"These resources are ready to be claimed."
+"These resources are ready to be claimed"
 
 [/Lotus/Language/Menu/ResourceDrone_MaxDrones]
 "Maximum drone allocation reached."
@@ -84006,7 +84006,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "Rift Torrent"
 
 [/Lotus/Language/Suits/VolatileAbilityDesc]
-"Surges nearby Rift-bound enemies with Rift energy. When killed these enemies create a chain reaction that damages other Surged enemies.  Surged enemies that leave the Rift perform a radial Banish."
+"Surges nearby Rift-bound enemies with Rift energy. When killed the Rift Surge is transferred to a nearby enemy outside the rift. Surged enemies that leave the Rift perform a radial Banish."
 
 [/Lotus/Language/Suits/VolatileAbilityName]
 "Rift Surge"
