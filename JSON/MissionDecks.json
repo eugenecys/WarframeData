@@ -702,9 +702,13 @@
       "Derelict, OROKIN DERELICT SURVIVAL, MT_SURVIVAL, FC_INFESTATION, NT_MISSION"
     ],
     "Rotation A": [
-      "3 80 ENDO, COMMON, 33.33%",
-      "3 50 ENDO, COMMON, 33.33%",
-      "1 LITH S4 RELIC, COMMON, 33.33%"
+      "1 LITH V2 RELIC, COMMON, 14.29%",
+      "1 LITH S4 RELIC, COMMON, 14.29%",
+      "1 LITH N2 RELIC, COMMON, 14.29%",
+      "1 LITH S5 RELIC, COMMON, 14.29%",
+      "1 LITH V3 RELIC, COMMON, 14.29%",
+      "4 80 ENDO, COMMON, 14.29%",
+      "5 80 ENDO, COMMON, 14.29%"
     ],
     "Rotation B": [
       "1 NEO V2 RELIC, COMMON, 11.11%",
