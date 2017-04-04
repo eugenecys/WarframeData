@@ -50138,7 +50138,7 @@ Are you sure?"
 "DARVO DEAL"
 
 [/Lotus/Language/Menu/DbUpdateAbort]
-"ABORT UPDATE"
+"<PROBLEM> ABORT UPDATE <PROBLEM>"
 
 [/Lotus/Language/Menu/DbUpdateFailed]
 "Could not update account information, progress was not saved!"
@@ -54735,9 +54735,7 @@ REWARD"
 "PhysX Effects requires Windows 7 (Service Pack 1) or higher."
 
 [/Lotus/Language/Menu/Options_Display_Apex_Wrong_Driver_Version]
-"Your graphics drivers are too old.
-You'll need at least version 355.60. 
-Please update your drivers."
+"NVIDIA driver version must be at least 355.60 and no newer than 373.06."
 
 [/Lotus/Language/Menu/Options_Display_Bloom]
 "Bloom"
@@ -55196,6 +55194,9 @@ If your system supports DirectX 11 you can enable it in the launcher."
 [/Lotus/Language/Menu/Photobooth_FreeCamToggle]
 "|CALLOUTS| Toggle free camera"
 
+[/Lotus/Language/Menu/Photobooth_FreeCamToggle_Desc]
+"Toggle free camera"
+
 [/Lotus/Language/Menu/Photobooth_GeneralControls]
 "<TILT_YAW>/ <TILT_YAW:INVERT=1> Tilt
 <MOVE_Y> Ascend
@@ -55206,6 +55207,28 @@ If your system supports DirectX 11 you can enable it in the launcher."
 <F6> Take Screenshot
 
 <AIM_POWER> Toggle panel visibility"
+
+[/Lotus/Language/Menu/Photobooth_GeneralControls_Bindings]
+"<TILT_YAW>/ <TILT_YAW:INVERT=1>
+<MOVE_Y>
+<MOVE_Y:INVERT=1>
+<AIM_WEAPON>
+<PRE_RUN>
+<TOGGLE_CHAT_WINDOW>
+<F6>
+
+<AIM_POWER>"
+
+[/Lotus/Language/Menu/Photobooth_GeneralControls_Desc]
+"Tilt
+Ascend
+Descend
+Slow movement
+Fast movement
+Advance Time
+Take Screenshot
+
+Toggle panel visibility"
 
 [/Lotus/Language/Menu/Photobooth_Grain]
 "Grain"
@@ -55265,6 +55288,12 @@ If your system supports DirectX 11 you can enable it in the launcher."
 
 [/Lotus/Language/Menu/Photobooth_SwitchControl]
 "<PHOTOBOOTH_TOGGLE_CONTROL> Settings"
+
+[/Lotus/Language/Menu/Photobooth_SwitchControl_Bindings]
+"<PHOTOBOOTH_TOGGLE_CONTROL>"
+
+[/Lotus/Language/Menu/Photobooth_SwitchControl_Desc]
+"Settings"
 
 [/Lotus/Language/Menu/Photobooth_TitaniaShrineHelpText]
 "[PH] This Captura scene is unlocked by beating the game."
