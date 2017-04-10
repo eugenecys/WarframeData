@@ -9297,7 +9297,7 @@ Baro Ki’Teer"
 "The signature sugatra of Chroma Dynasty and his mighty Dominion sword."
 
 [/Lotus/Language/Cosmetics/ChromaDeluxeMeleeDangleName]
-"EMMINENCE SUGATRA"
+"EMINENCE SUGATRA"
 
 [/Lotus/Language/Cosmetics/ChromaDeluxeSkinDesc]
 "Behold, a new elemental king."
@@ -54861,7 +54861,7 @@ REWARD"
 "PhysX Effects requires Windows 7 (Service Pack 1) or higher."
 
 [/Lotus/Language/Menu/Options_Display_Apex_Wrong_Driver_Version]
-"NVIDIA driver version must be at least 355.60 and no newer than 373.06."
+"NVIDIA driver version must be at least 381.65."
 
 [/Lotus/Language/Menu/Options_Display_Bloom]
 "Bloom"
@@ -55830,7 +55830,7 @@ Toggle panel visibility"
 "Most-used Weapon"
 
 [/Lotus/Language/Menu/Profile_NextRankIn]
-"Next Rank (%s) in %s"
+"Next Rank: %s in %s"
 
 [/Lotus/Language/Menu/Profile_ObstacleScoreDesc]
 "Fastest Obstacle Course Time"
@@ -56625,6 +56625,9 @@ Do you wish to enable Recruit Conditioning?"
 
 [/Lotus/Language/Menu/RazorbackArmadaHealth]
 "Armada Reserves"
+
+[/Lotus/Language/Menu/RazorbackArmadaScoreHint]
+"Razorbacks destroyed"
 
 [/Lotus/Language/Menu/ReadyToIncubate]
 "Kubrow cloning sequence ready."
@@ -57757,7 +57760,7 @@ Thank you for your partnership."
 "POLARITY"
 
 [/Lotus/Language/Menu/SortBy_Prefix]
-"Sort by: |SELECTION|"
+"SORT BY: |SELECTION|"
 
 [/Lotus/Language/Menu/SortBy_Price]
 "PRICE"
