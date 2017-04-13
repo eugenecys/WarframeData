@@ -161,9 +161,12 @@
   Locations:
    - Lua, Plato, MT_EXTERMINATION, FC_GRINEER, NT_MISSION
 
-[/Lotus/Types/Game/MissionDecks/CacheRewardsVoid]:
+[/Lotus/Types/Game/MissionDecks/CacheRewardsVoidMedium]:
   Locations:
    - Void, Stribog, MT_SABOTAGE, FC_OROKIN, NT_MISSION
+
+[/Lotus/Types/Game/MissionDecks/CacheRewardsVoidUltra]:
+  Locations:
    - Void, Marduk, MT_SABOTAGE, FC_OROKIN, NT_MISSION
 
 [/Lotus/Types/Game/MissionDecks/CacheRewardsVorsPrize]:
