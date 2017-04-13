@@ -5332,6 +5332,12 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 [/Lotus/Language/Bundles/FrostDeluxeBundleName]
 "FROST HARKA BUNDLE"
 
+[/Lotus/Language/Bundles/FurisArmourPackDesc]
+"Streamlined decorative armor in the style of the Furis and Sybaris."
+
+[/Lotus/Language/Bundles/FurisArmourPackName]
+"AVIA ARMOR SET"
+
 [/Lotus/Language/Bundles/HarkonarSkinBundleDesc]
 "A collection of Harkonar styled skins, forged by the leading Grineer weapon manufacturer. Contains skins for the Grinlok, Javlok, Kohm and Marelok."
 
@@ -9294,7 +9300,7 @@ Baro Ki’Teer"
 "CHROMA DYNASTY HELMET"
 
 [/Lotus/Language/Cosmetics/ChromaDeluxeMeleeDangleDesc]
-"The signature sugatra of Chroma Dynasty and his mighty Dominion sword."
+"The signature sugatra of Chroma Dynasty and his mighty Dominion blade."
 
 [/Lotus/Language/Cosmetics/ChromaDeluxeMeleeDangleName]
 "EMINENCE SUGATRA"
@@ -9433,6 +9439,18 @@ Baro Ki’Teer"
 
 [/Lotus/Language/Cosmetics/FrostPrimeDefaultSkinName]
 "FROST PRIME SKIN"
+
+[/Lotus/Language/Cosmetics/FurisArmArmourName]
+"AVIA SHOULDER PLATE"
+
+[/Lotus/Language/Cosmetics/FurisArmourDesc]
+"Streamlined decorative armor in the style of the Furis and Sybaris."
+
+[/Lotus/Language/Cosmetics/FurisChestArmourName]
+"AVIA CHEST PLATE"
+
+[/Lotus/Language/Cosmetics/FurisLegArmourName]
+"AVIA ANKLE PLATE"
 
 [/Lotus/Language/Cosmetics/FurisVekeskDesc]
 "[PH]FURIS VEKESK SKIN"
@@ -15328,7 +15346,7 @@ and will receive from |PLAYER_NAME| the following:|GETTING|"
 "THE COLLAPSE"
 
 [/Lotus/Language/Fragments/TheCollapse1Desc]
-"On the heels of the Tenno’s victory against the Sentients, the end of the Old War, the golden structures of Orokin civilization collapsed.The absolute cause of this ruination is unknown, but speculation has pointed to natural disaster, political uprising and universal warfare as potential agents of cataclysm. Archived details for this event have never been recovered."
+"On the heels of the Tenno’s victory against the Sentients, the end of the Old War, the golden structures of Orokin civilization collapsed. The absolute cause of this ruination is unknown, but speculation has pointed to natural disaster, political uprising and universal warfare as potential agents of cataclysm. Archived details for this event have never been recovered."
 
 [/Lotus/Language/Fragments/TheCollapse1Flavor]
 "The Collapse"
@@ -25935,6 +25953,9 @@ This is a high-damage Warframe perfect for players who want a potent alternative
 [/Lotus/Language/Glyphs/TdeftonGlyphName]
 "TENNO DEFTON GLYPH"
 
+[/Lotus/Language/Glyphs/TennoCon2017GlyphName]
+"TENNOCON 2017 GLYPH"
+
 [/Lotus/Language/Glyphs/TheNextLevelGlyphName]
 "THENEXTLEVEL GLYPH"
 
@@ -32049,7 +32070,7 @@ This item may only be purchased once per account."
 "Vents out the Archwing's propulsion core, confusing enemy projectiles and causing them to detonate."
 
 [/Lotus/Language/Items/ExhaustTrailAugmentDesc]
-"Core Vent Augment - Blast damage ignites exhaust fumes for |DURATION| secs. Enemies passing through the flames take |DAMAGE| Heat damage."
+"Core Vent Augment: Blast damage ignites exhaust fumes for |DURATION| secs. Enemies passing through the flames take |DAMAGE| Heat damage."
 
 [/Lotus/Language/Items/ExhaustTrailAugmentName]
 "Afterburner"
@@ -32200,7 +32221,7 @@ This bundle of 3000 Ferrite can be used for crafting items in your Foundry."
 "Forms a protective energy shell around the Warframe"
 
 [/Lotus/Language/Items/FireShieldAugmentAbilityDesc]
-"Energy Shell Augment - Energy Shell applies to allies within |val|m."
+"Energy Shell Augment: Energy Shell applies to allies within |val|m."
 
 [/Lotus/Language/Items/FireShieldAugmentAbilityName]
 "Energy Field"
@@ -40496,7 +40517,7 @@ It includes the Itzal Archwing, perfect for covert operations, and comes outfitt
 "Fighter Escort"
 
 [/Lotus/Language/Items/StealthArchwingGravInstabilityAugmentDesc]
-"Cosmic Crush Augment - The black hole saps the area of heat, freezing enemies in range. Enemies near the black hole are completely frozen for |val| seconds."
+"Cosmic Crush Augment: The black hole saps the area of heat, freezing enemies in range. Enemies near the black hole are completely frozen for |val| seconds."
 
 [/Lotus/Language/Items/StealthArchwingGravInstabilityAugmentName]
 "Cold Snap"
@@ -41372,6 +41393,9 @@ It includes the Itzal Archwing, perfect for covert operations, and comes outfitt
 
 [/Lotus/Language/Items/TennoCon2016BadgeName]
 "TENNOCON EMBLEM"
+
+[/Lotus/Language/Items/TennoCon2017Desc]
+"Bestowed upon those who joined together in celebration at TennoCon 2017."
 
 [/Lotus/Language/Items/TennoConScarfDesc]
 "Bestowed upon those who joined together in celebration at TennoCon."
@@ -45014,6 +45038,15 @@ May be traded with other players."
 
 [/Lotus/Language/Lore/Vor]
 "CAPTAIN VOR"
+
+[/Lotus/Language/Marketing/TennoconStoreItemBannerDesc]
+"Coming July 8th, 2017"
+
+[/Lotus/Language/Marketing/TennoconStoreItemDesc]
+"Coming July 8th, 2017"
+
+[/Lotus/Language/Marketing/TennoconStoreItemTitle]
+"TENNOCON 2017"
 
 [/Lotus/Language/Marketing/TennoUnited2016Body]
 "Friends,
@@ -50777,6 +50810,9 @@ Scales with Mastery Rank"
 [/Lotus/Language/Menu/FomorianHealth]
 "Fomorian Integrity"
 
+[/Lotus/Language/Menu/FomorianScoreHint]
+"Best Damage Inflicted: |VALUE|"
+
 [/Lotus/Language/Menu/Foreground_Arsenal]
 "ARSENAL"
 
@@ -51927,9 +51963,6 @@ Just to let you know, the |TYPE_NAME| you sent to |RECIPIENT_NAME| has been open
 [/Lotus/Language/Menu/Input_NoActionsInConfig]
 "No actions can be bound to this button while customizing this configuration"
 
-[/Lotus/Language/Menu/Input_PHOTOBOOTH_TOGGLE_CAMERA]
-"Toggle Captura Camera"
-
 [/Lotus/Language/Menu/Input_POWER_MODIFIER]
 "Use Selected Power"
 
@@ -51976,7 +52009,7 @@ Just to let you know, the |TYPE_NAME| you sent to |RECIPIENT_NAME| has been open
 "Show Level Map"
 
 [/Lotus/Language/Menu/Input_SHOW_SECRET_1]
-"Place Marker"
+"Place Marker / Captura Camera"
 
 [/Lotus/Language/Menu/Input_SWITCH_GUN]
 "Switch Gun"
@@ -55233,6 +55266,21 @@ If your system supports DirectX 11 you can enable it in the launcher."
 [/Lotus/Language/Menu/Options_MenuScale]
 "Menu Scale"
 
+[/Lotus/Language/Menu/Options_MenuScaleCustom]
+"CUSTOM"
+
+[/Lotus/Language/Menu/Options_MenuScaleCustomValue]
+"Custom Scale"
+
+[/Lotus/Language/Menu/Options_MenuScaleCustomValue_Tip]
+"This only applies when Menu Scale is set to Custom."
+
+[/Lotus/Language/Menu/Options_MenuScaleMatchScreen]
+"LEGACY"
+
+[/Lotus/Language/Menu/Options_MenuScaleMatchViewport]
+"FULL"
+
 [/Lotus/Language/Menu/Options_MouseCursorScale]
 "Mouse Cursor Scale"
 
@@ -55305,6 +55353,33 @@ If your system supports DirectX 11 you can enable it in the launcher."
 [/Lotus/Language/Menu/Photobooth_CephalonHelpText]
 "This scene can be acquired from Cephalon Suda offerings."
 
+[/Lotus/Language/Menu/Photobooth_Controls_AdvanceTime]
+"Advance Time"
+
+[/Lotus/Language/Menu/Photobooth_Controls_Ascend]
+"Ascend"
+
+[/Lotus/Language/Menu/Photobooth_Controls_Descend]
+"Descend"
+
+[/Lotus/Language/Menu/Photobooth_Controls_FastMovement]
+"Fast movement"
+
+[/Lotus/Language/Menu/Photobooth_Controls_PanelVis]
+"Toggle panel visibility"
+
+[/Lotus/Language/Menu/Photobooth_Controls_ScreenShot]
+"Take Screenshot"
+
+[/Lotus/Language/Menu/Photobooth_Controls_SlowMovement]
+"Slow movement"
+
+[/Lotus/Language/Menu/Photobooth_Controls_Switch]
+"Settings"
+
+[/Lotus/Language/Menu/Photobooth_Controls_Tilt]
+"Tilt"
+
 [/Lotus/Language/Menu/Photobooth_DoFFocalDepth]
 "DOF - Depth"
 
@@ -55325,39 +55400,6 @@ If your system supports DirectX 11 you can enable it in the launcher."
 
 [/Lotus/Language/Menu/Photobooth_FreeCamToggle_Desc]
 "Toggle free camera"
-
-[/Lotus/Language/Menu/Photobooth_GeneralControls]
-"<TILT_YAW>/ <TILT_YAW:INVERT=1> Tilt
-<MOVE_Y> Ascend
-<MOVE_Y:INVERT=1> Descend
-<AIM_WEAPON> Slow movement
-<PRE_RUN> Fast movement
-<TOGGLE_CHAT_WINDOW> Advance Time
-<F6> Take Screenshot
-
-<AIM_POWER> Toggle panel visibility"
-
-[/Lotus/Language/Menu/Photobooth_GeneralControls_Bindings]
-"<TILT_YAW>/ <TILT_YAW:INVERT=1>
-<MOVE_Y>
-<MOVE_Y:INVERT=1>
-<AIM_WEAPON>
-<PRE_RUN>
-<TOGGLE_CHAT_WINDOW>
-<F6>
-
-<AIM_POWER>"
-
-[/Lotus/Language/Menu/Photobooth_GeneralControls_Desc]
-"Tilt
-Ascend
-Descend
-Slow movement
-Fast movement
-Advance Time
-Take Screenshot
-
-Toggle panel visibility"
 
 [/Lotus/Language/Menu/Photobooth_Grain]
 "Grain"
@@ -55414,15 +55456,6 @@ Toggle panel visibility"
 
 [/Lotus/Language/Menu/Photobooth_SteelMeridianHelpText]
 "This scene can be acquired from Steel Meridian offerings."
-
-[/Lotus/Language/Menu/Photobooth_SwitchControl]
-"<PHOTOBOOTH_TOGGLE_CONTROL> Settings"
-
-[/Lotus/Language/Menu/Photobooth_SwitchControl_Bindings]
-"<PHOTOBOOTH_TOGGLE_CONTROL>"
-
-[/Lotus/Language/Menu/Photobooth_SwitchControl_Desc]
-"Settings"
 
 [/Lotus/Language/Menu/Photobooth_TitaniaShrineHelpText]
 "[PH] This Captura scene is unlocked by beating the game."
@@ -57171,6 +57204,9 @@ Thank you for your partnership."
 [/Lotus/Language/Menu/SettingsHud]
 "HUD"
 
+[/Lotus/Language/Menu/SettingsInterface]
+"INTERFACE"
+
 [/Lotus/Language/Menu/SettingsUpperCase]
 "OPTIONS"
 
@@ -57178,7 +57214,7 @@ Thank you for your partnership."
 "Share"
 
 [/Lotus/Language/Menu/Sharkwing]
-"<ARCHWING> SUBMERSIBLE"
+"SUBMERSIBLE"
 
 [/Lotus/Language/Menu/ShipDecoCantEdit]
 "[PH] This decoration does not have any settings to edit (did you mean to move/remove it?)."
@@ -65982,7 +66018,7 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 "GLYPHED SIGIL"
 
 [/Lotus/Language/Sigils/WikiaSigilDesc]
-"A special sigil worn only be a select few Tenno."
+"A special sigil worn only by a select few Tenno."
 
 [/Lotus/Language/Sigils/WikiaSigilName]
 "TENNO CHRONICLER SIGIL"
@@ -66016,6 +66052,9 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 
 [/Lotus/Language/Sorties/AssaultToDefenseDesc1]
 "In retaliation for their defeat at |PREVIOUS_LOCATION|, |BOSS_NAME|'s units have launched an attack on a stranded Tenno informant at |LOCATION|. Suppress the enemy before he can be captured."
+
+[/Lotus/Language/Sorties/AssaultToEvacuationDesc1]
+"A prisoner manifest found at |PREVIOUS_LOCATION| indicates that enemy defectors holding pertinent information about |BOSS_NAME|'s operations are being held at |LOCATION|. Evacuate the prisoners before they are interrogated and executed."
 
 [/Lotus/Language/Sorties/AssaultToExcavateDesc1]
 "|BOSS_NAME| has dispatched units to claim a recently-discovered Cryotic deposit at |LOCATION|. Excavate as much as you can before the site is overrun."
@@ -66068,6 +66107,9 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 [/Lotus/Language/Sorties/DefenseToDefenseDesc1]
 "A stranded Tenno informant has been discovered at |LOCATION| by a squad of |BOSS_NAME|'s units. Defend him from being captured while an extraction force is established."
 
+[/Lotus/Language/Sorties/DefenseToEvacuationDesc1]
+"A prisoner manifest found at |PREVIOUS_LOCATION| indicates that enemy defectors holding pertinent information about |BOSS_NAME|'s operations are being held at |LOCATION|. Evacuate the prisoners before they are interrogated and executed."
+
 [/Lotus/Language/Sorties/DefenseToExcavateDesc1]
 "Mobilization orders intercepted at |PREVIOUS_LOCATION| suggest a large Cryotic deposit has been located at |LOCATION|. Excavate the site before |BOSS_NAME|'s units overtake it."
 
@@ -66101,6 +66143,51 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 [/Lotus/Language/Sorties/DefenseToTerritoryDesc1]
 "Distressed units at |PREVIOUS_LOCATION| have dispatched unencrypted transmissions to a |BOSS_NAME| data relay at |LOCATION|. Intercept these signals while they are still in flight."
 
+[/Lotus/Language/Sorties/EvacuationDesc1]
+"Enemy defectors holding pertinent information about |BOSS_NAME|'s operations have been captured at |LOCATION|. Evacuate the prisoners before they are interrogated and executed."
+
+[/Lotus/Language/Sorties/EvacuationToAssaultDesc1]
+"Intel provided by the defectors at |PREVIOUS_LOCATION| have revealed the presence of heavy cannons at |LOCATION| which are being used by |BOSS_NAME|'s troops to bombard nearby colonies. Infiltrate the Kuva Fortress and put these cannons out of commission."
+
+[/Lotus/Language/Sorties/EvacuationToDefenseDesc1]
+"Intel provided by the defectors at |PREVIOUS_LOCATION|, |BOSS_NAME|'s units have launched an attack on a stranded Tenno informant at |LOCATION|. Suppress the enemy before he can be captured."
+
+[/Lotus/Language/Sorties/EvacuationToEvacuationDesc1]
+"Intel provided by the defectors at |PREVIOUS_LOCATION| has revealed that more enemy defectors holding pertinent information about |BOSS_NAME|'s operations have been captured at |LOCATION|. Evacuate the prisoners before they are interrogated and executed."
+
+[/Lotus/Language/Sorties/EvacuationToExcavateDesc1]
+"Intel provided by the defectors at |PREVIOUS_LOCATION| suggest a large Cryotic deposit has been located at |LOCATION|. Excavate the site before |BOSS_NAME|'s units overtake it."
+
+[/Lotus/Language/Sorties/EvacuationToExterminationDesc1]
+"Intel provided by the defectors at |PREVIOUS_LOCATION| indicates an advanced group of |BOSS_NAME|'s units is deployed at |LOCATION|. Eliminate them before they are alerted."
+
+[/Lotus/Language/Sorties/EvacuationToHiveDesc1]
+"Alerted enemy units from |PREVIOUS_LOCATION| have activated a breeding grounds for |BOSS_NAME| larvae at |LOCATION|. Destroy the hives before an outbreak occurs."
+
+[/Lotus/Language/Sorties/EvacuationToIntelDesc1]
+"Intel provided by the defectors at |PREVIOUS_LOCATION| are in communication with a concealed data network at |LOCATION|. Extract information without raising |BOSS_NAME|'s attention."
+
+[/Lotus/Language/Sorties/EvacuationToMobileDefenseDesc1]
+"Intel provided by the defectors at |PREVIOUS_LOCATION| has allowed us to breach |BOSS_NAME|'s data network at |LOCATION|. Our datamasses have been deployed to the site; locate them and override the terminals."
+
+[/Lotus/Language/Sorties/EvacuationToPurifyDesc1]
+"Intel provided by the defectors at |PREVIOUS_LOCATION| have revealed an abandoned ship containing experimental research of |BOSS_NAME| at |LOCATION|. Infiltrate the vessel and recover the shipping manifests."
+
+[/Lotus/Language/Sorties/EvacuationToRescueDesc1]
+"Intel provided by the defectors at |PREVIOUS_LOCATION| has uncovered a |BOSS_NAME| prison base at |LOCATION|. Go there and return captive operatives to safety."
+
+[/Lotus/Language/Sorties/EvacuationToRetrievalDesc1]
+"Intel provided by the defectors at |PREVIOUS_LOCATION| indicate a large-scale power cell component is being held by |BOSS_NAME| at |LOCATION|. Retrieve it for our own purposes."
+
+[/Lotus/Language/Sorties/EvacuationToSabotageDesc1]
+"Intel provided by the defectors at |PREVIOUS_LOCATION| have revealed a secret base controlled by |BOSS_NAME|'s units at |LOCATION|. Destroy all essential machinery while the enemy is taken off guard."
+
+[/Lotus/Language/Sorties/EvacuationToSurvivalDesc1]
+"Intel provided by the defectors at |PREVIOUS_LOCATION| reveal an artifact guarded by |BOSS_NAME|'s units at |LOCATION|. Engage enemy units there while our operatives retrieve it."
+
+[/Lotus/Language/Sorties/EvacuationToTerritoryDesc1]
+"Distressed units at |PREVIOUS_LOCATION| have dispatched unencrypted transmissions to a |BOSS_NAME| data relay at |LOCATION|. Intercept these signals while they are still in flight."
+
 [/Lotus/Language/Sorties/ExcavateDesc1]
 "|BOSS_NAME| has dispatched units to claim a recently-discovered Cryotic deposit at |LOCATION|. Excavate as much as you can before the site is overrun."
 
@@ -66115,6 +66202,9 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 
 [/Lotus/Language/Sorties/ExcavateToDefenseDesc1]
 "In retaliation for their defeat at |PREVIOUS_LOCATION|, |BOSS_NAME|'s units have launched an attack on a stranded Tenno informant at |LOCATION|. Suppress the enemy before he can be captured."
+
+[/Lotus/Language/Sorties/ExcavateToEvacuationDesc1]
+"A prisoner manifest found at |PREVIOUS_LOCATION| indicates that enemy defectors holding pertinent information about |BOSS_NAME|'s operations are being held at |LOCATION|. Evacuate the prisoners before they are interrogated and executed."
 
 [/Lotus/Language/Sorties/ExcavateToExcavateDesc1]
 "|BOSS_NAME| has dispatched units to claim a recently-discovered Cryotic deposit at |LOCATION|. Excavate as much as you can before the site is overrun."
@@ -66164,6 +66254,9 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 [/Lotus/Language/Sorties/ExterminationToDefenseDesc1]
 "In retaliation for their defeat at |PREVIOUS_LOCATION|, |BOSS_NAME|'s units have launched an attack on a stranded Tenno informant at |LOCATION|. Suppress the enemy before he can be captured."
 
+[/Lotus/Language/Sorties/ExterminationToEvacuationDesc1]
+"A prisoner manifest found at |PREVIOUS_LOCATION| indicates that enemy defectors holding pertinent information about |BOSS_NAME|'s operations are being held at |LOCATION|. Evacuate the prisoners before they are interrogated and executed."
+
 [/Lotus/Language/Sorties/ExterminationToExcavateDesc1]
 "Mobilization orders intercepted at |PREVIOUS_LOCATION| suggest a large Cryotic deposit has been located at |LOCATION|. Excavate the site before |BOSS_NAME|'s units overtake it."
 
@@ -66208,6 +66301,9 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 
 [/Lotus/Language/Sorties/HiveToDefenseDesc1]
 "In retaliation for their defeat at |PREVIOUS_LOCATION|, |BOSS_NAME|'s units have launched an attack on a stranded Tenno informant at |LOCATION|. Suppress the enemy before he can be captured."
+
+[/Lotus/Language/Sorties/HiveToEvacuationDesc1]
+"A prisoner manifest found at |PREVIOUS_LOCATION| indicates that enemy defectors holding pertinent information about |BOSS_NAME|'s operations are being held at |LOCATION|. Evacuate the prisoners before they are interrogated and executed."
 
 [/Lotus/Language/Sorties/HiveToExcavateDesc1]
 "Mobilization orders intercepted at |PREVIOUS_LOCATION| suggest a large Cryotic deposit has been located at |LOCATION|. Excavate the site before |BOSS_NAME|'s units overtake it."
@@ -66254,6 +66350,9 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 [/Lotus/Language/Sorties/IntelToDefenseDesc1]
 "In retaliation for their defeat at |PREVIOUS_LOCATION|, |BOSS_NAME|'s units have launched an attack on a stranded Tenno informant at |LOCATION|. Suppress the enemy before he can be captured."
 
+[/Lotus/Language/Sorties/IntelToEvacuationDesc1]
+"A prisoner manifest found at |PREVIOUS_LOCATION| indicates that enemy defectors holding pertinent information about |BOSS_NAME|'s operations are being held at |LOCATION|. Evacuate the prisoners before they are interrogated and executed."
+
 [/Lotus/Language/Sorties/IntelToExcavateDesc1]
 "Mobilization orders intercepted at |PREVIOUS_LOCATION| suggest a large Cryotic deposit has been located at |LOCATION|. Excavate the site before |BOSS_NAME|'s units overtake it."
 
@@ -66298,6 +66397,9 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 
 [/Lotus/Language/Sorties/MobileDefenseToDefenseDesc1]
 "In retaliation for their defeat at |PREVIOUS_LOCATION|, |BOSS_NAME|'s units have launched an attack on a stranded Tenno informant at |LOCATION|. Suppress the enemy before he can be captured."
+
+[/Lotus/Language/Sorties/MobileDefenseToEvacuationDesc1]
+"A prisoner manifest found at |PREVIOUS_LOCATION| indicates that enemy defectors holding pertinent information about |BOSS_NAME|'s operations are being held at |LOCATION|. Evacuate the prisoners before they are interrogated and executed."
 
 [/Lotus/Language/Sorties/MobileDefenseToExcavateDesc1]
 "Mobilization orders intercepted at |PREVIOUS_LOCATION| suggest a large Cryotic deposit has been located at |LOCATION|. Excavate the site before |BOSS_NAME|'s units overtake it."
@@ -66440,6 +66542,9 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 [/Lotus/Language/Sorties/PurifyToDefenseDesc1]
 "In retaliation for their defeat at |PREVIOUS_LOCATION|, |BOSS_NAME|'s units have launched an attack on a stranded Tenno informant at |LOCATION|. Suppress the enemy before he can be captured."
 
+[/Lotus/Language/Sorties/PurifyToEvacuationDesc1]
+"A prisoner manifest found at |PREVIOUS_LOCATION| indicates that enemy defectors holding pertinent information about |BOSS_NAME|'s operations are being held at |LOCATION|. Evacuate the prisoners before they are interrogated and executed."
+
 [/Lotus/Language/Sorties/PurifyToExcavateDesc1]
 "|BOSS_NAME| has dispatched units to claim a recently-discovered Cryotic deposit at |LOCATION|. Excavate as much as you can before the site is overrun."
 
@@ -66488,6 +66593,9 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 [/Lotus/Language/Sorties/RescueToDefenseDesc1]
 "Outraged by the escape of their hostage at |PREVIOUS_LOCATION|, |BOSS_NAME|'s units have launched an attack on a stranded Tenno informant at |LOCATION|. Suppress the enemy before he can be captured."
 
+[/Lotus/Language/Sorties/RescueToEvacuationDesc1]
+"A prisoner manifest found at |PREVIOUS_LOCATION| indicates that enemy defectors holding pertinent information about |BOSS_NAME|'s operations are being held at |LOCATION|. Evacuate the prisoners before they are interrogated and executed."
+
 [/Lotus/Language/Sorties/RescueToExcavateDesc1]
 "Mobilization orders overheard by the hostage from |PREVIOUS_LOCATION| suggest a large Cryotic deposit has been located at |LOCATION|. Excavate the site before |BOSS_NAME|'s units overtake it."
 
@@ -66532,6 +66640,9 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 
 [/Lotus/Language/Sorties/RetrievalToDefenseDesc1]
 "In retaliation for their defeat at |PREVIOUS_LOCATION|, |BOSS_NAME|'s units have launched an attack on a stranded Tenno informant at |LOCATION|. Suppress the enemy before he can be captured."
+
+[/Lotus/Language/Sorties/RetrievalToEvacuationDesc1]
+"A prisoner manifest found at |PREVIOUS_LOCATION| indicates that enemy defectors holding pertinent information about |BOSS_NAME|'s operations are being held at |LOCATION|. Evacuate the prisoners before they are interrogated and executed."
 
 [/Lotus/Language/Sorties/RetrievalToExcavateDesc1]
 "Mobilization orders intercepted at |PREVIOUS_LOCATION| suggest a large Cryotic deposit has been located at |LOCATION|. Excavate the site before |BOSS_NAME|'s units overtake it."
@@ -66580,6 +66691,9 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 
 [/Lotus/Language/Sorties/SabotageToDefenseDesc1]
 "In retaliation for their defeat at |PREVIOUS_LOCATION|, |BOSS_NAME|'s units have launched an attack on a stranded Tenno informant at |LOCATION|. Suppress the enemy before he can be captured."
+
+[/Lotus/Language/Sorties/SabotageToEvacuationDesc1]
+"A prisoner manifest found at |PREVIOUS_LOCATION| indicates that enemy defectors holding pertinent information about |BOSS_NAME|'s operations are being held at |LOCATION|. Evacuate the prisoners before they are interrogated and executed."
 
 [/Lotus/Language/Sorties/SabotageToExcavateDesc1]
 "Mobilization orders intercepted at |PREVIOUS_LOCATION| suggest a large Cryotic deposit has been located at |LOCATION|. Excavate the site before |BOSS_NAME|'s units overtake it."
@@ -66668,6 +66782,9 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 [/Lotus/Language/Sorties/SurvivalToDefenseDesc1]
 "In retaliation for their defeat at |PREVIOUS_LOCATION|, |BOSS_NAME|'s units have launched an attack on a stranded Tenno informant at |LOCATION|. Suppress the enemy before he can be captured."
 
+[/Lotus/Language/Sorties/SurvivalToEvacuationDesc1]
+"A prisoner manifest found at |PREVIOUS_LOCATION| indicates that enemy defectors holding pertinent information about |BOSS_NAME|'s operations are being held at |LOCATION|. Evacuate the prisoners before they are interrogated and executed."
+
 [/Lotus/Language/Sorties/SurvivalToExcavateDesc1]
 "Mobilization orders intercepted at |PREVIOUS_LOCATION| suggest a large Cryotic deposit has been located at |LOCATION|. Excavate the site before |BOSS_NAME|'s units overtake it."
 
@@ -66712,6 +66829,9 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 
 [/Lotus/Language/Sorties/TerritoryToDefenseDesc1]
 "Transmissions intercepted from |PREVIOUS_LOCATION| reveal that |BOSS_NAME|'s units have pinpointed a stranded Tenno informant at |LOCATION|. Suppress the enemy before he can be captured."
+
+[/Lotus/Language/Sorties/TerritoryToEvacuationDesc1]
+"A prisoner manifest found at |PREVIOUS_LOCATION| indicates that enemy defectors holding pertinent information about |BOSS_NAME|'s operations are being held at |LOCATION|. Evacuate the prisoners before they are interrogated and executed."
 
 [/Lotus/Language/Sorties/TerritoryToExcavateDesc1]
 "Mobilization orders intercepted at |PREVIOUS_LOCATION| suggest a large Cryotic deposit has been located at |LOCATION|. Excavate the site before |BOSS_NAME|'s units overtake it."
@@ -78306,7 +78426,7 @@ I bet you're looking to get your hands on the code? Too bad, I already sold em t
 "So you're saying there was no treasure, no cure for cloning syndrome, no lost Tenno Cephalon?"
 
 [/Lotus/Language/Subtitles/Quests/DSQInterlude0710Maroo]
-"Ordo, there was nothing. "
+"Ordo, there was nothing."
 
 [/Lotus/Language/Subtitles/Quests/DSQInterlude0720Ordis]
 "That really is a shame Maroo, I am sorry."
@@ -82661,10 +82781,10 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "Razorwing"
 
 [/Lotus/Language/Suits/FairyLightAbilityAugment1Desc]
-"[PH] Lantern Augment: Attracted enemies take |DAMAGE_PCT|% more melee damage."
+"Lantern Augment: Attracted enemies take |DAMAGE_PCT|% more melee damage."
 
 [/Lotus/Language/Suits/FairyLightAbilityAugment1Name]
-"[PH] Lantern Augment"
+"Beguiling Lantern"
 
 [/Lotus/Language/Suits/FairyLightAbilityDesc]
 "Create a swarm of razorflies that transform an enemy into an irresistible floating beacon, attracting witless comrades and finally exploding."
@@ -83240,10 +83360,10 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "Divine Spears"
 
 [/Lotus/Language/Suits/NezhaTrailAbilityAugment1Desc]
-"[PH] Fire Walker Augment: Accumulate |DAMAGE_PCT|% of the damage Fire Walker deals, unleashing it all in trail of fire that lasts |DURATION|s."
+"Fire Walker Augment: Accumulate |DAMAGE_PCT|% of the damage Fire Walker deals, unleashing it in a trail of fire that lasts |DURATION|s."
 
 [/Lotus/Language/Suits/NezhaTrailAbilityAugment1Name]
-"[PH] FIRE WALKER AUGMENT"
+"Pyroclastic Flow"
 
 [/Lotus/Language/Suits/NezhaTrailAbilityDesc]
 "Blaze a trail of flames, scorching enemies and cleansing allies."
@@ -83486,10 +83606,10 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "Artemis Bow"
 
 [/Lotus/Language/Suits/RangerControlAbilityAugment1Desc]
-"[PH] Navigator Augment: Each hit increases the projectile's crit chance by |CRIT|% up to a max of |MAX_CRIT|%."
+"Navigator Augment: Each hit increases the projectile's crit chance by |CRIT|% up to a max of |MAX_CRIT|%."
 
 [/Lotus/Language/Suits/RangerControlAbilityAugment1Name]
-"[PH] NAVIGATOR AUGMENT"
+"Piercing Navigator"
 
 [/Lotus/Language/Suits/RangerControlAbilityDesc]
 "Assume control of a projectile and guide it to the target."
@@ -83714,10 +83834,10 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "Scarab Armor"
 
 [/Lotus/Language/Suits/SandmanSwarmAbilityAugment1Desc]
-"[PH] Scarab Swarm Augment: Scarab armor protects Inaros from status effects, consuming |PERCENT|% charge for each effect resisted."
+"Scarab Swarm Augment: Scarab armor protects Inaros from status effects, consuming |PERCENT|% bonus armor for each effect resisted."
 
 [/Lotus/Language/Suits/SandmanSwarmAbilityAugment1Name]
-"[PH] SCARAB SWARM AUGMENT"
+"Negation Swarm"
 
 [/Lotus/Language/Suits/SandmanSwarmAbilityDesc]
 "Charge to transform health into hardened scarab armor. Discharge to blast enemies with a scarab swarm; survivors have their health drained and bestowed on allies."
