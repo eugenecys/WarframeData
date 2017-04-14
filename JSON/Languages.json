@@ -7749,7 +7749,7 @@
   "/Lotus/Language/GameTips/Mods_FusionEnergy": "Rare Mods require more energy to rank up. They also provide more energy when fused.",
   "/Lotus/Language/GameTips/Mods_MarooTreasureHunt": "Maroo will sometimes have information on where to find Ayatan Treasures.",
   "/Lotus/Language/GameTips/Mods_MeltOmega": "Dissolving Riven Mods will return 75% of the Endo invested into it.",
-  "/Lotus/Language/GameTips/Mods_MiddleClick": "Use <MOUSE_B2> to select all Mods in a stack.",
+  "/Lotus/Language/GameTips/Mods_MiddleClick": "Use |CALLOUT| to select all Mods in a stack.",
   "/Lotus/Language/GameTips/Mods_SellingTreasures": "You can sell Ayatan Sculptures for <FUSION_POINTS> to Maroo in her Bazaar on Earth.",
   "/Lotus/Language/GameTips/Mods_TransmuteRarity": "The rarity of Mods being transmuted will increase the odds of producing a rare Mod.",
   "/Lotus/Language/GameTips/Mods_TransmuteSameCompatibility": "The item compatibility of Mods being transmuted will influence the item compatibility of the Mod you receive.",
