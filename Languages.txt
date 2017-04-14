@@ -25695,7 +25695,7 @@ Lethal abilities are complemented by powers of distraction."
 "Dissolving Riven Mods will return 75% of the Endo invested into it."
 
 [/Lotus/Language/GameTips/Mods_MiddleClick]
-"Use <MOUSE_B2> to select all Mods in a stack."
+"Use |CALLOUT| to select all Mods in a stack."
 
 [/Lotus/Language/GameTips/Mods_SellingTreasures]
 "You can sell Ayatan Sculptures for <FUSION_POINTS> to Maroo in her Bazaar on Earth."
