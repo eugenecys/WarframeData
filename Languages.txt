@@ -3755,6 +3755,9 @@ Darvo"
 [/Lotus/Language/Alerts/DefenseDesc9]
 "Hold Out For Reinforcements"
 
+[/Lotus/Language/Alerts/EvacuationDesc1]
+"Evacuate Enemy Defectors"
+
 [/Lotus/Language/Alerts/ExterminationDesc1]
 "Tenno Distress Signal"
 
@@ -3955,6 +3958,9 @@ Darvo"
 
 [/Lotus/Language/Alerts/OrokinOverload]
 "Orokin Overload"
+
+[/Lotus/Language/Alerts/PurifyDesc1]
+"Recover Experimental Research"
 
 [/Lotus/Language/Alerts/RaidDesc1]
 "Weapons Depot Discovered"
@@ -5315,7 +5321,7 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 "OCTAVIA COLLECTION"
 
 [/Lotus/Language/Bundles/ChromaDeluxeBundleDesc]
-"This regal collection contains the Chroma Dynasty Skin, Dominion Heavy Blade Skin and Eminence Sugatra."
+"This regal collection contains the Chroma Dynasty Skin, Heavy Blade Dominion Skin and Eminence Sugatra."
 
 [/Lotus/Language/Bundles/ChromaDeluxeBundleName]
 "CHROMA DYNASTY COLLECTION"
@@ -5327,7 +5333,7 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 "QUARO COLLECTION"
 
 [/Lotus/Language/Bundles/FrostDeluxeBundleDesc]
-"This icy bundle contains the Frost Harka Skin and the Frysta Longsword Skin."
+"This icy bundle contains the Frost Harka Skin and the Longsword Frysta Skin."
 
 [/Lotus/Language/Bundles/FrostDeluxeBundleName]
 "FROST HARKA BUNDLE"
@@ -9270,7 +9276,7 @@ Baro Ki’Teer"
 "KUVA KAVAT ARMOR"
 
 [/Lotus/Language/Cosmetics/CatbrowArmorHalloweenAName]
-"DAY OF THE DEAD WYSAR KAVAT ARMOR"
+"WYSAR DAY OF THE DEAD KAVAT ARMOR"
 
 [/Lotus/Language/Cosmetics/CatbrowArmorHalloweenDesc]
 "Morbidly festive armor fitted for a Kavat."
@@ -9315,7 +9321,7 @@ Baro Ki’Teer"
 "Dominate everything with Chroma Dynasty’s signature weapon skin for Heavy Blade weapons."
 
 [/Lotus/Language/Cosmetics/ChromaDeluxeSwordName]
-"DOMINION HEAVY BLADE SKIN"
+"HEAVY BLADE DOMINION SKIN"
 
 [/Lotus/Language/Cosmetics/ChromaDeluxeWingsDesc]
 "Wings to match the Chroma Dynasty skin."
@@ -9354,7 +9360,7 @@ Baro Ki’Teer"
 "The Shock-Camo skin for the Opticor."
 
 [/Lotus/Language/Cosmetics/DazzleCamoOpticorName]
-"SHOCK CAMO OPTICOR"
+"OPTICOR SHOCK-CAMO"
 
 [/Lotus/Language/Cosmetics/DefectorRescueEventBadgeDesc]
 "An insignia awarded to the Tenno who proved themselves during the Pacifism Defect operation."
@@ -9432,7 +9438,7 @@ Baro Ki’Teer"
 "Brandish this mythical frozen blade, the signature weapon of Frost Harka."
 
 [/Lotus/Language/Cosmetics/FrostDeluxeGreatSwordName]
-"FRYSTA LONGSWORD SKIN"
+"LONGSWORD FRYSTA SKIN"
 
 [/Lotus/Language/Cosmetics/FrostPrimeDefaultSkinDesc]
 "The standard issue skin for the Frost Prime Warframe."
@@ -10016,6 +10022,18 @@ Baro Ki’Teer"
 [/Lotus/Language/Cosmetics/VoltPrimeDefaultSkinName]
 "VOLT PRIME SKIN"
 
+[/Lotus/Language/Cosmetics/WarframeSkinHydroidAlternateDesc]
+"The Immortal Skin for the Hydroid Warframe."
+
+[/Lotus/Language/Cosmetics/WarframeSkinHydroidAlternateName]
+"HYDROID IMMORTAL SKIN"
+
+[/Lotus/Language/Cosmetics/WarframeSkinZephyrAlternateDesc]
+"The Immortal Skin for the Zephyr Warframe."
+
+[/Lotus/Language/Cosmetics/WarframeSkinZephyrAlternateName]
+"ZEPHYR IMMORTAL SKIN"
+
 [/Lotus/Language/Cosmetics/WraithTurbineArmName]
 "HARKONAR WRAITH ARM ARMOR"
 
@@ -10174,6 +10192,15 @@ Warframe Support Team"
 "We have received reports from other players stating that you have been making offensive comments and/or using profanity in the chat. Comments of this nature are not welcome in the Warframe community. If we continue to receive reports of you making offensive comments, your account will be suspended.
 
 Thank you for your cooperation,
+
+Warframe Support Team"
+
+[/Lotus/Language/CustomerSupport/RMT_Notification]
+"During the investigation of a known Platinum reseller, we found several trades of Platinum or Gifts being sent to your account that involved real money transfers. 
+
+Any invalid trades or gifts have been reversed and you will find that the Platinum to cover said trades and items you received as gifts have been removed from your account. 
+
+Thank you for your understanding.
 
 Warframe Support Team"
 
@@ -29408,7 +29435,7 @@ This can then be used to increase the chances that traits from the original pet 
 "Custom edition of the Kyroptera Syandana forged by Tenno artisans."
 
 [/Lotus/Language/Items/BrassAndGoldScarfName]
-"ORMOLU KYROPTERA SYANDANA"
+"KYROPTERA ORMOLU SYANDANA"
 
 [/Lotus/Language/Items/BrassAndGoldTipedoDesc]
 "Custom edition of the Tipedo forged by Tenno artisans."
@@ -29533,7 +29560,7 @@ Once crafted this Specter may be donated to a clan and used by a Tactician to cr
 "Celebrate the festive season by unleashing sweet minty death on all your favorite foes."
 
 [/Lotus/Language/Items/CandyCaneScytheName]
-"SPEARMINT SCYTHE"
+"SPEARMINT SCYTHE SKIN"
 
 [/Lotus/Language/Items/CandyCaneScythePackDesc]
 "Dress up your Ether Reaper, Hate or Reaper Prime with the festive Spearmint Scythe skin!"
@@ -30337,7 +30364,7 @@ One Fusion Core has a chance to be Rare."
 <UGC> TennoGen"
 
 [/Lotus/Language/Items/ContestAkmagnusDakilaName]
-"DAKILA AKMAGNUS"
+"AKMAGNUS DAKILA SKIN"
 
 [/Lotus/Language/Items/ContestAkmagnusHiveLightDesc]
 "A prize-winning skin for the Akmagnus, designed by Verifitas
@@ -30346,7 +30373,7 @@ One Fusion Core has a chance to be Rare."
 <UGC> TennoGen"
 
 [/Lotus/Language/Items/ContestAkmagnusHiveLightName]
-"HIVELIGHT AKMAGNUS"
+"AKMAGNUS HIVELIGHT SKIN"
 
 [/Lotus/Language/Items/ContestDualZorenCombustionDesc]
 "A prize-winning skin for the Dual Zoren, designed by ming1345
@@ -30355,7 +30382,7 @@ One Fusion Core has a chance to be Rare."
 <UGC> TennoGen"
 
 [/Lotus/Language/Items/ContestDualZorenCombustionName]
-"COMBUSTION DUAL ZOREN"
+"DUAL ZOREN COMBUSTION SKIN"
 
 [/Lotus/Language/Items/ContestDualZorenKuberusDesc]
 "A prize-winning skin for the Dual Zoren, designed by ZeroJackdaw
@@ -30364,7 +30391,7 @@ One Fusion Core has a chance to be Rare."
 <UGC> TennoGen"
 
 [/Lotus/Language/Items/ContestDualZorenKuberusName]
-"KUBERUS DUAL ZOREN"
+"DUAL ZOREN KUBERUS SKIN"
 
 [/Lotus/Language/Items/ContestMagnusDakilaDesc]
 "A prize-winning skin for the Magnus, designed by MaaYuu
@@ -30373,7 +30400,7 @@ One Fusion Core has a chance to be Rare."
 <UGC> TennoGen"
 
 [/Lotus/Language/Items/ContestMagnusDakilaName]
-"DAKILA MAGNUS"
+"MAGNUS DAKILA SKIN"
 
 [/Lotus/Language/Items/ContestMagnusHiveLightDesc]
 "A prize-winning skin for the Magnus, designed by Verifitas
@@ -30382,7 +30409,7 @@ One Fusion Core has a chance to be Rare."
 <UGC> TennoGen"
 
 [/Lotus/Language/Items/ContestMagnusHiveLightName]
-"HIVELIGHT MAGNUS"
+"MAGNUS HIVELIGHT SKIN"
 
 [/Lotus/Language/Items/ContestScindoCombustionDesc]
 "A prize-winning skin for the Scindo, designed by ming1345
@@ -30391,7 +30418,7 @@ One Fusion Core has a chance to be Rare."
 <UGC> TennoGen"
 
 [/Lotus/Language/Items/ContestScindoCombustionName]
-"COMBUSTION SCINDO"
+"SCINDO COMBUSTION SKIN"
 
 [/Lotus/Language/Items/ContestScindoKuberusDesc]
 "A prize-winning skin for the Scindo, designed by ZeroJackdaw
@@ -30400,7 +30427,7 @@ One Fusion Core has a chance to be Rare."
 <UGC> TennoGen"
 
 [/Lotus/Language/Items/ContestScindoKuberusName]
-"KUBERUS SCINDO"
+"SCINDO KUBERUS SKIN"
 
 [/Lotus/Language/Items/ContestVectisSharpshooterDesc]
 "A prize-winning skin for the Vectis, designed by StratoS117
@@ -30409,7 +30436,7 @@ One Fusion Core has a chance to be Rare."
 <UGC> TennoGen"
 
 [/Lotus/Language/Items/ContestVectisSharpshooterName]
-"SHARPSHOOTER VECTIS"
+"VECTIS SHARPSHOOTER SKIN"
 
 [/Lotus/Language/Items/ContestVectisSilfererDesc]
 "A prize-winning skin for the Vectis, designed by Rekkou
@@ -30418,7 +30445,7 @@ One Fusion Core has a chance to be Rare."
 <UGC> TennoGen"
 
 [/Lotus/Language/Items/ContestVectisSilfererName]
-"SILFERER VECTIS"
+"VECTIS SILFERER SKIN"
 
 [/Lotus/Language/Items/ControlModule]
 "CONTROL MODULE"
@@ -30629,7 +30656,7 @@ This bundle of 1 Control Module can be used for crafting items in your Foundry."
 "These bold patterns are designed to confuse the optical processing of both robotic and organic enemies."
 
 [/Lotus/Language/Items/CorpusDazzlePackName]
-"SHOCK CAMO PACK"
+"SHOCK-CAMO PACK"
 
 [/Lotus/Language/Items/CorpusFencerArmArmorDesc]
 "Decorative shoulder plates for your Warframe."
@@ -31259,91 +31286,91 @@ This bundle of 1 Tethra Data Fragment can be used for crafting items in your Fou
 "The Shock-Camo skin for the Braton."
 
 [/Lotus/Language/Items/DazzleCamoBratonName]
-"SHOCK CAMO BRATON"
+"BRATON SHOCK-CAMO SKIN"
 
 [/Lotus/Language/Items/DazzleCamoCestraDesc]
 "The Shock-Camo skin for the Cestra."
 
 [/Lotus/Language/Items/DazzleCamoCestraName]
-"SHOCK CAMO CESTRA"
+"CESTRA SHOCK-CAMO SKIN"
 
 [/Lotus/Language/Items/DazzleCamoDeraDesc]
 "The Shock-Camo skin for the Dera."
 
 [/Lotus/Language/Items/DazzleCamoDeraName]
-"SHOCK CAMO DERA"
+"DERA SHOCK-CAMO SKIN"
 
 [/Lotus/Language/Items/DazzleCamoDetronDesc]
 "The Shock-Camo skin for the Detron."
 
 [/Lotus/Language/Items/DazzleCamoDetronName]
-"SHOCK CAMO DETRON"
+"DETRON SHOCK-CAMO SKIN"
 
 [/Lotus/Language/Items/DazzleCamoDualCestraDesc]
 "The Shock-Camo skin for the Dual Cestra."
 
 [/Lotus/Language/Items/DazzleCamoDualCestraName]
-"SHOCK CAMO DUAL CESTRA"
+"DUAL CESTRA SHOCK-CAMO SKIN"
 
 [/Lotus/Language/Items/DazzleCamoFluxRifleDesc]
 "The Shock-Camo skin for the Flux Rifle."
 
 [/Lotus/Language/Items/DazzleCamoFluxRifleName]
-"SHOCK CAMO FLUX RIFLE"
+"FLUX RIFLE SHOCK-CAMO SKIN"
 
 [/Lotus/Language/Items/DazzleCamoLankaDesc]
 "The Shock-Camo skin for the Lanka."
 
 [/Lotus/Language/Items/DazzleCamoLankaName]
-"SHOCK CAMO LANKA"
+"LANKA SHOCK-CAMO SKIN"
 
 [/Lotus/Language/Items/DazzleCamoLectaDesc]
 "The Shock-Camo skin for the Lecta."
 
 [/Lotus/Language/Items/DazzleCamoLectaName]
-"SHOCK CAMO LECTA"
+"LECTA SHOCK-CAMO SKIN"
 
 [/Lotus/Language/Items/DazzleCamoObexDesc]
 "The Shock-Camo skin for the Obex."
 
 [/Lotus/Language/Items/DazzleCamoObexName]
-"SHOCK CAMO OBEX"
+"OBEX SHOCK-CAMO SKIN"
 
 [/Lotus/Language/Items/DazzleCamoPentaDesc]
 "The Shock-Camo skin for the Penta."
 
 [/Lotus/Language/Items/DazzleCamoPentaName]
-"SHOCK CAMO PENTA"
+"PENTA SHOCK-CAMO SKIN"
 
 [/Lotus/Language/Items/DazzleCamoProvaDesc]
 "The Shock-Camo skin for the Prova."
 
 [/Lotus/Language/Items/DazzleCamoProvaName]
-"SHOCK CAMO PROVA"
+"PROVA SHOCK-CAMO SKIN"
 
 [/Lotus/Language/Items/DazzleCamoSnipetronDesc]
 "The Shock-Camo skin for the Snipetron."
 
 [/Lotus/Language/Items/DazzleCamoSnipetronName]
-"SHOCK CAMO SNIPETRON"
+"SNIPETRON SHOCK-CAMO SKIN"
 
 [/Lotus/Language/Items/DazzleCamoSpectraDesc]
 "The Shock-Camo skin for the Spectra."
 
 [/Lotus/Language/Items/DazzleCamoSpectraName]
-"SHOCK CAMO SPECTRA"
+"SPECTRA SHOCK-CAMO SKIN"
 
 [/Lotus/Language/Items/DazzleCamoSupraDesc]
 "The Shock-Camo skin for the Supra."
 
 [/Lotus/Language/Items/DazzleCamoSupraName]
-"SHOCK CAMO SUPRA"
+"SUPRA SHOCK-CAMO SKIN"
 
 [/Lotus/Language/Items/DazzleCamoTetraDesc]
 "The Shock-Camo skin for the Tetra."
 
 [/Lotus/Language/Items/DazzleCamoTetraName]
-"SHOCK CAMO TETRA"
+"TETRA SHOCK-CAMO SKIN"
 
 [/Lotus/Language/Items/DecayingKeyBlueprint]
 "Blueprint required to craft the Decaying Dragon Key. Shields are greatly reduced while key is equipped."
@@ -32359,31 +32386,31 @@ This bundle of 3000 Ferrite can be used for crafting items in your Foundry."
 "Forest camouflage skin for the Afuris."
 
 [/Lotus/Language/Items/ForestCamoAfurisName]
-"FOREST-CAMO AFURIS"
+"AFURIS FOREST-CAMO SKIN"
 
 [/Lotus/Language/Items/ForestCamoAkvastoDesc]
 "Forest camouflage skin for the Akvasto."
 
 [/Lotus/Language/Items/ForestCamoAkvastoName]
-"FOREST-CAMO AKVASTO"
+"AKVASTO FOREST-CAMO SKIN"
 
 [/Lotus/Language/Items/ForestCamoBallisticaDesc]
 "Forest camouflage skin for the Ballistica."
 
 [/Lotus/Language/Items/ForestCamoBallisticaName]
-"FOREST-CAMO BALLISTICA"
+"BALLISTICA FOREST-CAMO SKIN"
 
 [/Lotus/Language/Items/ForestCamoBoltorDesc]
 "Forest camouflage skin for the Boltor."
 
 [/Lotus/Language/Items/ForestCamoBoltorName]
-"FOREST-CAMO BOLTOR"
+"BOLTOR FOREST-CAMO SKIN"
 
 [/Lotus/Language/Items/ForestCamoBratonDesc]
 "Forest camouflage skin for the Braton and Braton Vandal."
 
 [/Lotus/Language/Items/ForestCamoBratonName]
-"FOREST-CAMO BRATON"
+"BRATON FOREST-CAMO SKIN"
 
 [/Lotus/Language/Items/ForestCamoBundleDesc]
 "A new look for your arsenal. This pack contains 13 forest-camouflage weapon skins and camouflage skin for the Dethcube Sentinel."
@@ -32395,73 +32422,73 @@ This bundle of 3000 Ferrite can be used for crafting items in your Foundry."
 "Forest camouflage skin for the Dethcube."
 
 [/Lotus/Language/Items/ForestCamoDethcubeName]
-"FOREST-CAMO DETHCUBE"
+"DETHCUBE FOREST-CAMO SKIN"
 
 [/Lotus/Language/Items/ForestCamoDualHeatSwordsDesc]
 "Forest camouflage skin for the Dual Heat Swords."
 
 [/Lotus/Language/Items/ForestCamoDualHeatSwordsName]
-"FOREST-CAMO DUAL HEAT SWORDS"
+"DUAL HEAT SWORDS FOREST-CAMO SKIN"
 
 [/Lotus/Language/Items/ForestCamoDualZorenDesc]
 "Forest camouflage skin for the Dual Zoren."
 
 [/Lotus/Language/Items/ForestCamoDualZorenName]
-"FOREST-CAMO DUAL ZOREN"
+"DUAL ZOREN FOREST-CAMO SKIN"
 
 [/Lotus/Language/Items/ForestCamoFurisDesc]
 "Forest camouflage skin for the Furis."
 
 [/Lotus/Language/Items/ForestCamoFurisName]
-"FOREST-CAMO FURIS"
+"FURIS FOREST-CAMO SKIN"
 
 [/Lotus/Language/Items/ForestCamoHeatDaggerDesc]
 "Forest camouflage skin for the Heat Dagger."
 
 [/Lotus/Language/Items/ForestCamoHeatDaggerName]
-"FOREST-CAMO HEAT DAGGER"
+"HEAT DAGGER FOREST-CAMO SKIN"
 
 [/Lotus/Language/Items/ForestCamoHeatSwordDesc]
 "Forest camouflage skin for the Heat Sword."
 
 [/Lotus/Language/Items/ForestCamoHeatSwordName]
-"FOREST-CAMO HEAT SWORD"
+"HEAT SWORD FOREST-CAMO SKIN"
 
 [/Lotus/Language/Items/ForestCamoOrthosDesc]
 "Forest camouflage skin for the Orthos."
 
 [/Lotus/Language/Items/ForestCamoOrthosName]
-"FOREST-CAMO ORTHOS"
+"ORTHOS FOREST-CAMO SKIN"
 
 [/Lotus/Language/Items/ForestCamoParisDesc]
 "Forest camouflage skin for the Paris."
 
 [/Lotus/Language/Items/ForestCamoParisName]
-"FOREST-CAMO PARIS"
+"PARIS FOREST-CAMO SKIN"
 
 [/Lotus/Language/Items/ForestCamoScindoDesc]
 "Forest camouflage skin for the Scindo."
 
 [/Lotus/Language/Items/ForestCamoScindoName]
-"FOREST-CAMO SCINDO"
+"SCINDO FOREST-CAMO SKIN"
 
 [/Lotus/Language/Items/ForestCamoSomaDesc]
 "Forest camouflage skin for the Soma."
 
 [/Lotus/Language/Items/ForestCamoSomaName]
-"FOREST-CAMO SOMA"
+"SOMA FOREST-CAMO SKIN"
 
 [/Lotus/Language/Items/ForestCamoVastoDesc]
 "Forest camouflage skin for the Vasto."
 
 [/Lotus/Language/Items/ForestCamoVastoName]
-"FOREST-CAMO VASTO"
+"VASTO FOREST-CAMO SKIN"
 
 [/Lotus/Language/Items/ForestCamoVectisDesc]
 "Forest camouflage skin for the Vectis."
 
 [/Lotus/Language/Items/ForestCamoVectisName]
-"FOREST-CAMO VECTIS"
+"VECTIS FOREST-CAMO SKIN"
 
 [/Lotus/Language/Items/Forma]
 "FORMA"
@@ -32988,25 +33015,25 @@ This is a key for a TRIAL mission, work with up to 8 Tenno in order to solve pro
 "Desert camouflage skin for the Gorgon."
 
 [/Lotus/Language/Items/GrineerCamoGorgonName]
-"DESERT-CAMO GORGON"
+"GORGON DESERT-CAMO SKIN"
 
 [/Lotus/Language/Items/GrineerCamoGrakataDesc]
 "Desert camouflage skin for the Grakata."
 
 [/Lotus/Language/Items/GrineerCamoGrakataName]
-"DESERT-CAMO GRAKATA"
+"GRAKATA DESERT-CAMO SKIN"
 
 [/Lotus/Language/Items/GrineerCamoGremlinsDesc]
 "Desert camouflage skin for the Gremlins."
 
 [/Lotus/Language/Items/GrineerCamoGremlinsName]
-"DESERT-CAMO GREMLINS"
+"GREMLINS DESERT-CAMO SKIN"
 
 [/Lotus/Language/Items/GrineerCamoKrakenDesc]
 "Desert camouflage skin for the Kraken."
 
 [/Lotus/Language/Items/GrineerCamoKrakenName]
-"DESERT-CAMO KRAKEN"
+"KRAKEN DESERT-CAMO SKIN"
 
 [/Lotus/Language/Items/GrineerCamoSkinBundleDesc]
 "A desert camouflage skin pack for your Grineer arsenal. Contains 7 weapon skins."
@@ -33018,25 +33045,25 @@ This is a key for a TRIAL mission, work with up to 8 Tenno in order to solve pro
 "Desert camouflage skin for the Sobek."
 
 [/Lotus/Language/Items/GrineerCamoSobekName]
-"DESERT-CAMO SOBEK"
+"SOBEK DESERT-CAMO SKIN"
 
 [/Lotus/Language/Items/GrineerCamoTwinVipersDesc]
 "Desert camouflage skin for the Twin Vipers."
 
 [/Lotus/Language/Items/GrineerCamoTwinVipersName]
-"DESERT-CAMO TWIN VIPERS"
+"TWIN VIPERS DESERT-CAMO SKIN"
 
 [/Lotus/Language/Items/GrineerCamoViperDesc]
 "Desert camouflage skin for the Viper."
 
 [/Lotus/Language/Items/GrineerCamoViperName]
-"DESERT-CAMO VIPER"
+"VIPER DESERT-CAMO SKIN"
 
 [/Lotus/Language/Items/GrineerCamoVulkarDesc]
 "Desert camouflage skin for the Vulkar."
 
 [/Lotus/Language/Items/GrineerCamoVulkarName]
-"DESERT-CAMO VULKAR"
+"VULKAR DESERT-CAMO SKIN"
 
 [/Lotus/Language/Items/GrineerCatalystName]
 "GRINEER BIOCATALYST"
@@ -33599,7 +33626,7 @@ This is a key for a TRIAL mission that has been designed to be challenging for 8
 "An Igaro Syndana adorned with a morbidly festive design."
 
 [/Lotus/Language/Items/HalloweenFireFlyScarfName]
-"DAY OF THE DEAD IGARO SYANDANA"
+"IGARO DAY OF THE DEAD SYANDANA"
 
 [/Lotus/Language/Items/HalloweenGalatineDesc]
 "A morbidly festive skin for the Galatine."
@@ -33635,7 +33662,7 @@ This is a key for a TRIAL mission that has been designed to be challenging for 8
 "A Vanquished Banner that has been adorned with a morbidly festive design."
 
 [/Lotus/Language/Items/HalloweenGrnBannerCapeName]
-"DAY OF THE DEAD VANQUISHED BANNER"
+"VANQUISHED BANNER DAY OF THE DEAD"
 
 [/Lotus/Language/Items/HalloweenImperatorDesc]
 "A morbidly festive skin for the Imperator."
@@ -34007,7 +34034,7 @@ This is a key for a TRIAL mission that has been designed to be challenging for 8
 "A festive variation of the Imperator Syandana."
 
 [/Lotus/Language/Items/HolidayScarfName]
-"FESTIVE IMPERATOR SYANDANA"
+"IMPERATOR FESTIVE SYANDANA"
 
 [/Lotus/Language/Items/Holster_BowUpperBack]
 "[PH] Upper Back"
@@ -34217,7 +34244,7 @@ This is a key for a TRIAL mission that has been designed to be challenging for 8
 "A bizarre union of Corpus technology and Infested biology, this automatic rifle can also deploy an irradiated airborne infested mass. Further field testing is required to fully understand the potential of this weapon."
 
 [/Lotus/Language/Items/InfCrpShockSwarmRifleName]
-"MUTALIST QUANTA"
+"QUANTA MUTALIST"
 
 [/Lotus/Language/Items/InfEmbolistArmourBundleDesc]
 "Calcified flesh creates forms of grotesque beauty."
@@ -34286,7 +34313,7 @@ This is a key for a TRIAL mission that has been designed to be challenging for 8
 "Overcome with Infestation, this bow's arrows now spread poisonous contagion to any surface they hit."
 
 [/Lotus/Language/Items/InfestedBowName]
-"MUTALIST CERNOS"
+"CERNOS MUTALIST"
 
 [/Lotus/Language/Items/InfestedDartPistolDesc]
 "The Tysis pistol spits out caustic darts that corrode their victims from within."
@@ -34613,7 +34640,7 @@ This is a key for a TRIAL mission that has been designed to be challenging for 8
 "Jingle all the way with this festive skin for any fist weapon."
 
 [/Lotus/Language/Items/JingleKnucklesSkinName]
-"RINGERS"
+"RINGERS SKIN"
 
 [/Lotus/Language/Items/JuggernautPartAName]
 "PULSATING TUBERCLES"
@@ -35571,7 +35598,7 @@ Requires: Installed Incubator Segment"
 "The Nikana will cause the energy within the Gemini Sheath to flow like the current of river."
 
 [/Lotus/Language/Items/LightningSheathBasicName]
-"YMIR-FORM GEMINI NIKANA SHEATH"
+"NIKANA GEMINI YMIR-FORM SHEATH"
 
 [/Lotus/Language/Items/LightningSheathDesc]
 "The energy flowing within this sheath changes to match the blade within it. The Nikana will cause the energy to flow like the current of a river, while the Dragon Nikana causes the sheath to rage with molten fury.
@@ -35582,10 +35609,10 @@ This skin requires a Nikana or a Dragon Nikana to use."
 "Dragon Nikana causes the Gemini Sheath to rage with molten fury."
 
 [/Lotus/Language/Items/LightningSheathDragonName]
-"SURT-FORM GEMINI NIKANA SHEATH"
+"NIKANA GEMINI SURT-FORM SHEATH"
 
 [/Lotus/Language/Items/LightningSheathName]
-"GEMINI NIKANA SHEATH"
+"NIKANA GEMINI SHEATH"
 
 [/Lotus/Language/Items/LimboAgileAnims]
 "LIMBO AGILE ANIMATION SET"
@@ -38455,7 +38482,7 @@ With 'Investigator' as its unique Precept and 'Deconstructor' as its weapon, the
 "A rare object of beauty, this Archwing sword has been sheathed in prisma crystal and baptized in the void’s energy."
 
 [/Lotus/Language/Items/PrismaArchSwordName]
-"<ARCHWING> PRISMA VERITUX"
+"<ARCHWING> VERITUX PRISMA"
 
 [/Lotus/Language/Items/PrismaArrowDesc]
 "Forged from hardened prisma crystal, these extravagant arrows make a bold statement."
@@ -38467,19 +38494,19 @@ With 'Investigator' as its unique Precept and 'Deconstructor' as its weapon, the
 "Fires a small burst of lasers."
 
 [/Lotus/Language/Items/PrismaBurstLaserPistolStoreItemName]
-"PRISMA BURST LASER"
+"BURST LASER PRISMA"
 
 [/Lotus/Language/Items/PrismaCleaversDesc]
 "Blades of energized prisma crystal make these ornamental cleavers cut as sharply as they look."
 
 [/Lotus/Language/Items/PrismaCleaversName]
-"PRISMA DUAL CLEAVERS"
+"DUAL CLEAVERS PRISMA"
 
 [/Lotus/Language/Items/PrismaCorpusUMPDesc]
 "When bathed in void energy and prisma crystal, the simple Tetra becomes a beacon of style and intimidation."
 
 [/Lotus/Language/Items/PrismaCorpusUMPName]
-"PRISMA TETRA"
+"TETRA PRISMA"
 
 [/Lotus/Language/Items/PrismaExcaliburBundleDesc]
 "Let Excalibur stand apart with skin and helmets forged from the purest prisma crystal."
@@ -38488,31 +38515,31 @@ With 'Investigator' as its unique Precept and 'Deconstructor' as its weapon, the
 "PRISMA EXCALIBUR BUNDLE"
 
 [/Lotus/Language/Items/PrismaFishTailName]
-"PRISMA KOI SENTINEL TAIL"
+"KOI PRISMA SENTINEL TAIL"
 
 [/Lotus/Language/Items/PrismaGorgonDesc]
 "Adorned with void hardened prisma crystal, this Gorgon variant is prized for its beauty and enhanced mechanics."
 
 [/Lotus/Language/Items/PrismaGorgonName]
-"PRISMA GORGON"
+"GORGON PRISMA"
 
 [/Lotus/Language/Items/PrismaGrakataDesc]
 "Encased in plates refined from pure prisma crystals, this rare element gives this assault rifle a radiant luster."
 
 [/Lotus/Language/Items/PrismaGrakataName]
-"PRISMA GRAKATA"
+"GRAKATA PRISMA"
 
 [/Lotus/Language/Items/PrismaJetWingsName]
-"PRISMA JET SENTINEL WINGS"
+"JET PRISMA SENTINEL WINGS"
 
 [/Lotus/Language/Items/PrismaMacheteDesc]
 "The addition of Prisma Crystal allows this otherwise barbaric weapon to elegantly hack through any foe."
 
 [/Lotus/Language/Items/PrismaMacheteName]
-"PRISMA MACHETE"
+"MACHETE PRISMA"
 
 [/Lotus/Language/Items/PrismaMechHeadMaskName]
-"PRISMA MECH HEAD SENTINEL MASK"
+"MECH HEAD PRISMA SENTINEL MASK"
 
 [/Lotus/Language/Items/PrismaMeleeDesc]
 "[PH] Description"
@@ -38527,19 +38554,19 @@ With 'Investigator' as its unique Precept and 'Deconstructor' as its weapon, the
 "A rare jewel of the void. How could anything so beautiful be crafted for stealth?"
 
 [/Lotus/Language/Items/PrismaSentinelName]
-"PRISMA SHADE"
+"SHADE PRISMA"
 
 [/Lotus/Language/Items/PrismaSkanaDesc]
 "Forged from raw prisma crystals and infused with void energy, this blade's pristine edge is honed razor-sharp to eviscerate even the most deadly of foes."
 
 [/Lotus/Language/Items/PrismaSkanaName]
-"PRISMA SKANA"
+"SKANA PRISMA"
 
 [/Lotus/Language/Items/PrismaYamakoScarfDesc]
 "Forged by Orokin era artisans, this exquisite syandana is finished by bathing its prisma crystal in pure void energy."
 
 [/Lotus/Language/Items/PrismaYamakoScarfName]
-"PRISMA YAMAKO SYANDANA"
+"YAMAKO PRISMA SYANDANA"
 
 [/Lotus/Language/Items/ProjectionDescription]
 "An artifact containing Orokin secrets. It can only be opened through the power of the Void."
@@ -38612,7 +38639,7 @@ With 'Investigator' as its unique Precept and 'Deconstructor' as its weapon, the
 *Glaive not included."
 
 [/Lotus/Language/Items/ProtoGlaiveName]
-"PROTO-GLAIVE SKIN"
+"PROTO GLAIVE SKIN"
 
 [/Lotus/Language/Items/PrototypeRaidSekharaDesc]
 "Those who risked everything to exact justice for the Tenno are honored with this Sekhara."
@@ -39416,7 +39443,7 @@ With 'Investigator' as its unique Precept and 'Deconstructor' as its weapon, the
 "This helmet has been adorned with a fine layer of Rubedo plating."
 
 [/Lotus/Language/Items/RubedoSkinHelmetName]
-"RUBEDO PLATED HELMET"
+"RHINO RUBEDO PLATED HELMET"
 
 [/Lotus/Language/Items/RubedoSkinRhinoDesc]
 "This Rhino Warframe has been adorned with a fine layer of Rubedo plating."
@@ -39440,7 +39467,7 @@ With 'Investigator' as its unique Precept and 'Deconstructor' as its weapon, the
 "This syandana has been adorned with a fine layer of Rubedo plating."
 
 [/Lotus/Language/Items/RubedoSkinYamakoSyandanaName]
-"RUBEDO PLATED YAMAKO SYANDANA"
+"YAMAKO RUBEDO PLATED SYANDANA"
 
 [/Lotus/Language/Items/RubedoStoreOverride]
 "A jagged crystalline ore. Gives off radiant energy.
@@ -42405,7 +42432,7 @@ Also includes a fully crafted 'Hidden Messages' quest key, giving you instant ac
 "The Void's corrupting energy has scarred this syandana, leaving it permanently out of phase with conventional space."
 
 [/Lotus/Language/Items/VoidSkinAsaSyandanaName]
-"PHASED ASA SYANDANA"
+"ASA PHASED SYANDANA"
 
 [/Lotus/Language/Items/VoidSkinDualVastoDesc]
 "The Void's corrupting energy has scarred this weapon, leaving it permanently out of phase with conventional space."
@@ -42531,22 +42558,22 @@ Also includes a fully crafted 'Hidden Messages' quest key, giving you instant ac
 "A decorative breastplate for your Warframe."
 
 [/Lotus/Language/Items/VTDaedalusChestPlateName]
-"PRISMA DAEDALUS CHEST PLATE"
+"DAEDALUS PRISMA CHEST PLATE"
 
 [/Lotus/Language/Items/VTDaedalusKneePlatesDesc]
 "Decorative leg plates for your Warframe."
 
 [/Lotus/Language/Items/VTDaedalusLeftKneePlatesName]
-"LEFT PRISMA DAEDALUS KNEE PLATES"
+"LEFT DAEDALUS PRISMA KNEE PLATES"
 
 [/Lotus/Language/Items/VTDaedalusLeftShoulderPlatesName]
-"LEFT PRISMA DAEDALUS SHOULDER GUARD"
+"LEFT DAEDALUS PRISMA SHOULDER GUARD"
 
 [/Lotus/Language/Items/VTDaedalusRightKneePlatesName]
-"RIGHT PRISMA DAEDALUS KNEE PLATES"
+"RIGHT DAEDALUS PRISMA KNEE PLATES"
 
 [/Lotus/Language/Items/VTDaedalusRightShoulderPlatesName]
-"RIGHT PRISMA DAEDALUS SHOULDER GUARD"
+"RIGHT DAEDALUS PRISMA SHOULDER GUARD"
 
 [/Lotus/Language/Items/VTDaedalusShoulderPlatesDesc]
 "Decorative shoulder plates for your Warframe."
@@ -42555,28 +42582,28 @@ Also includes a fully crafted 'Hidden Messages' quest key, giving you instant ac
 "For Orokin-era smugglers, this fearsome handheld shotgun was a favored tool for 'dispute resolution'."
 
 [/Lotus/Language/Items/VTDetronName]
-"DETRON MARA"
+"MARA DETRON"
 
 [/Lotus/Language/Items/VTEdoChestPlateDesc]
 "A decorative breastplate for your Warframe."
 
 [/Lotus/Language/Items/VTEdoChestPlateName]
-"PRISMA EDO CHEST PLATE"
+"EDO PRISMA CHEST PLATE"
 
 [/Lotus/Language/Items/VTEdoKneePlatesDesc]
 "Decorative leg plates for your Warframe."
 
 [/Lotus/Language/Items/VTEdoLeftKneePlatesName]
-"LEFT PRISMA EDO KNEE PLATES"
+"LEFT EDO PRISMA KNEE PLATES"
 
 [/Lotus/Language/Items/VTEdoLeftShoulderPlatesName]
-"LEFT PRISMA EDO SHOULDER PLATES"
+"LEFT EDO PRISMA SHOULDER PLATES"
 
 [/Lotus/Language/Items/VTEdoRightKneePlatesName]
-"RIGHT PRISMA EDO KNEE PLATES"
+"RIGHT EDO PRISMA KNEE PLATES"
 
 [/Lotus/Language/Items/VTEdoRightShoulderPlatesName]
-"RIGHT PRISMA EDO SHOULDER PLATES"
+"RIGHT EDO PRISMA SHOULDER PLATES"
 
 [/Lotus/Language/Items/VTEdoShoulderPlatesDesc]
 "Decorative shoulder plates for your Warframe."
@@ -42627,13 +42654,13 @@ Also includes a fully crafted 'Hidden Messages' quest key, giving you instant ac
 "This Hecate Syandana has been threaded with filaments of prisma crystals."
 
 [/Lotus/Language/Items/VTHornSkullScarfName]
-"PRISMA HECATE SYANDANA"
+"HECATE PRISMA SYANDANA"
 
 [/Lotus/Language/Items/VTOrthosDesc]
 "The blades on this Orthos are fashioned from an alloy that compresses prisma crystals into a hardened Oxium steel. The fusion of these two rare materials condenses moisture near the blade, causing a faint, spectral mist to cascade along the edge."
 
 [/Lotus/Language/Items/VTOrthosName]
-"PRISMA ORTHOS"
+"ORTHOS PRISMA"
 
 [/Lotus/Language/Items/VTQuantaDesc]
 "Once used by ice-pirates against Corpus caravans on Europa, this cold-blue Quanta is highly sought after by collectors."
@@ -55484,6 +55511,9 @@ If your system supports DirectX 11 you can enable it in the launcher."
 [/Lotus/Language/Menu/PhotoboothTileSelectTitle]
 "CAPTURA SCENE"
 
+[/Lotus/Language/Menu/PhotoboothToggleAdvanceTime]
+"Toggle Advance Time"
+
 [/Lotus/Language/Menu/PhotoboothToggleSloMo]
 "Slow Motion"
 
@@ -58768,6 +58798,9 @@ Ordis, Ship's Cephalon"
 
 [/Lotus/Language/Menu/ToxicityPossitiveEffect]
 "|NAME| has |HOW_MUCH|% more Health"
+
+[/Lotus/Language/Menu/TradeFreePlatinumHint]
+"<WARNING> Platinum given for free cannot be traded"
 
 [/Lotus/Language/Menu/TRANSMUTE_BeginTransmutation]
 "TRANSMUTE SELECTED FOR <CREDITS>|PRICE|"
@@ -63729,31 +63762,31 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 "A morbidly festive syandana."
 
 [/Lotus/Language/Seasonal/HalloweenAbrasysScarfName]
-"DAY OF THE DEAD ABRASYS SYANDANA"
+"ABRASYS DAY OF THE DEAD SYANDANA"
 
 [/Lotus/Language/Seasonal/HalloweenCrpCircArmArmourDesc]
 "Morbidly festive shoulder plates for your Warframe."
 
 [/Lotus/Language/Seasonal/HalloweenCrpCircArmArmourName]
-"DAY OF THE DEAD PORTA SHOULDER PLATE"
+"PORTA DAY OF THE DEAD SHOULDER PLATE"
 
 [/Lotus/Language/Seasonal/HalloweenCrpCircArmourBundleDesc]
 "A morbidly festive collection of armour."
 
 [/Lotus/Language/Seasonal/HalloweenCrpCircArmourBundleName]
-"DAY OF THE DEAD PORTA ARMOR PACK"
+"PORTA DAY OF THE DEAD ARMOR PACK"
 
 [/Lotus/Language/Seasonal/HalloweenCrpCircChestArmourDesc]
 "A morbidly festive breastplate for your Warframe."
 
 [/Lotus/Language/Seasonal/HalloweenCrpCircChestArmourName]
-"DAY OF THE DEAD PORTA CHEST PLATE"
+"PORTA DAY OF THE DEAD CHEST PLATE"
 
 [/Lotus/Language/Seasonal/HalloweenCrpCircLegArmourDesc]
 "Morbidly festive leg plates for your Warframe."
 
 [/Lotus/Language/Seasonal/HalloweenCrpCircLegArmourName]
-"DAY OF THE DEAD PORTA LEG PLATES"
+"PORTA DAY OF THE DEAD LEG PLATES"
 
 [/Lotus/Language/Seasonal/HalloweenDaikyuDesc]
 "A morbidly festive skin for the Daikyu."
@@ -63798,7 +63831,7 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 "A morbidly festive syandana."
 
 [/Lotus/Language/Seasonal/HalloweenKyropteraScarfName]
-"DAY OF THE DEAD KYROPTERA SYANDANA"
+"KYROPTERA DAY OF THE DEAD SYANDANA"
 
 [/Lotus/Language/Seasonal/HalloweenSarpaDesc]
 "A morbidly festive skin for the Sarpa."
@@ -63909,7 +63942,7 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 "A Ki'Teer Syandana that has been adorned with a festive design."
 
 [/Lotus/Language/Seasonal/SolsticeBaroCapeName]
-"SOLSTICE KI'TEER SYANDANA"
+"KI'TEER SOLSTICE SYANDANA"
 
 [/Lotus/Language/Seasonal/SolsticeBurstonDesc]
 "A festive skin for the Burston."
@@ -64071,7 +64104,7 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 "A Salix Syandana adorned with a festive design."
 
 [/Lotus/Language/Seasonal/WinterSolsticeSalixName]
-"SOLSTICE SALIX SYANDANA"
+"SALIX SOLSTICE SYANDANA"
 
 [/Lotus/Language/Seasonal/XmasCatbrowSkinDesc]
 "A festive fur pattern for a Kavat"
@@ -64449,16 +64482,16 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 "NOGGLE STATUE - EXCALIBUR"
 
 [/Lotus/Language/ShipDecorations/BobbleheadExcaliburObsidianAzuraDesc]
-"A small wobbly statue of Obsidian Azura Excalibur."
+"A small wobbly statue of Excalibur Obsidian Azura."
 
 [/Lotus/Language/ShipDecorations/BobbleheadExcaliburObsidianAzuraName]
-"NOGGLE STATUE - OBSIDIAN AZURA EXCALIBUR"
+"NOGGLE STATUE - EXCALIBUR OBSIDIAN AZURA"
 
 [/Lotus/Language/ShipDecorations/BobbleheadExcaliburObsidianDesc]
-"A small wobbly statue of Obsidian Excalibur."
+"A small wobbly statue of Excalibur Obsidian."
 
 [/Lotus/Language/ShipDecorations/BobbleheadExcaliburObsidianName]
-"NOGGLE STATUE - OBSIDIAN EXCALIBUR"
+"NOGGLE STATUE - EXCALIBUR OBSIDIAN"
 
 [/Lotus/Language/ShipDecorations/BobbleheadExcaliburPrimeDesc]
 "A small wobbly statue of Excalibur Prime."
@@ -64467,10 +64500,10 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 "NOGGLE STATUE - EXCALIBUR PRIME"
 
 [/Lotus/Language/ShipDecorations/BobbleheadExcaliburPrismaDesc]
-"A small wobbly statue of Prisma Excalibur."
+"A small wobbly statue of Excalibur Prisma."
 
 [/Lotus/Language/ShipDecorations/BobbleheadExcaliburPrismaName]
-"NOGGLE STATUE - PRISMA EXCALIBUR"
+"NOGGLE STATUE - EXCALIBUR PRISMA"
 
 [/Lotus/Language/ShipDecorations/BobbleheadExcaliburProtoDesc]
 "A small wobbly statue of Proto-Excalibur."
@@ -66939,7 +66972,7 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 "A rare object of beauty, this Archwing sword has been sheathed in prisma crystal and baptized in the void’s energy."
 
 [/Lotus/Language/SpaceMelee/PrismaArchSwordName]
-"PRISMA VERITUX"
+"VERITUX PRISMA"
 
 [/Lotus/Language/SpaceMelee/SpaceSwordName]
 "IMSPARTACUS"
@@ -67736,7 +67769,7 @@ Comes with bonus helmet.
 <UGC> TennoGen"
 
 [/Lotus/Language/SteamWorkshop/SWRSixSpitefireScarfName]
-"SPITEFIRE GRAXX SYANDANA"
+"GRAXX SPITEFIRE SYANDANA"
 
 [/Lotus/Language/SteamWorkshop/SWSaikouHelmetDesc]
 "A helmet for the Nyx Warframe, designed by malayu
@@ -84830,7 +84863,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "|SYNDICATE| RANK UP REWARD"
 
 [/Lotus/Language/Syndicates/Favors_Title]
-"|SYNDICATE| OFFERINGS"
+"|SYNDICATE| offerings"
 
 [/Lotus/Language/Syndicates/GenericAugmentModsReward]
 "Access to Ability Augment Mods"
@@ -86687,13 +86720,13 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "[PH] Description"
 
 [/Lotus/Language/Weapons/PrismaAngstrumName]
-"PRISMA ANGSTRUM"
+"ANGSTRUM PRISMA"
 
 [/Lotus/Language/Weapons/PrismaObexDesc]
 "[PH] Description"
 
 [/Lotus/Language/Weapons/PrismaObexName]
-"PRISMA OBEX"
+"OBEX PRISMA"
 
 [/Lotus/Language/Weapons/SentinelGremlinDesc]
 "Freeze targets in their tracks with this sentinel mounted ice-beam."

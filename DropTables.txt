@@ -879,9 +879,9 @@ DROP_POWERUP (Drop Chance: 25%)
  - ATTACK DRONE (DroneAttackAvatar)
  - ATTACK DRONE (ScavengerHuntAvatar)
  - KUVA (GhostAvatar)
- - FRONTIER REGULATOR (ForestDroneAvatar)
  - REGULATOR (SurveillanceDroneAvatar)
  - RATHUUM BROADCASTER (VideoDroneAvatar)
+ - FRONTIER REGULATOR (ForestDroneAvatar)
  - [PH] Service Drone (AmbulasHackingDroneAvatarB)
 
 DROP_AMMO (Drop Chance: 70%)
@@ -1415,8 +1415,8 @@ DROP_POWERUP (Drop Chance: 25%)
 
 
 [CorpusSniperSpacemanAgentDropTable]
- - SNIPER CREWMAN (SniperSpacemanAvatar)
  - NULLIFIER CREWMAN (NullifySpacemanAvatar)
+ - SNIPER CREWMAN (SniperSpacemanAvatar)
 
 DROP_AMMO (Drop Chance: 70%)
 	20 RIFLE AMMO, COMMON, 25%
