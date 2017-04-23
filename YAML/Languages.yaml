@@ -5419,6 +5419,9 @@
 [/Lotus/Language/Bundles/NidusBundleName]:
   "NIDUS COLLECTION"
 
+[/Lotus/Language/Bundles/RenownGenericPackName]:
+  "EXCLUSIVE RENOWN PACKS"
+
 [/Lotus/Language/Bundles/StarrySkinBundleDesc]:
   "Pay homage to the constellations with this brilliant collection. Contains skins for the Braton, Paris, Kunai, Lato, Skana and Bo."
 
@@ -9360,7 +9363,7 @@
   "The Shock-Camo skin for the Opticor."
 
 [/Lotus/Language/Cosmetics/DazzleCamoOpticorName]:
-  "OPTICOR SHOCK-CAMO"
+  "OPTICOR SHOCK-CAMO SKIN"
 
 [/Lotus/Language/Cosmetics/DefectorRescueEventBadgeDesc]:
   "An insignia awarded to the Tenno who proved themselves during the Pacifism Defect operation."
@@ -15482,6 +15485,15 @@
 [/Lotus/Language/G1Quests/AladVWeaponsStolen]:
   "[PH] Now your weapons are mine, fool! Mwa ha ha ha!"
 
+[/Lotus/Language/G1Quests/AmbulasEventName]:
+  "Ambulas Event"
+
+[/Lotus/Language/G1Quests/AmbulasEventScoreDesc]:
+  "Data Fragments Recovered"
+
+[/Lotus/Language/G1Quests/AmbulasEventTooltip]:
+  "Engage Ambulas drop ships on Pluto"
+
 [/Lotus/Language/G1Quests/Anniversary2017MissionBodyA]:
   "Enemy forces have obtained detailed information on some of the Lotus' artifacts. Stop them before they get away!
   
@@ -16138,6 +16150,35 @@
 
 [/Lotus/Language/G1Quests/DarvoThanksgivingDealTitle]:
   "Darvo's Deals are Back"
+
+[/Lotus/Language/G1Quests/DarvoTotallyLegitSaleCompletedInboxBody]:
+  "Friends,
+  
+  Smell that? That's the final shipment of unsold merchandise going up in flames. Let's see the Grineer try to pin this on me now.  Maybe, if they put the same effort into securing their shipments as they do into chasing legitimate merchants halfway around the system, they wouldn't have this problem.
+  
+  Me, I think I might have inhaled one too many flaming Grakatas, so I'm going to go lie down for a bit.
+  
+  Pleasure doing business with you Tenno,
+  
+  -Darvo"
+
+[/Lotus/Language/G1Quests/DarvoTotallyLegitSaleCompletedInboxTitle]:
+  "Thank you, Friends"
+
+[/Lotus/Language/G1Quests/DarvoTotallyLegitSaleIntroInboxBody]:
+  "Friends,
+  
+  I've gone and done it again, this time, I've pissed-off the Grineer with another awesome deal. Why do they hate my deals so much? Is it because they were born in a tube? Probably. But it could also be that they think I've stolen their stuff.
+  
+  That means I've got to get rid of everything, fast. Each day I'll have a new deal, and anything you don't buy, I'm burning to an unrecognizable crisp. It's a fire sale! 
+  
+  Darvo’s Fire Sale: Buy it, or I burn it.
+  
+  Your pal,
+  -Darvo"
+
+[/Lotus/Language/G1Quests/DarvoTotallyLegitSaleIntroInboxTitle]:
+  "Darvo's Fire Sale"
 
 [/Lotus/Language/G1Quests/DeathMarkMessage]:
   "Your actions have consequences..."
@@ -34244,7 +34285,7 @@
   "A bizarre union of Corpus technology and Infested biology, this automatic rifle can also deploy an irradiated airborne infested mass. Further field testing is required to fully understand the potential of this weapon."
 
 [/Lotus/Language/Items/InfCrpShockSwarmRifleName]:
-  "QUANTA MUTALIST"
+  "MUTALIST QUANTA"
 
 [/Lotus/Language/Items/InfEmbolistArmourBundleDesc]:
   "Calcified flesh creates forms of grotesque beauty."
@@ -34313,7 +34354,7 @@
   "Overcome with Infestation, this bow's arrows now spread poisonous contagion to any surface they hit."
 
 [/Lotus/Language/Items/InfestedBowName]:
-  "CERNOS MUTALIST"
+  "MUTALIST CERNOS"
 
 [/Lotus/Language/Items/InfestedDartPistolDesc]:
   "The Tysis pistol spits out caustic darts that corrode their victims from within."
@@ -38482,7 +38523,7 @@
   "A rare object of beauty, this Archwing sword has been sheathed in prisma crystal and baptized in the void’s energy."
 
 [/Lotus/Language/Items/PrismaArchSwordName]:
-  "<ARCHWING> VERITUX PRISMA"
+  "<ARCHWING> PRISMA VERITUX"
 
 [/Lotus/Language/Items/PrismaArrowDesc]:
   "Forged from hardened prisma crystal, these extravagant arrows make a bold statement."
@@ -38494,19 +38535,19 @@
   "Fires a small burst of lasers."
 
 [/Lotus/Language/Items/PrismaBurstLaserPistolStoreItemName]:
-  "BURST LASER PRISMA"
+  "PRISMA BURST LASER"
 
 [/Lotus/Language/Items/PrismaCleaversDesc]:
   "Blades of energized prisma crystal make these ornamental cleavers cut as sharply as they look."
 
 [/Lotus/Language/Items/PrismaCleaversName]:
-  "DUAL CLEAVERS PRISMA"
+  "PRISMA DUAL CLEAVERS"
 
 [/Lotus/Language/Items/PrismaCorpusUMPDesc]:
   "When bathed in void energy and prisma crystal, the simple Tetra becomes a beacon of style and intimidation."
 
 [/Lotus/Language/Items/PrismaCorpusUMPName]:
-  "TETRA PRISMA"
+  "PRISMA TETRA"
 
 [/Lotus/Language/Items/PrismaExcaliburBundleDesc]:
   "Let Excalibur stand apart with skin and helmets forged from the purest prisma crystal."
@@ -38515,31 +38556,31 @@
   "PRISMA EXCALIBUR BUNDLE"
 
 [/Lotus/Language/Items/PrismaFishTailName]:
-  "KOI PRISMA SENTINEL TAIL"
+  "PRISMA KOI SENTINEL TAIL"
 
 [/Lotus/Language/Items/PrismaGorgonDesc]:
   "Adorned with void hardened prisma crystal, this Gorgon variant is prized for its beauty and enhanced mechanics."
 
 [/Lotus/Language/Items/PrismaGorgonName]:
-  "GORGON PRISMA"
+  "PRISMA GORGON"
 
 [/Lotus/Language/Items/PrismaGrakataDesc]:
   "Encased in plates refined from pure prisma crystals, this rare element gives this assault rifle a radiant luster."
 
 [/Lotus/Language/Items/PrismaGrakataName]:
-  "GRAKATA PRISMA"
+  "PRISMA GRAKATA"
 
 [/Lotus/Language/Items/PrismaJetWingsName]:
-  "JET PRISMA SENTINEL WINGS"
+  "PRISMA JET SENTINEL WINGS"
 
 [/Lotus/Language/Items/PrismaMacheteDesc]:
   "The addition of Prisma Crystal allows this otherwise barbaric weapon to elegantly hack through any foe."
 
 [/Lotus/Language/Items/PrismaMacheteName]:
-  "MACHETE PRISMA"
+  "PRISMA MACHETE"
 
 [/Lotus/Language/Items/PrismaMechHeadMaskName]:
-  "MECH HEAD PRISMA SENTINEL MASK"
+  "PRISMA MECH HEAD SENTINEL MASK"
 
 [/Lotus/Language/Items/PrismaMeleeDesc]:
   "[PH] Description"
@@ -38554,19 +38595,19 @@
   "A rare jewel of the void. How could anything so beautiful be crafted for stealth?"
 
 [/Lotus/Language/Items/PrismaSentinelName]:
-  "SHADE PRISMA"
+  "PRISMA SHADE"
 
 [/Lotus/Language/Items/PrismaSkanaDesc]:
   "Forged from raw prisma crystals and infused with void energy, this blade's pristine edge is honed razor-sharp to eviscerate even the most deadly of foes."
 
 [/Lotus/Language/Items/PrismaSkanaName]:
-  "SKANA PRISMA"
+  "PRISMA SKANA"
 
 [/Lotus/Language/Items/PrismaYamakoScarfDesc]:
   "Forged by Orokin era artisans, this exquisite syandana is finished by bathing its prisma crystal in pure void energy."
 
 [/Lotus/Language/Items/PrismaYamakoScarfName]:
-  "YAMAKO PRISMA SYANDANA"
+  "PRISMA YAMAKO SYANDANA"
 
 [/Lotus/Language/Items/ProjectionDescription]:
   "An artifact containing Orokin secrets. It can only be opened through the power of the Void."
@@ -38846,10 +38887,10 @@
   "Cunning Aspect"
 
 [/Lotus/Language/Items/PvpRepBadgeDesc]:
-  "[PH] The holographic interface on this emblem will update to display the rank achieved through exemplary dedication to Conclave Alerts."
+  "The holographic interface on this emblem will update to display the rank achieved through exemplary dedication to Conclave Alerts."
 
 [/Lotus/Language/Items/PvpRepBadgeName]:
-  "[PH] CONCLAVE STRATOS EMBLEM"
+  "ARMILLA EMBLEM"
 
 [/Lotus/Language/Items/PvPScytheStanceOne]:
   "Shadow Harvest"
@@ -42558,22 +42599,22 @@
   "A decorative breastplate for your Warframe."
 
 [/Lotus/Language/Items/VTDaedalusChestPlateName]:
-  "DAEDALUS PRISMA CHEST PLATE"
+  "PRISMA DAEDALUS CHEST PLATE"
 
 [/Lotus/Language/Items/VTDaedalusKneePlatesDesc]:
   "Decorative leg plates for your Warframe."
 
 [/Lotus/Language/Items/VTDaedalusLeftKneePlatesName]:
-  "LEFT DAEDALUS PRISMA KNEE PLATES"
+  "LEFT PRISMA DAEDALUS KNEE PLATES"
 
 [/Lotus/Language/Items/VTDaedalusLeftShoulderPlatesName]:
-  "LEFT DAEDALUS PRISMA SHOULDER GUARD"
+  "LEFT PRISMA DAEDALUS SHOULDER GUARD"
 
 [/Lotus/Language/Items/VTDaedalusRightKneePlatesName]:
-  "RIGHT DAEDALUS PRISMA KNEE PLATES"
+  "RIGHT PRISMA DAEDALUS KNEE PLATES"
 
 [/Lotus/Language/Items/VTDaedalusRightShoulderPlatesName]:
-  "RIGHT DAEDALUS PRISMA SHOULDER GUARD"
+  "RIGHT PRISMA DAEDALUS SHOULDER GUARD"
 
 [/Lotus/Language/Items/VTDaedalusShoulderPlatesDesc]:
   "Decorative shoulder plates for your Warframe."
@@ -42588,22 +42629,22 @@
   "A decorative breastplate for your Warframe."
 
 [/Lotus/Language/Items/VTEdoChestPlateName]:
-  "EDO PRISMA CHEST PLATE"
+  "PRISMA EDO CHEST PLATE"
 
 [/Lotus/Language/Items/VTEdoKneePlatesDesc]:
   "Decorative leg plates for your Warframe."
 
 [/Lotus/Language/Items/VTEdoLeftKneePlatesName]:
-  "LEFT EDO PRISMA KNEE PLATES"
+  "LEFT PRISMA EDO KNEE PLATES"
 
 [/Lotus/Language/Items/VTEdoLeftShoulderPlatesName]:
-  "LEFT EDO PRISMA SHOULDER PLATES"
+  "LEFT PRISMA EDO SHOULDER PLATES"
 
 [/Lotus/Language/Items/VTEdoRightKneePlatesName]:
-  "RIGHT EDO PRISMA KNEE PLATES"
+  "RIGHT PRISMA EDO KNEE PLATES"
 
 [/Lotus/Language/Items/VTEdoRightShoulderPlatesName]:
-  "RIGHT EDO PRISMA SHOULDER PLATES"
+  "RIGHT PRISMA EDO SHOULDER PLATES"
 
 [/Lotus/Language/Items/VTEdoShoulderPlatesDesc]:
   "Decorative shoulder plates for your Warframe."
@@ -42654,13 +42695,13 @@
   "This Hecate Syandana has been threaded with filaments of prisma crystals."
 
 [/Lotus/Language/Items/VTHornSkullScarfName]:
-  "HECATE PRISMA SYANDANA"
+  "PRISMA HECATE SYANDANA"
 
 [/Lotus/Language/Items/VTOrthosDesc]:
   "The blades on this Orthos are fashioned from an alloy that compresses prisma crystals into a hardened Oxium steel. The fusion of these two rare materials condenses moisture near the blade, causing a faint, spectral mist to cascade along the edge."
 
 [/Lotus/Language/Items/VTOrthosName]:
-  "ORTHOS PRISMA"
+  "PRISMA ORTHOS"
 
 [/Lotus/Language/Items/VTQuantaDesc]:
   "Once used by ice-pirates against Corpus caravans on Europa, this cold-blue Quanta is highly sought after by collectors."
@@ -51405,22 +51446,22 @@
   "|free| OPEN SLOTS"
 
 [/Lotus/Language/Menu/Global_InsufficientCredits]:
-  "Insufficient <CREDITS> Credits to purchase '%s'"
+  "Insufficient <CREDITS> Credits to purchase '%s'. "
 
 [/Lotus/Language/Menu/Global_InsufficientFunds]:
-  "Insufficient Platinum/Credits to purchase '%s'"
+  "Insufficient Platinum/Credits to purchase '%s'. "
 
 [/Lotus/Language/Menu/Global_InsufficientPlatinum]:
-  "Insufficient <PLATINUM_CREDITS> Platinum to purchase '%s'"
+  "Insufficient <PLATINUM_CREDITS> Platinum to purchase '%s'. "
 
 [/Lotus/Language/Menu/Global_InsufficientPrimeBucks]:
-  "Insufficient Orokin Ducats to purchase '%s'"
+  "Insufficient Orokin Ducats to purchase '%s'. "
 
 [/Lotus/Language/Menu/Global_InsufficientPurchasedPlatinum]:
   "Only purchased platinum may be used to buy this item. You do not have sufficient purchased platinum to buy this item."
 
 [/Lotus/Language/Menu/Global_InsufficientStanding]:
-  "Insufficient <REPUTATION> Standing to purchase '%s'"
+  "Insufficient <REPUTATION> Standing to purchase '%s'. "
 
 [/Lotus/Language/Menu/Global_LeaveLoadoutConfirm]:
   "Your loadout has been modified. Are you sure you want to leave the screen without saving?"
@@ -64482,16 +64523,16 @@
   "NOGGLE STATUE - EXCALIBUR"
 
 [/Lotus/Language/ShipDecorations/BobbleheadExcaliburObsidianAzuraDesc]:
-  "A small wobbly statue of Excalibur Obsidian Azura."
+  "A small wobbly statue of Obsidian Azura Excalibur."
 
 [/Lotus/Language/ShipDecorations/BobbleheadExcaliburObsidianAzuraName]:
-  "NOGGLE STATUE - EXCALIBUR OBSIDIAN AZURA"
+  "NOGGLE STATUE - OBSIDIAN AZURA EXCALIBUR"
 
 [/Lotus/Language/ShipDecorations/BobbleheadExcaliburObsidianDesc]:
-  "A small wobbly statue of Excalibur Obsidian."
+  "A small wobbly statue of Obsidian Excalibur."
 
 [/Lotus/Language/ShipDecorations/BobbleheadExcaliburObsidianName]:
-  "NOGGLE STATUE - EXCALIBUR OBSIDIAN"
+  "NOGGLE STATUE - OBSIDIAN EXCALIBUR"
 
 [/Lotus/Language/ShipDecorations/BobbleheadExcaliburPrimeDesc]:
   "A small wobbly statue of Excalibur Prime."
@@ -64500,10 +64541,10 @@
   "NOGGLE STATUE - EXCALIBUR PRIME"
 
 [/Lotus/Language/ShipDecorations/BobbleheadExcaliburPrismaDesc]:
-  "A small wobbly statue of Excalibur Prisma."
+  "A small wobbly statue of Prisma Excalibur."
 
 [/Lotus/Language/ShipDecorations/BobbleheadExcaliburPrismaName]:
-  "NOGGLE STATUE - EXCALIBUR PRISMA"
+  "NOGGLE STATUE - PRISMA EXCALIBUR"
 
 [/Lotus/Language/ShipDecorations/BobbleheadExcaliburProtoDesc]:
   "A small wobbly statue of Proto-Excalibur."
@@ -66972,7 +67013,7 @@
   "A rare object of beauty, this Archwing sword has been sheathed in prisma crystal and baptized in the void’s energy."
 
 [/Lotus/Language/SpaceMelee/PrismaArchSwordName]:
-  "VERITUX PRISMA"
+  "PRISMA VERITUX"
 
 [/Lotus/Language/SpaceMelee/SpaceSwordName]:
   "IMSPARTACUS"
@@ -72099,6 +72140,16 @@
 
 [/Lotus/Language/Subtitles/MissionObjectives/DArchwingDemo070FrohdBek]:
   "Impossible... All units, full alert, prepare for boarding..."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAugust2017Deals0010Darvo]:
+  "Friends, I've gone and done it again, this time, I've pissed-off the Grineer with another awesome deal. Why do they hate my deals so much? Is it because they were born in a tube? Probably. Might also be that they think I've stolen their stuff. 
+  That means I've got to get rid of everything, fast. Each day I'll have a new deal, and anything you don't buy, I'm burning to an unrecognizable crisp. It's a fire sale! 
+  Darvo's Fire Sale: Buy it, or I burn it."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DAugust2017Deals0020Darvo]:
+  "Friends, smell that? That's the final shipment of unsold merchandise going up in flames. Let's see the Grineer try to pin this on me now.  Maybe, if they spent more time securing their shipments and less time chasing legitimate merchants all around the system, they wouldn't have this problem.
+  Me, I think I might have inhaled one too many flaming Grakatas, so I'm going to go lie down for a bit. 
+  Pleasure doing business with you, Tenno. Nighty-night."
 
 [/Lotus/Language/Subtitles/MissionObjectives/DAugustDeals0010Darvo]:
   "Friends, I've done it again, I've ticked off the entire Corpus board with my amazing deals. They're so upset they make up lies, like, \"Darvo's merchandise is our merchandise!\" 
@@ -86720,13 +86771,13 @@
   "[PH] Description"
 
 [/Lotus/Language/Weapons/PrismaAngstrumName]:
-  "ANGSTRUM PRISMA"
+  "PRISMA ANGSTRUM"
 
 [/Lotus/Language/Weapons/PrismaObexDesc]:
   "[PH] Description"
 
 [/Lotus/Language/Weapons/PrismaObexName]:
-  "OBEX PRISMA"
+  "PRISMA OBEX"
 
 [/Lotus/Language/Weapons/SentinelGremlinDesc]:
   "Freeze targets in their tracks with this sentinel mounted ice-beam."
@@ -86738,7 +86789,7 @@
   "THROW"
 
 [/Lotus/Language/Weapons/SundialRifleDesc]:
-  "Deploy this rifle’s radar disc to detect enemies through walls, then hit them with volleys of obstacle penetrating lead."
+  "Deploy the radar disc to reveal hidden enemies and then strike with precisions shots that punch through all obstacles in the way."
 
 [/Lotus/Language/Weapons/SundialRifleName]:
   "ZENITH"
