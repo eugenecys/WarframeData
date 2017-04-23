@@ -422,7 +422,7 @@ Item Compatibility:
    LANKA, COMMON, Attenuation: 1.105
    AMPREX, COMMON, Attenuation: 0.965
    TETRA, COMMON, Attenuation: 1.5
-   TETRA PRISMA, NONE, Attenuation: 1.5
+   PRISMA TETRA, NONE, Attenuation: 1.5
    OPTICOR VARIANT, NONE, Attenuation: 1
    OPTICOR, COMMON, Attenuation: 1.21
    GLAXION, COMMON, Attenuation: 1.35
@@ -446,10 +446,10 @@ Item Compatibility:
    BUZLOK, COMMON, Attenuation: 1.55
    TONKOR, COMMON, Attenuation: 0.55
    HARPAK, COMMON, Attenuation: 1.55
-   GORGON PRISMA, NONE, Attenuation: 1.175
+   PRISMA GORGON, NONE, Attenuation: 1.175
    GORGON WRAITH, NONE, Attenuation: 1.175
-   CERNOS MUTALIST, COMMON, Attenuation: 1.21
-   QUANTA MUTALIST, COMMON, Attenuation: 1.55
+   MUTALIST CERNOS, COMMON, Attenuation: 1.21
+   MUTALIST QUANTA, COMMON, Attenuation: 1.55
    HEMA, COMMON, Attenuation: 1
    PARACYST, COMMON, Attenuation: 1.315
    SYNAPSE, COMMON, Attenuation: 1.315
@@ -493,7 +493,7 @@ Item Compatibility:
    VECTIS, COMMON, Attenuation: 1
    BRATON VANDAL, NONE, Attenuation: 0.965
    SNIPETRON VANDAL, NONE, Attenuation: 1
-   GRAKATA PRISMA, NONE, Attenuation: 1.105
+   PRISMA GRAKATA, NONE, Attenuation: 1.105
 
 
 [Pistol Riven Mod]
@@ -901,7 +901,7 @@ Item Compatibility:
 
    BURST LASER, COMMON, Attenuation: 1.45
    BURST LASER PRIME, NONE, Attenuation: 1.45
-   BURST LASER PRISMA, NONE, Attenuation: 1.45
+   PRISMA BURST LASER, NONE, Attenuation: 1.45
    ACRID, COMMON, Attenuation: 1.33
    SPECTRA, COMMON, Attenuation: 1.49
    DETRON, COMMON, Attenuation: 1
@@ -910,7 +910,7 @@ Item Compatibility:
    SONICOR, COMMON, Attenuation: 0.5
    STATICOR, COMMON, Attenuation: 0.53
    ANGSTRUM, COMMON, Attenuation: 1.4
-   ANGSTRUM PRISMA, NONE, Attenuation: 1.4
+   PRISMA ANGSTRUM, NONE, Attenuation: 1.4
    TWIN GREMLINS, COMMON, Attenuation: 1.5
    VIPER, COMMON, Attenuation: 1.53
    KRAKEN, COMMON, Attenuation: 1.53
@@ -1811,7 +1811,7 @@ Item Compatibility:
    PROVA VANDAL, NONE, Attenuation: 1
    OHMA, COMMON, Attenuation: 1
    OBEX, COMMON, Attenuation: 1
-   OBEX PRISMA, NONE, Attenuation: 1
+   PRISMA OBEX, NONE, Attenuation: 1
    SERRO, COMMON, Attenuation: 1
    LECTA, COMMON, Attenuation: 1
    RIPKAS, COMMON, Attenuation: 1
@@ -1820,8 +1820,8 @@ Item Compatibility:
    JAT KITTAG, COMMON, Attenuation: 1
    DUAL CLEAVERS, COMMON, Attenuation: 1
    MACHETE, COMMON, Attenuation: 1
-   DUAL CLEAVERS PRISMA, NONE, Attenuation: 1
-   MACHETE PRISMA, NONE, Attenuation: 1
+   PRISMA DUAL CLEAVERS, NONE, Attenuation: 1
+   PRISMA MACHETE, NONE, Attenuation: 1
    MACHETE WRAITH, NONE, Attenuation: 1
    ACK & BRUNT, COMMON, Attenuation: 1
    ATTERAX, COMMON, Attenuation: 1
@@ -1929,6 +1929,6 @@ Item Compatibility:
    SILVA & AEGIS, COMMON, Attenuation: 1
    BOLTACE, COMMON, Attenuation: 1
    KRONEN, COMMON, Attenuation: 1
-   SKANA PRISMA, NONE, Attenuation: 1
+   PRISMA SKANA, NONE, Attenuation: 1
 
 
