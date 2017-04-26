@@ -430,7 +430,7 @@ Item Compatibility:
    QUANTA VANDAL, NONE, Attenuation: 0.895
    CARMINE PENTA, NONE, Attenuation: 1.175
    PENTA, COMMON, Attenuation: 1.175
-   [PH] VANDAL WEAPON, NONE, Attenuation: 1.14
+   SUPRA VANDAL, NONE, Attenuation: 1.14
    FERROX, COMMON, Attenuation: 1
    HIND, COMMON, Attenuation: 1.42
    GRAKATA, COMMON, Attenuation: 1.105
