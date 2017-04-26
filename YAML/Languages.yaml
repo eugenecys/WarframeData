@@ -3596,6 +3596,9 @@
 [/Lotus/Language/Alerts/CorpusLootShip]:
   "Corpus Treasury Ship Located"
 
+[/Lotus/Language/Alerts/CouncilChallengeDesc]:
+  "Design Council Challenge"
+
 [/Lotus/Language/Alerts/CounterIntelDesc1]:
   "Network Vulnerability Detected"
 
@@ -9152,6 +9155,12 @@
 [/Lotus/Language/CompanionApp/Time]:
   "TIME"
 
+[/Lotus/Language/Cosmetics/AmbulasEventBadgeDesc]:
+  "[PH] Description"
+
+[/Lotus/Language/Cosmetics/AmbulasEventBadgeName]:
+  "[PH] AMBULAS EVENT BADGE"
+
 [/Lotus/Language/Cosmetics/AshPrimeDefaultSkinDesc]:
   "The standard issue skin for the Ash Prime Warframe."
 
@@ -9731,6 +9740,12 @@
 [/Lotus/Language/Cosmetics/MonkeyKingDefaultSkinName]:
   "WUKONG SKIN"
 
+[/Lotus/Language/Cosmetics/NefSyandanaDesc]:
+  "Flaunt wealth and prosperity with a constant stream of financial data."
+
+[/Lotus/Language/Cosmetics/NefSyandanaName]:
+  "LUCRA SYANDANA"
+
 [/Lotus/Language/Cosmetics/NekrosDefaultSkinDesc]:
   "The standard issue skin for the Nekros Warframe."
 
@@ -10030,12 +10045,6 @@
 
 [/Lotus/Language/Cosmetics/WarframeSkinHydroidAlternateName]:
   "HYDROID IMMORTAL SKIN"
-
-[/Lotus/Language/Cosmetics/WarframeSkinZephyrAlternateDesc]:
-  "The Immortal Skin for the Zephyr Warframe."
-
-[/Lotus/Language/Cosmetics/WarframeSkinZephyrAlternateName]:
-  "ZEPHYR IMMORTAL SKIN"
 
 [/Lotus/Language/Cosmetics/WraithTurbineArmName]:
   "HARKONAR WRAITH ARM ARMOR"
@@ -11258,6 +11267,21 @@
 
 [/Lotus/Language/Dojo/AlreadyRequestedTrade]:
   "You've already requested a trade with this player."
+
+[/Lotus/Language/Dojo/AmbulasEventBronzeTrophy]:
+  "[PH] BRONZE AMBULAS TROPHY"
+
+[/Lotus/Language/Dojo/AmbulasEventGoldTrophy]:
+  "[PH] GOLD AMBULAS TROPHY"
+
+[/Lotus/Language/Dojo/AmbulasEventSilverTrophy]:
+  "[PH] SILVER AMBULAS TROPHY"
+
+[/Lotus/Language/Dojo/AmbulasEventTerracottaTrophy]:
+  "[PH] TERRACOTTA AMBULAS TROPHY"
+
+[/Lotus/Language/Dojo/AmbulasEventTrophyDesc]:
+  "[PH] Ambulas Trophy Description"
 
 [/Lotus/Language/Dojo/ApplySchema]:
   "APPLY SCHEMA"
@@ -14139,6 +14163,18 @@
 [/Lotus/Language/Enemies/DatascapeSentient]:
   "ERADICYST"
 
+[/Lotus/Language/Enemies/DropshipAmbulasDesc]:
+  "[PH] A reinforced variant of the Petrel used to transport elite personnel across conflicted territory."
+
+[/Lotus/Language/Enemies/DropshipAmbulasName]:
+  "[PH] STORM PETREL"
+
+[/Lotus/Language/Enemies/DropshipCorpusDesc]:
+  "[PH] Aerial transport that delivers Corpus Reinforcements to strategic locations."
+
+[/Lotus/Language/Enemies/DropshipCorpusName]:
+  "[PH] PETREL"
+
 [/Lotus/Language/Enemies/FairyQuestLoki]:
   "KNAVE SPECTER"
 
@@ -15484,15 +15520,6 @@
 
 [/Lotus/Language/G1Quests/AladVWeaponsStolen]:
   "[PH] Now your weapons are mine, fool! Mwa ha ha ha!"
-
-[/Lotus/Language/G1Quests/AmbulasEventName]:
-  "Ambulas Event"
-
-[/Lotus/Language/G1Quests/AmbulasEventScoreDesc]:
-  "Data Fragments Recovered"
-
-[/Lotus/Language/G1Quests/AmbulasEventTooltip]:
-  "Engage Ambulas drop ships on Pluto"
 
 [/Lotus/Language/G1Quests/Anniversary2017MissionBodyA]:
   "Enemy forces have obtained detailed information on some of the Lotus' artifacts. Stop them before they get away!
@@ -21002,7 +21029,10 @@
   "[PH] Delivered hacked Ambulas!"
 
 [/Lotus/Language/Game/AmbulasMaxCount]:
-  "[PH] Ambulas Delivered"
+  "[PH] HACKED AMBULAS"
+
+[/Lotus/Language/Game/AmbulasRemainingCount]:
+  "[PH] FAILED TO HACK"
 
 [/Lotus/Language/Game/AmbulasSecurityTeam]:
   "[PH] Security team deployed!"
@@ -21127,23 +21157,14 @@
 [/Lotus/Language/Game/BossAmbulas]:
   "AMBULAS"
 
+[/Lotus/Language/Game/BossAmbulasDesc]:
+  "[PH] Upgraded to modern standards, the Ambulas now sports an arsenal to challenge any enemy of the Corpus."
+
 [/Lotus/Language/Game/BossAmbulasHackingDrone]:
-  "[PH] Service Drone"
+  "[PH] SERVITOR OSPREY"
 
 [/Lotus/Language/Game/BossAmbulasHackingDroneDesc]:
-  "[PH] System maintenance and repair drone"
-
-[/Lotus/Language/Game/BossAmbulasSternguard]:
-  "[PH] Sternguard Ambulas"
-
-[/Lotus/Language/Game/BossAmbulasSternguardDesc]:
-  "[PH] Long-range Ambulas model"
-
-[/Lotus/Language/Game/BossAmbulasVanguard]:
-  "[PH] Vanguard Ambulas"
-
-[/Lotus/Language/Game/BossAmbulasVanguardDesc]:
-  "[PH] Close combat Ambulas model"
+  "[PH] Repairs disabled Ambulas units."
 
 [/Lotus/Language/Game/BossExample]:
   "Boss Example"
@@ -23926,6 +23947,9 @@
 [/Lotus/Language/Game/ORB_DAMAGE]:
   "ORB DAMAGE"
 
+[/Lotus/Language/Game/ORB_DAMAGE_PCT]:
+  "ORB DAMAGE (%)"
+
 [/Lotus/Language/Game/ORB_RANGE]:
   "ORB RANGE (METERS)"
 
@@ -26632,6 +26656,12 @@
 
 [/Lotus/Language/Items/AlternateArrowSkinsBundleName]:
   "ADVENTUS ARROW COLLECTION"
+
+[/Lotus/Language/Items/AmbulasDataFragmentDesc]:
+  "[PH] Description for Ambulat Data Fragment"
+
+[/Lotus/Language/Items/AmbulasDataFragmentName]:
+  "[PH] AMBULAS DATA"
 
 [/Lotus/Language/Items/AncientHealerBall]:
   "ANCIENT HEALER SPECTER"
@@ -51449,7 +51479,7 @@
   "Insufficient <CREDITS> Credits to purchase '%s'. "
 
 [/Lotus/Language/Menu/Global_InsufficientFunds]:
-  "Insufficient Platinum/Credits to purchase '%s'. "
+  "Insufficient funds to purchase '%s'. "
 
 [/Lotus/Language/Menu/Global_InsufficientPlatinum]:
   "Insufficient <PLATINUM_CREDITS> Platinum to purchase '%s'. "
@@ -51762,10 +51792,10 @@
   "You aren't ignoring anyone."
 
 [/Lotus/Language/Menu/ImageSlideShow_Pan]:
-  "<MENU_Y> Pan"
+  "<MENU_Y:INVERT=1> Pan"
 
 [/Lotus/Language/Menu/ImageSlideShow_Zoom]:
-  "Zoom <MENU_RIGHT_Y>"
+  "Zoom <MENU_RIGHT_Y:INVERT=1>"
 
 [/Lotus/Language/Menu/ImprintCreationConfirm]:
   "Creating a pet imprint will consume a blank imprint. Continue?"
@@ -55681,6 +55711,9 @@
 [/Lotus/Language/Menu/Profile_Accolade_JuniorGOTL]:
   "JUNIOR GUIDE OF THE LOTUS"
 
+[/Lotus/Language/Menu/Profile_Accolade_Partner]:
+  "WARFRAME PARTNER"
+
 [/Lotus/Language/Menu/Profile_Accolade_SeniorGOTL]:
   "SENIOR GUIDE OF THE LOTUS"
 
@@ -57230,6 +57263,9 @@
 [/Lotus/Language/Menu/Session_LeaveMission]:
   "You must leave this mission before joining a different squad."
 
+[/Lotus/Language/Menu/Session_LeaveMission_Short]:
+  "Leave mission to join"
+
 [/Lotus/Language/Menu/SessionCycle_HubMissionDesc]:
   "|PLANET|-|NODE|"
 
@@ -57351,7 +57387,7 @@
   "LANDING CRAFT SELECTION"
 
 [/Lotus/Language/Menu/ShipSystemsMessageSender]:
-  "Liset Systems"
+  "Orbiter Systems"
 
 [/Lotus/Language/Menu/SHOW_MAXED_MODS]:
   "SHOW MAXED MODS"
@@ -64366,6 +64402,12 @@
 [/Lotus/Language/ShipDecorations/BobbleheadAltDesertName]:
   "NOGGLE STATUE - ARID SEEKER"
 
+[/Lotus/Language/ShipDecorations/BobbleheadAmbulasDesc]:
+  "[PH] Description"
+
+[/Lotus/Language/ShipDecorations/BobbleheadAmbulasName]:
+  "AMBULAS NOGGLE STATUE"
+
 [/Lotus/Language/ShipDecorations/BobbleheadArcticDesc]:
   "A small wobbly statue of an Arid Lancer."
 
@@ -65193,6 +65235,12 @@
 
 [/Lotus/Language/Sigils/AllianceSigilBasicName]:
   "ALLIANCE SIGIL"
+
+[/Lotus/Language/Sigils/AmbulasEventSigilDesc]:
+  "[PH] Description"
+
+[/Lotus/Language/Sigils/AmbulasEventSigilName]:
+  "[PH] AMBULAS EVENT SIGIL"
 
 [/Lotus/Language/Sigils/BansheeDeluxeSigilDesc]:
   "Wear Banshee Soprana's sigil with pride."
@@ -83510,7 +83558,7 @@
   "OBERON"
 
 [/Lotus/Language/Suits/OberonPassiveAbility]:
-  "Nearby wildlife fight along-side Oberon."
+  "Allied pets receive health, armor and shield buffs. In addition, your pet receives an instant revive."
 
 [/Lotus/Language/Suits/OverheatAbilityAugment1Desc]:
   "Accelerant Augment: Accelerant gives +|SPEED|% casting speed and +|DAMAGE_PCT|% <DT_FIRE> Fire damage to allies within range."
@@ -83766,6 +83814,9 @@
 
 [/Lotus/Language/Suits/RegenerationAbilityName]:
   "Renewal"
+
+[/Lotus/Language/Suits/RegenerationArmourBuff]:
+  "Iron Renewal"
 
 [/Lotus/Language/Suits/RepelAbilityDesc]:
   "[PH] Send nearby enemies flying"
@@ -85358,7 +85409,7 @@
   "Wall Dash (Across) - Jump onto wall and hold <JUMP>"
 
 [/Lotus/Language/Tutorial/ParkourWallJumpHint]:
-  "Wall Dash (Up) - Jump onto wall, <MOVE_Z> holding <JUMP>"
+  "Wall Dash (Up) - Jump onto wall, <MOVE_Z:INVERT=1> holding <JUMP>"
 
 [/Lotus/Language/Tutorial/ParkourZiplineHint]:
   "Zipline - Tap <USE> near zipline to mount"
@@ -86650,6 +86701,12 @@
 [/Lotus/Language/Weapons/AllNew1hSGPrimaryFire]:
   "SLUG"
 
+[/Lotus/Language/Weapons/AmbulasEventVandalDesc]:
+  "A customized version of the powerful Supra, featuring a metallic finish and Lotus decal."
+
+[/Lotus/Language/Weapons/AmbulasEventVandalName]:
+  "SUPRA VANDAL"
+
 [/Lotus/Language/Weapons/BlueprintHintExilusAdapter]:
   "Blueprint can be acquired from Cephalon Simaris after completing the Natah quest or purchased from Teshin."
 
@@ -86682,6 +86739,12 @@
 
 [/Lotus/Language/Weapons/CorpusTonfaName]:
   "OHMA"
+
+[/Lotus/Language/Weapons/CrpChargeGunDesc]:
+  "Forgo ammunition with the regenerating energy disc in this plasma throwing pistol."
+
+[/Lotus/Language/Weapons/CrpChargeGunName]:
+  "CYCRON"
 
 [/Lotus/Language/Weapons/DjinnMacheteDesc]:
   "Each kill with this swooping blade adds bonus damage to the Djinn Sentinel’s next Fatal Attraction ability. In turn, Fatal Attraction bestows the weapon with a period of corrosive damage."
@@ -86724,12 +86787,6 @@
 
 [/Lotus/Language/Weapons/GrnQueenSceptreName]:
   "BROKEN SCEPTER"
-
-[/Lotus/Language/Weapons/IndexEventWeaponRewardDesc]:
-  "[PH] Description"
-
-[/Lotus/Language/Weapons/IndexEventWeaponRewardName]:
-  "[PH] VANDAL WEAPON"
 
 [/Lotus/Language/Weapons/IndexWeaponRewardDesc]:
   "[PH] Description"
