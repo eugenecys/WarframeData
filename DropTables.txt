@@ -180,9 +180,9 @@ DROP_MOD (Drop Chance: 100%)
 
 
 [CarrierSpacemanAgentDropTable]
+ - GRINEER POWER CARRIER (CarrierRifleLancerAvatar)
  - HELLION POWER CARRIER (JetpackMarineCarrierAvatar)
  - NIGHTWATCH LANCER (NightwatchCarrierRifleLancerAvatar)
- - GRINEER POWER CARRIER (CarrierRifleLancerAvatar)
  - CORPUS POWER CARRIER (CarrierSpacemanAvatar)
  - MUTALIST OSPREY CARRIER (CellCarrierDroneAvatar)
 
@@ -1772,13 +1772,13 @@ DROP_MISC_ITEM (Drop Chance: 100%)
  - BAILIFF (FortressGrineerChargerAvatar)
  - KUVA DRAHK MASTER (FortressBeastMasterAvatar)
  - KUVA BUTCHER (FortressBladeSawmanAvatar)
+ - BUTCHER (BladeSawmanAvatar)
  - BAILIFF (GrineerChargerAvatar)
  - BUTCHER (BladeSawmanAvatarLeaderRare)
  - BAILIFF (GrineerChargerAvatarRare)
  - BAILIFF DEFECTOR (GrineerDefectorAvatar)
  - NIGHTWATCH MANIC (NightwatchManicAvatar)
  - DRAHK MASTER (BeastMasterAvatar)
- - BUTCHER (BladeSawmanAvatar)
  - FRONTIER BAILIFF (GrineerChargerAvatar)
  - FRONTIER BAILIFF (GrineerChargerAvatarRare)
 
@@ -2003,8 +2003,8 @@ DROP_MOD (Drop Chance: 100%)
 
 [GrineerEliteRifleLancerDropTable]
  - KUVA ELITE LANCER (FortressEliteRifleLancerAvatar)
- - ELITE LANCER (EliteRifleLancerAvatarRare)
  - ELITE LANCER (EliteRifleLancerAvatar)
+ - ELITE LANCER (EliteRifleLancerAvatarRare)
  - SANCTUARY LANCER (SimarisLancerAvatar)
  - ELITE ARID LANCER (EliteRifleLancerAvatar)
  - ELITE FRONTIER LANCER (EliteRifleLancerAvatar)
@@ -2829,8 +2829,8 @@ DROP_POWERUP (Drop Chance: 25%)
 
 
 [GrineerSeaLabRifleLancerDropTable]
- - DREKAR LANCER (RifleLancerAvatar)
  - DREKAR ELITE LANCER (EliteRifleLancerAvatar)
+ - DREKAR LANCER (RifleLancerAvatar)
 
 DROP_AMMO (Drop Chance: 70%)
 	20 RIFLE AMMO, COMMON, 25%
@@ -3033,8 +3033,8 @@ DROP_SIGIL (Drop Chance: 100%)
 
 
 [HyenaAgentDropTable]
- - Hyena PB (HyenaGunAvatar)
  - Hyena TH (HyenaElecAvatar)
+ - Hyena PB (HyenaGunAvatar)
  - Hyena NG (HyenaFireAvatar)
  - Hyena LN2 (HyenaIceAvatar)
  - HYENA PACK (MiniRobotAvatar)

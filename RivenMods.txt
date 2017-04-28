@@ -908,6 +908,7 @@ Item Compatibility:
    CESTRA, COMMON, Attenuation: 1.52
    DUAL CESTRA, COMMON, Attenuation: 1.35
    SONICOR, COMMON, Attenuation: 0.5
+   CYCRON, COMMON, Attenuation: 1
    STATICOR, COMMON, Attenuation: 0.53
    ANGSTRUM, COMMON, Attenuation: 1.4
    PRISMA ANGSTRUM, NONE, Attenuation: 1.4
