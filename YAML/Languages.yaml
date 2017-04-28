@@ -21988,6 +21988,9 @@
 [/Lotus/Language/Game/ENERGY_PER_PULSE]:
   "ENERGY PER PULSE"
 
+[/Lotus/Language/Game/ENERGY_PER_TARGET]:
+  "ENERGY PER TARGET"
+
 [/Lotus/Language/Game/ENERGY_REFUND]:
   "ENERGY REFUND (PER HIT)"
 
@@ -50331,7 +50334,7 @@
   "LANDING CRAFT APPEARANCE"
 
 [/Lotus/Language/Menu/DailyStandingRemaining]:
-  "|value| Extra Standing Possible (replenishes daily)"
+  "|value| Extra Standing Possible Today"
 
 [/Lotus/Language/Menu/DailyTributeClaimAndUseCoupon]:
   "CLAIM & USE (WARFRAME.COM)"
@@ -56373,7 +56376,7 @@
   "A stasis chamber costs |PRICE|. Are you sure?"
 
 [/Lotus/Language/Menu/PurchasedModsUnranked]:
-  "IMPORTANT: PURCHASED MODS WILL BE UNRANKED"
+  "PURCHASED MODS ARE UNRANKED"
 
 [/Lotus/Language/Menu/PurchaseFailure]:
   "Purchase failed. Your account has not been charged. Please try again."
@@ -83558,7 +83561,7 @@
   "OBERON"
 
 [/Lotus/Language/Suits/OberonPassiveAbility]:
-  "Allied pets receive health, armor and shield buffs. In addition, your pet receives an instant revive."
+  "Allied pets receive health, armor and shield buffs. In addition, your pet receives an instant revive per mission."
 
 [/Lotus/Language/Suits/OverheatAbilityAugment1Desc]:
   "Accelerant Augment: Accelerant gives +|SPEED|% casting speed and +|DAMAGE_PCT|% <DT_FIRE> Fire damage to allies within range."
@@ -84965,7 +84968,7 @@
   "|SYNDICATE| RANK UP REWARD"
 
 [/Lotus/Language/Syndicates/Favors_Title]:
-  "|SYNDICATE| offerings"
+  "|SYNDICATE| OFFERINGS"
 
 [/Lotus/Language/Syndicates/GenericAugmentModsReward]:
   "Access to Ability Augment Mods"
