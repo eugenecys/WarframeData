@@ -1694,7 +1694,7 @@
   ArchwingRequired: No
   IsSharkwing: No
 
-  Name: THE INDEX
+  Name: THE INDEX: ENDURANCE (LOW RISK)
   Id: SolNode761
   Faction: FC_CORPUS
   MissionType: MT_ARENA
@@ -1702,7 +1702,7 @@
   ArchwingRequired: No
   IsSharkwing: No
 
-  Name: THE INDEX: HIGH RISK
+  Name: THE INDEX: ENDURANCE (MEDIUM RISK)
   Id: SolNode762
   Faction: FC_CORPUS
   MissionType: MT_ARENA
@@ -1710,19 +1710,19 @@
   ArchwingRequired: No
   IsSharkwing: No
 
-  Name: THE INDEX: ENDURANCE
+  Name: THE INDEX: ENDURANCE (HIGH RISK)
   Id: SolNode763
   Faction: FC_CORPUS
   MissionType: MT_ARENA
-  NodeType: 
+  NodeType: NT_EVENT
   ArchwingRequired: No
   IsSharkwing: No
 
-  Name: THE INDEX
+  Name: THE INDEX: ENDURANCE
   Id: SolNode764
   Faction: FC_CORPUS
   MissionType: MT_ARENA
-  NodeType: NT_EVENT
+  NodeType: 
   ArchwingRequired: No
   IsSharkwing: No
 
