@@ -3028,7 +3028,7 @@
     "faction": "FC_CORPUS",
     "mission_type": "MT_ARENA",
     "name": "THE INDEX [Neptune]",
-    "node_type": "",
+    "node_type": "NT_EVENT",
     "sharkwing": false
   },
   "SolNode764": {
@@ -3036,7 +3036,7 @@
     "faction": "FC_CORPUS",
     "mission_type": "MT_ARENA",
     "name": "THE INDEX [Neptune]",
-    "node_type": "NT_EVENT",
+    "node_type": "",
     "sharkwing": false
   },
   "SolNode77": {

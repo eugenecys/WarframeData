@@ -261,7 +261,6 @@
 
 [/Lotus/Types/Game/MissionDecks/CorpusArenaWagerRewardsEasy]:
   Locations:
-   - Neptune, THE INDEX, MT_ARENA, FC_CORPUS, NT_EVENT
 
   Rotation A:
    -  1 4000 CREDITS, COMMON, 100%
@@ -277,6 +276,9 @@
 
 [/Lotus/Types/Game/MissionDecks/CorpusArenaWagerRewardsHard]:
   Locations:
+   - Neptune, THE INDEX: ENDURANCE (LOW RISK), MT_ARENA, FC_CORPUS, NT_EVENT
+   - Neptune, THE INDEX: ENDURANCE (MEDIUM RISK), MT_ARENA, FC_CORPUS, NT_EVENT
+   - Neptune, THE INDEX: ENDURANCE (HIGH RISK), MT_ARENA, FC_CORPUS, NT_EVENT
    - Neptune, THE INDEX: ENDURANCE, MT_ARENA, FC_CORPUS, 
 
   Rotation A:
@@ -293,7 +295,6 @@
 
 [/Lotus/Types/Game/MissionDecks/CorpusArenaWagerRewardsMedium]:
   Locations:
-   - Neptune, THE INDEX: HIGH RISK, MT_ARENA, FC_CORPUS, NT_EVENT
 
   Rotation A:
    -  1 35000 CREDITS, COMMON, 100%
@@ -969,7 +970,6 @@
 
 [/Lotus/Types/Game/MissionDecks/IndexMissionRewardDifficult]:
   Locations:
-   - Neptune, THE INDEX: HIGH RISK, MT_ARENA, FC_CORPUS, NT_EVENT
 
   Rotation A:
    -  FixedWeights=True
@@ -1002,7 +1002,6 @@
 
 [/Lotus/Types/Game/MissionDecks/IndexMissionRewardStandard]:
   Locations:
-   - Neptune, THE INDEX, MT_ARENA, FC_CORPUS, NT_EVENT
 
   Rotation A:
    -  FixedWeights=True

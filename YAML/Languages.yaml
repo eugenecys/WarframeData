@@ -3260,6 +3260,9 @@
 [/Lotus/Language/Actions/Hack]:
   "<USE> HACK"
 
+[/Lotus/Language/Actions/HackAlarms]:
+  "<USE> RESET ALARMS"
+
 [/Lotus/Language/Actions/HackMobileDefense]:
   "<USE> HACK INTO TERMINAL"
 
@@ -9156,10 +9159,10 @@
   "TIME"
 
 [/Lotus/Language/Cosmetics/AmbulasEventBadgeDesc]:
-  "[PH] Description"
+  "An emblem commemorating the fight against the Ambulas incursion."
 
 [/Lotus/Language/Cosmetics/AmbulasEventBadgeName]:
-  "[PH] AMBULAS EVENT BADGE"
+  "AMBULAS REBORN EMBLEM"
 
 [/Lotus/Language/Cosmetics/AshPrimeDefaultSkinDesc]:
   "The standard issue skin for the Ash Prime Warframe."
@@ -10393,7 +10396,7 @@
   "Rhino's Iron Skin ability not only acts like extra health, it also protects you from knockdowns, Slash procs, and Toxin Damage!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip120]:
-  "Kubrows don't require daily care with the Nutrio Incubator Upgrade! Stabilizers only need to be used every 3 to 4 days to keep them in top shape with an updated Incubator. "
+  "Kubrows don't require daily care with the Nutrio Incubator Upgrade! Stabilizers only need to be used every 3 to 4 days to keep them in top shape with an updated Incubator."
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip121]:
   "Want a more independent Sentinel? Equip it with the Regen mod so that it can self-regenerate once per mission if killed!"
@@ -10453,7 +10456,7 @@
   "Throw down and activate Castanas under Nyx's Absorb ability to add extra damage!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip140]:
-  "In the Conclave, Nyx's abilities can cause havoc to opposing teams. Enable friendly fire with Chaos or cause confusion by removing their enemy markers with Mind Control! "
+  "In the Conclave, Nyx's abilities can cause havoc to opposing teams. Enable friendly fire with Chaos or cause confusion by removing their enemy markers with Mind Control!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip141]:
   "In the Conclave, instead of stopping opponents in their tracks, Vauban's Bastille slows enemies within a wide radius."
@@ -10465,7 +10468,7 @@
   "In the Conclave, Mesa's Shooting Gallery drains ammo, forcing enemies to find more and reload!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip144]:
-  "In the Conclave, Ivara has 2 different arrows in her Quiver! Use Encumber to create an aoe slow or Null Shield to remove all shields within an aoe radius for a couple of seconds. "
+  "In the Conclave, Ivara has 2 different arrows in her Quiver! Use Encumber to create an aoe slow or Null Shield to remove all shields within an aoe radius for a couple of seconds."
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip145]:
   "In the Conclave, Ivara's passive provides permanent enemy radar. Keep your eyes on the map, Tenno!"
@@ -10486,7 +10489,7 @@
   "Loki's Switch Teleport ability can also be used on allies! If you see a downed teammate, Switch Teleport them to the rest of the Squad for a swift revival!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip150]:
-  "In the Conclave, Nekros' Shadows of the Dead ability resets respawn timers. Use it to get you and your team back in the fight instantly! "
+  "In the Conclave, Nekros' Shadows of the Dead ability resets respawn timers. Use it to get you and your team back in the fight instantly!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip151]:
   "In the Conclave, Limbo's Rift protects him from weapon damage, but not abilities!"
@@ -10572,32 +10575,305 @@
 [/Lotus/Language/DesignCouncilTips/DC_Tip176]:
   "Playing as Frost? Casting Freeze on your Snow Globe will remove it!"
 
+[/Lotus/Language/DesignCouncilTips/DC_Tip177]:
+  "Ayatan Sculpture missions can be done once per week. Speak to Maroo in her Bazaar to start the hunt for these ancient Orokin treasures!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip178]:
+  "Ayatan Sculptures can be found hidden around the map, and Ayatan Stars can be found within containers and lockers."
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip179]:
+  "Ayatan Sculptures can be upgraded in the Ayatan Sculpture menu located within the Mods Segment in your Landing Craft."
+
 [/Lotus/Language/DesignCouncilTips/DC_Tip18]:
   "If an Excavator is close to being destroyed, give it an extra Power Cell! Power Cells will instantly restore the Excavator shields, allowing it to make that last push when under heavy fire!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip180]:
+  "Adding Ayatan Stars to your Sculptures will greatly increase their Endo value. You may trade them to Maroo in her Bazaar on Earth or simply add them as a decoration in your Landing Craft!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip181]:
+  "Looking for Baro Ki'Teer? You will receive an inbox message when he arrives to tell you which Relay he's visiting!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip182]:
+  "Want to know when Baro Ki'Teer will make his next visit? The Ducat kiosk in the Relays has a countdown timer!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip183]:
+  "The Void Trader, Baro Ki'Teer, appears every two weeks with special wares. A kiosk in the Relays will allow you to exchange your spare Prime parts for Ducats, which he will gladly accept for unique cosmetics and other exclusive items."
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip184]:
+  "Keep a lookout for bright blue Cephalon Fragments! Scanning them will unveil pieces of Cephalon Ordis' memory in your Codex."
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip185]:
+  "Cephalon Fragments are usually well hidden! Try using Loot Detector, Thief's Wit, or Animal Instinct to help you find these bright blue Fragments."
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip186]:
+  "Use a Synthesis Scanner with the Vector-Thread Widget to quickly scan enemies, plants, and other objects. Combine this with the Cross-Matrix Widget for a chance at double the scans!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip187]:
+  "Want to boost you and your Squad's casting speed? Equip Ember with the Flash Accelerant Augment mod and cast Accelerant to give +50% casting speed and +50% Fire damage to allies within range!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip188]:
+  "Want to earn more Focus from your missions? Stealth Multipliers apply to your Focus gains!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip189]:
+  "Vazarin's Mending Tides ability can heal objectives such as Fomorian Power Cores and Cryopods."
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip19]:
   "All Nightmare Alerts, separate from the regular Nightmare mode, are 'no shields' missions. Plan accordingly!"
 
+[/Lotus/Language/DesignCouncilTips/DC_Tip190]:
+  "Vazarin's Disciplined Approach passive not only affects the range of shared Affinity but also Trinity's Blessing range!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip191]:
+  "Vazarin's New Moon passive grants you the ability to instantly revive your teammates and allied NPCs, such as Rescue Targets, once per mission."
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip192]:
+  "Ready to try a new Focus School? Upgrade a level 30 Warframe or weapon with a Focus Lens from the desired School and start earning Affinity to unlock its Focus Tree!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip193]:
+  "Enable your Focus passive by activating your Focus ability once in a mission!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip194]:
+  "Smeeta Kavats can use the Charm ability to give you various buffs including refunding your Energy after casting and improving your chances of a rare resource appearing!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip195]:
+  "Did you know that a Kavat's Loyalty never degrades? This means you can give them unlimited head scratches!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip196]:
+  "Want to start breeding Kavats? Start by getting the Kavat Incubator Upgrade Segment by purchasing it in the Market, researching the Blueprint in your Clan Dojo, or by killing Hyekka Masters!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip197]:
+  "Kavats are fierce Companions! Upgrade your Kavat with the Sharpened Claws Mod to boost critical attack damage and sunder enemy armor with each attack. Combine this with the Swipe mod to strike several enemies at once!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip198]:
+  "Want a Kavat to call your own? Feral Kavats wander the Derelict and can be scanned to earn Kavat Genetic Codes. Collecting 10 will allow you to incubate a Kavat companion with an installed Kavat Incubator Upgrade Segment!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip199]:
+  "Want to earn more Void Traces? Bring a Smeeta Kavat to boost Void Trace drops during Void Fissure missions."
+
 [/Lotus/Language/DesignCouncilTips/DC_Tip20]:
   "Remember to bring gear with you on missions. Shield, Health, and Ammo Restores can be lifesavers when you find yourself in over your head."
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip200]:
+  "Each Landing Craft has their own specialized Air Support Charge that can be called in. Grab a Landing Craft Foundry Segment by researching it in your Clan Dojo and equipping Air Support Charges to your gear wheel before going into battle!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip201]:
+  "If you're having issues scanning Feral Kavats in the Derelict, using a Warframe like Ivara or Equinox with a sleep ability will make scanning them a breeze!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip202]:
+  "Overwhelmed by enemy firepower? Upgrade your Adarza Kavat with the Reflect mod for a chance to amplify incoming damage and reflect it back at the attackers!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip203]:
+  "Looking to stabilize your Kubrow, Kavat, or Helminth Charger's DNA Integrity? You can buy DNA Stabilizers in packs of 6 for 75,000 credits in the Market, with each stabilizer restoring 40% of you Companion's health!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip204]:
+  "Kavats make for excellent Companions. Bring them into battle to help locate enemies, pacify hostile creatures, buff allies, and so much more!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip205]:
+  "With the Cat's Eye precept, your Adarza Kavat can give a high critical chance to your weapons for a limited time!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip206]:
+  "Feral Kavats difficult to scan? Visit Simaris in the Relays to procure the Heliocor melee weapon and obtain scans on slain targets!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip207]:
+  "Want to master Lunaro? Use the practice mode to help guide you through the rules and mechanics. Take advantage of this to ready up for a full-fledged battle between Sun and Moon!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip208]:
+  "Finish your Lunaro matches! You'll be rewarded more Affinity for consecutive games played from start to finish."
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip209]:
+  "Not a fan of the default controls for Lunaro? Customize your Lunaro key bindings under the Options menu to fit your playstyle!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip21]:
   "1% of Power equals 1 second of Excavator operating time. Only use Power Cells when needed to avoid overcharging the drill in Excavation Missions!"
 
+[/Lotus/Language/DesignCouncilTips/DC_Tip210]:
+  "You can always practice Lunaro games without having to dive headfirst into a match. Try out the Warm Up option!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip211]:
+  "When the Lunaro ball has a purple trail that means it is unstable and can knock down players. Try using this to your advantage when the enemy team is near!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip212]:
+  "Brighten up any tile set by equipping a Glyph Prism to your Gear Wheel. You can show your support for Warframe Fan Channels as well by using their Logos as your Glyph!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip213]:
+  "Earth has both a night and day cycle, which changes every four hours. Plan your missions accordingly to help with different types of plant scans for use at The Silver Grove!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip214]:
+  "Want more ways to customize your Loadout? Check out the Market for a variety of weapon Holster options!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip215]:
+  "Want to link something in chat? Use [ square brackets ] and type in the name of the item you'd like to link!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip216]:
+  "Expand your horizons! Complete Junctions to unlock Quests, challenges, and secrets hidden across the Origin System!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip217]:
+  "Grineer vs. Corpus Invasion missions offers unique rewards that are difficult to find elsewhere. But be vigilant! Helping one side achieve victory might result in some unforeseen consequences."
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip218]:
+  "Save big, Tenno! Visit Darvo's store in the Relays to see what deals he has to offer."
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip219]:
+  "Want to earn more Syndicate Reputation? Run Syndicate alerts sporting a Sigil from an allied or neutral Syndicate to offset or gain more standing in fewer runs!"
+
 [/Lotus/Language/DesignCouncilTips/DC_Tip22]:
   "Want Fieldron, Mutagen, or Detonite Injectors? Wait for an Invasion reward to receive a fully crafted component!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip220]:
+  "Low on funds? Completing the daily Sorties, Trials, or Infested Dark Sector missions are great sources of Credits!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip221]:
+  "Earn rare Conclave Stances and other rewards for completing the daily and weekly Conclave tasks each week!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip222]:
+  "Having trouble seeing your damage numbers? Adjust your HUD Scale setting in the Options menu to make them more visible!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip223]:
+  "Sliding and rolling in very quick succession is a great way to increase your mobility when needed. Tack on bullet jumping at peak momentum and aim-glide to achieve maximum distance!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip224]:
+  "Loadout Slots are used to save Warframe, Weapon, Mod, and Appearance configurations. Earn a new Loadout Slot every time you increase your Mastery Rank by two!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip225]:
+  "When playing Solo you can pause the game by opening the menu."
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip226]:
+  "Plan for your Spy and Rescue missions by crafting and equipping Ciphers into your Gear wheel!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip227]:
+  "Got equipment you don't use? Need to free up Weapon or Warframe slots? Open the menu in your Landing Craft, click on Equipment, Inventory, and select the items you wish to sell for Credits!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip228]:
+  "Advance your Mastery Rank to increase your starting Mod capacity on Warframes, weapons, and companions."
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip229]:
+  "Looking to earn Ducats? The text color in the Void Fissure mission reward screen will give you insight on Prime part rarity and its Ducat value!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip23]:
   "Avoid shooting cracked windows on Corpus ships! If broken, they cause decompression and lock down the entire ship."
 
+[/Lotus/Language/DesignCouncilTips/DC_Tip230]:
+  "Looking to build a Dragon Key? Head over to the Orokin Lab of your Dojo to acquire reusable Blueprints!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip231]:
+  "Transmutation Cores not only take away the credit cost in transmutation but also guarantee the Polarity of the resulting mod! Visit Cephalon Simaris in the Relay to purchase them with Standing."
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip232]:
+  "Want to complete Codex Entries in the heat of battle? Equip the Heliocor and get scans while killing enemies!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip233]:
+  "Want to revive teammates quickly? Vazarin's New Moon passive can grant you up to 4 instant revives per mission!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip234]:
+  "The official Warframe Nexus App allows you to claim and deploy Extractors, use your Foundry, and interact with your Kubrows and Kavats while you're on the go!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip235]:
+  "There are dedicated chat tabs for Trading and Recruiting. Use these tabs to find a squad, clan, or to trade with other Tenno!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip236]:
+  "Looking to increase your Mastery Rank? Completing Junctions grants you 1000 Mastery points each!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip237]:
+  "You can gain up to 500% bonus Affinity per kill with successive stealth kills. Be stealthy and quick to maximize your Affinity gain!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip238]:
+  "The Archwing quest can be obtained by completing the Mars Junction from Earth, and played once Mastery Rank 2 has been achieved."
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip239]:
+  "The Once Awake quest can be obtained by completing the Mercury Junction from Venus."
+
 [/Lotus/Language/DesignCouncilTips/DC_Tip24]:
   "The Codex Scanner can see enemies through walls. Use it to get an edge in Stealth Missions!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip240]:
+  "The Howl of the Kubrow quest can be obtained by completing the Mercury Junction from Venus."
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip241]:
+  "The Stolen Dreams quest can be obtained by completing the Phobos Junction from Mars."
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip242]:
+  "The Limbo Theorem quest Blueprint can be obtained by completing the Europa Junction from Jupiter."
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip243]:
+  "The Natah quest will automatically start after scanning Oculyst Sentients in any Uranus mission. They appear at random for Mastery Rank 3 or higher, so stay on your toes!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip244]:
+  "The Second Dream quest is obtained from the Neptune junction from Uranus, upon completing the Natah quest. Keep in mind you must be Mastery Rank 3 or higher to start the quest!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip245]:
+  "The Patient Zero quest is obtained by completing the Eris Junction from Pluto."
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip246]:
+  "The War Within quest is obtained by completing the Sedna Junction from Pluto."
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip247]:
+  "The Sands of Inaros quest can be purchased from Baro Ki'Teer as long as your Mastery Rank is equal to or above rank 5!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip248]:
+  "The New Strange quest can be obtained by completing the Europa Junction from Jupiter, which will then allow the quest to be unlocked from the Quests tab in your Codex."
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip249]:
+  "The Silver Grove quest can be obtained by talking to Amaryn, leader of New Loka, in the New Loka Enclave in the Relay."
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip25]:
   "Each time you gain control of all 4 points in Interception Missions you gain 500 Affinity. Consider letting the enemy capture a point to gain this boost more often!"
 
+[/Lotus/Language/DesignCouncilTips/DC_Tip250]:
+  "The Hidden Messages quest can be obtained by completing the Sedna Junction from Pluto."
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip251]:
+  "The Man of Few Words quest is obtained by talking to Darvo in the Relay."
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip252]:
+  "The Jordas Precept quest is obtained by completing the Pluto Junction from Eris."
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip253]:
+  "The Glast Gambit quest is obtained by speaking to Ergo Glast located in the Perrin Sequence room in the Relay. Keep in mind you must have The War Within quest completed before speaking to Ergo."
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip254]:
+  "Low on Endo? Convert duplicate mods to give yourself a quick boost in Endo! The higher the rarity of the mod the better the Endo returns."
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip255]:
+  "Void Fissure missions can be repeated as many times as desired, and as long as they are available in the World State Window!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip256]:
+  "The Void Relic Segment is obtained by completing the Mars Junction from Earth."
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip257]:
+  "Looking for Prime parts? The Void Relic system grants Prime parts or Forma upon closing Void Fissures!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip258]:
+  "Cracking a Relic in Void Fissure missions will grant you a random Reactant Buff. Experiment to find out what buff you got!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip259]:
+  "Information on Relic drop sources and possible rewards can be found in the Codex under the Universe tab!"
+
 [/Lotus/Language/DesignCouncilTips/DC_Tip26]:
   "Looking for Resource Caches in Orokin Sabotage Missions? Listen for their distinctive high-pitched chime!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip260]:
+  "Looking for a way to earn Void Traces? You can run Void Fissure missions without consuming a Relic and still earn Void Traces after successfully completing the mission!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip261]:
+  "Void Trace inventory is determined by your Mastery Rank multiplied by 50 and then added to the 100 base amount of traces. For example, Mastery Rank 9 would grant a Void Trace limit of 550!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip262]:
+  "Keep your enemies within mauling distance, Tenno! Valkyr's Hysterical Assault Augment mod allows her to leap directly to enemies up to 30m away!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip263]:
+  "Did you know there is a way to opt-out of Volt's Speed? Perform a backflip by aiming down your sights and rolling backward to cancel the effect!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip264]:
+  "Atlas' Path of Statues Augment mod leaves behind a trail of petrified enemies for a short period. Use this to chase down enemies and leave others in your dust!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip265]:
+  "Allies needing protection in Archwing? You can cast Amesha's Watchful Swarm on them to send defensive drones to their help!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip266]:
+  "Need more Firepower for your Elytron's Core Vent ability? Light up your enemies with the Afterburner Augment mod!"
+
+[/Lotus/Language/DesignCouncilTips/DC_Tip267]:
+  "Inaros' Elemental Sandstorm Augment mod has a chance to inflict status procs based on equipped damage types. Equip a melee weapon with innate elemental damage for devastating damage!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip27]:
   "Grineer Prosecutors are powerful melee specialists that roam the planet Ceres. Although nearly invulnerable to Physical Damage, they are highly vulnerable to the primary Elemental Damage Types Fire, Ice, Electric, and Toxin!"
@@ -10782,455 +11058,281 @@
 [/Lotus/Language/DesignCouncilTips/DC_Tip98]:
   "Got a Death Mark? Team up with others with the same type of mark to boost the chances of your assassin appearing!"
 
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor1]:
-  "SilverBones"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor100]:
-  "Tendou_Souji"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor101]:
-  "Kenshin98"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor102]:
-  "Marthrym"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor103]:
-  "Saint_Tan"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor104]:
-  "PantsAdvance"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor106]:
-  "xethier"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor107]:
-  "Beecher"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor108]:
-  "Rajko"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor109]:
-  "direcyphre"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor11]:
-  "Blooddrizzt"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor110]:
-  "Saint_Tan"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor111]:
-  "Imaru12"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor113]:
-  "Hortonman"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor114]:
-  "xShadowsaur"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor115]:
-  "SmokeyJesus"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor116]:
-  "Aciaj613"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor118]:
-  "Ocfos"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor119]:
-  "Tobiah"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor12]:
-  "Cpl_Facehugger"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor120]:
-  "Tobiah"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor121]:
-  "Ocfos"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor123]:
-  "Phasedragon"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor124]:
-  "Phasedragon"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor125]:
-  "Phasedragon"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor126]:
-  "Phasedragon"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor127]:
-  "Phasedragon"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor128]:
-  "Phasedragon"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor129]:
-  "Phasedragon"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor130]:
-  "Ocfos"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor131]:
-  "Ocfos"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor132]:
-  "Ocfos"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor133]:
-  "Phasedragon"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor134]:
-  "Phasedragon"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor135]:
-  "Phasedragon"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor136]:
-  "Phasedragon"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor137]:
-  "Phasedragon"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor138]:
-  "Phasedragon"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor139]:
-  "Phasedragon"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor14]:
-  "PantsAdvance"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor140]:
-  "Phasedragon"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor141]:
-  "Phasedragon"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor142]:
-  "Phasedragon"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor143]:
-  "Phasedragon"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor144]:
-  "Phasedragon"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor145]:
-  "Phasedragon"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor146]:
-  "Phasedragon"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor147]:
-  "Phasedragon"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor148]:
-  "Phasedragon"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor149]:
-  "Phasedragon"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor15]:
-  "Easymac"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor150]:
-  "Phasedragon"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor151]:
-  "Phasedragon"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor152]:
-  "Phasedragon"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor153]:
-  "Phasedragon"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor154]:
-  "Phasedragon"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor155]:
-  "Phasedragon"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor156]:
-  "Phasedragon"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor157]:
-  "Phasedragon"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor158]:
-  "Phasedragon"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor159]:
-  "Phasedragon"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor16]:
-  "Imaru12"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor160]:
-  "Phasedragon"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor161]:
-  "Phasedragon"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor162]:
-  "Phasedragon"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor163]:
-  "Sreza"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor164]:
-  "Sreza"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor165]:
-  "Drasiel"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor166]:
-  "Tobiah"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor167]:
-  "Server"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor168]:
-  "Server"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor169]:
-  "Tobiah"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor17]:
-  "Wynn"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor170]:
-  "Wintermute667"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor171]:
-  "Server"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor172]:
-  "Harrycan"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor173]:
-  "Neo_182"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor174]:
-  "Harrycan"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor175]:
-  "Harrycan"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor176]:
-  "Telluric"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor18]:
-  "StallordD"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor19]:
-  "DJ_Redwire"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor20]:
-  "inthephonebox"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor21]:
-  "Firetempest"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor22]:
-  "Veryk"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor23]:
-  "Ghost333"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor24]:
-  "Hortonman"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor25]:
-  "duffelfish"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor26]:
-  "Hortonman"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor27]:
-  "Exodess"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor28]:
-  "Xylia"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor29]:
-  "Ghost333"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor3]:
-  "R34LM"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor30]:
-  "Luthim"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor31]:
-  "BrazillianJoe"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor32]:
-  "duffelfish"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor33]:
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_011100110110000101101101]:
   "011100110110000101101101"
 
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor35]:
-  "Kalenath"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor38]:
-  "Doomrock20"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor39]:
-  "Doomrock20"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor4]:
-  "Instinction"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor40]:
-  "Arunasoul"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor41]:
-  "ConviX"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor43]:
-  "ConviX"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor44]:
-  "Luthim"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor45]:
-  "Farris"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor47]:
-  "inthephonebox"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor48]:
-  "Imaru12"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor49]:
-  "ConviX"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor5]:
-  "Jamescell"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor50]:
-  "Xylia"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor51]:
-  "Xylia"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor52]:
-  "Letter13"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor53]:
-  "DJ_Redwire"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor54]:
-  "ChickenBar"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor60]:
-  "RawGritz"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor63]:
-  "Tazmanyak"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor64]:
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_123Olympian]:
   "123Olympian"
 
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor65]:
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_a04tbaba]:
   "a04tbaba"
 
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor66]:
-  "Imaru12"
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Amuga]:
+  "Amuga"
 
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor67]:
-  "VoiD_Glitch"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor68]:
-  "ConviX"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor69]:
-  "ConviX"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor70]:
-  "ConviX"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor71]:
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_AppliedThanatology]:
   "AppliedThanatology"
 
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor72]:
-  "Llyssa"
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Arunasoul]:
+  "Arunasoul"
 
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor73]:
-  "Llyssa"
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Beecher]:
+  "Beecher"
 
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor74]:
-  "Llyssa"
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Blooddrizzt]:
+  "Blooddrizzt"
 
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor75]:
-  "Llyssa"
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_BrazillianJoe]:
+  "BrazillianJoe"
 
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor76]:
-  "Llyssa"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor77]:
-  "Llyssa"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor78]:
-  "Llyssa"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor79]:
-  "Llyssa"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor8]:
-  "Zerohunt"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor80]:
-  "Llyssa"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor81]:
-  "Llyssa"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor82]:
-  "Llyssa"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor83]:
-  "Llyssa"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor84]:
-  "Llyssa"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor85]:
-  "DofD"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor87]:
-  "Imaru12"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor89]:
-  "Kartumterek"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor9]:
-  "Pizzaguri"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor90]:
-  "Sasoka"
-
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor91]:
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Casardis]:
   "Casardis"
 
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor93]:
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_chewbaccachris]:
+  "chewbaccachris"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_ChickenBar]:
+  "ChickenBar"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_ConviX]:
   "ConviX"
 
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor95]:
-  "Xylia"
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Cpl_Facehugger]:
+  "Cpl_Facehugger"
 
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor96]:
-  "Hortonman"
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Crackle2012]:
+  "Crackle2012"
 
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor97]:
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_cxll]:
+  "cxll"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_direcyphre]:
+  "direcyphre"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_DJ_Redwire]:
+  "DJ_Redwire"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_DofD]:
+  "DofD"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Doomrock20]:
+  "Doomrock20"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Drasiel]:
+  "Drasiel"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_duffelfish]:
+  "duffelfish"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Easymac]:
+  "Easymac"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Exodess]:
+  "Exodess"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Farris]:
+  "Farris"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Firetempest]:
+  "Firetempest"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Ghost333]:
+  "Ghost333"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Gigatron-Prime]:
   "Gigatron-Prime"
 
-[/Lotus/Language/DesignCouncilTips/DC_TipAuthor98]:
-  "VoiD_Glitch"
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Haldos]:
+  "Haldos"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Harrycan]:
+  "Harrycan"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Hortonman]:
+  "Hortonman"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Iceedemon888]:
+  "Iceedemon888"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Imaru12]:
+  "Imaru12"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Instinction]:
+  "Instinction"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_inthephonebox]:
+  "inthephonebox"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Ishixia]:
+  "Ishixia"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Jamescell]:
+  "Jamescell"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Jeahanne]:
+  "Jeahanne"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_josh_premier777]:
+  "josh_premier777"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Kalenath]:
+  "Kalenath"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Kartumterek]:
+  "Kartumterek"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Kenshin98]:
+  "Kenshin98"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Letter13]:
+  "Letter13"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Llyssa]:
+  "Llyssa"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Lt_Imperial]:
+  "Lt Imperial"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_lukinu_u]:
+  "lukinu_u"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Luthim]:
+  "Luthim"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_MacGamesAU]:
+  "MacGamesAU"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_MarkFitness]:
+  "MarkFitness"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Marthrym]:
+  "Marthrym"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Neo_182]:
+  "Neo_182"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Ocfos]:
+  "Ocfos"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_OldMansRegret]:
+  "Old Mans Regret"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Open698]:
+  "Open698"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Orthelius]:
+  "Orthelius"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Owlski]:
+  "Owlski"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_PantsAdvance]:
+  "PantsAdvance"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Phailberry]:
+  "Phailberry"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Phasedragon]:
+  "Phasedragon"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Pizzaguri]:
+  "Pizzaguri"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_R34LM]:
+  "R34LM"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Rajko]:
+  "Rajko"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_RawGritz]:
+  "RawGritz"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Ruby_Rose_]:
+  "Ruby_Rose_"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_RyanRFC12345]:
+  "RyanRFC12345"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Saint_Tan]:
+  "Saint_Tan"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Sasoka]:
+  "Sasoka"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Server]:
+  "Server"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Shodian]:
+  "Shodian"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_SilverBones]:
+  "SilverBones"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Sinwars]:
+  "Sinwars"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_SmokeyJesus]:
+  "SmokeyJesus"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Sonicz]:
+  "Sonicz"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Sreza]:
+  "Sreza"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_StallordD]:
+  "StallordD"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Steel_Wolf_1989]:
+  "Steel Wolf 1989"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_TayTay]:
+  "TayTay"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Tazmanyak]:
+  "Tazmanyak"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Telluric]:
+  "Telluric"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Tendou_Souji]:
+  "Tendou_Souji"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_ThatAlaskanDude]:
+  "ThatAlaskanDude"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Tobiah]:
+  "Tobiah"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Veryk]:
+  "Veryk"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Viggorrah]:
+  "Viggorrah"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_williamsos10]:
+  "williamsos10"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Wintermute667]:
+  "Wintermute667"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Wynn]:
+  "Wynn"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_XArcticPegasus]:
+  "XArcticPegasus"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_xethier]:
+  "xethier"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_xShadowsaur]:
+  "xShadowsaur"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Xylia]:
+  "Xylia"
+
+[/Lotus/Language/DesignCouncilTips/DC_TipAuthor_Zerohunt]:
+  "Zerohunt"
 
 [/Lotus/Language/Dojo/AbortedOnContributionScreen]:
   "Another clan member has cancelled this component, contributions are no longer accepted."
@@ -11269,19 +11371,19 @@
   "You've already requested a trade with this player."
 
 [/Lotus/Language/Dojo/AmbulasEventBronzeTrophy]:
-  "[PH] BRONZE AMBULAS TROPHY"
+  "AMBULAS REBORN BRONZE TROPHY"
 
 [/Lotus/Language/Dojo/AmbulasEventGoldTrophy]:
-  "[PH] GOLD AMBULAS TROPHY"
+  "AMBULAS REBORN GOLD TROPHY"
 
 [/Lotus/Language/Dojo/AmbulasEventSilverTrophy]:
-  "[PH] SILVER AMBULAS TROPHY"
+  "AMBULAS REBORN SILVER TROPHY"
 
 [/Lotus/Language/Dojo/AmbulasEventTerracottaTrophy]:
-  "[PH] TERRACOTTA AMBULAS TROPHY"
+  "AMBULAS REBORN TERRACOTTA TROPHY"
 
 [/Lotus/Language/Dojo/AmbulasEventTrophyDesc]:
-  "[PH] Ambulas Trophy Description"
+  "Commemorates the Tenno who fought back the Ambulas incursion."
 
 [/Lotus/Language/Dojo/ApplySchema]:
   "APPLY SCHEMA"
@@ -14164,16 +14266,16 @@
   "ERADICYST"
 
 [/Lotus/Language/Enemies/DropshipAmbulasDesc]:
-  "[PH] A reinforced variant of the Petrel used to transport elite personnel across conflicted territory."
+  "Reinforced Condor used to transport elite personnel into conflict zone."
 
 [/Lotus/Language/Enemies/DropshipAmbulasName]:
-  "[PH] STORM PETREL"
+  "CONDOR STORM DROPSHIP"
 
 [/Lotus/Language/Enemies/DropshipCorpusDesc]:
-  "[PH] Aerial transport that delivers Corpus Reinforcements to strategic locations."
+  "Aerial transport that delivers Corpus Reinforcements to strategic locations."
 
 [/Lotus/Language/Enemies/DropshipCorpusName]:
-  "[PH] PETREL"
+  "CONDOR DROPSHIP"
 
 [/Lotus/Language/Enemies/FairyQuestLoki]:
   "KNAVE SPECTER"
@@ -15521,6 +15623,57 @@
 [/Lotus/Language/G1Quests/AladVWeaponsStolen]:
   "[PH] Now your weapons are mine, fool! Mwa ha ha ha!"
 
+[/Lotus/Language/G1Quests/AmbulasBossEvenFightBody]:
+  "Tenno,
+  
+  We have located Bek’s Animo processor. Now we attack.
+  
+  Ergo Glast"
+
+[/Lotus/Language/G1Quests/AmbulasBossEventFightTitle]:
+  "Time to Take Our Fight to Bek"
+
+[/Lotus/Language/G1Quests/AmbulasBossEventIntroBody]:
+  "Tenno,
+  
+  I have intercepted this disturbing communication from Corpus Board Chairman, Frohd Bek. Watch carefully, we cannot allow his project to reach fruition.
+  
+  Ergo Glast"
+
+[/Lotus/Language/G1Quests/AmbulasBossEventIntroTitle]:
+  "OPERATION: AMBULAS REBORN"
+
+[/Lotus/Language/G1Quests/AmbulasBossEventName]:
+  "DESTROY THE ANIMO PROCESSOR"
+
+[/Lotus/Language/G1Quests/AmbulasBossEventRewardBody]:
+  "Tenno,
+  
+  Frohd Bek bastardized my work. The Animo system was explicitly designed to resolve conflict, not initiate it. In weaponizing the system, he forced my hand. The Animo processor had to be destroyed.
+  
+  You put yourself at great risk to stop that threat. The Perrin Sequence thanks you and hopes you find this weapon to be just compensation. 
+  
+  Until our next venture,
+  Ergo Glast"
+
+[/Lotus/Language/G1Quests/AmbulasBossEventRewardTitle]:
+  "Animo Has Been Destroyed"
+
+[/Lotus/Language/G1Quests/AmbulasBossEventTooltip]:
+  "Disrupt Ambulas shipments from Hades"
+
+[/Lotus/Language/G1Quests/AmbulasEventName]:
+  "OPERATION: AMBULAS REBORN"
+
+[/Lotus/Language/G1Quests/AmbulasEventScoreDesc]:
+  "Animo Nav Beacons Recovered"
+
+[/Lotus/Language/G1Quests/AmbulasEventTooltip]:
+  "Hack and destroy Ambulas proxies in Corpus open-air regions"
+
+[/Lotus/Language/G1Quests/AmbulasEventVendorTopic]:
+  "I have Animo Nav Beacons"
+
 [/Lotus/Language/G1Quests/Anniversary2017MissionBodyA]:
   "Enemy forces have obtained detailed information on some of the Lotus' artifacts. Stop them before they get away!
   
@@ -16270,10 +16423,10 @@
 [/Lotus/Language/G1Quests/DexDakraWeaponMessage]:
   "Tenno,
   
-  It has been nearly two Earth cycles since I woke you. Since that time, the Tenno have grown in number and once more become a formidable presence in our System. Your perseverance and dedication to our cause has not gone unrecognized. 
+  It has been nearly two Earth cycles since I woke you. Since that time, the Tenno have grown in number and once more become a formidable presence in our System. Your perseverance and dedication to our cause has not gone unrecognized.
   
-  You bring honor to us all through your efforts, 
-     
+  You bring honor to us all through your efforts,
+  
   The Lotus"
 
 [/Lotus/Language/G1Quests/DexDakraWeaponTitle]:
@@ -21023,22 +21176,25 @@
   "Contains Alloy Plate"
 
 [/Lotus/Language/Game/AmbulasCargoShip]:
-  "[PH] Cargo ship launched!"
+  "Dropship launched!"
 
 [/Lotus/Language/Game/AmbulasDelivery]:
-  "[PH] Delivered hacked Ambulas!"
+  "Hacked Ambulas delivered!"
 
 [/Lotus/Language/Game/AmbulasMaxCount]:
-  "[PH] HACKED AMBULAS"
+  "HACKED AMBULAS DELIVERED "
+
+[/Lotus/Language/Game/AmbulasReHacked]:
+  "An Ambulas was re-enabled by the Corpus!"
 
 [/Lotus/Language/Game/AmbulasRemainingCount]:
-  "[PH] FAILED TO HACK"
+  "HACK FAILURES"
 
 [/Lotus/Language/Game/AmbulasSecurityTeam]:
-  "[PH] Security team deployed!"
+  "Security team deployed!"
 
 [/Lotus/Language/Game/AmbulasSpawning]:
-  "[PH] Incoming Ambulas delivery!"
+  "Incoming Ambulas!"
 
 [/Lotus/Language/Game/AmmoHud]:
   "Your HUD shows clip and total ammo."
@@ -21158,13 +21314,13 @@
   "AMBULAS"
 
 [/Lotus/Language/Game/BossAmbulasDesc]:
-  "[PH] Upgraded to modern standards, the Ambulas now sports an arsenal to challenge any enemy of the Corpus."
+  "This reborn Ambulas has been upgraded to become one of most lethal combat proxies."
 
 [/Lotus/Language/Game/BossAmbulasHackingDrone]:
-  "[PH] SERVITOR OSPREY"
+  "REMECH OSPREY"
 
 [/Lotus/Language/Game/BossAmbulasHackingDroneDesc]:
-  "[PH] Repairs disabled Ambulas units."
+  "Repairs disabled Ambulas units."
 
 [/Lotus/Language/Game/BossExample]:
   "Boss Example"
@@ -21962,7 +22118,7 @@
   "Enemies Remaining"
 
 [/Lotus/Language/Game/EnemyCount]:
-  "ENEMIES"
+  "ENEMIES KILLED"
 
 [/Lotus/Language/Game/EnemyGeneric]:
   "ENEMY"
@@ -25520,6 +25676,12 @@
 [/Lotus/Language/Game/WEAPON_EXPLOSION_RADIUS]:
   "EXPLOSION RADIUS"
 
+[/Lotus/Language/Game/WEAPON_FALLOFF]:
+  "FALLOFF"
+
+[/Lotus/Language/Game/WEAPON_PUNCTURE_DEPTH_INFINITE]:
+  "INFINITE"
+
 [/Lotus/Language/Game/Wyrm]:
   "WYRM"
 
@@ -25622,17 +25784,17 @@
   
   After a Hive is destroyed, it will activate one of six different traps that will trigger for the remainder of the mission. Once all three have been destroyed, Tenno will have to reach extraction with three traps active."
 
-[/Lotus/Language/GameModes/Index]:
-  "THE INDEX"
-
 [/Lotus/Language/GameModes/IndexEndless]:
   "THE INDEX: ENDURANCE"
 
-[/Lotus/Language/GameModes/IndexHard]:
-  "THE INDEX: HIGH RISK"
+[/Lotus/Language/GameModes/IndexHighRisk]:
+  "THE INDEX: ENDURANCE (HIGH RISK)"
 
-[/Lotus/Language/GameModes/IndexNormal]:
-  "THE INDEX"
+[/Lotus/Language/GameModes/IndexLowRisk]:
+  "THE INDEX: ENDURANCE (LOW RISK)"
+
+[/Lotus/Language/GameModes/IndexMediumRisk]:
+  "THE INDEX: ENDURANCE (MEDIUM RISK)"
 
 [/Lotus/Language/GameModes/Interception]:
   "Interception"
@@ -26661,10 +26823,10 @@
   "ADVENTUS ARROW COLLECTION"
 
 [/Lotus/Language/Items/AmbulasDataFragmentDesc]:
-  "[PH] Description for Ambulat Data Fragment"
+  "Used to locate the Ambulas production facility"
 
 [/Lotus/Language/Items/AmbulasDataFragmentName]:
-  "[PH] AMBULAS DATA"
+  "ANIMO NAV BEACON"
 
 [/Lotus/Language/Items/AncientHealerBall]:
   "ANCIENT HEALER SPECTER"
@@ -33697,7 +33859,7 @@
   "ZOREN DAY OF THE DEAD DUAL SKIN"
 
 [/Lotus/Language/Items/HalloweenFireFlyScarfDesc]:
-  "An Igaro Syndana adorned with a morbidly festive design."
+  "An Igaro Syandana adorned with a morbidly festive design."
 
 [/Lotus/Language/Items/HalloweenFireFlyScarfName]:
   "IGARO DAY OF THE DEAD SYANDANA"
@@ -36071,6 +36233,12 @@
 
 [/Lotus/Language/Items/MacheteStanceADesc]:
   "Steady chopping strikes with focused damage."
+
+[/Lotus/Language/Items/MacheteStanceB]:
+  "Cyclone Kraken"
+
+[/Lotus/Language/Items/MacheteStanceBDesc]:
+  "Brutal strikes with deft movement."
 
 [/Lotus/Language/Items/MacheteWomanBall]:
   "SCORPION SPECTER"
@@ -39253,7 +39421,7 @@
   "Sacrifice"
 
 [/Lotus/Language/Items/RevivePlayerStoreItemNameDesc]:
-  "Sentinel will revive its owner when downed. Sentinel dies at the end of the revive."
+  "Sentinel takes |TIME|s to revive its downed owner to |PERCENT|% health and shields, destroying itself after the process."
 
 [/Lotus/Language/Items/RhinoActionGlyphName]:
   "RHINO IN ACTION GLYPH"
@@ -43313,6 +43481,9 @@
 [/Lotus/Language/Junction/TaskListTitle]:
   "Junction Goals"
 
+[/Lotus/Language/Launcher/ACCESS_DENIED_EXECUTABLE]:
+  "Could not run the Warframe executable (antivirus software may be interfering)!"
+
 [/Lotus/Language/Launcher/ActivateAccount]:
   "Activate Account"
 
@@ -43506,6 +43677,9 @@
 
 [/Lotus/Language/Launcher/ERROR]:
   "Error"
+
+[/Lotus/Language/Launcher/ERROR_LAUNCHING_EXECUTABLE]:
+  "Could not run the Warframe executable!"
 
 [/Lotus/Language/Launcher/FailedDirCreate]:
   "Could not create directory:"
@@ -45702,6 +45876,21 @@
 [/Lotus/Language/Melee/MacheteSlideDefaults]:
   "Flowing River"
 
+[/Lotus/Language/Melee/MacheteStanceBComboABranch]:
+  "Thunder Hydra"
+
+[/Lotus/Language/Melee/MacheteStanceBComboBBranch]:
+  "Lightning Siren"
+
+[/Lotus/Language/Melee/MacheteStanceBComboCBranch]:
+  "Leviathan Rain"
+
+[/Lotus/Language/Melee/MacheteStanceBDefaults]:
+  "Gale Triton"
+
+[/Lotus/Language/Melee/MacheteStanceBQuickDefaults]:
+  "Storm Capricorn"
+
 [/Lotus/Language/Melee/MonkeyKingStaffBasicCombo]:
   "Falling Oak Buster"
 
@@ -47300,6 +47489,9 @@
 [/Lotus/Language/Menu/Chat_BasicTitle]:
   "CHAT"
 
+[/Lotus/Language/Menu/Chat_CannotIgnoreSelf]:
+  "Cannot ignore yourself."
+
 [/Lotus/Language/Menu/Chat_CannotWhisperIgnoredPlayer]:
   "Cannot whisper ignored player"
 
@@ -47362,6 +47554,9 @@
 
 [/Lotus/Language/Menu/Chat_ExceededSongLimitError]:
   "Message can contain a maximum of |LIMIT| song links."
+
+[/Lotus/Language/Menu/Chat_FilterMgrTitle]:
+  "|CHANNEL|'s filters"
 
 [/Lotus/Language/Menu/Chat_FriendOffline]:
   "|FRIEND| is currently offline and will not receive this message."
@@ -56357,6 +56552,9 @@
 [/Lotus/Language/Menu/ProjectionManager_UpgradeProjectionSuccess]:
   "Relic refined!"
 
+[/Lotus/Language/Menu/ProjectionManagerName]:
+  "VOID RELIC CONSOLE"
+
 [/Lotus/Language/Menu/Promote_Confirm]:
   "You are about to promote |USER| to the rank of |RANK|. Do you wish to continue?"
 
@@ -57007,6 +57205,9 @@
 
 [/Lotus/Language/Menu/ReviveForfeit_Confirm]:
   "Are you sure you want to |MESSAGE|?"
+
+[/Lotus/Language/Menu/RevivesRemaining]:
+  "REVIVES LEFT IN THIS MISSION"
 
 [/Lotus/Language/Menu/ReviveXpCost]:
   "REVIVE COST: |NUM| AFFINITY"
@@ -59352,6 +59553,9 @@
 
 [/Lotus/Language/Menu/WorldStateChallengeMode]:
   "ENDURANCE"
+
+[/Lotus/Language/Menu/WorldStateClanEventProgress]:
+  "By |CLAN_NAME|"
 
 [/Lotus/Language/Menu/WorldStatePanel_ActiveQuestLabel]:
   "Active"
@@ -64406,7 +64610,7 @@
   "NOGGLE STATUE - ARID SEEKER"
 
 [/Lotus/Language/ShipDecorations/BobbleheadAmbulasDesc]:
-  "[PH] Description"
+  "A small wobbly statue of the Ambulas."
 
 [/Lotus/Language/ShipDecorations/BobbleheadAmbulasName]:
   "AMBULAS NOGGLE STATUE"
@@ -65240,10 +65444,10 @@
   "ALLIANCE SIGIL"
 
 [/Lotus/Language/Sigils/AmbulasEventSigilDesc]:
-  "[PH] Description"
+  "A sigil commemorating the fight against the Ambulas incursion."
 
 [/Lotus/Language/Sigils/AmbulasEventSigilName]:
-  "[PH] AMBULAS EVENT SIGIL"
+  "AMBULAS REBORN SIGIL"
 
 [/Lotus/Language/Sigils/BansheeDeluxeSigilDesc]:
   "Wear Banshee Soprana's sigil with pride."
@@ -67349,6 +67553,14 @@
 [/Lotus/Language/SteamWorkshop/SWBodoScarfName]:
   "BODO SYANDANA"
 
+[/Lotus/Language/SteamWorkshop/SWCovenantScarfDesc]:
+  "A syandana for your Warframe, designed by FrellingHazmot
+  
+  <UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWCovenantScarfName]:
+  "COVENANT SYANDANA"
+
 [/Lotus/Language/SteamWorkshop/SWGraxxMesaHelmetDesc]:
   "A helmet for the Mesa Warframe, designed by Faven_PS
   
@@ -67372,6 +67584,14 @@
 
 [/Lotus/Language/SteamWorkshop/SWIncubusHelmetName]:
   "LOKI INCUBUS HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWIncubusScarfDesc]:
+  "A syandana for your Warframe, designed by Volkovyi
+  
+  <UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWIncubusScarfName]:
+  "INCUBUS RIBBON SYANDANA"
 
 [/Lotus/Language/SteamWorkshop/SWIncubusSkinDesc]:
   "A unique skin for the Loki Warframe, designed by kaz and Volkovyi
@@ -67412,6 +67632,22 @@
 
 [/Lotus/Language/SteamWorkshop/SWMorgaineSkinName]:
   "MIRAGE MORGAINE SKIN"
+
+[/Lotus/Language/SteamWorkshop/SWRaijiScarfDesc]:
+  "A syandana for your Warframe, designed by led2012
+  
+  <UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRaijiScarfName]:
+  "RAIJI SYANDANA"
+
+[/Lotus/Language/SteamWorkshop/SWRepalaScarfDesc]:
+  "A syandana for your Warframe, designed by Master Noob
+  
+  <UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRepalaScarfName]:
+  "REPALA SYANDANA"
 
 [/Lotus/Language/SteamWorkshop/SWRFiveAtlasArhatHelmetDesc]:
   "A helmet for the Atlas Warframe, designed by Rekkou
@@ -67902,6 +68138,266 @@
 
 [/Lotus/Language/SteamWorkshop/SWTeutonicHelmetName]:
   "RHINO TEUTONIC HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWZaikhyaScarfDesc]:
+  "A syandana for your Warframe, designed by malayu and Cobalt
+  
+  <UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWZaikhyaScarfName]:
+  "ZAIKHYA SYANDANA"
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuBattleArtilleryBarrage00480FrohdBek]:
+  "Fire artillery. Scatter those stainless steel rats!"
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuBattleArtilleryBarrage00500FrohdBek]:
+  "Fire the artillery!"
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuBattleEnrouteFar00410ErgoGlast]:
+  "Frohd Bek, you're nothing if not predictable. I bet your advisors begged you to hide Animo somewhere defensible and undetectable? But you had to show it off, didn't you. As an investor, I must say, I don't approve."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuBattleEnrouteFar00420FrohdBek]:
+  "Glast? You're the shadow investor? You ingrate, you could have had everything. And now you seek to ruin your Mentor's hard work?"
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuBattleEnrouteFar00430ErgoGlast]:
+  "Your hard work? I didn't design Animo to be a weapon. And I would have never disabled its governor."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuBattleEnrouteFar00440FrohdBek]:
+  "You always were clever, but you never did have vision."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuBattleEnrouteFar00450ErgoGlast]:
+  "On the contrary, I envision this whole venture will come crashing down around you."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuBattleEnrouteNear00460FrohdBek]:
+  "Each Tenno attack on my Ambulas has been logged, analyzed and refactored from our Animo Project. You've brought these Tenno to their deaths. A terrible miscalculation. You've learned nothing from me."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuBattleEnrouteNear00470ErgoGlast]:
+  "I learned one thing, Bek; never underestimate the competition."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuBattleFail00720FrohdBek]:
+  "We could do this dance all day long, Tenno, but you'll never defeat my Ambulas army. Now you're just wasting my time. Give my regards to Glast."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuBattleFailWarning00650ErgoGlast]:
+  "No, no! You need to hack the Ambulas before Bek recovers them. This is crucial to my plan's success."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuBattleFailWarning00660ErgoGlast]:
+  "Don't let Bek recover un-hacked Ambulas. This is the only way we can defeat him."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuBattleFinalPickedUp00670ErgoGlast]:
+  "You're done, Frohd, this ends now."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuBattleHacked00550FrohdBek]:
+  "Get a team down there to pick that Ambulas up. Don't let her go to waste."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuBattleHacked00560FrohdBek]:
+  "Someone retrieve that Ambulas model before autodestruction kicks in. She can be refurbished."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuBattleHacked00570FrohdBek]:
+  "Thanks to your investment, I can keep throwing Ambulas at the Tenno all day."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuBattleHackOrders00530ErgoGlast]:
+  "Quick, hack that disabled Ambulas and upload this protocol."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuBattleHackOrders00540ErgoGlast]:
+  "Opportunity! Hack into that Ambulas and deploy this protocol."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuBattleInboxMsg00400ErgoGlast]:
+  "It seems my faith in you was well founded. You've reached the critical mass of Animo Nav Beacons needed to reveal the processor's location.
+  
+  Analyzing, hmmm… I should have known, he's not hiding it at all. It's in his Capital Ship and his ship is stationed directly over the Ambulas factory.
+  
+  Unbelieveable, the most advanced super-weapon of our time and he couldn't resist showing it off like a new toy. When you're ready, we attack."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuBattleMidFight00510FrohdBek]:
+  "Everything I own I built. Worked my way to the top of the board from nothing. You? You create nothing! You earned nothing! You deserve nothing!"
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuBattleMidFight00520ErgoGlast]:
+  "You made your fortune on the backs of others, Frohd. Your hard work is their hard work. You let the burdens rain down, while the credits trickle up."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuBattleOneRemaining00640ErgoGlast]:
+  "All we need is one more Ambulas to be returned to the drop ship."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuBattlePickedUp00600FrohdBek]:
+  "You fools should have finished the job while you had the chance. That Ambulas will live to fight another day."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuBattlePickedUp00610ErgoGlast]:
+  "That's right, Frohd. Don't let anything go to waste."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuBattlePickedUp00620FrohdBek]:
+  "Glast, how are these Tenno going to finish me when they can't even end what they have begun?"
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuBattlePickedUp00630ErgoGlast]:
+  "You could have rebuilt the system, Frohd, instead you've made death machines. What have they done for you?"
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuBattleProtectHackedAmbulas00580ErgoGlast]:
+  "They're going to try and fix the hacked Ambulas, don't let them. It's crucial that Bek takes it back onto his ship as is."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuBattleProtectHackedAmbulas00590ErgoGlast]:
+  "Whatever you do, don't let them fix that Ambulas."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuBattleVictory00680FrohdBek]:
+  "Throw everything at them. They will not take this away from me. They will not win. They've not earned it."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuBattleVictory00690ErgoGlast]:
+  "I know this for certain, Frohd, you've earned this. I'm sorry Animo. Execute the protocol!"
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuBattleVictory00700FrohdBek]:
+  "What was that? My ship? Ahh… Eject the bridge module. Eject it now!!!"
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuBattleVictory00710ErgoGlast]:
+  "Animo... once my pride and joy, has been destroyed. I abandoned the project when I fled the Corpus. I should have known it was too powerful to leave in their hands. The Ambulas proxies still exist, and they are no doubt formidable, but the threat of their super-intelligence is now gone. Thank you, Tenno."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuBeamAttack00170FrohdBek]:
+  "Powerful. Precise. Pitiless. There has never been a fusion thrower like this."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuBeamAttack00180FrohdBek]:
+  "One of our engineers commented that Ambulas's fusion thrower is precise enough to shave the back hairs off a Phobian desert flea. Delightful."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuDropship00120FrohdBek]:
+  "Our drop-ship response times are second to none. Ensuring prompt delivery in mission-critical roles."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuDropship00130FrohdBek]:
+  "Here comes the drop-ship with a special delivery. Ah, I haven't felt this good since they rebuilt my larynx."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuFightBegins00030FrohdBek]:
+  "Corpus investors, ready for a surprise demonstration? I give you my reborn Ambulas. Allow me to show you what she can do to these, Tenno, uh, volunteers."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuFightBegins00040FrohdBek]:
+  "Crewmen, today my reborn Ambulas takes her first steps into the field. You must be thinking; \"If I work hard and sacrifice as Frohd Bek has done, may I someday share in this inestimable profit?\" The answer is yes."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuFightBegins00050ErgoGlast]:
+  "Animo learns from every Ambulas encounter. Under its command, no two proxies will repeat the same mistake. We can't allow this machine mind to mature."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuFightBegins00060ErgoGlast]:
+  "Ambulas is only the beginning. If Animo reaches a critical mass of understanding, well, this was the mistake the Orokin made. Things did not turn out so well for them."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuFightBegins00070ErgoGlast]:
+  "The wealth generated by this new Ambulas will flow entirely to the Corpus Board. Meanwhile, the rest of the system is going to pay for it, some with their lives. Tenno, shut this program down now."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuFightBegins00080ErgoGlast]:
+  "Men like Frohd Bek are the reason the Perrin Sequence exists. Show him you won't allow suffering to be profitable."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuFrohdAngered00310FrohdBek]:
+  "Don't just stand there, fix my Ambulas!"
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuFrohdAngered00320FrohdBek]:
+  "My Ambulas, what have they done to her. Fix this!"
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuGroundPound00140FrohdBek]:
+  "Ground-burst technology ensures effortless target suppression."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuGroundPound00150FrohdBek]:
+  "X-axis gravity-driven assaults yield a 200 percent improvement in kinetic force."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuGroundPound00160FrohdBek]:
+  "Ground-bursts register zero-point-three percent survivability for unarmored personnel."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuHacked00270FrohdBek]:
+  "Wait... wait, what are they doing? And that concludes our demonstration."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuHacked00280FrohdBek]:
+  "Obviously, new technology always has its kinks. Wise investors, you understand this?"
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuHacked00290FrohdBek]:
+  "That's all for today. Cut the feed."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuHacked00300FrohdBek]:
+  "Oh… Uh... Have I mentioned our round-the-clock support program?"
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuHackHints00250ErgoGlast]:
+  "The Ambulas is down, hack into its systems."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuHackHints00260ErgoGlast]:
+  "This is your chance, hack into that disabled Ambulas."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuHurt00220FrohdBek]:
+  "A minor production glitch. Do remain seated. We've all been in this business a long time. These things happen with prototypes."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuHurt00230FrohdBek]:
+  "Send a note to the engineers, they'll have a fix for that in no time."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuHurt00240FrohdBek]:
+  "Witness how the ablative armor deals with the Tenno's meager attempts to compromise Ambulas's structural integrity."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuInboxMsg00010FrohdBek]:
+  "
+  [9.0]
+  ...
+  [15.0]
+  Actualize… synergy... SYNERGIZE.
+  [20.0]
+  Growth… profit… GROFIT?!
+  [33.0]
+  Fellow profiteers, this is a once-in-a-lifetime strategic investment opportunity. A game changer in robotic combat solutions.
+  [43.0]
+  We're taking big-data from our Animo project and doing a full-stack integration into our most lethal combat proxies.
+  [49.0]
+  This is: AMBULAS, REBORN!
+  [58.0]
+  But we need you. Your investment will push us past the pre-revenue stage and move Ambulas into full production.
+  [66.0]
+  We are so close to our goal! Thought leaders, are you ready to pivot downturns into rising Grofit?!
+  [74.0]
+  Act quickly before… wait - I'm being told - Yes, this is it!
+  [80.0]
+  The Ambulas Reborn project has reached its funding goal!"
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuInboxMsg00011FrohdBek]:
+  "
+  [9.0]
+  ...
+  [15.0]
+  Actualize… synergy... SYNERGIZE.
+  [20.0]
+  Growth… profit… GROFIT?!
+  [33.0]
+  Fellow profiteers, this is a once-in-a-lifetime strategic investment opportunity. A game changer in robotic combat solutions.
+  [43.0]
+  We're taking big-data from our Animo project and doing a full-stack integration into our most lethal combat proxies.
+  [49.0]
+  This is: AMBULAS, REBORN!"
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuInboxMsg00020ErgoGlast]:
+  "The Sequence has raised funds necessary to back this project. Of course, we do not seek to complete it, but to destroy it. Because of our small backing, we're entitled to information regarding the Ambulas production details. Will you help us stop Frohd's project, Tenno?"
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuKillTenno00190FrohdBek]:
+  "Beautiful, is she not? And available. Merely open your accounts, dear investors, and introduce yourselves."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuKillTenno00200FrohdBek]:
+  "This is the future: Power. Precision. Prestige. The pinnacle of the war-smith's art."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuKillTenno00210FrohdBek]:
+  "Is there anything this proxy can't do?"
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuMortarElectrical00090FrohdBek]:
+  "Wonderful."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuMortarElectrical00100FrohdBek]:
+  "That never gets boring."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuMortarElectrical00110FrohdBek]:
+  "It's a thing of beauty, isn't it?"
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuPostFight00330ErgoGlast]:
+  "An Animo Nav Beacon! With enough of those we'll be able to find where Bek is hiding Animo."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuPostFight00340ErgoGlast]:
+  "That hack blocked the upload of critical tactical data to Animo while simultaneously giving us a clue to its location. Well done."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuRelayShopGreeting00360ErgoGlast]:
+  "Taken down a few Ambulas in the wild I see? Very impressive. Those beacons have much value for us. They hold clues to some of Bek's most secretive intellectual property. Information too valuable to be hoarded by one man. Allow me to copy them, and I will reward your generosity with a selection of fine items."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuRelayShopNoPurchase00390ErgoGlast]:
+  "Good fortune, Tenno."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuRelayShopPurchase00370ErgoGlast]:
+  "A mutually beneficial exchange, how all business should be done."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/DAmbuRelayShopPurchase00380ErgoGlast]:
+  "The information you have given me today will help the whole system tomorrow."
+
+[/Lotus/Language/Subtitles/AmbulasBoss/THIS_FILE_IS_AUTOGENERATED_BY_THE_DIALOG_TOOL]:
+  ""
 
 [/Lotus/Language/Subtitles/BardQuest/DBQBuildMandachord00041CephSuda]:
   "Do you recall how wonderful the Mandachord orchestra was? No… No of course you wouldn't... Have you built it yet? Why don't I hear its music?"
@@ -70406,24 +70902,6 @@
 
 [/Lotus/Language/Subtitles/GrineerMale/THIS_FILE_IS_AUTOGENERATED_BY_THE_DIALOG_TOOL]:
   ""
-
-[/Lotus/Language/Subtitles/LotusBarks/BossBipedAmbulasTransmissionA]:
-  "The newest entry into the Corpus AI security arsenal is a deadly biped dubbed Ambulas. We have tracked the prototype to this ship. Locate and eliminate it."
-
-[/Lotus/Language/Subtitles/LotusBarks/BossBipedAmbulasVariationTransmissionA]:
-  "Obliterate the prototype. We need to be certain it does not make it to the manufacturing stage."
-
-[/Lotus/Language/Subtitles/LotusBarks/BossBipedAmbulasVariationTransmissionB]:
-  "Destroying Ambulas will be a blow to Corpus robotics research. Stay the course."
-
-[/Lotus/Language/Subtitles/LotusBarks/BossBipedAmbulasVariationTransmissionC]:
-  "Ambulas possess a devastating kick for those who get too close. Long range attacks are advisable."
-
-[/Lotus/Language/Subtitles/LotusBarks/BossBipedAmbulasVariationTransmissionD]:
-  "Corpus robotics technology is reaching grave proportions. Destroying this archetype is imperative."
-
-[/Lotus/Language/Subtitles/LotusBarks/BossBipedAmbulasVariationTransmissionE]:
-  "Ambulas likes to play with fire. Try not to get burned."
 
 [/Lotus/Language/Subtitles/LotusBarks/BossCaptainVorTransmissionA]:
   "Captain Vor has lived under suspicion of possessing Orokin technology that grants him powerful abilities. We cannot allow this. Get to his location and eliminate him."
@@ -83252,7 +83730,7 @@
   "LIMBO"
 
 [/Lotus/Language/Suits/LimboPassiveAbility]:
-  "Dodge to enter and exit the Rift. Entering leaves behind a small Rift portal."
+  "Dodge to enter and exit the Rift. Entering leaves behind a small Rift portal. Energy slowly recharges in the Rift, and each enemy killed in there also gives energy."
 
 [/Lotus/Language/Suits/LinkAbilityAugment1Desc]:
   "Link Augment: Reduces armor rating by |ARMOR_REDUCTION|% on enemies targeted by Link."
@@ -84680,13 +85158,16 @@
   "Entropy Flight"
 
 [/Lotus/Language/SyndicateRewards/KunaiMod]:
-  "[PH] REPLICATING HOLSTER"
+  "Stockpiled Blight"
+
+[/Lotus/Language/SyndicateRewards/KunaiModDesc]:
+  "Increases magazine capacity by |val|%."
 
 [/Lotus/Language/SyndicateRewards/LankaMod]:
-  "[PH] Flight Denier"
+  "Voltage Sequence"
 
 [/Lotus/Language/SyndicateRewards/LankaModDesc]:
-  "[PH] Killing air units creates enemy-stunning Arc Traps lasting |val|s."
+  "Killing a flying enemy creates a lightning trap from their remains, lasting |val|s"
 
 [/Lotus/Language/SyndicateRewards/LokiMod]:
   "[PH] TBD"
@@ -84704,7 +85185,10 @@
   "Toxic Blight"
 
 [/Lotus/Language/SyndicateRewards/MiterMod]:
-  "[PH] BUBBLE SHREDDER"
+  "Neutralizing Justice"
+
+[/Lotus/Language/SyndicateRewards/MiterModDesc]:
+  "Each Miter blade has a |val|% chance to immediately destroy a Nullifier field."
 
 [/Lotus/Language/SyndicateRewards/NekrosMod]:
   "[PH] TBD"
@@ -84719,16 +85203,22 @@
   "[PH] TBD"
 
 [/Lotus/Language/SyndicateRewards/ObexMod]:
-  "[PH] Explodey Pummel"
+  "Entropy Detonation"
 
 [/Lotus/Language/SyndicateRewards/ObexModDescA]:
-  "[PH] Lethal Channeled Ground Finishers cause enemies to explode, dealing |val| "
+  "Lethal ground attacks cause enemies to explode dealing |val|"
 
 [/Lotus/Language/SyndicateRewards/ObexModDescB]:
-  "[PH] (|val|% Enemy Max Health) Blast Damage "
+  "(|val|% enemy max health) <DT_EXPLOSION>Blast damage"
 
 [/Lotus/Language/SyndicateRewards/ObexModDescC]:
-  "[PH] in a |val|m radius"
+  "in a |val|m radius"
+
+[/Lotus/Language/SyndicateRewards/PantheraMod]:
+  "Disarming Purity"
+
+[/Lotus/Language/SyndicateRewards/PantheraModDesc]:
+  "Secondary Fire mode has a |val|% chance to disarm enemies."
 
 [/Lotus/Language/SyndicateRewards/RhinoMod]:
   "[PH] TBD"
@@ -84737,7 +85227,7 @@
   "[PH] TBD"
 
 [/Lotus/Language/SyndicateRewards/SilvaAegisMod]:
-  "[PH] Blocky McChargeFace"
+  "Avenging Truth"
 
 [/Lotus/Language/SyndicateRewards/SkanaMod]:
   "Bright Purity"
@@ -85567,6 +86057,9 @@
 [/Lotus/Language/Tutorial/TutorialQuickMelee]:
   "Tap <MELEE> for Quick Melee"
 
+[/Lotus/Language/Tutorial/TutorialReloadWeapon]:
+  "<RELOAD> Reload"
+
 [/Lotus/Language/Tutorial/TutorialRescueEntranceOne]:
   "This area is heavily fortified."
 
@@ -86302,6 +86795,12 @@
 [/Lotus/Language/Upgrades/RipkasNightwatchModProcChance]:
   "Status Chance by |val|% when attacking a prone enemy"
 
+[/Lotus/Language/Upgrades/SecondaryExplosionRadiusModDesc]:
+  "Improves the blast radius of secondary launcher weapons."
+
+[/Lotus/Language/Upgrades/SecondaryExplosionRadiusModName]:
+  "Fulmination"
+
 [/Lotus/Language/Upgrades/ShieldAuraPreceptModDesc]:
   "Increases Max Shields by |MAX|% and Shield Regen by |REGEN|% for |DURATION|s."
 
@@ -86456,7 +86955,7 @@
   "|val| Base Status Chance"
 
 [/Lotus/Language/Upgrades/WeaponBlockingStoreChargeDamage]:
-  "[PH] While blocking, |val|% incoming damage is stored and released as extra damage for next charge attack."
+  "Blocking absorbs |val|% of incoming damage, stored as extra damage for the next charge attack."
 
 [/Lotus/Language/Upgrades/WeaponChannelingDmgModDesc]:
   "|val|% Channeling Damage"
@@ -86834,7 +87333,7 @@
   "PRISMA ANGSTRUM"
 
 [/Lotus/Language/Weapons/PrismaObexDesc]:
-  "[PH] Description"
+  "Dazzle, distract and destroy with fists of impossibly hard prisma crystal."
 
 [/Lotus/Language/Weapons/PrismaObexName]:
   "PRISMA OBEX"
