@@ -15674,6 +15674,17 @@
 [/Lotus/Language/G1Quests/AmbulasEventVendorTopic]:
   "I have Animo Nav Beacons"
 
+[/Lotus/Language/G1Quests/AmbulasRebornInstructions]:
+  "Frohd Bek has announced his Ambulas Reborn. This new version is especially dangerous because of its link to the Animo Learning Processor, which controls all of its tactical decisions. Left unchecked Animo will become unstoppable.
+  
+  Attack the Ambulas Reborn prototypes by traveling to open-air Corpus nodes throughout the Origin System.
+  
+  Disable any Ambulas encountered and hack them to retrieve ANIMO NAV BEACONS. With enough of these Ergo Glast will be able to direct you to the location of the Animo processor.
+  
+  Reach the target number of beacons, and Ergo will locate the Animo processor. Follow his lead and take the fight directly to Frohd Bek.
+  
+  At any time, bring ANIMO NAV BEACONS to Ergo Glast’s headquarters on the Relay and turn them in for rewards."
+
 [/Lotus/Language/G1Quests/Anniversary2017MissionBodyA]:
   "Enemy forces have obtained detailed information on some of the Lotus' artifacts. Stop them before they get away!
   
@@ -21449,8 +21460,16 @@
   "OFFLINE
   MASTERY RANK |RANK| REQUIRED"
 
+[/Lotus/Language/Game/ConsoleMasteryRequiredName]:
+  "|NAME| OFFLINE
+  MASTERY RANK |RANK| REQUIRED"
+
 [/Lotus/Language/Game/ConsoleOutOfService]:
   "OFFLINE
+  SEGMENT REQUIRED"
+
+[/Lotus/Language/Game/ConsoleOutOfServiceName]:
+  "|NAME| OFFLINE
   SEGMENT REQUIRED"
 
 [/Lotus/Language/Game/CONTROL_TIME]:
@@ -32333,7 +32352,7 @@
   "Vents out the Archwing's propulsion core, confusing enemy projectiles and causing them to detonate."
 
 [/Lotus/Language/Items/ExhaustTrailAugmentDesc]:
-  "Core Vent Augment: Blast damage ignites exhaust fumes for |DURATION| secs. Enemies passing through the flames take |DAMAGE| Heat damage."
+  "Core Vent Augment: <DT_EXPLOSION>Blast damage ignites exhaust fumes for |DURATION|s. Enemies passing through the flames take |DAMAGE| <DT_FIRE>Heat damage."
 
 [/Lotus/Language/Items/ExhaustTrailAugmentName]:
   "Afterburner"
@@ -59555,7 +59574,7 @@
   "ENDURANCE"
 
 [/Lotus/Language/Menu/WorldStateClanEventProgress]:
-  "By |CLAN_NAME|"
+  "by |CLAN_NAME|"
 
 [/Lotus/Language/Menu/WorldStatePanel_ActiveQuestLabel]:
   "Active"
@@ -86303,11 +86322,8 @@
 [/Lotus/Language/Upgrades/AvatarEnemyRadarModDesc]:
   "|val| Enemy Radar"
 
-[/Lotus/Language/Upgrades/AvatarExplosionDamageModDesc]:
-  "|val| Explosion Damage"
-
-[/Lotus/Language/Upgrades/AvatarExplosionRadiusModDesc]:
-  "|val| Explosion Radius"
+[/Lotus/Language/Upgrades/AvatarExplosionKnockdownModDesc]:
+  "Explodes on death, dealing |STAT1| <DT_EXPLOSION>Blast Damage in a |STAT2|m radius and knocking down nearby enemies."
 
 [/Lotus/Language/Upgrades/AvatarGroundfireDamageModDesc]:
   "|val|% Damage during Bleedout"
@@ -86598,10 +86614,10 @@
   "|val|% chance to resist an Impact damage effect"
 
 [/Lotus/Language/Upgrades/JatKittagNightwatchModCorpseExplodeBaseDmgDesc]:
-  "Killing enemies causes them to explode, dealing |val| "
+  "Killing enemies explodes them, dealing |val| "
 
 [/Lotus/Language/Upgrades/JatKittagNightwatchModCorpseExplodeHealthPctDesc]:
-  "(|val|% Enemy Max Health) Blast Damage"
+  "(|val|% Enemy Max Health) <DT_EXPLOSION>Blast Damage"
 
 [/Lotus/Language/Upgrades/JatKittagNightwatchModCorpseExplodeRadiusDesc]:
   "in a |val|m radius"
@@ -86613,7 +86629,7 @@
   "and rounds have a |val|% chance to explode. (Use with Caution)"
 
 [/Lotus/Language/Upgrades/KarakNightwatchModDesc]:
-  "[PH] |val| flat status chance. Special bullets only deal impact, heat, cold, or blast damage."
+  "[PH] |val| flat status chance. Special bullets only deal <DT_IMPACT>Impact, <DT_Fire>Heat, <DT_COLD>Cold, or <DT_EXPLOSION>Blast damage."
 
 [/Lotus/Language/Upgrades/KarakNightwatchRicochetModDesc]:
   "Increases ricochets by |val|%"
@@ -87008,6 +87024,9 @@
 [/Lotus/Language/Upgrades/WeaponExplosionDamage]:
   "|val|% <DT_EXPLOSION>Blast"
 
+[/Lotus/Language/Upgrades/WeaponExplosionDamageModDesc]:
+  "|val| <DT_EXPLOSION>Blast Damage"
+
 [/Lotus/Language/Upgrades/WeaponExplosionDamageNoPercent]:
   "|val| <DT_EXPLOSION>Blast"
 
@@ -87015,7 +87034,7 @@
   "|val|% Blast Radius"
 
 [/Lotus/Language/Upgrades/WeaponExplosionRadiusModDesc]:
-  "|val|% Explosion Radius"
+  "|val|% <DT_EXPLOSION>Blast Radius"
 
 [/Lotus/Language/Upgrades/WeaponExposedWeaknessModDesc]:
   "[PH] Enemies affected by Impact status effects take |val|% extra damage."
