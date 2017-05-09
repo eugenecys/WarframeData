@@ -15671,6 +15671,19 @@ Ergo Glast"
 [/Lotus/Language/G1Quests/AmbulasEventTooltip]
 "Hack and destroy Ambulas proxies in Corpus open-air regions"
 
+[/Lotus/Language/G1Quests/AmbulasEventTrophyBody]
+"|CLAN_NAME|,
+
+Owing to your overwhelming effort in taking down Frohd Bek’s Ambulas and its Animo processor, the Perrin Sequence and I would like to present |CLAN_NAME| with this trophy. 
+
+We could not have won without your tireless fight. 
+
+Thank you,
+Ergo Glast"
+
+[/Lotus/Language/G1Quests/AmbulasEventTrophyTitle]
+"Recognition for |CLAN_NAME|"
+
 [/Lotus/Language/G1Quests/AmbulasEventVendorTopic]
 "I have Animo Nav Beacons"
 
@@ -49331,6 +49344,15 @@ Are you sure?"
 
 [/Lotus/Language/Menu/CraftingComponent_GlaivePrimeDisc]
 "GLAIVE PRIME DISC"
+
+[/Lotus/Language/Menu/CraftingComponent_GorgonWraithBarrel]
+"GORGON WRAITH BARREL"
+
+[/Lotus/Language/Menu/CraftingComponent_GorgonWraithReceiver]
+"GORGON WRAITH RECEIVER"
+
+[/Lotus/Language/Menu/CraftingComponent_GorgonWraithStock]
+"GORGON WRAITH STOCK"
 
 [/Lotus/Language/Menu/CraftingComponent_GrineerCombatKnifeBlade]
 "SHEEV BLADE"

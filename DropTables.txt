@@ -1104,20 +1104,13 @@ DROP_AMMO (Drop Chance: 70%)
 	10 SHOTGUN AMMO, COMMON, 25%, Bias 0.455
 	10 SNIPER AMMO, COMMON, 25%, Bias 0.555
 
-DROP_MISC_ITEM (Drop Chance: 100%)
-	Rare Resource (Rarity attenuation: 1.0), COMMON, 97.42%
-	OROKIN CELL, RARE, 2.58%
+DROP_BLUEPRINT (Drop Chance: 20%, Exclusive)
+	GORGON WRAITH BLUEPRINT, UNCOMMON, 100%
 
-DROP_MOD (Drop Chance: 100%)
-	Blunderbuss, COMMON, 75.88%
-	Shock Absorbers, RARE, 1.01%
-	Handspring, RARE, 1.01%
-	Tactical Pump, UNCOMMON, 7.37%
-	Shell Compression, UNCOMMON, 7.37%
-	Ruinous Extension, UNCOMMON, 7.37%
-
-DROP_SIGIL (Drop Chance: 100%)
-	JACKAL SIGIL, UNCOMMON, 100%
+DROP_MISC_ITEM (Drop Chance: 100%, Exclusive)
+	GORGON WRAITH BARREL, COMMON, 33.33%
+	GORGON WRAITH RECEIVER, COMMON, 33.33%
+	GORGON WRAITH STOCK, COMMON, 33.33%
 
 
 [CorpusRailgunBipedAgentDropTable]
