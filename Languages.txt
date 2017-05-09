@@ -19047,7 +19047,7 @@ The Lotus"
 
 Intelligence reports state that the Razorback’s holding cell is protected by an advanced security system that will be resistant to standard hacking methods. In order to bypass the system you will need to craft this Razorback Cipher.
 
-Take note Tenno, crafting the Cipher requires advanced circuit components beyond our own level of technology. However, excess parts from the Razorback manufacturing process have recently been discovered near outer-planet Corpus facilities within the solar system. Travel to these locations via Archwing and recover the necessary components from Corpus units stationed there.
+Take note Tenno, crafting the Cipher requires integrated circuitry components beyond our own level of technology. A shipping manifest intercepted by our spies reveals that excess parts from the Razorback manufacturing process are being returned to Corpus space stations orbiting Jupiter and Neptune. Travel to these locations via Archwing and recover the necessary components from Corpus units stationed there.
 
 The Lotus"
 
