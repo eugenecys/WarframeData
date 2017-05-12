@@ -2205,22 +2205,22 @@ You will receive an email from your 2K contact when the console has been approve
 "<MELEE_ACTION> TO ATTACH GRENADE TO MAGDISC"
 
 [/Game/AVATAR_ABILITY]
-"POWER"
+"ENERGY"
 
 [/Game/AVATAR_ABILITY_AUGMENT]
 "AUGMENT"
 
 [/Game/AVATAR_ABILITY_DURATION]
-"POWER DURATION"
+"DURATION"
 
 [/Game/AVATAR_ABILITY_EFFICIENCY]
-"POWER EFFICIENCY"
+"EFFICIENCY"
 
 [/Game/AVATAR_ABILITY_RANGE]
-"POWER RANGE"
+"RANGE"
 
 [/Game/AVATAR_ABILITY_STRENGTH]
-"POWER STRENGTH"
+"STRENGTH"
 
 [/Game/AVATAR_AFTERBURNER_MULTIPLIER]
 "AFTERBURNERS"
@@ -2334,10 +2334,10 @@ You will receive an email from your 2K contact when the console has been approve
 "AIM GLIDE/LATCH TIME"
 
 [/Game/AVATAR_POWER_MAX]
-"POWER MAX"
+"ENERGY MAX"
 
 [/Game/AVATAR_POWER_RATE]
-"POWER RATE"
+"ENERGY RATE"
 
 [/Game/AVATAR_PROC_IMMUNITY_DURATION]
 "STATUS IMMUNITY DURATION"
@@ -2601,13 +2601,13 @@ You will receive an email from your 2K contact when the console has been approve
 "RESOURCE DROP RATE"
 
 [/Game/GAMEPLAY_POWER_COOLDOWN]
-"POWER COOLDOWN"
+"COOLDOWN"
 
 [/Game/GAMEPLAY_POWER_TO_HEALTH_ON_DAMAGE]
-"POWER TO HEALTH ON DAMAGE"
+"ENERGY TO HEALTH ON DAMAGE"
 
 [/Game/GAMEPLAY_POWER_TO_HEALTH_ON_DEATH]
-"POWER TO HEALTH ON DEATH"
+"ENERGY TO HEALTH ON DEATH"
 
 [/Game/GAMEPLAY_SHIELD_UPGRADE_LEVEL]
 "SHIELD UPGRADE LEVEL"
@@ -3150,7 +3150,7 @@ You will receive an email from your 2K contact when the console has been approve
 "<PLAYER> WINS!"
 
 [/Lotus/Language/Actions/AbilityXP]
-"POWER"
+"ABILITY"
 
 [/Lotus/Language/Actions/ActivateFurnace]
 "<USE> ACTIVATE FURNACE"
@@ -13654,7 +13654,7 @@ and will receive from |PLAYER_NAME| the following:|GETTING|"
 "KEY"
 
 [/Lotus/Language/Dojo/TradeTypeKubrowPrints]
-"COMPANION IMPRINT"
+"PET IMPRINT"
 
 [/Lotus/Language/Dojo/TradeTypeMod]
 "MOD"
@@ -21077,7 +21077,7 @@ Arming: Turrets"
 "..."
 
 [/Lotus/Language/Game/ABILITY_DURATION]
-"ABILITY DURATION"
+"DURATION"
 
 [/Lotus/Language/Game/ABILITY_LENGTH]
 "LENGTH (METERS)"
@@ -21086,13 +21086,13 @@ Arming: Turrets"
 "ABILITY MULTIPLIER"
 
 [/Lotus/Language/Game/ABILITY_RADIUS]
-"ABILITY RADIUS"
+"RADIUS"
 
 [/Lotus/Language/Game/ABILITY_WIDTH]
 "WIDTH (METERS)"
 
 [/Lotus/Language/Game/AbilityActivationBlocked]
-"POWER USE PREVENTED"
+"ABILITY USE PREVENTED"
 
 [/Lotus/Language/Game/AbilityErrorCannontUseInAir]
 "CANNOT USE IN AIR"
@@ -21110,7 +21110,7 @@ Arming: Turrets"
 "INVALID TARGET"
 
 [/Lotus/Language/Game/AbilityErrorNotReady]
-"POWER NOT READY"
+"ABILITY NOT READY"
 
 [/Lotus/Language/Game/AbilityErrorOutOfRange]
 "OUT OF RANGE"
@@ -21122,7 +21122,7 @@ Arming: Turrets"
 "HOLD TO CHARGE"
 
 [/Lotus/Language/Game/AbilityInUse]
-"POWER IN USE"
+"ABILITY IN USE"
 
 [/Lotus/Language/Game/AbilityNeedMoreEnergy]
 "NEED MORE ENERGY"
@@ -21131,7 +21131,7 @@ Arming: Turrets"
 "NEED MORE HEALTH"
 
 [/Lotus/Language/Game/AbilityNotUnlocked]
-"POWER NOT UNLOCKED"
+"ABILITY NOT UNLOCKED"
 
 [/Lotus/Language/Game/AbilitySelected]
 "|ABILITY_NAME| Selected"
@@ -21164,10 +21164,10 @@ Arming: Turrets"
 "Activate Vaporizer"
 
 [/Lotus/Language/Game/ADDITIONAL_CREDIT_CHANCE]
-"ADDITIONAL CREDIT CHANCE (%)"
+"EXTRA CREDIT CHANCE (%)"
 
 [/Lotus/Language/Game/ADDITIONAL_LOOT_PERCENT]
-"ADDITIONAL LOOT (%)"
+"EXTRA LOOT (%)"
 
 [/Lotus/Language/Game/Affinity]
 "AFFINITY"
@@ -21973,7 +21973,7 @@ Your Battle Cards are ready now... Go!"
 "BUBBLE RADIUS"
 
 [/Lotus/Language/Game/DPS]
-"DAMAGE PER SECOND"
+"DAMAGE / SEC"
 
 [/Lotus/Language/Game/DrainMaintenanceExit]
 "<USE> MAINTENANCE EXIT"
@@ -22168,7 +22168,7 @@ Your Battle Cards are ready now... Go!"
 "ENERGY PER MARK"
 
 [/Lotus/Language/Game/ENERGY_PER_MARK_INVIS]
-"ENERGY PER MARK WHILE INVISIBLE"
+"ENERGY PER MARK (INVISIBLE)"
 
 [/Lotus/Language/Game/ENERGY_PER_POWER]
 "ENERGY PER POWER"
@@ -22180,10 +22180,10 @@ Your Battle Cards are ready now... Go!"
 "ENERGY PER TARGET"
 
 [/Lotus/Language/Game/ENERGY_REFUND]
-"ENERGY REFUND (PER HIT)"
+"ENERGY REFUND / HIT"
 
 [/Lotus/Language/Game/EnergyPerSec]
-"DRAIN PER SEC"
+"DRAIN / SEC"
 
 [/Lotus/Language/Game/EngineerRollingTurret]
 "RETH ROLLER"
@@ -22195,7 +22195,7 @@ Your Battle Cards are ready now... Go!"
 "|TARGET| TAGGED"
 
 [/Lotus/Language/Game/EPS]
-"ENERGY PER SECOND"
+"ENERGY / SEC"
 
 [/Lotus/Language/Game/Eris]
 "Eris"
@@ -22924,7 +22924,7 @@ Your Battle Cards are ready now... Go!"
 "HEALTH"
 
 [/Lotus/Language/Game/HEALTH_DECAY_RATE]
-"HEALTH DECAY PER SECOND (%)"
+"HEALTH DECAY / SEC (%)"
 
 [/Lotus/Language/Game/HEALTH_MULTIPLIER]
 "HEALTH MULTIPLIER"
@@ -23044,7 +23044,7 @@ Your Battle Cards are ready now... Go!"
 "MUTATION STACKS COST"
 
 [/Lotus/Language/Game/INFEST_HEAL_RATE]
-"REGEN RATE (PER SECOND)"
+"REGEN RATE / SEC"
 
 [/Lotus/Language/Game/INFEST_MAGGOT_DAMAGE]
 "MAGGOT RUPTURE"
@@ -23637,7 +23637,7 @@ A call echoes across the stars - as a menace approaches..."
 " METERS"
 
 [/Lotus/Language/Game/MinAbsorbed]
-"ABSORB PER SEC"
+"ABSORB / SEC"
 
 [/Lotus/Language/Game/MineDrone]
 "MINE OSPREY"
@@ -24064,7 +24064,7 @@ A call echoes across the stars - as a menace approaches..."
 "TRANSFERENCE"
 
 [/Lotus/Language/Game/OperatorAbilityUnlocked]
-"POWER RECOVERED"
+"ABILITY RECOVERED"
 
 [/Lotus/Language/Game/OperatorAbilityWraith]
 "VOID MODE"
@@ -24328,10 +24328,10 @@ A call echoes across the stars - as a menace approaches..."
 "Contains Polymer Bundles"
 
 [/Lotus/Language/Game/POWER_DURATION]
-"POWER DURATION"
+"DURATION"
 
 [/Lotus/Language/Game/POWER_STRENGTH]
-"POWER STRENGTH"
+"STRENGTH"
 
 [/Lotus/Language/Game/PowerDown]
 "Power Down Console"
@@ -24367,7 +24367,7 @@ A call echoes across the stars - as a menace approaches..."
 "DENIAL BURSA"
 
 [/Lotus/Language/Game/PROJECTILE_DPS]
-"PROJECTILE DAMAGE PER SECOND"
+"PROJECTILE DAMAGE / SEC"
 
 [/Lotus/Language/Game/ProxMine]
 "Prox Mine"
@@ -25550,7 +25550,7 @@ Destroy these targets!"
 "Use <ACTIVATE_ABILITY_0> to activate the first power."
 
 [/Lotus/Language/Game/TutorialWarframeEnergy]
-"Powers require energy.
+"Abilities require energy.
 Absorb this energy orb..."
 
 [/Lotus/Language/Game/TutorialWarframePower]
@@ -30605,7 +30605,7 @@ One Fusion Core has a chance to be Rare."
 "Alacrity"
 
 [/Lotus/Language/Items/ConflictModEnergyRegenAura]
-"Power Regeneration Aura Mod"
+"Energy Regeneration Aura Mod"
 
 [/Lotus/Language/Items/ConflictModHealthRegenAura]
 "Warmth"
@@ -48036,7 +48036,7 @@ SPEAK TO CEPHALON SIMARIS"
 "UNMUTE"
 
 [/Lotus/Language/Menu/CompanionImprints]
-"COMPANION IMPRINTS"
+"PET IMPRINTS"
 
 [/Lotus/Language/Menu/CompanionInteractionsRemaining]
 "<WARNING> |COUNT|/|MAX| INTERACTIONS REMAINING TODAY"
@@ -48269,7 +48269,7 @@ This can't be undone."
 "VIEW CONCLAVE MODS"
 
 [/Lotus/Language/Menu/ConfigurationLabel]
-"POWER ACTIVATION"
+"ABILITY ACTIVATION"
 
 [/Lotus/Language/Menu/ConfirmDissolveFormattedPrice]
 "Are you sure you want to dissolve |ITEMS| for |FORMATTED_PRICE|?"
@@ -48398,7 +48398,7 @@ Are you sure?"
 "CONTROLLER"
 
 [/Lotus/Language/Menu/ControllerPowerMenu]
-"POWER MENU"
+"ABILITY MENU"
 
 [/Lotus/Language/Menu/CoopMods]
 "VIEW COOPERATIVE MODS"
@@ -48594,6 +48594,9 @@ Are you sure?"
 
 [/Lotus/Language/Menu/Cosmetics_Skin]
 "SKIN"
+
+[/Lotus/Language/Menu/Cosmetics_Sugatra]
+"SUGATRA"
 
 [/Lotus/Language/Menu/Cosmetics_Tail]
 "TAIL"
@@ -50805,7 +50808,7 @@ Component blueprints are acquired by completing the Infested Salvage mission in 
 "Connection error, could not join/host dojo level."
 
 [/Lotus/Language/Menu/DURATION]
-"POWER DURATION"
+"DURATION"
 
 [/Lotus/Language/Menu/EditDecorationsDecription]
 "CONTRIBUTE TO AN UNFINISHED DECORATION, OR REMOVE A FINISHED DECORATION"
@@ -52151,34 +52154,34 @@ Just to let you know, the |TYPE_NAME| you sent to |RECIPIENT_NAME| has been open
 "Roll"
 
 [/Lotus/Language/Menu/Input_ACTIVATE_ABILITY_0]
-"Power A"
+"Ability A"
 
 [/Lotus/Language/Menu/Input_ACTIVATE_ABILITY_1]
-"Power B"
+"Ability B"
 
 [/Lotus/Language/Menu/Input_ACTIVATE_ABILITY_2]
-"Power C"
+"Ability C"
 
 [/Lotus/Language/Menu/Input_ACTIVATE_ABILITY_3]
-"Power D"
+"Ability D"
 
 [/Lotus/Language/Menu/Input_ACTIVATE_ABILITY_4]
 "Focus and Transference"
 
 [/Lotus/Language/Menu/Input_ACTIVATE_ABILITY_MENU_0]
-"Power A (Power Menu)"
+"Ability A (Ability Menu)"
 
 [/Lotus/Language/Menu/Input_ACTIVATE_ABILITY_MENU_1]
-"Power B (Power Menu)"
+"Ability B (Ability Menu)"
 
 [/Lotus/Language/Menu/Input_ACTIVATE_ABILITY_MENU_2]
-"Power C (Power Menu)"
+"Ability C (Ability Menu)"
 
 [/Lotus/Language/Menu/Input_ACTIVATE_ABILITY_MENU_3]
-"Power D (Power Menu)"
+"Ability D (Ability Menu)"
 
 [/Lotus/Language/Menu/Input_ACTIVATE_ABILITY_MENU_4]
-"Power E (Power Menu)"
+"Ability E (Ability Menu)"
 
 [/Lotus/Language/Menu/Input_AIM_WEAPON]
 "Aim Weapon"
@@ -54784,7 +54787,7 @@ REWARD"
 "No Item Available"
 
 [/Lotus/Language/Menu/NoAvailImprints]
-"No available imprints. Create an imprint of your active Companion in the GENETIC TOOLS submenu."
+"No available imprints. Create an imprint of your active pet in the GENETIC TOOLS submenu."
 
 [/Lotus/Language/Menu/NoComponetsToAdd]
 "All available HUD components are already in use."
@@ -54796,7 +54799,7 @@ REWARD"
 "NO DATA SET SELECTED"
 
 [/Lotus/Language/Menu/NoImprintsToTrade]
-"You do not have any Kubrow imprints to trade."
+"You do not have any pet imprints to trade."
 
 [/Lotus/Language/Menu/NoLoadOutProjectionConfirm]
 "Enter mission without choosing a Relic? You will not receive a reward from the Void Fissure without a Relic."
@@ -55930,7 +55933,7 @@ If your system supports DirectX 11 you can enable it in the launcher."
 "The item was successfully purchased, but an error occurred syncing your inventory.  You will now be logged out."
 
 [/Lotus/Language/Menu/PowerMenu]
-"Power Menu"
+"Ability Menu"
 
 [/Lotus/Language/Menu/PreviewingKubrow]
 "|PET| PREVIEW"
@@ -56991,7 +56994,7 @@ Do you wish to enable Recruit Conditioning?"
 "RANDOM INCUBATION"
 
 [/Lotus/Language/Menu/RANGE]
-"POWER RANGE (METERS)"
+"RANGE (METERS)"
 
 [/Lotus/Language/Menu/Rank_X]
 "RANK |X|"
@@ -57380,7 +57383,7 @@ Thank you for your partnership."
 "<WARNING> Select an Achievement to see its details."
 
 [/Lotus/Language/Menu/SelectCompanionImprint]
-"SELECT A COMPANION IMPRINT"
+"SELECT A PET IMPRINT"
 
 [/Lotus/Language/Menu/SelectConsumableTitle]
 "SELECT A GEAR"
@@ -68937,7 +68940,7 @@ Goodbye, my friend, my Operator…"
 ""
 
 [/Lotus/Language/Subtitles/CorpusBosses/DApproachNeutral070AladV]
-"You have a loyalty issue Tenno. My Zanuka project will fix that for you."
+"You have a loyalty issues, Tenno. My Zanuka project will fix that for you."
 
 [/Lotus/Language/Subtitles/CorpusBosses/DApproachNeutral080AladV]
 "I've been looking all over for you Tenno. Come, let me show you my new venture. I think you'd be a perfect fit."
@@ -86440,17 +86443,11 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 [/Lotus/Language/Upgrades/BowModConvertAmmoModDesc]
 "Converts unused ammo pickups into Arrows"
 
-[/Lotus/Language/Upgrades/CatbrowSwipePreceptPartA]
-"|val| enemies."
-
-[/Lotus/Language/Upgrades/CatbrowSwipePreceptPartB]
-"|val|m to attack range."
+[/Lotus/Language/Upgrades/CatbrowSwipePreceptModDesc]
+"Strikes |STAT1| additional enemies and increases attack range by |STAT2|m."
 
 [/Lotus/Language/Upgrades/ChanceToLootDesc]
 "|val|% chance to unlock locked lockers"
-
-[/Lotus/Language/Upgrades/ChannelingRedirectDamage]
-"While blocking, redirect |val|% of damage taken by allies within |RANGE|m to yourself."
 
 [/Lotus/Language/Upgrades/CodexScanOnKillDesc]
 "Fatal strikes against an enemy also perform a Codex Scan. Scans require an equipped Codex Scanner and an available charge."
@@ -86459,7 +86456,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "|val|% Critical Chance stacks with Combo Multiplier"
 
 [/Lotus/Language/Upgrades/ComboDurationModDesc]
-"Increase Combo Duration by |val| secs"
+"Increase Combo Duration by |val|s"
 
 [/Lotus/Language/Upgrades/ComboStatusEffectModDesc]
 "|val|% Status Chance stacks with Combo Multiplier"
@@ -86563,11 +86560,8 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 [/Lotus/Language/Upgrades/DamageToEnergyDesc]
 "Convert |val|% of Damage on Health to Energy"
 
-[/Lotus/Language/Upgrades/DrakgoonNightwatchModPartA]
-"Flak now bounces up to |val| times"
-
-[/Lotus/Language/Upgrades/DrakgoonNightwatchModPartB]
-"and travels |val|% faster"
+[/Lotus/Language/Upgrades/DrakgoonNightwatchModDesc]
+"Flak now bounces up to |STAT1|x and travels |STAT2|% faster."
 
 [/Lotus/Language/Upgrades/DropChanceModifierDesc]
 "|val|% Rare Item Drop Chance On Death"
@@ -86635,14 +86629,8 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 [/Lotus/Language/Upgrades/ImpactProcResist]
 "|val|% chance to resist an Impact damage effect"
 
-[/Lotus/Language/Upgrades/JatKittagNightwatchModCorpseExplodeBaseDmgDesc]
-"Killing enemies explodes them, dealing |val| "
-
-[/Lotus/Language/Upgrades/JatKittagNightwatchModCorpseExplodeHealthPctDesc]
-"(|val|% Enemy Max Health) <DT_EXPLOSION>Blast Damage"
-
-[/Lotus/Language/Upgrades/JatKittagNightwatchModCorpseExplodeRadiusDesc]
-"in a |val|m radius"
+[/Lotus/Language/Upgrades/JatKittagNightwatchMod]
+"Enemies explode on death, dealing |STAT1| <DT_EXPLOSION>Blast Damage (+|STAT2|% Enemy Max Health) in a |STAT3|m radius"
 
 [/Lotus/Language/Upgrades/JogSpeedBuffDesc]
 "|val|% Jog Speed"
@@ -86692,11 +86680,29 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 [/Lotus/Language/Upgrades/MissionSpecificResistanceIce]
 "Increase Shield Resistant to Ice Levels by |val|%"
 
+[/Lotus/Language/Upgrades/MoreArmorMinusChannelingEfficiencyModDesc]
+"+|STAT1|% Armor but |STAT2|% Channeling Efficiency"
+
+[/Lotus/Language/Upgrades/MoreAttackSpeedMinusChannelingEfficiencyModDesc]
+"+|STAT1|% Attack Speed but |STAT2|% Channeling Efficiency"
+
+[/Lotus/Language/Upgrades/MoreChannelingDmgMinusChannelingEfficiencyModDesc]
+"+|STAT1|% Channeling Damage but |STAT2|% Channeling Efficiency"
+
+[/Lotus/Language/Upgrades/MoreCriticalChanceMinusChannelingEfficiencyModDesc]
+"+|STAT1|% Critical Chance but |STAT2|% Channeling Efficiency"
+
 [/Lotus/Language/Upgrades/MoreDamageAiming]
 "|val|% Damage while aiming"
 
 [/Lotus/Language/Upgrades/MoreEnergy]
 "Increase Energy by |val|%"
+
+[/Lotus/Language/Upgrades/MoreLifeStealMinusChannelingEfficiencyModDesc]
+"+|STAT1|% Life Steal but |STAT2|% Channeling Efficiency"
+
+[/Lotus/Language/Upgrades/MoreStatusChanceMinusChannelingEfficiencyModDesc]
+"+|STAT1|% Status Chance but |STAT2|% Channeling Efficiency"
 
 [/Lotus/Language/Upgrades/MoveSpeedOnChannelKillMod]
 "|val|% Movement speed"
@@ -86716,17 +86722,8 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 [/Lotus/Language/Upgrades/NukorNightwatchSetCritModDesc]
 "Crit Chance becomes |val|%"
 
-[/Lotus/Language/Upgrades/OgrisNightwatchAoeDamageModDesc]
-"Rockets disperse napalm, inflicting |val|% damage"
-
-[/Lotus/Language/Upgrades/OgrisNightwatchAoeDurationModDesc]
-"over |val|s"
-
-[/Lotus/Language/Upgrades/OgrisNightwatchAoeRadiusModDesc]
-"across |val|% of the explosion area"
-
-[/Lotus/Language/Upgrades/OgrisNightwatchProjectileSpeedModDesc]
-"and increases projectile speed by |val|%"
+[/Lotus/Language/Upgrades/OgrisNightwatchModDesc]
+"Rockets disperse napalm, inflicting |STAT1|% damage over |STAT2|s across |STAT3|% of the explosion area."
 
 [/Lotus/Language/Upgrades/OnAbilityCondition_Description]
 "ON ABILITY CAST"
@@ -86827,11 +86824,8 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 [/Lotus/Language/Upgrades/RifleModConvertAmmoModDesc]
 "Converts unused ammo pickups into Rifle Ammo"
 
-[/Lotus/Language/Upgrades/RipkasNightwatchModDamage]
-"Increase Damage by |val|% and"
-
-[/Lotus/Language/Upgrades/RipkasNightwatchModProcChance]
-"Status Chance by |val|% when attacking a prone enemy"
+[/Lotus/Language/Upgrades/RipkasNightwatchModDesc]
+"Increase Damage by |STAT1|% and Status Chance by |STAT2|% when attacking a prone enemy."
 
 [/Lotus/Language/Upgrades/SecondaryExplosionRadiusModDesc]
 "Improves the blast radius of secondary launcher weapons."
@@ -86861,7 +86855,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "|val|% chance to resist a Slash damage effect"
 
 [/Lotus/Language/Upgrades/SlideAttackCritChanceModDesc]
-"Slide Attack has |val|% chance to be a Critical Hit."
+"Slide Attack has |STAT1|% chance to be a Critical Hit."
 
 [/Lotus/Language/Upgrades/SlidingAccuracyAndRecoil]
 "|val|% Recoil and Spread when Sliding"
@@ -86869,14 +86863,8 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 [/Lotus/Language/Upgrades/SniperModConvertAmmoModDesc]
 "Converts unused ammo pickups into Sniper Ammo"
 
-[/Lotus/Language/Upgrades/SobekNightwatchModPartA]
-"Killing enemies causes them to explode, dealing |val|"
-
-[/Lotus/Language/Upgrades/SobekNightwatchModPartB]
-"(|val|% Enemy Max Health) <DT_CORROSIVE>Corrosive Damage in a"
-
-[/Lotus/Language/Upgrades/SobekNightwatchModPartC]
-"|val|m radius"
+[/Lotus/Language/Upgrades/SobekNightwatchModDesc]
+"Enemies explode on death, dealing |STAT1| <DT_CORROSIVE>Corrosive Damage (+|STAT2|% Enemy Max Health) in a |STAT3|m radius."
 
 [/Lotus/Language/Upgrades/SprintSpeedModDesc]
 "|val|% Sprint Speed"
@@ -86902,14 +86890,8 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 [/Lotus/Language/Upgrades/StradavarMoreAccuracyAimGlide_desc]
 "When Aim Gliding,"
 
-[/Lotus/Language/Upgrades/SupraCorpusArenaModPartA]
-"Enemies explode on death for |val|"
-
-[/Lotus/Language/Upgrades/SupraCorpusArenaModPartB]
-"(|val|% Enemy Max Health) <DT_MAGNETIC>Magnetic Damage in a"
-
-[/Lotus/Language/Upgrades/SupraCorpusArenaModPartC]
-"|val|m radius."
+[/Lotus/Language/Upgrades/SupraCorpusArenaModDesc]
+"Enemies explode on death, dealing |STAT1| <DT_MAGNETIC>Magnetic Damage (+|STAT2|% Enemy Max Health) in a |STAT3|m radius."
 
 [/Lotus/Language/Upgrades/SupraHigherAccuracyAiming]
 "Directed Convergence"

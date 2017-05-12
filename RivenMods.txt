@@ -1746,7 +1746,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: Increase Combo Duration by 50 secs
+ - Upgrade: Increase Combo Duration by 50s
    Operation Type: ADD
    Prefix: 
    Suffix: 
@@ -1762,7 +1762,7 @@ Upgrade entries:
    Can be buff: Yes
    Can be curse: Yes
 
- - Upgrade: Slide Attack has 7.5% chance to be a Critical Hit.
+ - Upgrade: Slide Attack has |STAT1|% chance to be a Critical Hit.
    Operation Type: ADD
    Prefix: 
    Suffix: 

@@ -1096,7 +1096,6 @@ DROP_POWERUP (Drop Chance: 25%)
 
 [CorpusQuadRobotAgentDropTable]
  - JACKAL (QuadRobotAvatar)
- - RAZORBACK (ArmoredJackalAvatar)
 
 DROP_AMMO (Drop Chance: 70%)
 	20 RIFLE AMMO, COMMON, 25%
@@ -1144,6 +1143,30 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
+
+
+[CorpusRazorbackAgentDropTable]
+ - RAZORBACK (ArmoredJackalAvatar)
+
+DROP_AMMO (Drop Chance: 70%)
+	20 RIFLE AMMO, COMMON, 25%
+	20 PISTOL AMMO, COMMON, 25%
+	10 SHOTGUN AMMO, COMMON, 25%, Bias 0.455
+	10 SNIPER AMMO, COMMON, 25%, Bias 0.555
+
+DROP_BLUEPRINT (Drop Chance: 20%, Exclusive)
+	GORGON WRAITH BLUEPRINT, UNCOMMON, 100%
+
+DROP_MISC_ITEM (Drop Chance: 100%, Exclusive)
+	GORGON WRAITH BARREL, COMMON, 33.33%
+	GORGON WRAITH RECEIVER, COMMON, 33.33%
+	GORGON WRAITH STOCK, COMMON, 33.33%
+
+DROP_MOD (Drop Chance: 10%)
+	Auger Strike, RARE, 25%
+	Bore, RARE, 25%
+	Piercing Caliber, RARE, 25%
+	Breach Loader, RARE, 25%
 
 
 [CorpusRifleSpacemanAgentDropTable]
