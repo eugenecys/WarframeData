@@ -2253,7 +2253,7 @@ You will receive an email from your 2K contact when the console has been approve
 "DAMAGE RESISTANCE"
 
 [/Game/AVATAR_DROP_CHANCE_MODIFIER]
-"Drop Chance"
+"DROP CHANCE"
 
 [/Game/AVATAR_ENEMY_RADAR]
 "ENEMY RADAR"
@@ -5452,6 +5452,21 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 [/Lotus/Language/Bundles/TennoGenBundleEName]
 "TENNOGEN BUNDLE V"
 
+[/Lotus/Language/Bundles/TennoGenBundleFName]
+"TENNOGEN BUNDLE VI"
+
+[/Lotus/Language/Bundles/TennoGenBundleGName]
+"TENNOGEN BUNDLE VII"
+
+[/Lotus/Language/Bundles/TennoGenBundleHName]
+"TENNOGEN BUNDLE VIII"
+
+[/Lotus/Language/Bundles/TennoGenBundleIName]
+"TENNOGEN BUNDLE IX"
+
+[/Lotus/Language/Bundles/TennoGenBundleJName]
+"TENNOGEN BUNDLE X"
+
 [/Lotus/Language/Challenges/Challenge_1HKHeadshot_Description]
 "Headshot kill"
 
@@ -8543,6 +8558,15 @@ Your prowess has earned you another Vauban part. I am eager to see how you use t
 [/Lotus/Language/Clan/Clan_TierDisplay]
 "|TIER| |CLAN|"
 
+[/Lotus/Language/Clan/ClanContributionsEmpty]
+"|PLAYER_NAME| has not made any contributions to the clan"
+
+[/Lotus/Language/Clan/ClanContributionsError]
+"Failed to retrieve contribution info"
+
+[/Lotus/Language/Clan/ClanContributionsTitle]
+"Clan Contributions From |PLAYER_NAME|"
+
 [/Lotus/Language/Clan/Clans]
 "CLANS:"
 
@@ -10049,6 +10073,12 @@ Baro Ki’Teer"
 [/Lotus/Language/Cosmetics/WarframeSkinHydroidAlternateName]
 "HYDROID IMMORTAL SKIN"
 
+[/Lotus/Language/Cosmetics/WarframeSkinZephyrAlternateDesc]
+"The Immortal Skin for the Zephyr Warframe."
+
+[/Lotus/Language/Cosmetics/WarframeSkinZephyrAlternateName]
+"ZEPHYR IMMORTAL SKIN"
+
 [/Lotus/Language/Cosmetics/WraithTurbineArmName]
 "HARKONAR WRAITH ARM ARMOR"
 
@@ -10132,11 +10162,25 @@ Once again, we apologize for the inconvenience this has caused you."
 [/Lotus/Language/CrashHandler/STRING_OUTRO_INCLUDE_BUG_NUMBER]
 "Please include the following bug number when contacting support:"
 
+[/Lotus/Language/CrashHandler/STRING_OUTRO_POST_SUSPECT_TEXT]
+" is responsible for the crash, to help diagnose you can try one of the following:
+
+1. Try updating the software
+2. Try uninstalling the software
+
+If the software is no longer present, and you are still getting this screen please contact our support."
+
+[/Lotus/Language/CrashHandler/STRING_OUTRO_PRE_SUSPECT_TEXT]
+"Unfortunately it would appear that "
+
 [/Lotus/Language/CrashHandler/STRING_OUTRO_SUMMARY_FAILURE]
 "Connection Failed"
 
 [/Lotus/Language/CrashHandler/STRING_OUTRO_SUMMARY_FIXED]
 "Issue has been resolved"
+
+[/Lotus/Language/CrashHandler/STRING_OUTRO_SUMMARY_REJECTED]
+"Crash Rejected"
 
 [/Lotus/Language/CrashHandler/STRING_OUTRO_SUMMARY_SUCCESS]
 "Crash Submitted"
@@ -10336,7 +10380,7 @@ Warframe Support Team"
 "Tenno Councillor |NAME|"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip1]
-"Nekros' Desecrate ability gives you more chances to find loot and blueprint drops. Use Power Efficiency Mods to lower the energy cost so you can Desecrate more often!"
+"Nekros' Desecrate ability gives you more chances to find loot and blueprint drops. Use Ability Efficiency Mods to lower the energy cost so you can Desecrate longer!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip100]
 "The Thief’s Wit and Loot Detector mods are incredibly useful for locating hidden loot crates and caches. Keep an eye on your map for new hidden locations!"
@@ -10393,10 +10437,7 @@ Warframe Support Team"
 "The Helios sentinel can scan enemies using Synthesis Scanners. Visit Simaris in the Relays to purchase a Sol Battery Widget so that you never have to buy scanners again!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip12]
-"Rhino's Iron Skin ability not only acts like extra health, it also protects you from knockdowns, Slash procs, and Toxin Damage!"
-
-[/Lotus/Language/DesignCouncilTips/DC_Tip120]
-"Kubrows don't require daily care with the Nutrio Incubator Upgrade! Stabilizers only need to be used every 3 to 4 days to keep them in top shape with an updated Incubator."
+"Rhino's Iron Skin ability not only acts like extra health, it also protects you from knockdowns and Procs!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip121]
 "Want a more independent Sentinel? Equip it with the Regen mod so that it can self-regenerate once per mission if killed!"
@@ -10609,7 +10650,7 @@ Warframe Support Team"
 "Use a Synthesis Scanner with the Vector-Thread Widget to quickly scan enemies, plants, and other objects. Combine this with the Cross-Matrix Widget for a chance at double the scans!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip187]
-"Want to boost you and your Squad's casting speed? Equip Ember with the Flash Accelerant Augment mod and cast Accelerant to give +50% casting speed and +50% Fire damage to allies within range!"
+"Want to boost you and your Squad's casting speed? Equip Ember with the Flash Accelerant Augment mod and cast Accelerant to give +50% casting speed and +50% <DT_HEAT>Fire damage to allies within range!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip188]
 "Want to earn more Focus from your missions? Stealth Multipliers apply to your Focus gains!"
@@ -10624,7 +10665,7 @@ Warframe Support Team"
 "Vazarin's Disciplined Approach passive not only affects the range of shared Affinity but also Trinity's Blessing range!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip191]
-"Vazarin's New Moon passive grants you the ability to instantly revive your teammates and allied NPCs, such as Rescue Targets, once per mission."
+"Vazarin's New Moon passive grants you the ability to instantly revive your teammates and allied NPCs, such as Rescue Targets."
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip192]
 "Ready to try a new Focus School? Upgrade a level 30 Warframe or weapon with a Focus Lens from the desired School and start earning Affinity to unlock its Focus Tree!"
@@ -10633,7 +10674,7 @@ Warframe Support Team"
 "Enable your Focus passive by activating your Focus ability once in a mission!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip194]
-"Smeeta Kavats can use the Charm ability to give you various buffs including refunding your Energy after casting and improving your chances of a rare resource appearing!"
+"Smeeta Kavats can use the Charm ability to give you various buffs including refunding your Energy after casting or creating 1 instance of the current planet's rare resource!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip195]
 "Did you know that a Kavat's Loyalty never degrades? This means you can give them unlimited head scratches!"
@@ -10642,13 +10683,13 @@ Warframe Support Team"
 "Want to start breeding Kavats? Start by getting the Kavat Incubator Upgrade Segment by purchasing it in the Market, researching the Blueprint in your Clan Dojo, or by killing Hyekka Masters!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip197]
-"Kavats are fierce Companions! Upgrade your Kavat with the Sharpened Claws Mod to boost critical attack damage and sunder enemy armor with each attack. Combine this with the Swipe mod to strike several enemies at once!"
+"Kavats are fierce Companions! Upgrade your Kavat with the Sharpened Claws Mod and sunder enemy armor with each attack. Combine this with the Swipe mod to strike several enemies at once!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip198]
 "Want a Kavat to call your own? Feral Kavats wander the Derelict and can be scanned to earn Kavat Genetic Codes. Collecting 10 will allow you to incubate a Kavat companion with an installed Kavat Incubator Upgrade Segment!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip199]
-"Want to earn more Void Traces? Bring a Smeeta Kavat to boost Void Trace drops during Void Fissure missions."
+"Want to earn more Void Traces? Bring a Smeeta Kavat for a chance to increase Void Trace drops during Void Fissure missions."
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip20]
 "Remember to bring gear with you on missions. Shield, Health, and Ammo Restores can be lifesavers when you find yourself in over your head."
@@ -10713,9 +10754,6 @@ Warframe Support Team"
 [/Lotus/Language/DesignCouncilTips/DC_Tip218]
 "Save big, Tenno! Visit Darvo's store in the Relays to see what deals he has to offer."
 
-[/Lotus/Language/DesignCouncilTips/DC_Tip219]
-"Want to earn more Syndicate Reputation? Run Syndicate alerts sporting a Sigil from an allied or neutral Syndicate to offset or gain more standing in fewer runs!"
-
 [/Lotus/Language/DesignCouncilTips/DC_Tip22]
 "Want Fieldron, Mutagen, or Detonite Injectors? Wait for an Invasion reward to receive a fully crafted component!"
 
@@ -10762,7 +10800,7 @@ Warframe Support Team"
 "Want to complete Codex Entries in the heat of battle? Equip the Heliocor and get scans while killing enemies!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip233]
-"Want to revive teammates quickly? Vazarin's New Moon passive can grant you up to 4 instant revives per mission!"
+"Want to revive teammates quickly? Vazarin's New Moon passive can grant you up to 4 instant revives per Focus activation!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip234]
 "The official Warframe Nexus App allows you to claim and deploy Extractors, use your Foundry, and interact with your Kubrows and Kavats while you're on the go!"
@@ -10783,7 +10821,7 @@ Warframe Support Team"
 "The Once Awake quest can be obtained by completing the Mercury Junction from Venus."
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip24]
-"The Codex Scanner can see enemies through walls. Use it to get an edge in Stealth Missions!"
+"Scanners can see enemies through walls. Use it to get an edge in Stealth Missions!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip240]
 "The Howl of the Kubrow quest can be obtained by completing the Mercury Junction from Venus."
@@ -10872,11 +10910,8 @@ Warframe Support Team"
 [/Lotus/Language/DesignCouncilTips/DC_Tip266]
 "Need more Firepower for your Elytron's Core Vent ability? Light up your enemies with the Afterburner Augment mod!"
 
-[/Lotus/Language/DesignCouncilTips/DC_Tip267]
-"Inaros' Elemental Sandstorm Augment mod has a chance to inflict status procs based on equipped damage types. Equip a melee weapon with innate elemental damage for devastating damage!"
-
 [/Lotus/Language/DesignCouncilTips/DC_Tip27]
-"Grineer Prosecutors are powerful melee specialists that roam the planet Ceres. Although nearly invulnerable to Physical Damage, they are highly vulnerable to the primary Elemental Damage Types Fire, Ice, Electric, and Toxin!"
+"Grineer Prosecutors are powerful melee specialists that roam the planet Ceres. Although nearly invulnerable to Physical Damage, they are highly vulnerable to the primary Elemental Damage Types, such as <DT_FIRE>Heat, <DT_FREEZE>Cold, <DT_ELECTRICITY>Electricity, and <DT_POISON>Toxin!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip28]
 "Grineer Heavy Gunners and Corpus Techs have weapons that must wind up. Stay on the move and weave around obstacles to keep their damage output low!"
@@ -10885,10 +10920,10 @@ Warframe Support Team"
 "Wardens take extra damage from Stealth Attacks. Find isolated Wardens and assassinate them one by one!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip3]
-"If you are playing as Trinity, use her Energy Vampire ability on Energy Leech Eximus to counteract their aura."
+"If you are playing as Trinity, use her Energy Vampire ability on Energy Leech Eximus units to negate their draining effect."
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip30]
-"If an Ancient is preparing to grab you, block! You will only suffer a minor hold."
+"If an Ancient is winding up to grab you, roll, bullet jump, or sprint away from its grasp!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip31]
 "The Grineer Drahk Master can disarm you! If you suddenly discover you have lost your weapon, look for it on the ground and recover it."
@@ -10903,10 +10938,10 @@ Warframe Support Team"
 "Enemies called Eximus are high-priority targets! They have powers that can block attacks, drain energy and life, and knock you down."
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip38]
-"Your Kubrow can be revived any number of times! But remember, if the Bleedout Timer runs out it will no longer be able to assist you in the mission."
+"Your Kavat, Kubrow, and Helminth Charger can be revived any number of times! But remember, if the Bleedout Timer runs out it will no longer be able to assist you in the mission."
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip39]
-"You can revive other players' Kubrows!"
+"You can revive other players' Kubrows, Kavats, and Helminth Chargers!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip4]
 "Nyx's Absorb ability also absorbs allied fire! Punch in some rounds to increase the ability's damage output."
@@ -10930,7 +10965,7 @@ Warframe Support Team"
 "Your favorite bow taking too long to fire? Upgrade it with Speed Trigger and Fast Hands to increase its firerate and reload time!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip48]
-"Affinity is divided evenly between your Warframe, Primary, Secondary, and Melee weapon. Bringing a weapon alone to the fight will increase its rank faster!"
+"25% of the Affinity you earn goes to your Warframe while the rest is divided evenly between your weapons. Bringing a lone weapon to the fight will increase its rank faster!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip49]
 "When using the Penta, aim high! Triggering the grenades as they drop can score you headshots!"
@@ -10945,7 +10980,7 @@ Warframe Support Team"
 "Bows and Thrown weapons have an arc in their trajectory, making them ideal for enemies ducking behind crates!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip52]
-"Take care when firing explosive weapons! The Blast Damage can harm you and in some cases knock you down."
+"Take care when firing explosive weapons! The <DT_EXPLOSION>Blast Damage can harm you and in some cases knock you down."
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip53]
 "Use a roll or backflip maneuver to dodge Seeker bombs and Leech Osprey projectiles!"
@@ -10954,7 +10989,7 @@ Warframe Support Team"
 "Scanning an unalerted enemy with your Codex Scanner will yield 2 Codex Scans."
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip60]
-"Void Traps favor Prime Warframes and will give Energy when approached!"
+"Void Death Orbs favor Prime Warframes and will give Energy when approached!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip63]
 "You get 4 Revives a mission. If you run out of Revives they will be replenished when you return to your landing craft!"
@@ -11020,7 +11055,7 @@ Warframe Support Team"
 "<DT_RADIATION>Radiation Damage combines <DT_FIRE>Heat and <DT_ELECTRICITY>Electricity Damage to confuse enemies into attacking each other!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip83]
-"<DT_GAS>Gas Damage combines <DT_FIRE>Heat and <DT_POISON>Toxin Damage to create toxic clouds that deal extra damage to Infested enemies!"
+"<DT_GAS>Gas Damage combines <DT_FIRE>Heat and <DT_POISON>Toxin Damage to create toxic clouds that deal extra damage to Corpus enemies!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip84]
 "<DT_CORROSIVE>Corrosive Damage combines <DT_ELECTRICITY>Electricity and <DT_POISON>Toxin Damage to permanently reduce enemy armor by 25%!"
@@ -11041,7 +11076,7 @@ Warframe Support Team"
 "Can’t beat a mission solo? Find a squad in the Recruiting Chat Channel or switch your Matchmaking to Public for help!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip91]
-"Squad Ammo, Energy, and Health Restores are great tools that help sustain your squad during intense fights!"
+"Squad Ammo, Energy, Shield, and Health Restores are great tools that help sustain your squad during intense fights!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip93]
 "Trade with your fellow Tenno at a Trading Post in a Clan Dojo or by visiting Maroo's Bazaar on Earth!"
@@ -13989,6 +14024,9 @@ and will receive from |PLAYER_NAME| the following:|GETTING|"
 [/Lotus/Language/DojoPaints/GenericPaintDesc]
 "|PAINT_NAME| pigments drop from the following enemies: |ENEMY_LIST|"
 
+[/Lotus/Language/DojoPaints/GenericPaintName]
+"PIGMENTS"
+
 [/Lotus/Language/DojoPaints/IcePlanetA]
 "GLACIAL BLUE"
 
@@ -14644,7 +14682,7 @@ and will receive from |PLAYER_NAME| the following:|GETTING|"
 "BUY"
 
 [/Lotus/Language/Focus/Channeling_EnergyEfficiencyDesc]
-"+50% Power efficiency"
+"+50% Ability Efficiency"
 
 [/Lotus/Language/Focus/Channeling_EnergyEfficiencyName]
 "CHANNELING"
@@ -24962,7 +25000,7 @@ DETONATION IN |TIME|"
 "Locates dig sites to deploy Excavators when powered"
 
 [/Lotus/Language/Game/ScannerRequired]
-"<WARNING> REQUIRES SCANNER"
+"<PROBLEM> REQUIRES SCANNER"
 
 [/Lotus/Language/Game/ScavengerDroneDesc]
 "Collects fallen items on the battlefield"
@@ -26912,7 +26950,7 @@ This bundle of 1500 Alloy Plates can be used for crafting items in your Foundry.
 "ARCANE LOCUST HELMET"
 
 [/Lotus/Language/Items/ArcaneBansheeAltHelmet2Desc]
-"This helmet is worn by Banshee, and adds Power Efficiency, but reduces duration of Aim Glide and Wall Latch."
+"This helmet is worn by Banshee, and adds Ability Efficiency, but reduces duration of Aim Glide and Wall Latch."
 
 [/Lotus/Language/Items/ArcaneBansheeAltHelmet2Name]
 "ARCANE CHORUS HELMET"
@@ -26933,13 +26971,13 @@ This bundle of 1500 Alloy Plates can be used for crafting items in your Foundry.
 "ARCANE BACKDRAFT HELMET"
 
 [/Lotus/Language/Items/ArcaneEmberAltHelmetDesc]
-"This helmet is worn by Ember, reduces Shields in order to boost Energy Capacity."
+"This helmet is worn by Ember, and reduces Shields in order to boost Energy Capacity."
 
 [/Lotus/Language/Items/ArcaneExcaliburAltHelmet]
 "ARCANE AVALON HELMET"
 
 [/Lotus/Language/Items/ArcaneExcaliburAltHelmet2Desc]
-"This helmet is worn by Excalibur, and adds Power Strength, with a reduction to Armor."
+"This helmet is worn by Excalibur, and adds Ability Strength, with a reduction to Armor."
 
 [/Lotus/Language/Items/ArcaneExcaliburAltHelmet2Name]
 "ARCANE PENDRAGON HELMET"
@@ -26951,7 +26989,7 @@ This bundle of 1500 Alloy Plates can be used for crafting items in your Foundry.
 "ARCANE AURORA HELMET"
 
 [/Lotus/Language/Items/ArcaneFrostAltHelmet2Desc]
-"This helmet is worn by Frost, and adds Power Strength, with a reduction to Shields."
+"This helmet is worn by Frost, and adds Ability Strength, with a reduction to Shields."
 
 [/Lotus/Language/Items/ArcaneFrostAltHelmet2Name]
 "ARCANE SQUALL HELMET"
@@ -26963,19 +27001,19 @@ This bundle of 1500 Alloy Plates can be used for crafting items in your Foundry.
 "ARCANE MENTICIDE HELMET"
 
 [/Lotus/Language/Items/ArcaneJadeAltHelmetDesc]
-"This helmet is worn by Nyx, increases velocity of parkour maneuvers, but reduces Shields."
+"This helmet is worn by Nyx, and increases velocity of parkour maneuvers, but reduces Shields."
 
 [/Lotus/Language/Items/ArcaneLokiAltHelmet]
 "ARCANE ESSENCE HELMET"
 
 [/Lotus/Language/Items/ArcaneLokiAltHelmet2Desc]
-"This helmet is worn by Loki, and adds Power Range, with a reduction to Health."
+"This helmet is worn by Loki, and adds Ability Range, with a reduction to Health."
 
 [/Lotus/Language/Items/ArcaneLokiAltHelmet2Name]
 "ARCANE SWINDLE HELMET"
 
 [/Lotus/Language/Items/ArcaneLokiAltHelmetDesc]
-"This helmet is worn by Loki, increases Power Efficiency, but reduces Armor Rating."
+"This helmet is worn by Loki, increases Ability Efficiency, but reduces Armor."
 
 [/Lotus/Language/Items/ArcaneMagAltHelmet]
 "ARCANE COIL HELMET"
@@ -26987,13 +27025,13 @@ This bundle of 1500 Alloy Plates can be used for crafting items in your Foundry.
 "ARCANE GAUSS HELMET"
 
 [/Lotus/Language/Items/ArcaneMagAltHelmetDesc]
-"This helmet is worn by Mag, gives increased Power Range with a drain on Shields."
+"This helmet is worn by Mag, gives increased Ability Range with a drain on Shields."
 
 [/Lotus/Language/Items/ArcaneNinjaAltHelmet]
 "ARCANE SCORPION HELMET"
 
 [/Lotus/Language/Items/ArcaneNinjaAltHelmetDesc]
-"This helmet is worn by Ash, increases duration of Aim Glide and Wall Latch, but reduces Power Efficiency."
+"This helmet is worn by Ash, and increases duration of Aim Glide and Wall Latch, but reduces Ability Efficiency."
 
 [/Lotus/Language/Items/ArcaneNovaAltHelmet2Desc]
 "This helmet is worn by Nova, and increases duration of Aim Glide and Wall Latch, but reduces Health."
@@ -27002,7 +27040,7 @@ This bundle of 1500 Alloy Plates can be used for crafting items in your Foundry.
 "ARCANE FLUX HELMET"
 
 [/Lotus/Language/Items/ArcaneNyxAltHelmet2Desc]
-"This helmet is worn by Nyx, and adds Power Efficiency, with a reduction to Armor."
+"This helmet is worn by Nyx, and adds Ability Efficiency, with a reduction to Armor."
 
 [/Lotus/Language/Items/ArcaneNyxAltHelmet2Name]
 "ARCANE VESPA HELMET"
@@ -27011,7 +27049,7 @@ This bundle of 1500 Alloy Plates can be used for crafting items in your Foundry.
 "ARCANE THRAK HELMET"
 
 [/Lotus/Language/Items/ArcaneRhinoAltHelmet2Desc]
-"This helmet is worn by Rhino, and adds Speed, with a reduction to Power Strength."
+"This helmet is worn by Rhino, and adds Speed, with a reduction to Ability Strength."
 
 [/Lotus/Language/Items/ArcaneRhinoAltHelmet2Name]
 "ARCANE VANGUARD HELMET"
@@ -27020,7 +27058,7 @@ This bundle of 1500 Alloy Plates can be used for crafting items in your Foundry.
 "This helmet is worn by Rhino, and increases Health, but reduces Sprint Speed."
 
 [/Lotus/Language/Items/ArcaneSarynAltHelmet2Desc]
-"This helmet is worn by Saryn, and increases velocity of parkour maneuvers, but reduces Power Duration."
+"This helmet is worn by Saryn, and increases velocity of parkour maneuvers, but reduces Ability Duration."
 
 [/Lotus/Language/Items/ArcaneSarynAltHelmet2Name]
 "ARCANE CHLORA HELMET"
@@ -27035,22 +27073,22 @@ This bundle of 1500 Alloy Plates can be used for crafting items in your Foundry.
 "ARCANE ESPRIT HELMET"
 
 [/Lotus/Language/Items/ArcaneTrapperAltHelmetDesc]
-"This helmet is worn by Vauban, and increases Power Max, with a reduction to Shields."
+"This helmet is worn by Vauban, and increases Energy Max, with a reduction to Shields."
 
 [/Lotus/Language/Items/ArcaneTrinityAltHelmet]
 "ARCANE AURA HELMET"
 
 [/Lotus/Language/Items/ArcaneTrinityAltHelmet2Desc]
-"This helmet is worn by Trinity, and adds Shield Capacity, with a reduction to Power Efficiency."
+"This helmet is worn by Trinity, and adds Shield Capacity, with a reduction to Ability Efficiency."
 
 [/Lotus/Language/Items/ArcaneTrinityAltHelmet2Name]
 "ARCANE MERIDIAN HELMET"
 
 [/Lotus/Language/Items/ArcaneTrinityAltHelmetDesc]
-"This helmet is worn by Trinity, and increases the Power Duration, but adversely affects Health."
+"This helmet is worn by Trinity, and increases the Ability Duration, but adversely affects Health."
 
 [/Lotus/Language/Items/ArcaneVaubanAltHelmet2Desc]
-"This helmet is worn by Vauban, and increases velocity of parkour maneuvers, but reduces Power Duration."
+"This helmet is worn by Vauban, and increases velocity of parkour maneuvers, but reduces Ability Duration."
 
 [/Lotus/Language/Items/ArcaneVaubanAltHelmet2Name]
 "ARCANE GAMBIT HELMET"
@@ -27059,7 +27097,7 @@ This bundle of 1500 Alloy Plates can be used for crafting items in your Foundry.
 "ARCANE STORM HELMET"
 
 [/Lotus/Language/Items/ArcaneVoltAltHelmet2Desc]
-"This helmet is worn by Volt, and adds Power Duration, with a reduction to Shields."
+"This helmet is worn by Volt, and adds Ability Duration, with a reduction to Shields."
 
 [/Lotus/Language/Items/ArcaneVoltAltHelmet2Name]
 "ARCANE PULSE HELMET"
@@ -39626,6 +39664,9 @@ With 'Investigator' as its unique Precept and 'Deconstructor' as its weapon, the
 [/Lotus/Language/Items/RifleModNoiseReduction]
 "Hush"
 
+[/Lotus/Language/Items/RifleModPrimedShred]
+"Primed Shred"
+
 [/Lotus/Language/Items/RifleModPunctureDepth]
 "Metal Auger"
 
@@ -40914,7 +40955,7 @@ It includes the Itzal Archwing, perfect for covert operations, and comes outfitt
 "Watchful Swarm"
 
 [/Lotus/Language/Items/SupportEnergyAbilityDesc]
-"All damage taken is transformed into Energy, while abilities gain enhanced range, duration and power. Affects the Warframe and nearby allies."
+"All damage taken is transformed into Energy, while abilities gain enhanced Range, Duration and Power. Affects the Warframe and nearby allies."
 
 [/Lotus/Language/Items/SupportEnergyAbilityName]
 "Vengeful Rush"
@@ -43070,9 +43111,6 @@ Also includes a fully crafted 'Hidden Messages' quest key, giving you instant ac
 
 [/Lotus/Language/Items/WarframeModCorruptedRangePower]
 "Overextended"
-
-[/Lotus/Language/Items/WarframeModDmgReductionInAirDesc]
-"Reduced damage while airborne by |val|%"
 
 [/Lotus/Language/Items/WarframeModDmgReductionInAirName]
 "Aviator"
@@ -47387,7 +47425,7 @@ A Solar Rail is required in order to travel here."
 "ARCHWING MELEE"
 
 [/Lotus/Language/Menu/CategoryAugment]
-"AUGMENTS"
+"AUGMENT"
 
 [/Lotus/Language/Menu/CategoryAura]
 "AURA"
@@ -47799,6 +47837,9 @@ A Solar Rail is required in order to travel here."
 
 [/Lotus/Language/Menu/CipherTurnRight]
 "<MENU_RTRIGGER2> TURN RIGHT"
+
+[/Lotus/Language/Menu/Clan_DisabledFeatures]
+"Not available in mission"
 
 [/Lotus/Language/Menu/Clan_EnterDojoDuelInSquad]
 "You cannot enter a dueling session while in a squad. Do you want to leave your squad to enter?"
@@ -51011,6 +51052,24 @@ Scales with Mastery Rank"
 
 [/Lotus/Language/Menu/FilteredItemOverlay_SelectItems]
 "SELECT ITEMS"
+
+[/Lotus/Language/Menu/FilterMgr_ActiveFilters]
+"Active filters:"
+
+[/Lotus/Language/Menu/FilterMgr_ErrorEmptyFilter]
+"Can't have an empty filter."
+
+[/Lotus/Language/Menu/FilterMgr_ErrorFilterExists]
+"|FILTER| is already a filter for this channel type."
+
+[/Lotus/Language/Menu/FilterMgr_ExcludeTag]
+"NOT"
+
+[/Lotus/Language/Menu/FilterMgr_IncludeLabel]
+"Includes Term"
+
+[/Lotus/Language/Menu/FilterMgr_Prompt]
+"FILTER TEXT"
 
 [/Lotus/Language/Menu/FireWeapon]
 "Fire Weapon"
@@ -54523,6 +54582,9 @@ You will be charged |COSTCURRENCY| |COST|."
 [/Lotus/Language/Menu/Multiplayer_NoSessionsPingLimit]
 "All sessions were rejected because their ping was too high. Make sure your region setting is correct and your ping-limit is not too low."
 
+[/Lotus/Language/Menu/Multiplayer_TooManyReconnections]
+"You have connected to the same game too many times"
+
 [/Lotus/Language/Menu/MyCollection]
 "MY COLLECTION"
 
@@ -55693,6 +55755,9 @@ If your system supports DirectX 11 you can enable it in the launcher."
 [/Lotus/Language/Menu/Photobooth_CephalonHelpText]
 "This scene can be acquired from Cephalon Suda offerings."
 
+[/Lotus/Language/Menu/Photobooth_Client_Host_Error]
+"<PROBLEM> Only the host can open a Captura tile."
+
 [/Lotus/Language/Menu/Photobooth_Controls_AdvanceTime]
 "Advance Time"
 
@@ -55826,6 +55891,9 @@ If your system supports DirectX 11 you can enable it in the launcher."
 
 [/Lotus/Language/Menu/PhotoboothToggleAdvanceTime]
 "Toggle Advance Time"
+
+[/Lotus/Language/Menu/PhotoboothToggleFriendlyFire]
+"Friendly Fire"
 
 [/Lotus/Language/Menu/PhotoboothToggleSloMo]
 "Slow Motion"
@@ -57572,7 +57640,7 @@ Thank you for your partnership."
 "SUBMERSIBLE"
 
 [/Lotus/Language/Menu/ShipDecoCantEdit]
-"[PH] This decoration does not have any settings to edit (did you mean to move/remove it?)."
+"This decoration does not have any settings to edit (did you mean to move/remove it?)."
 
 [/Lotus/Language/Menu/ShipDecoCapacityCost]
 "Capacity cost: |COST|"
@@ -58104,6 +58172,9 @@ Thank you for your partnership."
 
 [/Lotus/Language/Menu/SocialOverlay_ViewClanDojo]
 "Visit Dojo"
+
+[/Lotus/Language/Menu/SocialOverlay_ViewContributions]
+"View Contributions"
 
 [/Lotus/Language/Menu/SocialOverlay_ViewMemberRole]
 "View Role"
@@ -59806,7 +59877,7 @@ Welcome, Tenno!"
 "Shrapnel Shot"
 
 [/Lotus/Language/Mods/CritToAbilityAuraDesc]
-"Applying Status Effects with weapons increase Power Strength by |val| for |duration|s."
+"Applying Status Effects with weapons increase Ability Strength by |val| for |duration|s."
 
 [/Lotus/Language/Mods/CritToAbilityAuraName]
 "Growing Power"
@@ -59932,13 +60003,13 @@ Welcome, Tenno!"
 "Follow Through"
 
 [/Lotus/Language/Mods/EnergyOnKillDesc]
-"On Kill, gain |val| power rate for 8 seconds"
+"On Kill, gain |val| Energy Rate for 8 seconds"
 
 [/Lotus/Language/Mods/EnergyPickupGivesStrengthMod]
 "Energy Conversion"
 
 [/Lotus/Language/Mods/EnergyPickupGivesStrengthModDesc]
-"Energy orbs grant |STRENGTH|% more power strength to your next ability cast."
+"Energy orbs grant |STRENGTH|% more Ability Strength to your next cast."
 
 [/Lotus/Language/Mods/EnergyToOvershieldsOnSpawn]
 "Overcharged"
@@ -67557,6 +67628,22 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 [/Lotus/Language/SteamWorkshop/SetkaSyandanaName]
 "SETKA SYANDANA"
 
+[/Lotus/Language/SteamWorkshop/SWAmpulexHelmetDesc]
+"A helmet for the Nyx Warframe, designed by Vulbjorn
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWAmpulexHelmetName]
+"NYX AMPULEX HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWAncyraHelmetDesc]
+"A helmet for the Trinity Warframe, designed by Arsenal
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWAncyraHelmetName]
+"TRINITY ANCYRA HELMET"
+
 [/Lotus/Language/SteamWorkshop/SWArcturusScarfDesc]
 "A syandana for your Warframe, designed by FrellingHazmot
 
@@ -67564,6 +67651,30 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 
 [/Lotus/Language/SteamWorkshop/SWArcturusScarfName]
 "ARCTURUS SYANDANA"
+
+[/Lotus/Language/SteamWorkshop/SWArcuataHelmetDesc]
+"A helmet for the Ivara Warframe, designed by Stenchfury
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWArcuataHelmetName]
+"IVARA ARCUATA HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWArcuataSkinDesc]
+"A unique skin for the Ivara Warframe, designed by Stenchfury
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWArcuataSkinName]
+"IVARA ARCUATA SKIN"
+
+[/Lotus/Language/SteamWorkshop/SWAritSkanaDesc]
+"A unique sword skin, designed by Arsenal
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWAritSkanaName]
+"LONGSWORD ARIT SKIN"
 
 [/Lotus/Language/SteamWorkshop/SWAureolusHelmetDesc]
 "A helmet for the Limbo Warframe, designed by artarrwen
@@ -67589,6 +67700,14 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 [/Lotus/Language/SteamWorkshop/SWBaihuSkinName]
 "ASH BAI HU SKIN"
 
+[/Lotus/Language/SteamWorkshop/SWBelladonnaHelmetDesc]
+"A helmet for the Saryn Warframe, designed by malayu
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWBelladonnaHelmetName]
+"SARYN BELLADONNA HELMET"
+
 [/Lotus/Language/SteamWorkshop/SWBodoScarfDesc]
 "A syandana for your Warframe, designed by luchafurel
 
@@ -67596,6 +67715,22 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 
 [/Lotus/Language/SteamWorkshop/SWBodoScarfName]
 "BODO SYANDANA"
+
+[/Lotus/Language/SteamWorkshop/SWCapacitorHelmetDesc]
+"A helmet for the Volt Warframe, designed by Del
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWCapacitorHelmetName]
+"VOLT CAPACITOR HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWCapacitorSkinDesc]
+"A unique skin for the Volt Warframe, designed by Del
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWCapacitorSkinName]
+"VOLT CAPACITOR SKIN"
 
 [/Lotus/Language/SteamWorkshop/SWCovenantScarfDesc]
 "A syandana for your Warframe, designed by FrellingHazmot
@@ -67620,6 +67755,22 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 
 [/Lotus/Language/SteamWorkshop/SWGraxxMesaSkinName]
 "MESA GRAXX SKIN"
+
+[/Lotus/Language/SteamWorkshop/SWIgnitionHelmetDesc]
+"A helmet for the Ember Warframe, designed by Kaiceps
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWIgnitionHelmetName]
+"EMBER IGNITION HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWIgnitionSkinDesc]
+"A unique skin for the Ember Warframe, designed by Kaiceps
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWIgnitionSkinName]
+"EMBER IGNITION SKIN"
 
 [/Lotus/Language/SteamWorkshop/SWIncubusHelmetDesc]
 "A helmet for the Loki Warframe, designed by kaz and Volkovyi
@@ -67660,6 +67811,22 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 
 [/Lotus/Language/SteamWorkshop/SWIntegraSkinName]
 "SARYN INTEGRA SKIN"
+
+[/Lotus/Language/SteamWorkshop/SWMagestyHelmetDesc]
+"A helmet for the Ember Warframe, designed by prosetisen and Cheshire
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWMagestyHelmetName]
+"EMBER MAGESTY HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWMagestySkinDesc]
+"A unique skin for the Ember Warframe, designed by prosetisen and Cheshire
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWMagestySkinName]
+"EMBER MAGESTY SKIN"
 
 [/Lotus/Language/SteamWorkshop/SWMorgaineHelmetDesc]
 "A helmet for the Mirage Warframe, designed by artarrwen
@@ -68183,6 +68350,46 @@ Comes with bonus helmet.
 [/Lotus/Language/SteamWorkshop/SWTeutonicHelmetName]
 "RHINO TEUTONIC HELMET"
 
+[/Lotus/Language/SteamWorkshop/SWVasionaHelmetDesc]
+"A helmet for the Limbo Warframe, designed by Volkovyi
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWVasionaHelmetName]
+"LIMBO VASIONA HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWVasionaSkinDesc]
+"A unique skin for the Limbo Warframe, designed by Volkovyi
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWVasionaSkinName]
+"LIMBO VASIONA SKIN"
+
+[/Lotus/Language/SteamWorkshop/SWWarlustHelmetDesc]
+"A helmet for the Rhino Warframe, designed by Stenchfury
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWWarlustHelmetName]
+"RHINO WARLUST HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWYoukaiHelmetDesc]
+"A helmet for the Ivara Warframe, designed by Hitsu San
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWYoukaiHelmetName]
+"IVARA YOUKAI HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWYoukaiSkinDesc]
+"A unique skin for the Ivara Warframe, designed by Hitsu San
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWYoukaiSkinName]
+"IVARA YOUKAI SKIN"
+
 [/Lotus/Language/SteamWorkshop/SWZaikhyaScarfDesc]
 "A syandana for your Warframe, designed by malayu and Cobalt
 
@@ -68190,6 +68397,22 @@ Comes with bonus helmet.
 
 [/Lotus/Language/SteamWorkshop/SWZaikhyaScarfName]
 "ZAIKHYA SYANDANA"
+
+[/Lotus/Language/SteamWorkshop/SWZenerHelmetDesc]
+"A helmet for the Volt Warframe, designed by Rekkou
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWZenerHelmetName]
+"VOLT ZENER HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWZenerSkinDesc]
+"A unique skin for the Volt Warframe, designed by Rekkou
+
+<UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWZenerSkinName]
+"VOLT ZENER SKIN"
 
 [/Lotus/Language/Subtitles/AmbulasBoss/DAmbuBattleArtilleryBarrage00480FrohdBek]
 "Fire artillery. Scatter those stainless steel rats!"
@@ -68940,7 +69163,7 @@ Goodbye, my friend, my Operator…"
 ""
 
 [/Lotus/Language/Subtitles/CorpusBosses/DApproachNeutral070AladV]
-"You have a loyalty issues, Tenno. My Zanuka project will fix that for you."
+"You have loyalty issues, Tenno. My Zanuka project will fix that for you."
 
 [/Lotus/Language/Subtitles/CorpusBosses/DApproachNeutral080AladV]
 "I've been looking all over for you Tenno. Come, let me show you my new venture. I think you'd be a perfect fit."
@@ -85031,13 +85254,13 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "Increased combo duration."
 
 [/Lotus/Language/Suits/YinYangAuraAbilityAugment1Desc]
-"Pacify & Provoke Augment: Pacify converts damage done to allies into an aura that slows enemies by |SLOW|%. Provoke converts damage done to enemies into |STRENGTH|% extra Power Strength."
+"Pacify & Provoke Augment: Pacify converts damage done to allies into an aura that slows enemies by |SLOW|%. Provoke converts damage done to enemies into |STRENGTH|% extra Ability Strength."
 
 [/Lotus/Language/Suits/YinYangAuraAbilityAugment1Name]
 "Peaceful Provocation"
 
 [/Lotus/Language/Suits/YinYangAuraAbilityDesc]
-"In Night Form reduces damage inflicted by nearby enemies. In Day Form increases Power Strength of nearby allies."
+"In Night Form reduces damage inflicted by nearby enemies. In Day Form increases Ability Strength of nearby allies."
 
 [/Lotus/Language/Suits/YinYangAuraAbilityName]
 "Pacify & Provoke"
@@ -86279,16 +86502,16 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "|val|% Attack Speed"
 
 [/Lotus/Language/Upgrades/AvatarAbilityDurationModDesc]
-"|val|% Power Duration"
+"|val|% Ability Duration"
 
 [/Lotus/Language/Upgrades/AvatarAbilityEfficiencyModDesc]
-"|val|% Power Efficiency"
+"|val|% Ability Efficiency"
 
 [/Lotus/Language/Upgrades/AvatarAbilityRangeModDesc]
-"|val|% Power Range"
+"|val|% Ability Range"
 
 [/Lotus/Language/Upgrades/AvatarAbilityStrengthModDesc]
-"|val|% Power Strength"
+"|val|% Ability Strength"
 
 [/Lotus/Language/Upgrades/AvatarAuraEffectivenessOnMeModDesc]
 "|val|% Aura Effectiveness"
@@ -86378,13 +86601,13 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "|val|% Aim Glide/Latch Time"
 
 [/Lotus/Language/Upgrades/AvatarPowerMaxModDesc]
-"|val|% Power Max"
+"|val|% Energy Max"
 
 [/Lotus/Language/Upgrades/AvatarPowerRateModDesc]
-"|val| Power Rate"
+"|val| Energy Rate"
 
 [/Lotus/Language/Upgrades/AvatarPowerRatePercentModDesc]
-"|val|% Power Rate"
+"|val|% Energy Rate"
 
 [/Lotus/Language/Upgrades/AvatarProcTimeModDesc]
 "|val|% Status Duration on Self"
@@ -86448,6 +86671,9 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 
 [/Lotus/Language/Upgrades/ChanceToLootDesc]
 "|val|% chance to unlock locked lockers"
+
+[/Lotus/Language/Upgrades/ChannelingRedirectDamage]
+"While blocking, redirect |val|% of damage taken by allies within |RANGE|m to yourself."
 
 [/Lotus/Language/Upgrades/CodexScanOnKillDesc]
 "Fatal strikes against an enemy also perform a Codex Scan. Scans require an equipped Codex Scanner and an available charge."
@@ -86608,11 +86834,8 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 [/Lotus/Language/Upgrades/HealthRegeneration]
 "|val|% Health Regeneration Per Second"
 
-[/Lotus/Language/Upgrades/HeightenedReflexesAbilityEfficiency]
-"but reduces power efficiency by |val|%"
-
-[/Lotus/Language/Upgrades/HeightenedReflexesCastingSpeed]
-"Quicken casting speed by |val|%"
+[/Lotus/Language/Upgrades/HeightenedReflexesModDesc]
+"Quicken casting speed by |STAT1|% but reduces Ability Efficiency by |STAT2|%"
 
 [/Lotus/Language/Upgrades/HindDamageonFifthHit]
 "Final Tap"
@@ -86951,7 +87174,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "Increase Combo Duration by |val| secs while aiming"
 
 [/Lotus/Language/Upgrades/WarframeModDmgReductionInAirDesc]
-"Reduced damage by |val|% while airborne"
+"Reduced damage by |STAT1|% while airborne"
 
 [/Lotus/Language/Upgrades/WarframeModEvadeInAirDesc]
 "|val|% Evasion"

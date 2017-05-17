@@ -180,9 +180,9 @@ DROP_MOD (Drop Chance: 100%)
 
 
 [CarrierSpacemanAgentDropTable]
+ - NIGHTWATCH LANCER (NightwatchCarrierRifleLancerAvatar)
  - GRINEER POWER CARRIER (CarrierRifleLancerAvatar)
  - HELLION POWER CARRIER (JetpackMarineCarrierAvatar)
- - NIGHTWATCH LANCER (NightwatchCarrierRifleLancerAvatar)
  - CORPUS POWER CARRIER (CarrierSpacemanAvatar)
  - MUTALIST OSPREY CARRIER (CellCarrierDroneAvatar)
 
@@ -1145,30 +1145,6 @@ DROP_POWERUP (Drop Chance: 25%)
 	150-300 CREDITS, RARE, 2.01%
 
 
-[CorpusRazorbackAgentDropTable]
- - RAZORBACK (ArmoredJackalAvatar)
-
-DROP_AMMO (Drop Chance: 70%)
-	20 RIFLE AMMO, COMMON, 25%
-	20 PISTOL AMMO, COMMON, 25%
-	10 SHOTGUN AMMO, COMMON, 25%, Bias 0.455
-	10 SNIPER AMMO, COMMON, 25%, Bias 0.555
-
-DROP_BLUEPRINT (Drop Chance: 20%, Exclusive)
-	GORGON WRAITH BLUEPRINT, UNCOMMON, 100%
-
-DROP_MISC_ITEM (Drop Chance: 100%, Exclusive)
-	GORGON WRAITH BARREL, COMMON, 33.33%
-	GORGON WRAITH RECEIVER, COMMON, 33.33%
-	GORGON WRAITH STOCK, COMMON, 33.33%
-
-DROP_MOD (Drop Chance: 10%)
-	Auger Strike, RARE, 25%
-	Bore, RARE, 25%
-	Piercing Caliber, RARE, 25%
-	Breach Loader, RARE, 25%
-
-
 [CorpusRifleSpacemanAgentDropTable]
  - CREWMAN (RifleSpacemanAvatar)
  - SANCTUARY CREWMAN (SimarisSpacemanAvatar)
@@ -1795,13 +1771,13 @@ DROP_MISC_ITEM (Drop Chance: 100%)
  - KUVA DRAHK MASTER (FortressBeastMasterAvatar)
  - KUVA BUTCHER (FortressBladeSawmanAvatar)
  - BAILIFF (FortressGrineerChargerAvatar)
+ - NIGHTWATCH MANIC (NightwatchManicAvatar)
  - DRAHK MASTER (BeastMasterAvatar)
  - BUTCHER (BladeSawmanAvatar)
  - BAILIFF (GrineerChargerAvatar)
  - BUTCHER (BladeSawmanAvatarLeaderRare)
  - BAILIFF (GrineerChargerAvatarRare)
  - BAILIFF DEFECTOR (GrineerDefectorAvatar)
- - NIGHTWATCH MANIC (NightwatchManicAvatar)
  - FRONTIER BAILIFF (GrineerChargerAvatar)
  - FRONTIER BAILIFF (GrineerChargerAvatarRare)
 
@@ -2661,8 +2637,8 @@ DROP_POWERUP (Drop Chance: 25%)
 [GrineerRollingDroneDropTable]
  - KUVA ROLLER (FortressRollingDroneAvatar)
  - ROLLER (RollingDroneAvatar)
- - LATCHER (StickyRollingDroneAvatar)
  - ROLLER SENTRY (RollingDroneTurretAvatar)
+ - LATCHER (StickyRollingDroneAvatar)
  - ROLLER (OrokinRollingDroneAvatar)
  - RETH ROLLER (EngineerRollingDroneTurretAvatar)
 
@@ -3774,6 +3750,13 @@ DROP_POWERUP (Drop Chance: 25%)
  - SEEKER EXIMUS (GrineerMarinePistolAvatarLeader)
  - CHARGER EXIMUS (QuadrupedAvatarLeader)
  - CHARGER EXIMUS (QuadrupedColonistAvatarLeader)
+ - MANIC BOMBARD EXIMUS (ManicRocketBombardAvatarLeader)
+ - POWERFIST EXIMUS (PistonSawmanAvatarLeader)
+ - LANCER EXIMUS (RifleLancerAvatarLeader)
+ - BOMBARD EXIMUS (RocketBombardAvatarLeader)
+ - ROLLER (RollingDroneAvatarLeader)
+ - SHIELD LANCER EXIMUS (ShieldLancerAvatarLeader)
+ - TROOPER EXIMUS (ShotgunLancerAvatarLeader)
  - BUTCHER EXIMUS (BladeSawmanAvatarLeader)
  - ELITE LANCER EXIMUS (EliteRifleLancerAvatarLeader)
  - EVISCERATOR EXIMUS (EviseratorLancerAvatarLeader)
@@ -3784,13 +3767,6 @@ DROP_POWERUP (Drop Chance: 25%)
  - NAPALM EXIMUS (IncendiaryBombardAvatarLeader)
  - NIGHTWATCH REAVER EXIMUS (JetpackHeavyMarineAvatarLeader)
  - SCORPION EXIMUS (MacheteWomanAvatarLeader)
- - MANIC BOMBARD EXIMUS (ManicRocketBombardAvatarLeader)
- - POWERFIST EXIMUS (PistonSawmanAvatarLeader)
- - LANCER EXIMUS (RifleLancerAvatarLeader)
- - BOMBARD EXIMUS (RocketBombardAvatarLeader)
- - ROLLER (RollingDroneAvatarLeader)
- - SHIELD LANCER EXIMUS (ShieldLancerAvatarLeader)
- - TROOPER EXIMUS (ShotgunLancerAvatarLeader)
  - CORRUPTED BUTCHER EXIMUS (OrokinBladeSawmanAvatarLeader)
  - CORRUPTED ANCIENT EXIMUS (OrokinHealingAncientLeaderAvatar)
  - CORRUPTED HEAVY GUNNER EXIMUS (OrokinHeavyFemaleLeaderAvatar)
@@ -3834,26 +3810,26 @@ DROP_POWERUP (Drop Chance: 25%)
  - FRONTIER HEAVY GUNNER EXIMUS (HeavyFemaleGrineerAvatarDesertLeader)
  - GRINEER WARDEN EXIMUS (WardenGrineerHeavyAvatarLeader)
  - CORRUPTED WARDEN EXIMUS (CorruptedWardenAvatarLeader)
+ - ARID LANCER EXIMUS (RifleLancerAvatarLeader)
+ - ARID TROOPER EXIMUS (ShotgunLancerAvatarLeader)
  - ARID SEEKER EXIMUS (GrineerMarinePistolAvatarLeader)
  - ARID BUTCHER EXIMUS (BladeSawmanAvatarLeader)
  - ELITE ARID LANCER EXIMUS (EliteRifleLancerAvatarLeader)
  -  EXIMUS (HeavyFemaleGrineerAvatarLeader)
- - ARID LANCER EXIMUS (RifleLancerAvatarLeader)
- - ARID TROOPER EXIMUS (ShotgunLancerAvatarLeader)
  - ARID EVISCERATOR EXIMUS (EvisceratorLancerAvatarLeader)
+ - FRONTIER LANCER EXIMUS (RifleLancerAvatarLeader)
+ - FRONTIER TROOPER EXIMUS (ShotgunLancerAvatarLeader)
  - FRONTIER SEEKER EXIMUS (GrineerMarinePistolAvatarLeader)
  - FRONTIER BUTCHER EXIMUS (BladeSawmanAvatarLeader)
  - ELITE FRONTIER LANCER EXIMUS (EliteRifleLancerAvatarLeader)
  - FRONTIER BAILIFF EXIMUS (GrineerChargerAvatarLeader)
  - FRONTIER HEAVY GUNNER EXIMUS (HeavyFemaleGrineerAvatarLeader)
- - FRONTIER LANCER EXIMUS (RifleLancerAvatarLeader)
- - FRONTIER TROOPER EXIMUS (ShotgunLancerAvatarLeader)
  - FRONTIER EVISCERATOR EXIMUS (EvisceratorLancerAvatarLeader)
+ - DREKAR LANCER EXIMUS (RifleLancerAvatarLeader)
+ - DREKAR TROOPER EXIMUS (ShotgunLancerAvatarLeader)
  - DREKAR SEEKER EXIMUS (GrineerMarinePistolAvatarLeader)
  - DREKAR BUTCHER EXIMUS (BladeSawmanAvatarLeader)
  - DREKAR ELITE LANCER EXIMUS (EliteRifleLancerAvatarLeader)
- - DREKAR LANCER EXIMUS (RifleLancerAvatarLeader)
- - DREKAR TROOPER EXIMUS (ShotgunLancerAvatarLeader)
  - DREKAR EVISCERATOR EXIMUS (EvisceratorLancerAvatarLeader)
  - DREKAR HEAVY GUNNER EXIMUS (FemaleGrineerHeavyAvatarLeader)
  - DREKAR SCORPION EXIMUS (FemaleGrineerMacheteAvatarLeader)
