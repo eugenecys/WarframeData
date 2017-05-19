@@ -2942,6 +2942,9 @@ You will receive an email from your 2K contact when the console has been approve
 [/Game/WEAPON_DAMAGE_IF_VICTIM_PROC_ACTIVE]
 "Melee Damage for each status type affecting the target"
 
+[/Game/WEAPON_DOUBLE_CRIT_CHANCE]
+"DOUBLE CRIT CHANCE"
+
 [/Game/WEAPON_ELECTRICITY_DAMAGE]
 "ELECTRICAL DAMAGE"
 
@@ -64999,6 +65002,12 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 
 [/Lotus/Language/ShipDecorations/BobbleheadHyekkaName]
 "NOGGLE STATUE - HYEKKA"
+
+[/Lotus/Language/ShipDecorations/BobbleheadInarosDesc]
+"A small wobbly statue of Inaros."
+
+[/Lotus/Language/ShipDecorations/BobbleheadInarosName]
+"NOGGLE STATUE - INAROS"
 
 [/Lotus/Language/ShipDecorations/BobbleheadIvaraDesc]
 "A small wobbly statue of Ivara."
