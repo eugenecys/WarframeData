@@ -5335,6 +5335,12 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 [/Lotus/Language/Bundles/ChromaDeluxeBundleName]
 "CHROMA DYNASTY COLLECTION"
 
+[/Lotus/Language/Bundles/ComicGlyphsBundleADesc]
+"Add to your collection with these halftone glyphs."
+
+[/Lotus/Language/Bundles/ComicGlyphsBundleAName]
+"HALFTONE GLYPH PACK"
+
 [/Lotus/Language/Bundles/CrpIndexItemPackDesc]
 "Master market forces with this collection of Corpus items. Includes the electrified Ohma Melee Weapon, Quaro Armor Set, Quaro Sugatra, and Sovereign Outcast Stance."
 
@@ -5469,6 +5475,18 @@ Perhaps Ruk's inexplicable rise to power has its origins in his humbler days. He
 
 [/Lotus/Language/Bundles/TennoGenBundleJName]
 "TENNOGEN BUNDLE X"
+
+[/Lotus/Language/Bundles/TennoItemsBundleADesc]
+"This collection of artful Tenno items includes the Endura rapier, Broca Syandana and the Nidina Armor Set."
+
+[/Lotus/Language/Bundles/TennoItemsBundleAName]
+"ENDURA COLLECTION"
+
+[/Lotus/Language/Bundles/TnArmourCurveBundleDesc]
+"Broad swooping curves are the essence of the Nidina armor set."
+
+[/Lotus/Language/Bundles/TnArmourCurveBundleName]
+"NIDINA ARMOR SET"
 
 [/Lotus/Language/Challenges/Challenge_1HKHeadshot_Description]
 "Headshot kill"
@@ -10009,6 +10027,24 @@ Baro Ki’Teer"
 
 [/Lotus/Language/Cosmetics/TenguDefaultSkinName]
 "ZEPHYR SKIN"
+
+[/Lotus/Language/Cosmetics/TnCurveArmArmourName]
+"NIDINA SHOULDER PLATE"
+
+[/Lotus/Language/Cosmetics/TnCurveArmourDesc]
+"Broad swooping curves are the essence of the Nidina armor set."
+
+[/Lotus/Language/Cosmetics/TnCurveChestArmourName]
+"NIDINA CHEST PLATE"
+
+[/Lotus/Language/Cosmetics/TnCurveLegArmourName]
+"NIDINA LEG PLATE"
+
+[/Lotus/Language/Cosmetics/TnLargeCapeDesc]
+"This flowing Tenno cape is supported by an intricately sculpted brooch."
+
+[/Lotus/Language/Cosmetics/TnLargeCapeName]
+"BROCA SYANDANA"
 
 [/Lotus/Language/Cosmetics/TrapperDefaultSkinDesc]
 "The standard issue skin for the Vauban Warframe."
@@ -26148,6 +26184,24 @@ This is a high-damage Warframe perfect for players who want a potent alternative
 [/Lotus/Language/Glyphs/CGsKnackieGlyphName]
 "CGS_KNACKIE GLYPH"
 
+[/Lotus/Language/Glyphs/Comic01GlyphName]
+"NIDUS HALFTONE GLYPH"
+
+[/Lotus/Language/Glyphs/Comic02GlyphName]
+"INAROS HALFTONE GLYPH"
+
+[/Lotus/Language/Glyphs/Comic03GlyphName]
+"OCTAVIA HALFTONE GLYPH"
+
+[/Lotus/Language/Glyphs/Comic04GlyphName]
+"IVARA HALFTONE GLYPH"
+
+[/Lotus/Language/Glyphs/Comic05GlyphName]
+"MAROO HALFTONE GLYPH"
+
+[/Lotus/Language/Glyphs/Comic06GlyphName]
+"ATLAS HALFTONE GLYPH"
+
 [/Lotus/Language/Glyphs/D4NK3RGlyphName]
 "D4NK3R GLYPH"
 
@@ -26630,7 +26684,7 @@ Only Recruit in “Recruiting” Channel."
 
 [/Lotus/Language/IRC/H_MOTD]
 "Welcome to the Relay! Explore and meet with fellow Tenno. Mastery Rank 3 or higher players can access Syndicate rewards. Stay tuned for Baro Ki’Teer visits with unique items!
-New players can seek out a Guide of the Lotus for help!"
+New players can seek out player volunteers known as :lotus:Guides of the Lotus for help!"
 
 [/Lotus/Language/IRC/PS4_T_MOTD]
 "- Trading is done within the Dojo at a Trading Post or in Maroo's Bazaar.
@@ -44530,6 +44584,9 @@ Visit the in-game Market to obtain the latest Prime Access offering different pa
 [/Lotus/Language/Locations/Io]
 "Io"
 
+[/Lotus/Language/Locations/Ironwake]
+"Ironwake"
+
 [/Lotus/Language/Locations/Ishtar]
 "Ishtar"
 
@@ -47629,7 +47686,7 @@ A Solar Rail is required in order to travel here."
 "Message can contain a maximum of |LIMIT| song links."
 
 [/Lotus/Language/Menu/Chat_FilterMgrTitle]
-"|CHANNEL|'s filters"
+"|CHANNEL| CHAT FILTER"
 
 [/Lotus/Language/Menu/Chat_FriendOffline]
 "|FRIEND| is currently offline and will not receive this message."
@@ -47755,7 +47812,7 @@ A Solar Rail is required in order to travel here."
 "PRIVATE MESSAGE(|USER|): |MESSAGE|"
 
 [/Lotus/Language/Menu/Chat_PrivateTitle]
-"PRIVATE CHAT"
+"PRIVATE"
 
 [/Lotus/Language/Menu/Chat_ProfileBlockedByDio]
 "Cannot open the profile screen while another diorama is open. Close current diorama before retrying."
@@ -48512,6 +48569,9 @@ Are you sure?"
 
 [/Lotus/Language/Menu/Cosmetics_ConfirmResetDefaultColors]
 "Are you sure you want to reset this item to its default colors?"
+
+[/Lotus/Language/Menu/Cosmetics_CopyAttachmentColors]
+"COPY ATTACHMENTS COLORS"
 
 [/Lotus/Language/Menu/Cosmetics_CopyColors]
 "COPY MAIN COLORS"
@@ -51057,10 +51117,13 @@ Scales with Mastery Rank"
 "SELECT ITEMS"
 
 [/Lotus/Language/Menu/FilterMgr_ActiveFilters]
-"Active filters:"
+"ACTIVE FILTERS:"
+
+[/Lotus/Language/Menu/FilterMgr_AddFilter]
+"Enter filter"
 
 [/Lotus/Language/Menu/FilterMgr_ErrorEmptyFilter]
-"Can't have an empty filter."
+"Filter cannot be empty."
 
 [/Lotus/Language/Menu/FilterMgr_ErrorFilterExists]
 "|FILTER| is already a filter for this channel type."
@@ -51069,10 +51132,16 @@ Scales with Mastery Rank"
 "NOT"
 
 [/Lotus/Language/Menu/FilterMgr_IncludeLabel]
-"Includes Term"
+"INCLUDES TERM"
 
 [/Lotus/Language/Menu/FilterMgr_Prompt]
 "FILTER TEXT"
+
+[/Lotus/Language/Menu/FilterMgr_PromptConsole]
+"ADD FILTER"
+
+[/Lotus/Language/Menu/FilterMgr_RemoveFilter]
+"REMOVE FILTER"
 
 [/Lotus/Language/Menu/FireWeapon]
 "Fire Weapon"
@@ -51388,6 +51457,9 @@ Scales with Mastery Rank"
 
 [/Lotus/Language/Menu/FusionTreasureMgr_SocketItemSuccess]
 "|ITEM| was successfully installed into the socket."
+
+[/Lotus/Language/Menu/FusionTreasureMgr_Treasure]
+"AYATAN SCULPTURE"
 
 [/Lotus/Language/Menu/FusionTreasureMgr_TreasureCategory]
 "SCULPTURES"
@@ -55913,6 +55985,9 @@ If your system supports DirectX 11 you can enable it in the launcher."
 [/Lotus/Language/Menu/PlatformerAimTipController]
 "<WARNING> Use right stick to aim."
 
+[/Lotus/Language/Menu/Platinum]
+"PLATINUM"
+
 [/Lotus/Language/Menu/PlatinumCredits]
 "<PLATINUM_CREDITS> PLATINUM"
 
@@ -58239,6 +58314,9 @@ Thank you for your partnership."
 [/Lotus/Language/Menu/SortBy_State]
 "STATE"
 
+[/Lotus/Language/Menu/SortBy_TreasureSocketPercent]
+"% FILLED"
+
 [/Lotus/Language/Menu/SortBy_Type]
 "TYPE"
 
@@ -59666,6 +59744,9 @@ Welcome, Tenno!"
 [/Lotus/Language/Menu/WelcomeToClanHeader]
 "YOU JOINED"
 
+[/Lotus/Language/Menu/Whitespace]
+" "
+
 [/Lotus/Language/Menu/WorldStateBest]
 "Personal Best: |VALUE|"
 
@@ -60511,6 +60592,9 @@ Welcome, Tenno!"
 
 [/Lotus/Language/Mods/SentinelWeaknessScanPreceptDesc]
 "Upon completing research on an enemy, subsequent scans will reveal their weak points."
+
+[/Lotus/Language/Mods/ShakeSpeedUpgrade]
+"|val|% Reticle Sway when Crouched"
 
 [/Lotus/Language/Mods/ShieldAuraPreceptName]
 "Shield Charger"
@@ -65779,6 +65863,12 @@ Veytok grunted, “You are Grineer now, don’t need visits.”"
 
 [/Lotus/Language/Sigils/FireSigilName]
 "FLAMING SIGIL"
+
+[/Lotus/Language/Sigils/FormaSigilDesc]
+"Do you even?"
+
+[/Lotus/Language/Sigils/FormaSigilName]
+"FORMA SIGIL"
 
 [/Lotus/Language/Sigils/FounderSigilDiscipleDesc]
 "This sigil belongs to one of the founding disciples of the Tenno."
@@ -84318,7 +84408,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "Allied pets receive health, armor and shield buffs. In addition, your pet receives an instant revive per mission."
 
 [/Lotus/Language/Suits/OverheatAbilityAugment1Desc]
-"Accelerant Augment: Accelerant gives +|SPEED|% casting speed and +|DAMAGE_PCT|% <DT_FIRE> Fire damage to allies within range."
+"Accelerant Augment: Accelerant gives +|SPEED|% casting speed and +|DAMAGE_PCT|% <DT_FIRE>Heat damage to allies within range."
 
 [/Lotus/Language/Suits/OverheatAbilityAugment1Name]
 "Flash Accelerant"
@@ -87363,7 +87453,7 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 "[PH]|val|% chance to pop nullifier bubbles"
 
 [/Lotus/Language/Upgrades/WeaponOverheatDamageModDesc]
-"|val|% Max Overheat Damage"
+"|val|% <DT_FIRE>Heat at Max Overheat"
 
 [/Lotus/Language/Upgrades/WeaponParryEffectivenessModDesc]
 "|val|% Damage Block"
@@ -87613,6 +87703,12 @@ Bring your unused prime blueprints and parts to this kiosk and exchange them for
 
 [/Lotus/Language/Weapons/TeshinGlaiveName]
 "ORVIUS"
+
+[/Lotus/Language/Weapons/ThreeLeafRapierDesc]
+"The delicate form of this Tenno rapier conceals its ferocious and resilient force."
+
+[/Lotus/Language/Weapons/ThreeLeafRapierName]
+"ENDURA"
 
 [/Lotus/Language/Weapons/TnBardPistolAltFire]
 "CHARGED SHOT"

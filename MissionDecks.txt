@@ -153,6 +153,11 @@ Stripped=True
 Stripped=True
 
 
+[/Lotus/Types/Game/MissionDecks/CacheRewardsFortress]
+ - Kuva Fortress, Dakata, MT_EXTERMINATION, FC_GRINEER, NT_MISSION
+Stripped=True
+
+
 [/Lotus/Types/Game/MissionDecks/CacheRewardsHard]
  - Uranus, Portia, MT_SABOTAGE, FC_GRINEER, NT_EVENT
  - Neptune, Thalassa, MT_SABOTAGE, FC_CORPUS, NT_EVENT
@@ -161,7 +166,6 @@ Stripped=True
  - Pluto, Cypress, MT_SABOTAGE, FC_CORPUS, NT_MISSION
  - Sedna, Phithale, MT_SABOTAGE, FC_GRINEER, NT_EVENT
  - Sedna, Kelpie, MT_SABOTAGE, FC_GRINEER, NT_MISSION
- - Kuva Fortress, Dakata, MT_EXTERMINATION, FC_GRINEER, NT_MISSION
 Stripped=True
 
 
