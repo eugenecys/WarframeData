@@ -12658,6 +12658,9 @@ VAULT: |VaultAmount|"
 [/Lotus/Language/Dojo/NewCustomRailSchemaAlliance]
 "NEW SOLAR RAIL SCHEMA - ALLIANCE"
 
+[/Lotus/Language/Dojo/NoDecorationsInObstacleCourse]
+"Decorations cannot be placed in the Obstacle Course"
+
 [/Lotus/Language/Dojo/NoGuildRecipes]
 "You must research blueprints for projects before you can begin construction."
 
@@ -32287,6 +32290,12 @@ This bundle of 1 Fieldron Sample can be used for crafting items in your Foundry.
 
 [/Lotus/Language/Items/EventDoublePickupAmountName]
 "DOUBLE DROP AMOUNT WEEKEND"
+
+[/Lotus/Language/Items/EventDoubleResourceDesc]
+"All Tenno acquire resources at double the amount."
+
+[/Lotus/Language/Items/EventDoubleResourceName]
+"DOUBLE RESOURCE AMOUNT WEEKEND"
 
 [/Lotus/Language/Items/EventImpactDamageMeleeMod]
 "Collision Force"
