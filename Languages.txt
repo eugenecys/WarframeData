@@ -9233,6 +9233,18 @@ Baro Ki’Teer"
 [/Lotus/Language/Cosmetics/AvatarBaroKiteerName]
 "BARO KI'TEER GLYPH"
 
+[/Lotus/Language/Cosmetics/AvatarOberonPrimeBrightDesc]
+"A glyph depicting Oberon Prime on a bright background."
+
+[/Lotus/Language/Cosmetics/AvatarOberonPrimeBrightName]
+"OBERON PRIME GLYPH"
+
+[/Lotus/Language/Cosmetics/AvatarOberonPrimeDarkDesc]
+"A glyph depicting Oberon Prime on a dark background."
+
+[/Lotus/Language/Cosmetics/AvatarOberonPrimeDarkName]
+"OBERON PRIME GLYPH"
+
 [/Lotus/Language/Cosmetics/AvatarOctaviaBrightDesc]
 "A glyph depicting Octavia on a bright background."
 
@@ -9304,6 +9316,12 @@ Baro Ki’Teer"
 
 [/Lotus/Language/Cosmetics/BaroMeleeDangleName]
 "KI'TEER SUGATRA"
+
+[/Lotus/Language/Cosmetics/BaroMouthPieceADesc]
+"Breathe crystal clean atmosphere with this deluxe respiratory device."
+
+[/Lotus/Language/Cosmetics/BaroMouthPieceAName]
+"KI'TEER ATMOS MASK"
 
 [/Lotus/Language/Cosmetics/BerserkerDefaultSkinDesc]
 "The standard issue skin for the Valkyr Warframe."
@@ -9901,6 +9919,12 @@ Baro Ki’Teer"
 
 [/Lotus/Language/Cosmetics/NyxPrimeDefaultSkinName]
 "NYX PRIME SKIN"
+
+[/Lotus/Language/Cosmetics/OberonPrimeDefaultSkinDesc]
+"The standard issue skin for the Oberon Prime Warframe."
+
+[/Lotus/Language/Cosmetics/OberonPrimeDefaultSkinName]
+"OBERON PRIME SKIN"
 
 [/Lotus/Language/Cosmetics/ObsidianGlaiveDesc]
 "A next-generation skin for the Glaive."
@@ -21833,7 +21857,7 @@ SEGMENT REQUIRED"
 "MIN DAMAGE MULT"
 
 [/Lotus/Language/Game/DamagePerCharm]
-"DAMAGE PER CHARM"
+"DAMAGE / CHARM"
 
 [/Lotus/Language/Game/DangerRoomConsole]
 "SIMULACRUM"
@@ -22020,7 +22044,7 @@ Your Battle Cards are ready now... Go!"
 "DISPOSAL OSPREY"
 
 [/Lotus/Language/Game/DISTANCE_PER_ENERGY]
-"DISTANCE PER ENERGY (METERS)"
+"DISTANCE / ENERGY (METERS)"
 
 [/Lotus/Language/Game/DistanceFomorianObjective]
 "Reach minimum |DISTANCE| meters from Fomorian ship"
@@ -22242,22 +22266,22 @@ Your Battle Cards are ready now... Go!"
 "ENERGY MULTIPLIER (%)"
 
 [/Lotus/Language/Game/ENERGY_PER_ENEMY]
-"ENERGY PER ENEMY"
+"ENERGY / ENEMY"
 
 [/Lotus/Language/Game/ENERGY_PER_MARK]
-"ENERGY PER MARK"
+"ENERGY / MARK"
 
 [/Lotus/Language/Game/ENERGY_PER_MARK_INVIS]
-"ENERGY PER MARK (INVISIBLE)"
+"ENERGY / MARK (INVISIBLE)"
 
 [/Lotus/Language/Game/ENERGY_PER_POWER]
-"ENERGY PER POWER"
+"ENERGY / POWER"
 
 [/Lotus/Language/Game/ENERGY_PER_PULSE]
-"ENERGY PER PULSE"
+"ENERGY / PULSE"
 
 [/Lotus/Language/Game/ENERGY_PER_TARGET]
-"ENERGY PER TARGET"
+"ENERGY / TARGET"
 
 [/Lotus/Language/Game/ENERGY_REFUND]
 "ENERGY REFUND / HIT"
@@ -23013,7 +23037,7 @@ Your Battle Cards are ready now... Go!"
 "HEALTH ORB DROP (%)"
 
 [/Lotus/Language/Game/HEALTH_PER_KILL]
-"HEALTH PER KILL"
+"HEALTH / KILL"
 
 [/Lotus/Language/Game/HeatGenerator]
 "Heat Generator"
@@ -23637,6 +23661,9 @@ A call echoes across the stars - as a menace approaches..."
 
 [/Lotus/Language/Game/MarsDesc]
 "Corpus salvage ships pick through the fragments of Orokin derelicts here."
+
+[/Lotus/Language/Game/MasteryTestOperatorTarget]
+"TARGET"
 
 [/Lotus/Language/Game/MawCinematicDualChoice]
 "They had lost their minds"
@@ -47682,6 +47709,9 @@ A Solar Rail is required in order to travel here."
 [/Lotus/Language/Menu/Chat_DefaultText]
 "SEND MESSAGE TO |CHANNEL|"
 
+[/Lotus/Language/Menu/Chat_DupMessageBlock]
+"Message blocked to prevent duplicate message spamming. Duplicate messages can only be sent every |TIME| seconds."
+
 [/Lotus/Language/Menu/Chat_ExceededMsgIRCLengthLimitError]
 "Message length exceeded the character limit."
 
@@ -47724,6 +47754,9 @@ A Solar Rail is required in order to travel here."
 [/Lotus/Language/Menu/Chat_HelpGoto]
 "/goto <letter>' - Goes to the first user in the user list whose name starts with <letter>"
 
+[/Lotus/Language/Menu/Chat_HelpGuildLink]
+"{<guild>} - Posts a link to <guild>'s profile page."
+
 [/Lotus/Language/Menu/Chat_HelpHub]
 "/r <message>' - Switch to relay chat and post message."
 
@@ -47732,6 +47765,9 @@ A Solar Rail is required in order to travel here."
 
 [/Lotus/Language/Menu/Chat_HelpInvite]
 "/invite <user>' - Invite <user> to your current session"
+
+[/Lotus/Language/Menu/Chat_HelpItemLink]
+"[<item>] - Posts a link to <item>'s store page. Typing 'Riven Mod' or 'Song' will open menus where you can select the desired mod/song to link."
 
 [/Lotus/Language/Menu/Chat_HelpJoin]
 "/join <user> - Will attempt to join <user>'s session if it exist."
@@ -47756,6 +47792,9 @@ A Solar Rail is required in order to travel here."
 
 [/Lotus/Language/Menu/Chat_HelpUnstuck]
 "/unstuck - Will attempt to teleport the player to their last good position and reports a bug on exit. Can only be used in-game"
+
+[/Lotus/Language/Menu/Chat_HelpUserLink]
+"@<username> - Posts a link to <username>'s profile page. Will also ping this channel in <username>'s chat window."
 
 [/Lotus/Language/Menu/Chat_HelpWhisper]
 "/w <user> <message>' - Send a private message to <user>"
@@ -50294,6 +50333,15 @@ Are you sure?"
 
 [/Lotus/Language/Menu/CraftingComponent_SicarusPrimeReceiver]
 "SICARUS PRIME RECEIVER"
+
+[/Lotus/Language/Menu/CraftingComponent_SilvaAegisPrimeBlade]
+"SILVA & AEGIS PRIME BLADE"
+
+[/Lotus/Language/Menu/CraftingComponent_SilvaAegisPrimeGuard]
+"SILVA & AEGIS PRIME GUARD"
+
+[/Lotus/Language/Menu/CraftingComponent_SilvaAegisPrimeHandle]
+"SILVA & AEGIS PRIME HILT"
 
 [/Lotus/Language/Menu/CraftingComponent_SnipetronVandalBarrel]
 "SNIPETRON VANDAL BARREL"
@@ -62084,8 +62132,14 @@ As proof of your deed"
 [/Lotus/Language/Primes/NyxPrimePassiveAbility]
 "Enemies affected by Nyx Prime’s abilities may suddenly choose to lay down their arms."
 
+[/Lotus/Language/Primes/OberonPrimeArmArmorDesc]
+"Default armor for the Oberon Prime Warframe."
+
+[/Lotus/Language/Primes/OberonPrimeArmArmorName]
+"OBERON PRIME ARMOR"
+
 [/Lotus/Language/Primes/OberonPrimeDesc]
-"Oberon Prime unleashes dogmatic retribution upon enemies, and supports allies with divine benevolence in equal measure. Featuring altered mod polarities for greater customization."
+"Protect the balance with this regal forest guardian. Featuring altered mod polarities for greater customization."
 
 [/Lotus/Language/Primes/OberonPrimeHelmetDesc]
 "The standard issue helmet for the Oberon Prime Warframe."
@@ -62216,6 +62270,12 @@ As proof of your deed"
 [/Lotus/Language/Primes/PrimeLisetShipName]
 "LISET PRIME SKIN"
 
+[/Lotus/Language/Primes/PrimeOberonCapeDesc]
+"This long, powerful ribbon symbolizes the Tenno path toward balance."
+
+[/Lotus/Language/Primes/PrimeOberonCapeName]
+"SUKIRA PRIME SYANDANA"
+
 [/Lotus/Language/Primes/PrimeScarfVDesc]
 "Evoking fortress designs of the ancient past, this is Vauban Prime's signature Syandana."
 
@@ -62255,11 +62315,29 @@ Note: This item requires two open slots."
 [/Lotus/Language/Primes/PrimeShadeName]
 "SHADE PRIME"
 
+[/Lotus/Language/Primes/PrimeSilvaAegisDesc]
+"A perfectly crafted pairing, this mace and shield combination is sculpted for exhibition but balanced for the battlefield."
+
+[/Lotus/Language/Primes/PrimeSilvaAegisName]
+"SILVA & AEGIS PRIME"
+
+[/Lotus/Language/Primes/PrimeSybarisDesc]
+"Sleek and slender, a golden symbol of Tenno perfection."
+
+[/Lotus/Language/Primes/PrimeSybarisName]
+"SYBARIS PRIME"
+
 [/Lotus/Language/Primes/PrimeTigrisDesc]
 "An artifact of exquisite beauty. A weapon of deadly purpose. "
 
 [/Lotus/Language/Primes/PrimeTigrisName]
 "TIGRIS PRIME"
+
+[/Lotus/Language/Primes/PrimeTwitchScarfDesc]
+"Twin bands symbolize the balance all Tenno are sworn to uphold."
+
+[/Lotus/Language/Primes/PrimeTwitchScarfName]
+"VISTAPA PRIME SYANDANA"
 
 [/Lotus/Language/Primes/PrimeVenkaClawsDesc]
 "Gleaming blades of white draw blood of the deepest red."
@@ -62290,6 +62368,12 @@ Note: This item requires two open slots."
 
 [/Lotus/Language/Primes/SarynPrimePassiveAbility]
 "Status Effects inflicted upon enemies last longer."
+
+[/Lotus/Language/Primes/SurakaPrimeDangleDesc]
+"An elegant clasp terminates in five golden points."
+
+[/Lotus/Language/Primes/SurakaPrimeDangleName]
+"AROKA PRIME SUGATRA"
 
 [/Lotus/Language/Primes/TitaniaPrimeDesc]
 "[PH] Desc"
@@ -62415,35 +62499,34 @@ Note: This item requires two open slots."
 "COMING SOON"
 
 [/Lotus/Language/PrimeStore/CurrentPrimeAccessAccessoryText]
-"VALKYR PRIME ACCESSORIES PACK"
+"OBERON PRIME ACCESSORIES PACK"
 
 [/Lotus/Language/PrimeStore/CurrentPrimeAccessDesc]
-"INSTANTLY UNLOCK THE NEWEST PRIMES AND HIGHLY DISCOUNTED PLATINUM!
+"INSTANTLY UNLOCK THE NEW PRIME GEAR AND DISCOUNTED PLATINUM!
 
-Prime variants are the most elusive and sought after items by Tenno. For a limited time, purchase this Pack and gain instant access to Valkyr Prime, Venka Prime, and more!
+Prime variants are the most sought after items by Tenno. For a limited time, you can purchase this package and gain instant access to Oberon Prime, Silva & Aegis Prime, Sybaris Prime, and more!
 
-The Valkyr Prime Access Pack includes: 
-- 2625 Platinum – Highly discounted premium currency
-- Valkyr Prime – A proud fighter unscarred by time or malice
-- Cernos Prime – A noble bow to hunt hellish beasts
-- Venka Prime – Razor-sharp claws to slash through your enemies
-- Exclusive Valkyr Prime Avatars – Show your loyalty in-game and in our community with these exclusive profile icons"
+Pack Includes:
+- 2625 Platinum: Highly discounted from its regular price, Platinum is Warframe's premium in-game currency.
+- Oberon Prime: Protect the balance with this regal forest guardian.
+- Silva & Aegis Prime: A perfectly crafted pairing, this mace and shield combination is sculpted for exhibition but balanced for the battlefield.
+- Sybaris Prime: Sleek and slender, a golden symbol of Tenno perfection.
+- Exclusive Oberon Prime Glyphs: Show your loyalty in-game and in our community with these Exclusive Profile Icons."
 
 [/Lotus/Language/PrimeStore/CurrentPrimeAccessoryDesc]
-"EXCLUSIVE PRIME GEAR AND DISCOUNTED PLATINUM, AVAILABLE FOR A LIMITED TIME!
+"ACCESS EXCLUSIVE PRIME GEAR AND DISCOUNTED PLATINUM FOR A LIMITED TIME WITH THE PRIME ACCESSORIES PACK!
 
-Masterpieces of the Orokin era, these rare items are coveted by the Tenno.
+Masterpieces of the Orokin era, Prime variants of gear are the most elusive and rare items, coveted by the Tenno above all else. The Exclusive Prime Accessories Pack will be available for a limited time ONLY through Prime Access.
 
-The Valkyr Prime Accessories Pack includes:
-- 1365 Platinum – Highly discounted premium currency
-- Liset Prime Skin – Explore the system in the style of the Orokin
-- Saita Prime Suit – A gilded Operator suit
-- 30 Air Support Charges – Use this gear to call in support from your Landing Craft
-- 90-Day Affinity Booster
-- 90-Day Credit Booster"
+Pack Includes:
+- 1365 Platinum: Highly discounted from its regular price, Platinum is Warframe's premium in-game currency
+- Sukira Prime Syandana: This long, powerful ribbon symbolizes the Tenno path toward balance
+- Aroka Prime Sugatra: An elegant clasp terminates in five golden points
+- 90 Day Affinity Booster
+- 90 Day Credit Booster"
 
 [/Lotus/Language/PrimeStore/CurrentPrimeAccessText]
-"VALKYR PRIME ACCESS PACK"
+"OBERON PRIME ACCESS PACK"
 
 [/Lotus/Language/PrimeStore/DualPackPrimeVaultDesc]
 "INSTANTLY UNLOCK EMBER AND FROST PRIME, DISCOUNTED PLATINUM AND PRIME GEAR!
@@ -63662,6 +63745,270 @@ Teshin"
 
 [/Lotus/Language/Ranks/Rank9]
 "GOLD DISCIPLE"
+
+[/Lotus/Language/Relics/t1voidprojectiona]
+"LITH S1 RELIC"
+
+[/Lotus/Language/Relics/t1voidprojectionb]
+"LITH S2 RELIC"
+
+[/Lotus/Language/Relics/t1voidprojectionc]
+"LITH F1 RELIC"
+
+[/Lotus/Language/Relics/t1voidprojectiond]
+"LITH V1 RELIC"
+
+[/Lotus/Language/Relics/t1voidprojectione]
+"LITH F2 RELIC"
+
+[/Lotus/Language/Relics/t1voidprojectionf]
+"LITH M1 RELIC"
+
+[/Lotus/Language/Relics/t1voidprojectiong]
+"LITH A1 RELIC"
+
+[/Lotus/Language/Relics/t1voidprojectioni]
+"LITH S3 RELIC"
+
+[/Lotus/Language/Relics/t1voidprojectionj]
+"LITH C1 RELIC"
+
+[/Lotus/Language/Relics/t1voidprojectionk]
+"LITH K1 RELIC"
+
+[/Lotus/Language/Relics/t1voidprojectionl]
+"LITH N1 RELIC"
+
+[/Lotus/Language/Relics/t1voidprojectionm]
+"LITH V2 RELIC"
+
+[/Lotus/Language/Relics/t1voidprojectionn]
+"LITH S4 RELIC"
+
+[/Lotus/Language/Relics/t1voidprojectiono]
+"LITH S5 RELIC"
+
+[/Lotus/Language/Relics/t1voidprojectionq]
+"LITH G1 RELIC"
+
+[/Lotus/Language/Relics/t1voidprojectionr]
+"LITH N2 RELIC"
+
+[/Lotus/Language/Relics/t1voidprojections]
+"LITH V3 RELIC"
+
+[/Lotus/Language/Relics/t1voidprojectionu]
+"LITH N3 RELIC"
+
+[/Lotus/Language/Relics/t1voidprojectionv]
+"LITH S6 RELIC"
+
+[/Lotus/Language/Relics/t1voidprojectionw]
+"LITH V4 RELIC"
+
+[/Lotus/Language/Relics/t1voidprojectionx]
+"LITH A2 RELIC"
+
+[/Lotus/Language/Relics/t2voidprojectiona]
+"MESO D1 RELIC"
+
+[/Lotus/Language/Relics/t2voidprojectionb]
+"MESO N1 RELIC"
+
+[/Lotus/Language/Relics/t2voidprojectionc]
+"MESO C1 RELIC"
+
+[/Lotus/Language/Relics/t2voidprojectiond]
+"MESO V2 RELIC"
+
+[/Lotus/Language/Relics/t2voidprojectione]
+"MESO N2 RELIC"
+
+[/Lotus/Language/Relics/t2voidprojectionf]
+"MESO B1 RELIC"
+
+[/Lotus/Language/Relics/t2voidprojectiong]
+"MESO V1 RELIC"
+
+[/Lotus/Language/Relics/t2voidprojectioni]
+"MESO S1 RELIC"
+
+[/Lotus/Language/Relics/t2voidprojectionj]
+"MESO S2 RELIC"
+
+[/Lotus/Language/Relics/t2voidprojectionk]
+"MESO F1 RELIC"
+
+[/Lotus/Language/Relics/t2voidprojectionm]
+"MESO C2 RELIC"
+
+[/Lotus/Language/Relics/t2voidprojectionn]
+"MESO V3 RELIC"
+
+[/Lotus/Language/Relics/t2voidprojectiono]
+"MESO S3 RELIC"
+
+[/Lotus/Language/Relics/t2voidprojectionq]
+"MESO F2 RELIC"
+
+[/Lotus/Language/Relics/t2voidprojectionr]
+"MESO N3 RELIC"
+
+[/Lotus/Language/Relics/t2voidprojections]
+"MESO S4 RELIC"
+
+[/Lotus/Language/Relics/t2voidprojectiont]
+"MESO V4 RELIC"
+
+[/Lotus/Language/Relics/t2voidprojectionu]
+"MESO O1 RELIC"
+
+[/Lotus/Language/Relics/t2voidprojectionv]
+"MESO S5 RELIC"
+
+[/Lotus/Language/Relics/t2voidprojectionw]
+"MESO N4 RELIC"
+
+[/Lotus/Language/Relics/t2voidprojectionx]
+"MESO V5 RELIC"
+
+[/Lotus/Language/Relics/t2voidprojectionz]
+"MESO S6 RELIC"
+
+[/Lotus/Language/Relics/t3voidprojectiona]
+"NEO S1 RELIC"
+
+[/Lotus/Language/Relics/t3voidprojectionb]
+"NEO S2 RELIC"
+
+[/Lotus/Language/Relics/t3voidprojectionc]
+"NEO N1 RELIC"
+
+[/Lotus/Language/Relics/t3voidprojectiond]
+"NEO N2 RELIC"
+
+[/Lotus/Language/Relics/t3voidprojectione]
+"NEO V1 RELIC"
+
+[/Lotus/Language/Relics/t3voidprojectionf]
+"NEO D1 RELIC"
+
+[/Lotus/Language/Relics/t3voidprojectiong]
+"NEO S3 RELIC"
+
+[/Lotus/Language/Relics/t3voidprojectioni]
+"NEO N3 RELIC"
+
+[/Lotus/Language/Relics/t3voidprojectionj]
+"NEO V2 RELIC"
+
+[/Lotus/Language/Relics/t3voidprojectionk]
+"NEO V3 RELIC"
+
+[/Lotus/Language/Relics/t3voidprojectionm]
+"NEO A1 RELIC"
+
+[/Lotus/Language/Relics/t3voidprojectionn]
+"NEO V4 RELIC"
+
+[/Lotus/Language/Relics/t3voidprojectiono]
+"NEO N4 RELIC"
+
+[/Lotus/Language/Relics/t3voidprojectionq]
+"NEO S5 RELIC"
+
+[/Lotus/Language/Relics/t3voidprojectionr]
+"NEO T1 RELIC"
+
+[/Lotus/Language/Relics/t3voidprojections]
+"NEO N5 RELIC"
+
+[/Lotus/Language/Relics/t3voidprojectiont]
+"NEO B1 RELIC"
+
+[/Lotus/Language/Relics/t3voidprojectionu]
+"NEO V5 RELIC"
+
+[/Lotus/Language/Relics/t3voidprojectionv]
+"NEO S6 RELIC"
+
+[/Lotus/Language/Relics/t3voidprojectionw]
+"NEO B2 RELIC"
+
+[/Lotus/Language/Relics/t3voidprojectionx]
+"NEO N6 RELIC"
+
+[/Lotus/Language/Relics/t3voidprojectionz]
+"NEO N7 RELIC"
+
+[/Lotus/Language/Relics/t4voidprojectiona]
+"AXI S1 RELIC"
+
+[/Lotus/Language/Relics/t4voidprojectionb]
+"AXI V1 RELIC"
+
+[/Lotus/Language/Relics/t4voidprojectionc]
+"AXI K1 RELIC"
+
+[/Lotus/Language/Relics/t4voidprojectiond]
+"AXI N1 RELIC"
+
+[/Lotus/Language/Relics/t4voidprojectione]
+"AXI A1 RELIC"
+
+[/Lotus/Language/Relics/t4voidprojectionf]
+"AXI V2 RELIC"
+
+[/Lotus/Language/Relics/t4voidprojectiong]
+"AXI N2 RELIC"
+
+[/Lotus/Language/Relics/t4voidprojectionh]
+"AXI V3 RELIC"
+
+[/Lotus/Language/Relics/t4voidprojectioni]
+"AXI N3 RELIC"
+
+[/Lotus/Language/Relics/t4voidprojectionj]
+"AXI T1 RELIC"
+
+[/Lotus/Language/Relics/t4voidprojectionk]
+"AXI G1 RELIC"
+
+[/Lotus/Language/Relics/t4voidprojectionm]
+"AXI V4 RELIC"
+
+[/Lotus/Language/Relics/t4voidprojectionn]
+"AXI V5 RELIC"
+
+[/Lotus/Language/Relics/t4voidprojectiono]
+"AXI C1 RELIC"
+
+[/Lotus/Language/Relics/t4voidprojectionp]
+"AXI A2 RELIC"
+
+[/Lotus/Language/Relics/t4voidprojectionq]
+"AXI E1 RELIC"
+
+[/Lotus/Language/Relics/t4voidprojectionr]
+"AXI B1 RELIC"
+
+[/Lotus/Language/Relics/t4voidprojections]
+"AXI E2 RELIC"
+
+[/Lotus/Language/Relics/t4voidprojectiont]
+"AXI H1 RELIC"
+
+[/Lotus/Language/Relics/t4voidprojectionu]
+"AXI C2 RELIC"
+
+[/Lotus/Language/Relics/t4voidprojectionv]
+"AXI H2 RELIC"
+
+[/Lotus/Language/Relics/t4voidprojectionw]
+"AXI O1 RELIC"
+
+[/Lotus/Language/Relics/t4voidprojectionx]
+"AXI B2 RELIC"
 
 [/Lotus/Language/SanctuaryResearch/DailySynthesisTarget]
 "SYNTHESIS TARGET"
@@ -71892,6 +72239,9 @@ The Index, it's where investors of faith seek fortune."
 
 [/Lotus/Language/Subtitles/LotusBarks/DMobCapChallenge0010Lotus]
 "You're fast, Tenno, but are you nimble enough to capture each one of these mobile control points?"
+
+[/Lotus/Language/Subtitles/LotusBarks/DOperatorChallenge00010Lotus]
+"Your fragile Tenno body is one of the most powerful forces in the known Universe. Show me you know how to wield this force, destroy the target without being destroyed yourself."
 
 [/Lotus/Language/Subtitles/LotusBarks/DOroVltKey00010Lotus]
 "You've opened an Orokin Vault. It appears unaffected by the Infestation."

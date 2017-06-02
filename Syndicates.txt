@@ -6,7 +6,7 @@ Favored Weapons: DUAL ETHER, NAMI SKYLA, BO, TONFAS
 
 Titles:
 	Level 5 Maxim, Sacrifice: 1 SARYN PRIME NEUROPTICS + 500000 Credits
-	Level 4 Crusader, Sacrifice: 1 VECTIS PRIME STOCK + 250000 Credits
+	Level 4 Crusader, Sacrifice: 1 SPIRA PRIME BLADE + 250000 Credits
 	Level 3 Lawful, Sacrifice: 1 OROKIN REACTOR + 100000 Credits
 	Level 2 Authentic, Sacrifice: 1 FORMA + 50000 Credits
 	Level 1 Principled, Sacrifice: 2 NEURAL SENSORS + 30000 Credits
@@ -89,7 +89,7 @@ Favored Warframes: ASH, EMBER, LOKI, NEKROS, SARYN, VALKYR, VOLT, ZEPHYR
 Favored Weapons: FANG, SHEEV, DREAD, HATE, DESPAIR
 
 Titles:
-	Level 5 Exalted, Sacrifice: 1 ASH PRIME NEUROPTICS + 500000 Credits
+	Level 5 Exalted, Sacrifice: 1 TRINITY PRIME CHASSIS + 500000 Credits
 	Level 4 Revered, Sacrifice: 1 FANG PRIME HANDLE + 250000 Credits
 	Level 3 Esteemed, Sacrifice: 1 OROKIN CATALYST + 100000 Credits
 	Level 2 Honored, Sacrifice: 1 FORMA + 50000 Credits
